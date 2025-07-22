@@ -32,7 +32,9 @@ jobs:
           COMMIT=$(git rev-parse --short=12 HEAD)
           echo "TIME=$TIME" >> $GITHUB_OUTPUT
           echo "VERSION=$TIME-$COMMIT" >> $GITHUB_OUTPUT
-          echo "Versjon i set version: $VERSION"
+          echo "TIME i set version: TIME"
+          echo "COMMIT i set version: COMMIT"
+          echo "Versjon i set version: $TIME-$COMMIT"
 
       - name: Build
         shell: bash
