@@ -32,9 +32,8 @@ jobs:
           COMMIT=$(git rev-parse --short=12 HEAD)
           echo "TIME=$TIME" >> $GITHUB_OUTPUT
           echo "VERSION=$TIME-$COMMIT" >> $GITHUB_OUTPUT
-          echo "TIME i set version: $TIME"
-          echo "COMMIT i set version: $COMMIT"
-          echo "Versjon i set version: $TIME-$COMMIT"
+          
+          echo "Setter versjon $TIME-$COMMIT"
 
       - name: Build
         shell: bash
@@ -97,7 +96,6 @@ jobs:
           IMAGE: "${{ needs.build.outputs.image }}"
           RESOURCE: .nais/nais-dev.yaml
           CLUSTER: 'dev-gcp'
-          VAR: "version=${{ needs.build.outputs.version }}"
 
 #  deployToProd:
 #    if: ${{ github.actor != 'dependabot[bot]' && github.ref == 'refs/heads/main' }}
