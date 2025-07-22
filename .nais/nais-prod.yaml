@@ -1,0 +1,21 @@
+apiVersion: nais.io/v1alpha1
+kind: Application
+metadata:
+  labels:
+    team: pensjondeployer
+  name: pensjon-kodeverk
+  namespace: pensjondeployer
+spec:
+  accessPolicy:
+    inbound:
+      rules:
+        - application: pensjon-pen
+          cluster: prod-fss
+          namespace: pensjondeployer
+  azure:
+    application:
+      allowAllUsers: true
+      enabled: true
+      tenant: nav.no
+  ingresses:
+    - https://pensjon-kodeverk.intern.nav.no
