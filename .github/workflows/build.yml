@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     outputs:
-      image: ${{ steps.login.outputs.registry }}/${{ github.repository }}/pensjon-kodeverk:${{ steps.version.outputs.version }}
+      image: ${{ steps.login.outputs.registry }}/${{ github.repository }}:${{ steps.version.outputs.version }}
 
     steps:
       - uses: actions/checkout@v4
@@ -62,7 +62,7 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: ${{ steps.login.outputs.registry }}/${{ github.repository }}/pensjon-kodeverk:${{ env.VERSION }}
+          tags: ${{ steps.login.outputs.registry }}/${{ github.repository }}:${{ env.VERSION }}
 
   deployToDev:
     if: ${{ github.actor != 'dependabot[bot]' && github.ref == 'refs/heads/main' || github.ref == 'refs/heads/sandbox' }}
