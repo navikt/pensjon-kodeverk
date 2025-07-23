@@ -62,7 +62,7 @@ jobs:
           context: .
           file: Dockerfile
           push: true
-          tags: ${{ steps.login.outputs.registry }}/${{ github.repository }}:${{ env.VERSION }}
+          tags: ${{ steps.login.outputs.registry }}/${{ github.repository }}:${{ steps.version.outputs.version }}
 
   deployToDev:
     if: ${{ github.actor != 'dependabot[bot]' && github.ref == 'refs/heads/main' || github.ref == 'refs/heads/sandbox' }}
