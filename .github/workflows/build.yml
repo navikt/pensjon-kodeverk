@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 30
     outputs:
-      image: "${{ steps.set-outputs.outputs.IMAGE }}"
+      image: ${{ steps.login.outputs.registry }}/${{ github.repository }}/pensjon-kodeverk:${{ steps.version.outputs.version }}
 
     steps:
       - uses: actions/checkout@v4
@@ -31,6 +31,7 @@ jobs:
           TIME=$(TZ="Europe/Oslo" date +%Y.%m.%d-%H.%M)
           COMMIT=$(git rev-parse --short=12 HEAD)
           echo "TIME=$TIME" >> $GITHUB_OUTPUT
+          echo "VERSION=$VERSION" >> $GITHUB_ENV
           echo "VERSION=$TIME-$COMMIT" >> $GITHUB_OUTPUT
           
           echo "Setter versjon $TIME-$COMMIT"
@@ -53,32 +54,15 @@ jobs:
           identity_provider: ${{ secrets.NAIS_WORKLOAD_IDENTITY_PROVIDER }}
           team: teampensjon
 
-      - name: Docker meta
-        if: ${{ github.actor != 'dependabot[bot]' }}
-        id: meta
-        uses: docker/metadata-action@v5
-        with:
-          images: |
-            ${{ steps.login.outputs.registry }}/${{ github.repository }}
-          tags: |
-            type=sha,prefix=${{ steps.version.outputs.time }}-,priority=9002
-
       - name: Build and push
         if: ${{ github.actor != 'dependabot[bot]' }}
         id: build_push
         uses: docker/build-push-action@v6
         with:
           context: .
+          file: Dockerfile
           push: true
-          tags: ${{ steps.meta.outputs.tags }}
-
-      - name: Set outputs
-        if: ${{ github.actor != 'dependabot[bot]' }}
-        shell: bash
-        id: set-outputs
-        run: |
-          echo "Image: ${{ fromJSON(steps.meta.outputs.json).tags[0] }}"
-          echo "IMAGE=${{ fromJSON(steps.meta.outputs.json).tags[0] }}" >> $GITHUB_OUTPUT
+          tags: ${{ steps.login.outputs.registry }}/${{ github.repository }}/pensjon-kodeverk:${{ env.VERSION }}
 
   deployToDev:
     if: ${{ github.actor != 'dependabot[bot]' && github.ref == 'refs/heads/main' || github.ref == 'refs/heads/sandbox' }}
@@ -90,9 +74,16 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+
+      - name: Print image
+        run: |
+          echo "Deploying image: $IMAGE"
+        env:
+          IMAGE: ${{ needs.build.outputs.image }}
+
       - uses: nais/deploy/actions/deploy@v2
         env:
-          IMAGE: "${{ needs.build.outputs.image }}"
+          IMAGE: ${{ needs.build.outputs.image }}
           RESOURCE: .nais/nais-dev.yaml
           CLUSTER: 'dev-gcp'
 
