@@ -1,105 +1,37 @@
 name: "Build and deploy"
 
 on:
-  push
-
+  push:
+    branches:
+      - main
+      - sandbox
 jobs:
-  build:
-    permissions:
-      contents: "read"
-      checks: "write"
-      id-token: "write"
-      packages: "write"
+  build_and_deploy:
+    name: Build, push and deploy
     runs-on: ubuntu-latest
-    timeout-minutes: 30
-    outputs:
-      image: ${{ steps.login.outputs.registry }}/${{ github.repository }}:${{ steps.version.outputs.version }}
-
-    steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-java@v4
-        with:
-          distribution: 'temurin'
-          java-version: '21'
-          cache: 'maven'
-
-      - name: Set version
-        id: version
-        shell: bash
-        run: |
-          TIME=$(TZ="Europe/Oslo" date +%Y.%m.%d-%H.%M)
-          COMMIT=$(git rev-parse --short=12 HEAD)
-          echo "TIME=$TIME" >> $GITHUB_OUTPUT
-          echo "VERSION=$VERSION" >> $GITHUB_ENV
-          echo "VERSION=$TIME-$COMMIT" >> $GITHUB_OUTPUT
-          
-          echo "Setter versjon $TIME-$COMMIT"
-
-      - name: Build
-        shell: bash
-        run: |
-          mvn -Drevision="${VERSION}" -Pgithub-action package
-        env:
-          TZ: "Europe/Oslo"
-          VERSION: ${{ steps.version.outputs.version }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: NAIS login
-        if: ${{ github.actor != 'dependabot[bot]' }}
-        uses: nais/login@v0
-        id: login
-        with:
-          project_id: ${{ vars.NAIS_MANAGEMENT_PROJECT_ID }}
-          identity_provider: ${{ secrets.NAIS_WORKLOAD_IDENTITY_PROVIDER }}
-          team: teampensjon
-
-      - name: Build and push
-        if: ${{ github.actor != 'dependabot[bot]' }}
-        id: build_push
-        uses: docker/build-push-action@v6
-        with:
-          context: .
-          file: Dockerfile
-          push: true
-          tags: ${{ steps.login.outputs.registry }}/${{ github.repository }}:${{ steps.version.outputs.version }}
-
-  deployToDev:
-    if: ${{ github.actor != 'dependabot[bot]' && github.ref == 'refs/heads/main' || github.ref == 'refs/heads/sandbox' }}
     permissions:
       contents: read
       id-token: write
-    needs: [build]
-    runs-on: 'ubuntu-latest'
-
+      actions: read
     steps:
       - uses: actions/checkout@v4
-
-      - name: Print image
-        run: |
-          echo "Deploying image: $IMAGE"
+        with:
+          fetch-depth: 0 # Fetch all history for what-changed action
+      - name: Determine what to do
+        id: changed-files
+        uses: "nais/what-changed@main"
+        with:
+          files: .nais/nais-dev.yaml
+      - name: Build and push image and SBOM to OCI registry
+        if: steps.changed-files.outputs.changed != 'only-inputs'
+        uses: nais/docker-build-push@v0
+        id: docker-build-push
+        with:
+          team: teampensjon
+      - name: Deploy to Nais
+        uses: nais/deploy/actions/deploy@v2
         env:
-          IMAGE: ${{ needs.build.outputs.image }}
-
-      - uses: nais/deploy/actions/deploy@v2
-        env:
-          IMAGE: ${{ needs.build.outputs.image }}
+          CLUSTER: dev-gcp
           RESOURCE: .nais/nais-dev.yaml
-          CLUSTER: 'dev-gcp'
-
-#  deployToProd:
-#    if: ${{ github.actor != 'dependabot[bot]' && github.ref == 'refs/heads/main' }}
-#    permissions:
-#      contents: read
-#      id-token: write
-#    needs: [build]
-#    runs-on: 'ubuntu-latest'
-#
-#    steps:
-#      - uses: actions/checkout@v4
-#      - uses: nais/deploy/actions/deploy@v2
-#        env:
-#          IMAGE: "${{ needs.build.outputs.image }}"
-#          RESOURCE: .nais/nais-prod.yaml
-#          CLUSTER: 'prod-gcp'
-#          VAR: "version=${{ needs.build.outputs.version }}"
+          WORKLOAD_IMAGE: ${{ steps.docker-build-push.outputs.image }}
+          TELEMETRY: ${{ steps.docker-build-push.outputs.telemetry }}
