@@ -1,1 +1,255 @@
-[{"decode":"§ 12-6 Sykdom, skade eller lyte - krav til årsakssammenheng","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ARSAK_SAMMENHENG","nasjonalt":true,"internasjonalt":true,"prioritet":19,"codeAsString":"ARSAK_SAMMENHENG"},{"decode":"§ 12-17 Avkorting - ytelser fra arbeidsgiver","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AVKORT_YT_ARB","nasjonalt":true,"internasjonalt":true,"prioritet":39,"codeAsString":"AVKORT_YT_ARB"},{"decode":"EØS trygdeavtale","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EOS_TRYGDEAVTALE","nasjonalt":true,"internasjonalt":true,"prioritet":45,"codeAsString":"EOS_TRYGDEAVTALE"},{"decode":"§ 12-4 Alder, samt vurdering ved krav fremsatt etter fylte 62 år","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ETTER_62","nasjonalt":true,"internasjonalt":true,"prioritet":17,"codeAsString":"ETTER_62"},{"decode":"§ 12-3 Fortsatt medlemskap","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FORTSATT_MEDL","nasjonalt":true,"internasjonalt":true,"prioritet":15,"codeAsString":"FORTSATT_MEDL"},{"decode":"§ 12-2 Forutgående medlemskap","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FORUTGAENDE_MEDL","nasjonalt":true,"internasjonalt":true,"prioritet":1,"codeAsString":"FORUTGAENDE_MEDL"},{"decode":"§ 12-15 Gjenlevende ektefelle","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GJENLEV_EKTEF","nasjonalt":true,"internasjonalt":true,"prioritet":37,"codeAsString":"GJENLEV_EKTEF"},{"decode":"§ 12-11 Gradering av uførepensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GRAD_UFORE","nasjonalt":true,"internasjonalt":true,"prioritet":31,"codeAsString":"GRAD_UFORE"},{"decode":"§ 12-5 Hensiktsmessige arbeidsrettede tiltak","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"HENSIKT_ARB_TILTAK","nasjonalt":true,"internasjonalt":true,"prioritet":23,"codeAsString":"HENSIKT_ARB_TILTAK"},{"decode":"§ 12-5 Hensiktsmessig behandling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"HENSIKT_BEHANDL","nasjonalt":true,"internasjonalt":true,"prioritet":21,"codeAsString":"HENSIKT_BEHANDL"},{"decode":"§ 12-7, 12-8 (12-18) Nedsatt inntektsevne med minst halvparten, §12 -18 nedsatt med mindre enn halvparten","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INNTEKT_HALVPARTEN","nasjonalt":true,"internasjonalt":true,"prioritet":25,"codeAsString":"INNTEKT_HALVPARTEN"},{"decode":"Internasjonalt - § 12-2 Oppfylt iht annen trygdeavtale","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INT_ANNEN_TRYGD_AVT","nasjonalt":false,"internasjonalt":true,"prioritet":7,"codeAsString":"INT_ANNEN_TRYGD_AVT"},{"decode":"Internasjonalt - § 12-2 (Art 10/401408/71) Iht EØS avtale","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INT_EOS","nasjonalt":false,"internasjonalt":true,"prioritet":3,"codeAsString":"INT_EOS"},{"decode":"Internasjonalt - § 1-3 2. ledd Minst ett års inntektsgivende arbeid i Norge","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INT_ETT_AR_ARB","nasjonalt":false,"internasjonalt":true,"prioritet":9,"codeAsString":"INT_ETT_AR_ARB"},{"decode":"Internasjonalt - Inngangsvilkår oppfylt iht annen trygdeavtale","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INT_INNG_TRYGD_AVT","nasjonalt":false,"internasjonalt":true,"prioritet":13,"codeAsString":"INT_INNG_TRYGD_AVT"},{"decode":"Internasjonalt - § 12-2 Nordisk konvensjonsart 11","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INT_NOR_KONV_11","nasjonalt":false,"internasjonalt":true,"prioritet":5,"codeAsString":"INT_NOR_KONV_11"},{"decode":"Internasjonalt - Nordisk konvensjon - minst 3 års bosetting i Norge","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INT_TRE_AR_BOTID","nasjonalt":false,"internasjonalt":true,"prioritet":11,"codeAsString":"INT_TRE_AR_BOTID"},{"decode":"Kurant sak","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KURANT_SAK","nasjonalt":true,"internasjonalt":true,"prioritet":43,"codeAsString":"KURANT_SAK"},{"decode":"12-12 Revurdering av uføregraden,§ 25-13 Reaktiviseringsforskriften","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REVURD_UFG","nasjonalt":true,"internasjonalt":true,"prioritet":27,"codeAsString":"REVURD_UFG"},{"decode":"§ 12-18 Uførepensjon ved yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORE_YRKE","nasjonalt":true,"internasjonalt":true,"prioritet":41,"codeAsString":"UFORE_YRKE"},{"decode":"§ 12-10 Uføretidspunkt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFT","nasjonalt":true,"internasjonalt":true,"prioritet":29,"codeAsString":"UFT"},{"decode":"§ 3-21 Ung ufør","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UNG_UFOR","nasjonalt":true,"internasjonalt":true,"prioritet":35,"codeAsString":"UNG_UFOR"},{"decode":"§ 22-12 til 22-14 Virkningstidspunkt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"VIRK","nasjonalt":true,"internasjonalt":true,"prioritet":33,"codeAsString":"VIRK"}]
+[
+  {
+    "decode": "§ 12-6 Sykdom, skade eller lyte - krav til årsakssammenheng",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ARSAK_SAMMENHENG",
+    "nasjonalt": true,
+    "internasjonalt": true,
+    "prioritet": 19,
+    "codeAsString": "ARSAK_SAMMENHENG"
+  },
+  {
+    "decode": "§ 12-17 Avkorting - ytelser fra arbeidsgiver",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AVKORT_YT_ARB",
+    "nasjonalt": true,
+    "internasjonalt": true,
+    "prioritet": 39,
+    "codeAsString": "AVKORT_YT_ARB"
+  },
+  {
+    "decode": "EØS trygdeavtale",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EOS_TRYGDEAVTALE",
+    "nasjonalt": true,
+    "internasjonalt": true,
+    "prioritet": 45,
+    "codeAsString": "EOS_TRYGDEAVTALE"
+  },
+  {
+    "decode": "§ 12-4 Alder, samt vurdering ved krav fremsatt etter fylte 62 år",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETTER_62",
+    "nasjonalt": true,
+    "internasjonalt": true,
+    "prioritet": 17,
+    "codeAsString": "ETTER_62"
+  },
+  {
+    "decode": "§ 12-3 Fortsatt medlemskap",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORTSATT_MEDL",
+    "nasjonalt": true,
+    "internasjonalt": true,
+    "prioritet": 15,
+    "codeAsString": "FORTSATT_MEDL"
+  },
+  {
+    "decode": "§ 12-2 Forutgående medlemskap",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORUTGAENDE_MEDL",
+    "nasjonalt": true,
+    "internasjonalt": true,
+    "prioritet": 1,
+    "codeAsString": "FORUTGAENDE_MEDL"
+  },
+  {
+    "decode": "§ 12-15 Gjenlevende ektefelle",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GJENLEV_EKTEF",
+    "nasjonalt": true,
+    "internasjonalt": true,
+    "prioritet": 37,
+    "codeAsString": "GJENLEV_EKTEF"
+  },
+  {
+    "decode": "§ 12-11 Gradering av uførepensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GRAD_UFORE",
+    "nasjonalt": true,
+    "internasjonalt": true,
+    "prioritet": 31,
+    "codeAsString": "GRAD_UFORE"
+  },
+  {
+    "decode": "§ 12-5 Hensiktsmessige arbeidsrettede tiltak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HENSIKT_ARB_TILTAK",
+    "nasjonalt": true,
+    "internasjonalt": true,
+    "prioritet": 23,
+    "codeAsString": "HENSIKT_ARB_TILTAK"
+  },
+  {
+    "decode": "§ 12-5 Hensiktsmessig behandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HENSIKT_BEHANDL",
+    "nasjonalt": true,
+    "internasjonalt": true,
+    "prioritet": 21,
+    "codeAsString": "HENSIKT_BEHANDL"
+  },
+  {
+    "decode": "§ 12-7, 12-8 (12-18) Nedsatt inntektsevne med minst halvparten, §12 -18 nedsatt med mindre enn halvparten",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNTEKT_HALVPARTEN",
+    "nasjonalt": true,
+    "internasjonalt": true,
+    "prioritet": 25,
+    "codeAsString": "INNTEKT_HALVPARTEN"
+  },
+  {
+    "decode": "Internasjonalt - § 12-2 Oppfylt iht annen trygdeavtale",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INT_ANNEN_TRYGD_AVT",
+    "nasjonalt": false,
+    "internasjonalt": true,
+    "prioritet": 7,
+    "codeAsString": "INT_ANNEN_TRYGD_AVT"
+  },
+  {
+    "decode": "Internasjonalt - § 12-2 (Art 10/401408/71) Iht EØS avtale",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INT_EOS",
+    "nasjonalt": false,
+    "internasjonalt": true,
+    "prioritet": 3,
+    "codeAsString": "INT_EOS"
+  },
+  {
+    "decode": "Internasjonalt - § 1-3 2. ledd Minst ett års inntektsgivende arbeid i Norge",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INT_ETT_AR_ARB",
+    "nasjonalt": false,
+    "internasjonalt": true,
+    "prioritet": 9,
+    "codeAsString": "INT_ETT_AR_ARB"
+  },
+  {
+    "decode": "Internasjonalt - Inngangsvilkår oppfylt iht annen trygdeavtale",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INT_INNG_TRYGD_AVT",
+    "nasjonalt": false,
+    "internasjonalt": true,
+    "prioritet": 13,
+    "codeAsString": "INT_INNG_TRYGD_AVT"
+  },
+  {
+    "decode": "Internasjonalt - § 12-2 Nordisk konvensjonsart 11",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INT_NOR_KONV_11",
+    "nasjonalt": false,
+    "internasjonalt": true,
+    "prioritet": 5,
+    "codeAsString": "INT_NOR_KONV_11"
+  },
+  {
+    "decode": "Internasjonalt - Nordisk konvensjon - minst 3 års bosetting i Norge",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INT_TRE_AR_BOTID",
+    "nasjonalt": false,
+    "internasjonalt": true,
+    "prioritet": 11,
+    "codeAsString": "INT_TRE_AR_BOTID"
+  },
+  {
+    "decode": "Kurant sak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KURANT_SAK",
+    "nasjonalt": true,
+    "internasjonalt": true,
+    "prioritet": 43,
+    "codeAsString": "KURANT_SAK"
+  },
+  {
+    "decode": "12-12 Revurdering av uføregraden,§ 25-13 Reaktiviseringsforskriften",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REVURD_UFG",
+    "nasjonalt": true,
+    "internasjonalt": true,
+    "prioritet": 27,
+    "codeAsString": "REVURD_UFG"
+  },
+  {
+    "decode": "§ 12-18 Uførepensjon ved yrkesskade",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UFORE_YRKE",
+    "nasjonalt": true,
+    "internasjonalt": true,
+    "prioritet": 41,
+    "codeAsString": "UFORE_YRKE"
+  },
+  {
+    "decode": "§ 12-10 Uføretidspunkt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UFT",
+    "nasjonalt": true,
+    "internasjonalt": true,
+    "prioritet": 29,
+    "codeAsString": "UFT"
+  },
+  {
+    "decode": "§ 3-21 Ung ufør",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UNG_UFOR",
+    "nasjonalt": true,
+    "internasjonalt": true,
+    "prioritet": 35,
+    "codeAsString": "UNG_UFOR"
+  },
+  {
+    "decode": "§ 22-12 til 22-14 Virkningstidspunkt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VIRK",
+    "nasjonalt": true,
+    "internasjonalt": true,
+    "prioritet": 33,
+    "codeAsString": "VIRK"
+  }
+]

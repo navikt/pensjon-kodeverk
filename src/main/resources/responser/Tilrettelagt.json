@@ -1,1 +1,18 @@
-[{"decode":"Kommunikasjon bør skje muntlig","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KOMU","codeAsString":"KOMU"},{"decode":"Kommunikasjon bør skje skriftlig","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KOSK","codeAsString":"KOSK"}]
+[
+  {
+    "decode": "Kommunikasjon bør skje muntlig",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KOMU",
+    "codeAsString": "KOMU"
+  },
+  {
+    "decode": "Kommunikasjon bør skje skriftlig",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KOSK",
+    "codeAsString": "KOSK"
+  }
+]

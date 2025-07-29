@@ -1,1 +1,106 @@
-[{"decode":"Garantipensjonsnivåsats","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GPNSATS","codeAsString":"GPNSATS"},{"decode":"Grunnbeløp","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GRUNNBELOP","codeAsString":"GRUNNBELOP"},{"decode":"Grunnpensjonsats","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GRUNNPENSJONSATS","codeAsString":"GRUNNPENSJONSATS"},{"decode":"Lønnsvekst","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"LONNSVEKST","codeAsString":"LONNSVEKST"},{"decode":"Minsteytelse uføretrygdsats","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MINSTEYTELSEUTSATS","codeAsString":"MINSTEYTELSEUTSATS"},{"decode":"Minste pensjonsnivåsats","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MPNSATS","codeAsString":"MPNSATS"},{"decode":"Reguleringsfaktor","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REGULERINGSFAKTOR","codeAsString":"REGULERINGSFAKTOR"},{"decode":"Sats for rettsgebyr","valid":true,"fromDate":-2233530000000,"toDate":null,"code":"RETTSGEBYR","codeAsString":"RETTSGEBYR"},{"decode":"Særtilleggsats","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SARTILLEGGSATS","codeAsString":"SARTILLEGGSATS"},{"decode":"Skjermingsgrad","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SKJERMINGSGRAD","codeAsString":"SKJERMINGSGRAD"},{"decode":"Terskelverdi for feilutbetalinger","valid":true,"fromDate":-2233530000000,"toDate":null,"code":"TERSKEL_FEILUTBET","codeAsString":"TERSKEL_FEILUTBET"},{"decode":"Toleransegrense for etterbetaling i etteroppgjør","valid":true,"fromDate":-2233530000000,"toDate":null,"code":"TOL_GR_EO_ETTERBET","codeAsString":"TOL_GR_EO_ETTERBET"},{"decode":"Toleransegrense for tilbakekreving i etteroppgjør","valid":true,"fromDate":-2233530000000,"toDate":null,"code":"TOL_GR_EO_TILBAKEKR","codeAsString":"TOL_GR_EO_TILBAKEKR"}]
+[
+  {
+    "decode": "Garantipensjonsnivåsats",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GPNSATS",
+    "codeAsString": "GPNSATS"
+  },
+  {
+    "decode": "Grunnbeløp",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GRUNNBELOP",
+    "codeAsString": "GRUNNBELOP"
+  },
+  {
+    "decode": "Grunnpensjonsats",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GRUNNPENSJONSATS",
+    "codeAsString": "GRUNNPENSJONSATS"
+  },
+  {
+    "decode": "Lønnsvekst",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "LONNSVEKST",
+    "codeAsString": "LONNSVEKST"
+  },
+  {
+    "decode": "Minsteytelse uføretrygdsats",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MINSTEYTELSEUTSATS",
+    "codeAsString": "MINSTEYTELSEUTSATS"
+  },
+  {
+    "decode": "Minste pensjonsnivåsats",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MPNSATS",
+    "codeAsString": "MPNSATS"
+  },
+  {
+    "decode": "Reguleringsfaktor",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REGULERINGSFAKTOR",
+    "codeAsString": "REGULERINGSFAKTOR"
+  },
+  {
+    "decode": "Sats for rettsgebyr",
+    "valid": true,
+    "fromDate": -2233530000000,
+    "toDate": null,
+    "code": "RETTSGEBYR",
+    "codeAsString": "RETTSGEBYR"
+  },
+  {
+    "decode": "Særtilleggsats",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SARTILLEGGSATS",
+    "codeAsString": "SARTILLEGGSATS"
+  },
+  {
+    "decode": "Skjermingsgrad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SKJERMINGSGRAD",
+    "codeAsString": "SKJERMINGSGRAD"
+  },
+  {
+    "decode": "Terskelverdi for feilutbetalinger",
+    "valid": true,
+    "fromDate": -2233530000000,
+    "toDate": null,
+    "code": "TERSKEL_FEILUTBET",
+    "codeAsString": "TERSKEL_FEILUTBET"
+  },
+  {
+    "decode": "Toleransegrense for etterbetaling i etteroppgjør",
+    "valid": true,
+    "fromDate": -2233530000000,
+    "toDate": null,
+    "code": "TOL_GR_EO_ETTERBET",
+    "codeAsString": "TOL_GR_EO_ETTERBET"
+  },
+  {
+    "decode": "Toleransegrense for tilbakekreving i etteroppgjør",
+    "valid": true,
+    "fromDate": -2233530000000,
+    "toDate": null,
+    "code": "TOL_GR_EO_TILBAKEKR",
+    "codeAsString": "TOL_GR_EO_TILBAKEKR"
+  }
+]

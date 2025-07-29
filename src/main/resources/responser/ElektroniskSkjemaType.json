@@ -1,1 +1,62 @@
-[{"decode":"Alderspensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AP","skjemanavn":"Søknad om alderspensjon","skjemaId":"NAV 19-01.05","codeAsString":"AP"},{"decode":"Digital","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"DT","skjemanavn":null,"skjemaId":null,"codeAsString":"DT"},{"decode":"EndreAlderspensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EA","skjemanavn":"Søknad om endring av alderspensjon","skjemaId":"NAV 19-01.10","codeAsString":"EA"},{"decode":"Forsørgingstillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FT","skjemanavn":"Søknad om forsørgingstillegg","skjemaId":"NAV 03-24.05","codeAsString":"FT"},{"decode":"Omsorgspoeng","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OO","skjemanavn":"Søknad om overføring av omsorgspoeng","skjemaId":"NAV 03-16.10","codeAsString":"OO"},{"decode":"Uføretrygd","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UT","skjemanavn":"Søknad om uføretrygd","skjemaId":"NAV 12-06.05","codeAsString":"UT"}]
+[
+  {
+    "decode": "Alderspensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AP",
+    "skjemanavn": "Søknad om alderspensjon",
+    "skjemaId": "NAV 19-01.05",
+    "codeAsString": "AP"
+  },
+  {
+    "decode": "Digital",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DT",
+    "skjemanavn": null,
+    "skjemaId": null,
+    "codeAsString": "DT"
+  },
+  {
+    "decode": "EndreAlderspensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EA",
+    "skjemanavn": "Søknad om endring av alderspensjon",
+    "skjemaId": "NAV 19-01.10",
+    "codeAsString": "EA"
+  },
+  {
+    "decode": "Forsørgingstillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FT",
+    "skjemanavn": "Søknad om forsørgingstillegg",
+    "skjemaId": "NAV 03-24.05",
+    "codeAsString": "FT"
+  },
+  {
+    "decode": "Omsorgspoeng",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OO",
+    "skjemanavn": "Søknad om overføring av omsorgspoeng",
+    "skjemaId": "NAV 03-16.10",
+    "codeAsString": "OO"
+  },
+  {
+    "decode": "Uføretrygd",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT",
+    "skjemanavn": "Søknad om uføretrygd",
+    "skjemaId": "NAV 12-06.05",
+    "codeAsString": "UT"
+  }
+]

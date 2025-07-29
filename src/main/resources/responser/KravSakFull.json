@@ -1,1 +1,2162 @@
-[{"decode":"AFP etteroppgjør","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AFP_EO_AFP","kravGjelder":"AFP_EO","sakType":"AFP","codeAsString":"AFP_EO_AFP"},{"decode":"Anke","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ANKE_AFP","kravGjelder":"ANKE","sakType":"AFP","codeAsString":"ANKE_AFP"},{"decode":"Anke","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ANKE_AFP_PRIVAT","kravGjelder":"ANKE","sakType":"AFP_PRIVAT","codeAsString":"ANKE_AFP_PRIVAT"},{"decode":"Anke","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ANKE_ALDER","kravGjelder":"ANKE","sakType":"ALDER","codeAsString":"ANKE_ALDER"},{"decode":"Anke","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ANKE_BARNEP","kravGjelder":"ANKE","sakType":"BARNEP","codeAsString":"ANKE_BARNEP"},{"decode":"Anke","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ANKE_FAM_PL","kravGjelder":"ANKE","sakType":"FAM_PL","codeAsString":"ANKE_FAM_PL"},{"decode":"Anke","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ANKE_GAM_YRK","kravGjelder":"ANKE","sakType":"GAM_YRK","codeAsString":"ANKE_GAM_YRK"},{"decode":"Anke","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ANKE_GENRL","kravGjelder":"ANKE","sakType":"GENRL","codeAsString":"ANKE_GENRL"},{"decode":"Anke","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ANKE_GJENLEV","kravGjelder":"ANKE","sakType":"GJENLEV","codeAsString":"ANKE_GJENLEV"},{"decode":"Anke","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ANKE_KRIGSP","kravGjelder":"ANKE","sakType":"KRIGSP","codeAsString":"ANKE_KRIGSP"},{"decode":"Anke","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ANKE_OMSORG","kravGjelder":"ANKE","sakType":"OMSORG","codeAsString":"ANKE_OMSORG"},{"decode":"Anke","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ANKE_UFOREP","kravGjelder":"ANKE","sakType":"UFOREP","codeAsString":"ANKE_UFOREP"},{"decode":"Eksport","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EKSPORT_AFP","kravGjelder":"EKSPORT","sakType":"AFP","codeAsString":"EKSPORT_AFP"},{"decode":"Eksport","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EKSPORT_ALDER","kravGjelder":"EKSPORT","sakType":"ALDER","codeAsString":"EKSPORT_ALDER"},{"decode":"Eksport","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EKSPORT_BARNEP","kravGjelder":"EKSPORT","sakType":"BARNEP","codeAsString":"EKSPORT_BARNEP"},{"decode":"Eksport","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EKSPORT_FAM_PL","kravGjelder":"EKSPORT","sakType":"FAM_PL","codeAsString":"EKSPORT_FAM_PL"},{"decode":"Eksport","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EKSPORT_GAM_YRK","kravGjelder":"EKSPORT","sakType":"GAM_YRK","codeAsString":"EKSPORT_GAM_YRK"},{"decode":"Eksport","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EKSPORT_GJENLEV","kravGjelder":"EKSPORT","sakType":"GJENLEV","codeAsString":"EKSPORT_GJENLEV"},{"decode":"Eksport","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EKSPORT_KRIGSP","kravGjelder":"EKSPORT","sakType":"KRIGSP","codeAsString":"EKSPORT_KRIGSP"},{"decode":"Eksport","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EKSPORT_UFOREP","kravGjelder":"EKSPORT","sakType":"UFOREP","codeAsString":"EKSPORT_UFOREP"},{"decode":"Endring uttaksgrad","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ENDR_UTGRAD_ALDER","kravGjelder":"ENDR_UTTAKSGRAD","sakType":"ALDER","codeAsString":"ENDR_UTGRAD_ALDER"},{"decode":"Erstatning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ERSTATNING_AFP","kravGjelder":"ERSTATNING","sakType":"AFP","codeAsString":"ERSTATNING_AFP"},{"decode":"Erstatning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ERSTATNING_AFP_PR","kravGjelder":"ERSTATNING","sakType":"AFP_PRIVAT","codeAsString":"ERSTATNING_AFP_PR"},{"decode":"Erstatning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ERSTATNING_ALDER","kravGjelder":"ERSTATNING","sakType":"ALDER","codeAsString":"ERSTATNING_ALDER"},{"decode":"Erstatning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ERSTATNING_BARNEP","kravGjelder":"ERSTATNING","sakType":"BARNEP","codeAsString":"ERSTATNING_BARNEP"},{"decode":"Erstatning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ERSTATNING_FAM_PL","kravGjelder":"ERSTATNING","sakType":"FAM_PL","codeAsString":"ERSTATNING_FAM_PL"},{"decode":"Erstatning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ERSTATNING_GAM_YRK","kravGjelder":"ERSTATNING","sakType":"GAM_YRK","codeAsString":"ERSTATNING_GAM_YRK"},{"decode":"Erstatning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ERSTATNING_GJENLEV","kravGjelder":"ERSTATNING","sakType":"GJENLEV","codeAsString":"ERSTATNING_GJENLEV"},{"decode":"Erstatning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ERSTATNING_KRIGSP","kravGjelder":"ERSTATNING","sakType":"KRIGSP","codeAsString":"ERSTATNING_KRIGSP"},{"decode":"Erstatning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ERSTATNING_OMSORG","kravGjelder":"ERSTATNING","sakType":"OMSORG","codeAsString":"ERSTATNING_OMSORG"},{"decode":"Erstatning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ERSTATNING_UFOREP","kravGjelder":"ERSTATNING","sakType":"UFOREP","codeAsString":"ERSTATNING_UFOREP"},{"decode":"Ettergivelse av gjeld","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ETTERGIV_GJELD_AFP","kravGjelder":"ETTERGIV_GJELD","sakType":"AFP","codeAsString":"ETTERGIV_GJELD_AFP"},{"decode":"Ettergivelse av gjeld","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ETTERGIV_GJELD_AFP_P","kravGjelder":"ETTERGIV_GJELD","sakType":"AFP_PRIVAT","codeAsString":"ETTERGIV_GJELD_AFP_P"},{"decode":"Ettergivelse av gjeld","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ETTERGIV_GJELD_ALDER","kravGjelder":"ETTERGIV_GJELD","sakType":"ALDER","codeAsString":"ETTERGIV_GJELD_ALDER"},{"decode":"Ettergivelse av gjeld","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ETTERGIV_GJELD_BARNE","kravGjelder":"ETTERGIV_GJELD","sakType":"BARNEP","codeAsString":"ETTERGIV_GJELD_BARNE"},{"decode":"Ettergivelse av gjeld","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ETTERGIV_GJELD_FAMPL","kravGjelder":"ETTERGIV_GJELD","sakType":"FAM_PL","codeAsString":"ETTERGIV_GJELD_FAMPL"},{"decode":"Ettergivelse av gjeld","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ETTERGIV_GJELD_GAMYR","kravGjelder":"ETTERGIV_GJELD","sakType":"GAM_YRK","codeAsString":"ETTERGIV_GJELD_GAMYR"},{"decode":"Ettergivelse av gjeld","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ETTERGIV_GJELD_GJLEV","kravGjelder":"ETTERGIV_GJELD","sakType":"GJENLEV","codeAsString":"ETTERGIV_GJELD_GJLEV"},{"decode":"Ettergivelse av gjeld","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ETTERGIV_GJELD_KRIGS","kravGjelder":"ETTERGIV_GJELD","sakType":"KRIGSP","codeAsString":"ETTERGIV_GJELD_KRIGS"},{"decode":"Ettergivelse av gjeld","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ETTERGIV_GJELD_OMS","kravGjelder":"ETTERGIV_GJELD","sakType":"OMSORG","codeAsString":"ETTERGIV_GJELD_OMS"},{"decode":"Ettergivelse av gjeld","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ETTERGIV_GJELD_UFORE","kravGjelder":"ETTERGIV_GJELD","sakType":"UFOREP","codeAsString":"ETTERGIV_GJELD_UFORE"},{"decode":"Dekning faste utgifter inst.opphold","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FAS_UTG_IO_AFP","kravGjelder":"FAS_UTG_IO","sakType":"AFP","codeAsString":"FAS_UTG_IO_AFP"},{"decode":"Dekning faste utgifter inst.opphold","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FAS_UTG_IO_ALDER","kravGjelder":"FAS_UTG_IO","sakType":"ALDER","codeAsString":"FAS_UTG_IO_ALDER"},{"decode":"Dekning faste utgifter inst.opphold","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FAS_UTG_IO_BARNEP","kravGjelder":"FAS_UTG_IO","sakType":"BARNEP","codeAsString":"FAS_UTG_IO_BARNEP"},{"decode":"Dekning faste utgifter inst.opphold","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FAS_UTG_IO_FAM_PL","kravGjelder":"FAS_UTG_IO","sakType":"FAM_PL","codeAsString":"FAS_UTG_IO_FAM_PL"},{"decode":"Dekning faste utgifter inst.opphold","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FAS_UTG_IO_GJENLEV","kravGjelder":"FAS_UTG_IO","sakType":"GJENLEV","codeAsString":"FAS_UTG_IO_GJENLEV"},{"decode":"Dekning faste utgifter inst.opphold","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FAS_UTG_IO_KRIGSP","kravGjelder":"FAS_UTG_IO","sakType":"KRIGSP","codeAsString":"FAS_UTG_IO_KRIGSP"},{"decode":"Dekning faste utgifter inst.opphold","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FAS_UTG_IO_UFOREP","kravGjelder":"FAS_UTG_IO","sakType":"UFOREP","codeAsString":"FAS_UTG_IO_UFOREP"},{"decode":"Førstegangsbehandling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FORSTEG_BH_AFP","kravGjelder":"FORSTEG_BH","sakType":"AFP","codeAsString":"FORSTEG_BH_AFP"},{"decode":"Førstegangsbehandling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FORSTEG_BH_AFP_PRIV","kravGjelder":"FORSTEG_BH","sakType":"AFP_PRIVAT","codeAsString":"FORSTEG_BH_AFP_PRIV"},{"decode":"Førstegangsbehandling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FORSTEG_BH_ALDER","kravGjelder":"FORSTEG_BH","sakType":"ALDER","codeAsString":"FORSTEG_BH_ALDER"},{"decode":"Førstegangsbehandling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FORSTEG_BH_BARNEP","kravGjelder":"FORSTEG_BH","sakType":"BARNEP","codeAsString":"FORSTEG_BH_BARNEP"},{"decode":"Førstegangsbehandling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FORSTEG_BH_FAM_PL","kravGjelder":"FORSTEG_BH","sakType":"FAM_PL","codeAsString":"FORSTEG_BH_FAM_PL"},{"decode":"Førstegangsbehandling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FORSTEG_BH_GAM_YRK","kravGjelder":"FORSTEG_BH","sakType":"GAM_YRK","codeAsString":"FORSTEG_BH_GAM_YRK"},{"decode":"Førstegangsbehandling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FORSTEG_BH_GJENLEV","kravGjelder":"FORSTEG_BH","sakType":"GJENLEV","codeAsString":"FORSTEG_BH_GJENLEV"},{"decode":"Førstegangsbehandling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FORSTEG_BH_KRIGSP","kravGjelder":"FORSTEG_BH","sakType":"KRIGSP","codeAsString":"FORSTEG_BH_KRIGSP"},{"decode":"Førstegangsbehandling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FORSTEG_BH_UFOREP","kravGjelder":"FORSTEG_BH","sakType":"UFOREP","codeAsString":"FORSTEG_BH_UFOREP"},{"decode":"Førstegangsbehandling bosatt utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_BO_UTL_AFP","kravGjelder":"F_BH_BO_UTL","sakType":"AFP","codeAsString":"F_BH_BO_UTL_AFP"},{"decode":"Førstegangsbehandling bosatt utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_BO_UTL_ALDER","kravGjelder":"F_BH_BO_UTL","sakType":"ALDER","codeAsString":"F_BH_BO_UTL_ALDER"},{"decode":"Førstegangsbehandling bosatt utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_BO_UTL_BARNEP","kravGjelder":"F_BH_BO_UTL","sakType":"BARNEP","codeAsString":"F_BH_BO_UTL_BARNEP"},{"decode":"Førstegangsbehandling bosatt utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_BO_UTL_FAM_PL","kravGjelder":"F_BH_BO_UTL","sakType":"FAM_PL","codeAsString":"F_BH_BO_UTL_FAM_PL"},{"decode":"Førstegangsbehandling bosatt utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_BO_UTL_GAM_YRK","kravGjelder":"F_BH_BO_UTL","sakType":"GAM_YRK","codeAsString":"F_BH_BO_UTL_GAM_YRK"},{"decode":"Førstegangsbehandling bosatt utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_BO_UTL_GJENLEV","kravGjelder":"F_BH_BO_UTL","sakType":"GJENLEV","codeAsString":"F_BH_BO_UTL_GJENLEV"},{"decode":"Førstegangsbehandling bosatt utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_BO_UTL_KRIGSP","kravGjelder":"F_BH_BO_UTL","sakType":"KRIGSP","codeAsString":"F_BH_BO_UTL_KRIGSP"},{"decode":"Førstegangsbehandling bosatt utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_BO_UTL_UFOREP","kravGjelder":"F_BH_BO_UTL","sakType":"UFOREP","codeAsString":"F_BH_BO_UTL_UFOREP"},{"decode":"Førstegangsbehandling kun utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_KUN_UTL_ALDER","kravGjelder":"F_BH_KUN_UTL","sakType":"ALDER","codeAsString":"F_BH_KUN_UTL_ALDER"},{"decode":"Førstegangsbehandling kun utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_KUN_UTL_BARNEP","kravGjelder":"F_BH_KUN_UTL","sakType":"BARNEP","codeAsString":"F_BH_KUN_UTL_BARNEP"},{"decode":"Førstegangsbehandling kun utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_KUN_UTL_FAM_PL","kravGjelder":"F_BH_KUN_UTL","sakType":"FAM_PL","codeAsString":"F_BH_KUN_UTL_FAM_PL"},{"decode":"Førstegangsbehandling kun utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_KUN_UTL_GJENLEV","kravGjelder":"F_BH_KUN_UTL","sakType":"GJENLEV","codeAsString":"F_BH_KUN_UTL_GJENLEV"},{"decode":"Førstegangsbehandling kun utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_KUN_UTL_UFOREP","kravGjelder":"F_BH_KUN_UTL","sakType":"UFOREP","codeAsString":"F_BH_KUN_UTL_UFOREP"},{"decode":"Førstegangsbehandling Norge/utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_MED_UTL_ALDER","kravGjelder":"F_BH_MED_UTL","sakType":"ALDER","codeAsString":"F_BH_MED_UTL_ALDER"},{"decode":"Førstegangsbehandling Norge/utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_MED_UTL_BARNEP","kravGjelder":"F_BH_MED_UTL","sakType":"BARNEP","codeAsString":"F_BH_MED_UTL_BARNEP"},{"decode":"Førstegangsbehandling Norge/utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_MED_UTL_FAM_PL","kravGjelder":"F_BH_MED_UTL","sakType":"FAM_PL","codeAsString":"F_BH_MED_UTL_FAM_PL"},{"decode":"Førstegangsbehandling Norge/utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_MED_UTL_GJENLEV","kravGjelder":"F_BH_MED_UTL","sakType":"GJENLEV","codeAsString":"F_BH_MED_UTL_GJENLEV"},{"decode":"Førstegangsbehandling Norge/utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_MED_UTL_UFOREP","kravGjelder":"F_BH_MED_UTL","sakType":"UFOREP","codeAsString":"F_BH_MED_UTL_UFOREP"},{"decode":"Gjenlevenderettighet","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GJ_RETT_ALDER","kravGjelder":"GJ_RETT","sakType":"ALDER","codeAsString":"GJ_RETT_ALDER"},{"decode":"Gjenlevenderettighet","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GJ_RETT_UFOREP","kravGjelder":"GJ_RETT","sakType":"UFOREP","codeAsString":"GJ_RETT_UFOREP"},{"decode":"Godskrivning omsorgspoeng","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GOD_OMSGSP_OMSORG","kravGjelder":"GOD_OMSGSP","sakType":"OMSORG","codeAsString":"GOD_OMSGSP_OMSORG"},{"decode":"G-omregning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GOMR_AFP","kravGjelder":"GOMR","sakType":"AFP","codeAsString":"GOMR_AFP"},{"decode":"G-omregning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GOMR_ALDER","kravGjelder":"GOMR","sakType":"ALDER","codeAsString":"GOMR_ALDER"},{"decode":"G-omregning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GOMR_BARNEP","kravGjelder":"GOMR","sakType":"BARNEP","codeAsString":"GOMR_BARNEP"},{"decode":"G-omregning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GOMR_FAM_PL","kravGjelder":"GOMR","sakType":"FAM_PL","codeAsString":"GOMR_FAM_PL"},{"decode":"G-omregning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GOMR_GAM_YRK","kravGjelder":"GOMR","sakType":"GAM_YRK","codeAsString":"GOMR_GAM_YRK"},{"decode":"G-omregning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GOMR_GJENLEV","kravGjelder":"GOMR","sakType":"GJENLEV","codeAsString":"GOMR_GJENLEV"},{"decode":"G-omregning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GOMR_KRIGSP","kravGjelder":"GOMR","sakType":"KRIGSP","codeAsString":"GOMR_KRIGSP"},{"decode":"G-omregning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GOMR_UFOREP","kravGjelder":"GOMR","sakType":"UFOREP","codeAsString":"GOMR_UFOREP"},{"decode":"Inntektsendring","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INNT_E","kravGjelder":"INNT_E","sakType":"UFOREP","codeAsString":"INNT_E"},{"decode":"Inntektskontroll","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INNT_KTRL_AFP","kravGjelder":"INNT_KTRL","sakType":"AFP","codeAsString":"INNT_KTRL_AFP"},{"decode":"Inntektskontroll","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INNT_KTRL_ALDER","kravGjelder":"INNT_KTRL","sakType":"ALDER","codeAsString":"INNT_KTRL_ALDER"},{"decode":"Inntektskontroll","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INNT_KTRL_BARNEP","kravGjelder":"INNT_KTRL","sakType":"BARNEP","codeAsString":"INNT_KTRL_BARNEP"},{"decode":"Inntektskontroll","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INNT_KTRL_FAM_PL","kravGjelder":"INNT_KTRL","sakType":"FAM_PL","codeAsString":"INNT_KTRL_FAM_PL"},{"decode":"Inntektskontroll","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INNT_KTRL_GAM_YRK","kravGjelder":"INNT_KTRL","sakType":"GAM_YRK","codeAsString":"INNT_KTRL_GAM_YRK"},{"decode":"Inntektskontroll","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INNT_KTRL_GJENLEV","kravGjelder":"INNT_KTRL","sakType":"GJENLEV","codeAsString":"INNT_KTRL_GJENLEV"},{"decode":"Inntektskontroll","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INNT_KTRL_KRIGSP","kravGjelder":"INNT_KTRL","sakType":"KRIGSP","codeAsString":"INNT_KTRL_KRIGSP"},{"decode":"Inntektskontroll","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INNT_KTRL_UFOREP","kravGjelder":"INNT_KTRL","sakType":"UFOREP","codeAsString":"INNT_KTRL_UFOREP"},{"decode":"Klage","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KLAGE_AFP","kravGjelder":"KLAGE","sakType":"AFP","codeAsString":"KLAGE_AFP"},{"decode":"Klage","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KLAGE_AFP_PRIVAT","kravGjelder":"KLAGE","sakType":"AFP_PRIVAT","codeAsString":"KLAGE_AFP_PRIVAT"},{"decode":"Klage","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KLAGE_ALDER","kravGjelder":"KLAGE","sakType":"ALDER","codeAsString":"KLAGE_ALDER"},{"decode":"Klage","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KLAGE_BARNEP","kravGjelder":"KLAGE","sakType":"BARNEP","codeAsString":"KLAGE_BARNEP"},{"decode":"Klage","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KLAGE_FAM_PL","kravGjelder":"KLAGE","sakType":"FAM_PL","codeAsString":"KLAGE_FAM_PL"},{"decode":"Klage","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KLAGE_GAM_YRK","kravGjelder":"KLAGE","sakType":"GAM_YRK","codeAsString":"KLAGE_GAM_YRK"},{"decode":"Klage","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KLAGE_GENRL","kravGjelder":"KLAGE","sakType":"GENRL","codeAsString":"KLAGE_GENRL"},{"decode":"Klage","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KLAGE_GJENLEV","kravGjelder":"KLAGE","sakType":"GJENLEV","codeAsString":"KLAGE_GJENLEV"},{"decode":"Klage","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KLAGE_KRIGSP","kravGjelder":"KLAGE","sakType":"KRIGSP","codeAsString":"KLAGE_KRIGSP"},{"decode":"Klage","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KLAGE_OMSORG","kravGjelder":"KLAGE","sakType":"OMSORG","codeAsString":"KLAGE_OMSORG"},{"decode":"Klage","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KLAGE_UFOREP","kravGjelder":"KLAGE","sakType":"UFOREP","codeAsString":"KLAGE_UFOREP"},{"decode":"Kontroll 3-17 a","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KONTR_317A_ALDER","kravGjelder":"KONTROLL_3_17_A","sakType":"ALDER","codeAsString":"KONTR_317A_ALDER"},{"decode":"Kontroll 3-17 a","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KONTR_317A_GJENLEV","kravGjelder":"KONTROLL_3_17_A","sakType":"GJENLEV","codeAsString":"KONTR_317A_GJENLEV"},{"decode":"Kontroll 3-17 a","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KONTR_317A_UFOREP","kravGjelder":"KONTROLL_3_17_A","sakType":"UFOREP","codeAsString":"KONTR_317A_UFOREP"},{"decode":"Konvertert krav","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KONVERTERING_AFP","kravGjelder":"KONVERTERING","sakType":"AFP","codeAsString":"KONVERTERING_AFP"},{"decode":"Konvertert krav","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KONVERTERING_ALDER","kravGjelder":"KONVERTERING","sakType":"ALDER","codeAsString":"KONVERTERING_ALDER"},{"decode":"Konvertert krav","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KONVERTERING_BARNEP","kravGjelder":"KONVERTERING","sakType":"BARNEP","codeAsString":"KONVERTERING_BARNEP"},{"decode":"Konvertert krav","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KONVERTERING_FAM_PL","kravGjelder":"KONVERTERING","sakType":"FAM_PL","codeAsString":"KONVERTERING_FAM_PL"},{"decode":"Konvertert krav","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KONVERTERING_GAM_YRK","kravGjelder":"KONVERTERING","sakType":"GAM_YRK","codeAsString":"KONVERTERING_GAM_YRK"},{"decode":"Konvertert krav","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KONVERTERING_GJENLEV","kravGjelder":"KONVERTERING","sakType":"GJENLEV","codeAsString":"KONVERTERING_GJENLEV"},{"decode":"Konvertert krav","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KONVERTERING_KRIGSP","kravGjelder":"KONVERTERING","sakType":"KRIGSP","codeAsString":"KONVERTERING_KRIGSP"},{"decode":"Konvertert krav","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KONVERTERING_UFOREP","kravGjelder":"KONVERTERING","sakType":"UFOREP","codeAsString":"KONVERTERING_UFOREP"},{"decode":"Minimalt konvertert krav","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KONV_MIN_AFP","kravGjelder":"KONVERTERING_MIN","sakType":"AFP","codeAsString":"KONV_MIN_AFP"},{"decode":"Minimalt konvertert krav","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KONV_MIN_ALDER","kravGjelder":"KONVERTERING_MIN","sakType":"ALDER","codeAsString":"KONV_MIN_ALDER"},{"decode":"Minimalt konvertert krav","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KONV_MIN_BARNEP","kravGjelder":"KONVERTERING_MIN","sakType":"BARNEP","codeAsString":"KONV_MIN_BARNEP"},{"decode":"Minimalt konvertert krav","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KONV_MIN_FAM_PL","kravGjelder":"KONVERTERING_MIN","sakType":"FAM_PL","codeAsString":"KONV_MIN_FAM_PL"},{"decode":"Minimalt konvertert krav","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KONV_MIN_GAM_YRK","kravGjelder":"KONVERTERING_MIN","sakType":"GAM_YRK","codeAsString":"KONV_MIN_GAM_YRK"},{"decode":"Minimalt konvertert krav","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KONV_MIN_GJENLEV","kravGjelder":"KONVERTERING_MIN","sakType":"GJENLEV","codeAsString":"KONV_MIN_GJENLEV"},{"decode":"Minimalt konvertert krav","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KONV_MIN_KRIGSP","kravGjelder":"KONVERTERING_MIN","sakType":"KRIGSP","codeAsString":"KONV_MIN_KRIGSP"},{"decode":"Minimalt konvertert krav","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KONV_MIN_UFOREP","kravGjelder":"KONVERTERING_MIN","sakType":"UFOREP","codeAsString":"KONV_MIN_UFOREP"},{"decode":"Inntektskontroll","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KON_AV_G_BAT_AFP","kravGjelder":"KONV_AVVIK_G_BATCH","sakType":"AFP","codeAsString":"KON_AV_G_BAT_AFP"},{"decode":"Inntektskontroll","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KON_AV_G_BAT_ALDER","kravGjelder":"KONV_AVVIK_G_BATCH","sakType":"ALDER","codeAsString":"KON_AV_G_BAT_ALDER"},{"decode":"Inntektskontroll","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KON_AV_G_BAT_BARNEP","kravGjelder":"KONV_AVVIK_G_BATCH","sakType":"BARNEP","codeAsString":"KON_AV_G_BAT_BARNEP"},{"decode":"Inntektskontroll","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KON_AV_G_BAT_FAM_PL","kravGjelder":"KONV_AVVIK_G_BATCH","sakType":"FAM_PL","codeAsString":"KON_AV_G_BAT_FAM_PL"},{"decode":"Inntektskontroll","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KON_AV_G_BAT_GAM_YRK","kravGjelder":"KONV_AVVIK_G_BATCH","sakType":"GAM_YRK","codeAsString":"KON_AV_G_BAT_GAM_YRK"},{"decode":"Inntektskontroll","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KON_AV_G_BAT_GJENLEV","kravGjelder":"KONV_AVVIK_G_BATCH","sakType":"GJENLEV","codeAsString":"KON_AV_G_BAT_GJENLEV"},{"decode":"Inntektskontroll","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KON_AV_G_BAT_KRIGSP","kravGjelder":"KONV_AVVIK_G_BATCH","sakType":"KRIGSP","codeAsString":"KON_AV_G_BAT_KRIGSP"},{"decode":"Inntektskontroll","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KON_AV_G_BAT_UFOREP","kravGjelder":"KONV_AVVIK_G_BATCH","sakType":"UFOREP","codeAsString":"KON_AV_G_BAT_UFOREP"},{"decode":"Mellombehandling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MELLOMBH_ALDER","kravGjelder":"MELLOMBH","sakType":"ALDER","codeAsString":"MELLOMBH_ALDER"},{"decode":"Mellombehandling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MELLOMBH_BARNEP","kravGjelder":"MELLOMBH","sakType":"BARNEP","codeAsString":"MELLOMBH_BARNEP"},{"decode":"Mellombehandling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MELLOMBH_GJENLEV","kravGjelder":"MELLOMBH","sakType":"GJENLEV","codeAsString":"MELLOMBH_GJENLEV"},{"decode":"Mellombehandling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MELLOMBH_UFOREP","kravGjelder":"MELLOMBH","sakType":"UFOREP","codeAsString":"MELLOMBH_UFOREP"},{"decode":"Merskatt tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MTK_AFP","kravGjelder":"MTK","sakType":"AFP","codeAsString":"MTK_AFP"},{"decode":"Merskatt tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MTK_ALDER","kravGjelder":"MTK","sakType":"ALDER","codeAsString":"MTK_ALDER"},{"decode":"Merskatt tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MTK_BARNEP","kravGjelder":"MTK","sakType":"BARNEP","codeAsString":"MTK_BARNEP"},{"decode":"Merskatt tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MTK_FAM_PL","kravGjelder":"MTK","sakType":"FAM_PL","codeAsString":"MTK_FAM_PL"},{"decode":"Merskatt tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MTK_GAM_YRK","kravGjelder":"MTK","sakType":"GAM_YRK","codeAsString":"MTK_GAM_YRK"},{"decode":"Merskatt tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MTK_GJENLEV","kravGjelder":"MTK","sakType":"GJENLEV","codeAsString":"MTK_GJENLEV"},{"decode":"Merskatt tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MTK_KRIGSP","kravGjelder":"MTK","sakType":"KRIGSP","codeAsString":"MTK_KRIGSP"},{"decode":"Merskatt tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MTK_UFOREP","kravGjelder":"MTK","sakType":"UFOREP","codeAsString":"MTK_UFOREP"},{"decode":"Omgjøring av tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OMGJ_TILBAKE_AFP","kravGjelder":"OMGJ_TILBAKE","sakType":"AFP","codeAsString":"OMGJ_TILBAKE_AFP"},{"decode":"Omgjøring av tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OMGJ_TILBAKE_AFP_PRI","kravGjelder":"OMGJ_TILBAKE","sakType":"AFP_PRIVAT","codeAsString":"OMGJ_TILBAKE_AFP_PRI"},{"decode":"Omgjøring av tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OMGJ_TILBAKE_ALDER","kravGjelder":"OMGJ_TILBAKE","sakType":"ALDER","codeAsString":"OMGJ_TILBAKE_ALDER"},{"decode":"Omgjøring av tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OMGJ_TILBAKE_BARNEP","kravGjelder":"OMGJ_TILBAKE","sakType":"BARNEP","codeAsString":"OMGJ_TILBAKE_BARNEP"},{"decode":"Omgjøring av tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OMGJ_TILBAKE_FAM_PL","kravGjelder":"OMGJ_TILBAKE","sakType":"FAM_PL","codeAsString":"OMGJ_TILBAKE_FAM_PL"},{"decode":"Omgjøring av tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OMGJ_TILBAKE_GAM_YRK","kravGjelder":"OMGJ_TILBAKE","sakType":"GAM_YRK","codeAsString":"OMGJ_TILBAKE_GAM_YRK"},{"decode":"Omgjøring av tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OMGJ_TILBAKE_GENRL","kravGjelder":"OMGJ_TILBAKE","sakType":"GENRL","codeAsString":"OMGJ_TILBAKE_GENRL"},{"decode":"Omgjøring av tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OMGJ_TILBAKE_GJENLEV","kravGjelder":"OMGJ_TILBAKE","sakType":"GJENLEV","codeAsString":"OMGJ_TILBAKE_GJENLEV"},{"decode":"Omgjøring av tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OMGJ_TILBAKE_KRIGSP","kravGjelder":"OMGJ_TILBAKE","sakType":"KRIGSP","codeAsString":"OMGJ_TILBAKE_KRIGSP"},{"decode":"Omgjøring av tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OMGJ_TILBAKE_UFOREP","kravGjelder":"OMGJ_TILBAKE","sakType":"UFOREP","codeAsString":"OMGJ_TILBAKE_UFOREP"},{"decode":"Overføring omsorgspoeng","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OVERF_OMSGSP_OMSORG","kravGjelder":"OVERF_OMSGSP","sakType":"OMSORG","codeAsString":"OVERF_OMSGSP_OMSORG"},{"decode":"Regulering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REGULERING_AFP","kravGjelder":"REGULERING","sakType":"AFP","codeAsString":"REGULERING_AFP"},{"decode":"Regulering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REGULERING_AFP_PR","kravGjelder":"REGULERING","sakType":"AFP_PRIVAT","codeAsString":"REGULERING_AFP_PR"},{"decode":"Regulering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REGULERING_ALDER","kravGjelder":"REGULERING","sakType":"ALDER","codeAsString":"REGULERING_ALDER"},{"decode":"Regulering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REGULERING_BARNEP","kravGjelder":"REGULERING","sakType":"BARNEP","codeAsString":"REGULERING_BARNEP"},{"decode":"Regulering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REGULERING_FAM_PL","kravGjelder":"REGULERING","sakType":"FAM_PL","codeAsString":"REGULERING_FAM_PL"},{"decode":"Regulering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REGULERING_GAM_YRK","kravGjelder":"REGULERING","sakType":"GAM_YRK","codeAsString":"REGULERING_GAM_YRK"},{"decode":"Regulering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REGULERING_GJENLEV","kravGjelder":"REGULERING","sakType":"GJENLEV","codeAsString":"REGULERING_GJENLEV"},{"decode":"Regulering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REGULERING_KRIGSP","kravGjelder":"REGULERING","sakType":"KRIGSP","codeAsString":"REGULERING_KRIGSP"},{"decode":"Regulering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REGULERING_UFOREP","kravGjelder":"REGULERING","sakType":"UFOREP","codeAsString":"REGULERING_UFOREP"},{"decode":"Revurdering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REVURD_AFP","kravGjelder":"REVURD","sakType":"AFP","codeAsString":"REVURD_AFP"},{"decode":"Revurdering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REVURD_AFP_PRIVAT","kravGjelder":"REVURD","sakType":"AFP_PRIVAT","codeAsString":"REVURD_AFP_PRIVAT"},{"decode":"Revurdering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REVURD_ALDER","kravGjelder":"REVURD","sakType":"ALDER","codeAsString":"REVURD_ALDER"},{"decode":"Revurdering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REVURD_BARNEP","kravGjelder":"REVURD","sakType":"BARNEP","codeAsString":"REVURD_BARNEP"},{"decode":"Revurdering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REVURD_FAM_PL","kravGjelder":"REVURD","sakType":"FAM_PL","codeAsString":"REVURD_FAM_PL"},{"decode":"Revurdering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REVURD_GAM_YRK","kravGjelder":"REVURD","sakType":"GAM_YRK","codeAsString":"REVURD_GAM_YRK"},{"decode":"Revurdering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REVURD_GJENLEV","kravGjelder":"REVURD","sakType":"GJENLEV","codeAsString":"REVURD_GJENLEV"},{"decode":"Revurdering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REVURD_KRIGSP","kravGjelder":"REVURD","sakType":"KRIGSP","codeAsString":"REVURD_KRIGSP"},{"decode":"Revurdering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REVURD_OMSORG","kravGjelder":"REVURD","sakType":"OMSORG","codeAsString":"REVURD_OMSORG"},{"decode":"Revurdering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REVURD_UFOREP","kravGjelder":"REVURD","sakType":"UFOREP","codeAsString":"REVURD_UFOREP"},{"decode":"Saksomkostninger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SAK_OMKOST_AFP","kravGjelder":"SAK_OMKOST","sakType":"AFP","codeAsString":"SAK_OMKOST_AFP"},{"decode":"Saksomkostninger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SAK_OMKOST_AFP_PR","kravGjelder":"SAK_OMKOST","sakType":"AFP_PRIVAT","codeAsString":"SAK_OMKOST_AFP_PR"},{"decode":"Saksomkostninger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SAK_OMKOST_ALDER","kravGjelder":"SAK_OMKOST","sakType":"ALDER","codeAsString":"SAK_OMKOST_ALDER"},{"decode":"Saksomkostninger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SAK_OMKOST_BARNEP","kravGjelder":"SAK_OMKOST","sakType":"BARNEP","codeAsString":"SAK_OMKOST_BARNEP"},{"decode":"Saksomkostninger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SAK_OMKOST_FAM_PL","kravGjelder":"SAK_OMKOST","sakType":"FAM_PL","codeAsString":"SAK_OMKOST_FAM_PL"},{"decode":"Saksomkostninger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SAK_OMKOST_GAM_YRK","kravGjelder":"SAK_OMKOST","sakType":"GAM_YRK","codeAsString":"SAK_OMKOST_GAM_YRK"},{"decode":"Saksomkostninger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SAK_OMKOST_GJENLEV","kravGjelder":"SAK_OMKOST","sakType":"GJENLEV","codeAsString":"SAK_OMKOST_GJENLEV"},{"decode":"Saksomkostninger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SAK_OMKOST_KRIGSP","kravGjelder":"SAK_OMKOST","sakType":"KRIGSP","codeAsString":"SAK_OMKOST_KRIGSP"},{"decode":"Saksomkostninger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SAK_OMKOST_OMSORG","kravGjelder":"SAK_OMKOST","sakType":"OMSORG","codeAsString":"SAK_OMKOST_OMSORG"},{"decode":"Saksomkostninger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SAK_OMKOST_UFOREP","kravGjelder":"SAK_OMKOST","sakType":"UFOREP","codeAsString":"SAK_OMKOST_UFOREP"},{"decode":"Sluttbehandling kun utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SLUTTBEH_UTL_ALDER","kravGjelder":"SLUTTBEH_KUN_UTL","sakType":"ALDER","codeAsString":"SLUTTBEH_UTL_ALDER"},{"decode":"Sluttbehandling kun utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SLUTTBEH_UTL_BARNEP","kravGjelder":"SLUTTBEH_KUN_UTL","sakType":"BARNEP","codeAsString":"SLUTTBEH_UTL_BARNEP"},{"decode":"Sluttbehandling kun utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SLUTTBEH_UTL_FAM_PL","kravGjelder":"SLUTTBEH_KUN_UTL","sakType":"FAM_PL","codeAsString":"SLUTTBEH_UTL_FAM_PL"},{"decode":"Sluttbehandling kun utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SLUTTBEH_UTL_GJENLEV","kravGjelder":"SLUTTBEH_KUN_UTL","sakType":"GJENLEV","codeAsString":"SLUTTBEH_UTL_GJENLEV"},{"decode":"Sluttbehandling kun utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SLUTTBEH_UTL_UFOREP","kravGjelder":"SLUTTBEH_KUN_UTL","sakType":"UFOREP","codeAsString":"SLUTTBEH_UTL_UFOREP"},{"decode":"Sluttbehandling Norge/utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SLUTT_BH_UTL_ALDER","kravGjelder":"SLUTT_BH_UTL","sakType":"ALDER","codeAsString":"SLUTT_BH_UTL_ALDER"},{"decode":"Sluttbehandling Norge/utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SLUTT_BH_UTL_BARNEP","kravGjelder":"SLUTT_BH_UTL","sakType":"BARNEP","codeAsString":"SLUTT_BH_UTL_BARNEP"},{"decode":"Sluttbehandling Norge/utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SLUTT_BH_UTL_FAM_PL","kravGjelder":"SLUTT_BH_UTL","sakType":"FAM_PL","codeAsString":"SLUTT_BH_UTL_FAM_PL"},{"decode":"Sluttbehandling Norge/utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SLUTT_BH_UTL_GJENLEV","kravGjelder":"SLUTT_BH_UTL","sakType":"GJENLEV","codeAsString":"SLUTT_BH_UTL_GJENLEV"},{"decode":"Sluttbehandling Norge/utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SLUTT_BH_UTL_UFOREP","kravGjelder":"SLUTT_BH_UTL","sakType":"UFOREP","codeAsString":"SLUTT_BH_UTL_UFOREP"},{"decode":"Søknad om økning av uføregrad","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SOK_OKN_UG_UFOREP","kravGjelder":"SOK_OKN_UG","sakType":"UFOREP","codeAsString":"SOK_OKN_UG_UFOREP"},{"decode":"Søknad om reduksjon av uføregrad","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SOK_RED_UG_UFOREP","kravGjelder":"SOK_RED_UG","sakType":"UFOREP","codeAsString":"SOK_RED_UG_UFOREP"},{"decode":"Søknad om ung uføre","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SOK_UU","kravGjelder":"SOK_UU","sakType":"UFOREP","codeAsString":"SOK_UU"},{"decode":"Søknad om yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SOK_YS","kravGjelder":"SOK_YS","sakType":"UFOREP","codeAsString":"SOK_YS"},{"decode":"Tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TILBAKEKR_AFP","kravGjelder":"TILBAKEKR","sakType":"AFP","codeAsString":"TILBAKEKR_AFP"},{"decode":"Tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TILBAKEKR_AFP_PRIVAT","kravGjelder":"TILBAKEKR","sakType":"AFP_PRIVAT","codeAsString":"TILBAKEKR_AFP_PRIVAT"},{"decode":"Tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TILBAKEKR_ALDER","kravGjelder":"TILBAKEKR","sakType":"ALDER","codeAsString":"TILBAKEKR_ALDER"},{"decode":"Tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TILBAKEKR_BARNEP","kravGjelder":"TILBAKEKR","sakType":"BARNEP","codeAsString":"TILBAKEKR_BARNEP"},{"decode":"Tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TILBAKEKR_FAM_PL","kravGjelder":"TILBAKEKR","sakType":"FAM_PL","codeAsString":"TILBAKEKR_FAM_PL"},{"decode":"Tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TILBAKEKR_GAM_YRK","kravGjelder":"TILBAKEKR","sakType":"GAM_YRK","codeAsString":"TILBAKEKR_GAM_YRK"},{"decode":"Tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TILBAKEKR_GENRL","kravGjelder":"TILBAKEKR","sakType":"GENRL","codeAsString":"TILBAKEKR_GENRL"},{"decode":"Tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TILBAKEKR_GJENLEV","kravGjelder":"TILBAKEKR","sakType":"GJENLEV","codeAsString":"TILBAKEKR_GJENLEV"},{"decode":"Tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TILBAKEKR_KRIGSP","kravGjelder":"TILBAKEKR","sakType":"KRIGSP","codeAsString":"TILBAKEKR_KRIGSP"},{"decode":"Tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TILBAKEKR_UFOREP","kravGjelder":"TILBAKEKR","sakType":"UFOREP","codeAsString":"TILBAKEKR_UFOREP"},{"decode":"Utsendelse til avtaleland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSEND_AVTLAND_ALDER","kravGjelder":"UTSEND_AVTALELAND","sakType":"ALDER","codeAsString":"UTSEND_AVTLAND_ALDER"},{"decode":"Utsendelse til avtaleland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSEND_AVTLAND_BARNE","kravGjelder":"UTSEND_AVTALELAND","sakType":"BARNEP","codeAsString":"UTSEND_AVTLAND_BARNE"},{"decode":"Utsendelse til avtaleland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSEND_AVTLAND_FAM","kravGjelder":"UTSEND_AVTALELAND","sakType":"FAM_PL","codeAsString":"UTSEND_AVTLAND_FAM"},{"decode":"Utsendelse til avtaleland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSEND_AVTLAND_GJENL","kravGjelder":"UTSEND_AVTALELAND","sakType":"GJENLEV","codeAsString":"UTSEND_AVTLAND_GJENL"},{"decode":"Utsendelse til avtaleland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSEND_AVTLAND_UFORE","kravGjelder":"UTSEND_AVTALELAND","sakType":"UFOREP","codeAsString":"UTSEND_AVTLAND_UFORE"},{"decode":"Etteroppgjør","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UT_EO","kravGjelder":"UT_EO","sakType":"UFOREP","codeAsString":"UT_EO"},{"decode":"Vurdering Etteroppgjør","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UT_VURDERING_EO","kravGjelder":"UT_VURDERING_EO","sakType":"UFOREP","codeAsString":"UT_VURDERING_EO"}]
+[
+  {
+    "decode": "AFP etteroppgjør",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AFP_EO_AFP",
+    "kravGjelder": "AFP_EO",
+    "sakType": "AFP",
+    "codeAsString": "AFP_EO_AFP"
+  },
+  {
+    "decode": "Anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKE_AFP",
+    "kravGjelder": "ANKE",
+    "sakType": "AFP",
+    "codeAsString": "ANKE_AFP"
+  },
+  {
+    "decode": "Anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKE_AFP_PRIVAT",
+    "kravGjelder": "ANKE",
+    "sakType": "AFP_PRIVAT",
+    "codeAsString": "ANKE_AFP_PRIVAT"
+  },
+  {
+    "decode": "Anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKE_ALDER",
+    "kravGjelder": "ANKE",
+    "sakType": "ALDER",
+    "codeAsString": "ANKE_ALDER"
+  },
+  {
+    "decode": "Anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKE_BARNEP",
+    "kravGjelder": "ANKE",
+    "sakType": "BARNEP",
+    "codeAsString": "ANKE_BARNEP"
+  },
+  {
+    "decode": "Anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKE_FAM_PL",
+    "kravGjelder": "ANKE",
+    "sakType": "FAM_PL",
+    "codeAsString": "ANKE_FAM_PL"
+  },
+  {
+    "decode": "Anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKE_GAM_YRK",
+    "kravGjelder": "ANKE",
+    "sakType": "GAM_YRK",
+    "codeAsString": "ANKE_GAM_YRK"
+  },
+  {
+    "decode": "Anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKE_GENRL",
+    "kravGjelder": "ANKE",
+    "sakType": "GENRL",
+    "codeAsString": "ANKE_GENRL"
+  },
+  {
+    "decode": "Anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKE_GJENLEV",
+    "kravGjelder": "ANKE",
+    "sakType": "GJENLEV",
+    "codeAsString": "ANKE_GJENLEV"
+  },
+  {
+    "decode": "Anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKE_KRIGSP",
+    "kravGjelder": "ANKE",
+    "sakType": "KRIGSP",
+    "codeAsString": "ANKE_KRIGSP"
+  },
+  {
+    "decode": "Anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKE_OMSORG",
+    "kravGjelder": "ANKE",
+    "sakType": "OMSORG",
+    "codeAsString": "ANKE_OMSORG"
+  },
+  {
+    "decode": "Anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKE_UFOREP",
+    "kravGjelder": "ANKE",
+    "sakType": "UFOREP",
+    "codeAsString": "ANKE_UFOREP"
+  },
+  {
+    "decode": "Eksport",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKSPORT_AFP",
+    "kravGjelder": "EKSPORT",
+    "sakType": "AFP",
+    "codeAsString": "EKSPORT_AFP"
+  },
+  {
+    "decode": "Eksport",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKSPORT_ALDER",
+    "kravGjelder": "EKSPORT",
+    "sakType": "ALDER",
+    "codeAsString": "EKSPORT_ALDER"
+  },
+  {
+    "decode": "Eksport",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKSPORT_BARNEP",
+    "kravGjelder": "EKSPORT",
+    "sakType": "BARNEP",
+    "codeAsString": "EKSPORT_BARNEP"
+  },
+  {
+    "decode": "Eksport",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKSPORT_FAM_PL",
+    "kravGjelder": "EKSPORT",
+    "sakType": "FAM_PL",
+    "codeAsString": "EKSPORT_FAM_PL"
+  },
+  {
+    "decode": "Eksport",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKSPORT_GAM_YRK",
+    "kravGjelder": "EKSPORT",
+    "sakType": "GAM_YRK",
+    "codeAsString": "EKSPORT_GAM_YRK"
+  },
+  {
+    "decode": "Eksport",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKSPORT_GJENLEV",
+    "kravGjelder": "EKSPORT",
+    "sakType": "GJENLEV",
+    "codeAsString": "EKSPORT_GJENLEV"
+  },
+  {
+    "decode": "Eksport",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKSPORT_KRIGSP",
+    "kravGjelder": "EKSPORT",
+    "sakType": "KRIGSP",
+    "codeAsString": "EKSPORT_KRIGSP"
+  },
+  {
+    "decode": "Eksport",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKSPORT_UFOREP",
+    "kravGjelder": "EKSPORT",
+    "sakType": "UFOREP",
+    "codeAsString": "EKSPORT_UFOREP"
+  },
+  {
+    "decode": "Endring uttaksgrad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ENDR_UTGRAD_ALDER",
+    "kravGjelder": "ENDR_UTTAKSGRAD",
+    "sakType": "ALDER",
+    "codeAsString": "ENDR_UTGRAD_ALDER"
+  },
+  {
+    "decode": "Erstatning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ERSTATNING_AFP",
+    "kravGjelder": "ERSTATNING",
+    "sakType": "AFP",
+    "codeAsString": "ERSTATNING_AFP"
+  },
+  {
+    "decode": "Erstatning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ERSTATNING_AFP_PR",
+    "kravGjelder": "ERSTATNING",
+    "sakType": "AFP_PRIVAT",
+    "codeAsString": "ERSTATNING_AFP_PR"
+  },
+  {
+    "decode": "Erstatning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ERSTATNING_ALDER",
+    "kravGjelder": "ERSTATNING",
+    "sakType": "ALDER",
+    "codeAsString": "ERSTATNING_ALDER"
+  },
+  {
+    "decode": "Erstatning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ERSTATNING_BARNEP",
+    "kravGjelder": "ERSTATNING",
+    "sakType": "BARNEP",
+    "codeAsString": "ERSTATNING_BARNEP"
+  },
+  {
+    "decode": "Erstatning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ERSTATNING_FAM_PL",
+    "kravGjelder": "ERSTATNING",
+    "sakType": "FAM_PL",
+    "codeAsString": "ERSTATNING_FAM_PL"
+  },
+  {
+    "decode": "Erstatning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ERSTATNING_GAM_YRK",
+    "kravGjelder": "ERSTATNING",
+    "sakType": "GAM_YRK",
+    "codeAsString": "ERSTATNING_GAM_YRK"
+  },
+  {
+    "decode": "Erstatning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ERSTATNING_GJENLEV",
+    "kravGjelder": "ERSTATNING",
+    "sakType": "GJENLEV",
+    "codeAsString": "ERSTATNING_GJENLEV"
+  },
+  {
+    "decode": "Erstatning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ERSTATNING_KRIGSP",
+    "kravGjelder": "ERSTATNING",
+    "sakType": "KRIGSP",
+    "codeAsString": "ERSTATNING_KRIGSP"
+  },
+  {
+    "decode": "Erstatning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ERSTATNING_OMSORG",
+    "kravGjelder": "ERSTATNING",
+    "sakType": "OMSORG",
+    "codeAsString": "ERSTATNING_OMSORG"
+  },
+  {
+    "decode": "Erstatning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ERSTATNING_UFOREP",
+    "kravGjelder": "ERSTATNING",
+    "sakType": "UFOREP",
+    "codeAsString": "ERSTATNING_UFOREP"
+  },
+  {
+    "decode": "Ettergivelse av gjeld",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETTERGIV_GJELD_AFP",
+    "kravGjelder": "ETTERGIV_GJELD",
+    "sakType": "AFP",
+    "codeAsString": "ETTERGIV_GJELD_AFP"
+  },
+  {
+    "decode": "Ettergivelse av gjeld",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETTERGIV_GJELD_AFP_P",
+    "kravGjelder": "ETTERGIV_GJELD",
+    "sakType": "AFP_PRIVAT",
+    "codeAsString": "ETTERGIV_GJELD_AFP_P"
+  },
+  {
+    "decode": "Ettergivelse av gjeld",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETTERGIV_GJELD_ALDER",
+    "kravGjelder": "ETTERGIV_GJELD",
+    "sakType": "ALDER",
+    "codeAsString": "ETTERGIV_GJELD_ALDER"
+  },
+  {
+    "decode": "Ettergivelse av gjeld",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETTERGIV_GJELD_BARNE",
+    "kravGjelder": "ETTERGIV_GJELD",
+    "sakType": "BARNEP",
+    "codeAsString": "ETTERGIV_GJELD_BARNE"
+  },
+  {
+    "decode": "Ettergivelse av gjeld",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETTERGIV_GJELD_FAMPL",
+    "kravGjelder": "ETTERGIV_GJELD",
+    "sakType": "FAM_PL",
+    "codeAsString": "ETTERGIV_GJELD_FAMPL"
+  },
+  {
+    "decode": "Ettergivelse av gjeld",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETTERGIV_GJELD_GAMYR",
+    "kravGjelder": "ETTERGIV_GJELD",
+    "sakType": "GAM_YRK",
+    "codeAsString": "ETTERGIV_GJELD_GAMYR"
+  },
+  {
+    "decode": "Ettergivelse av gjeld",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETTERGIV_GJELD_GJLEV",
+    "kravGjelder": "ETTERGIV_GJELD",
+    "sakType": "GJENLEV",
+    "codeAsString": "ETTERGIV_GJELD_GJLEV"
+  },
+  {
+    "decode": "Ettergivelse av gjeld",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETTERGIV_GJELD_KRIGS",
+    "kravGjelder": "ETTERGIV_GJELD",
+    "sakType": "KRIGSP",
+    "codeAsString": "ETTERGIV_GJELD_KRIGS"
+  },
+  {
+    "decode": "Ettergivelse av gjeld",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETTERGIV_GJELD_OMS",
+    "kravGjelder": "ETTERGIV_GJELD",
+    "sakType": "OMSORG",
+    "codeAsString": "ETTERGIV_GJELD_OMS"
+  },
+  {
+    "decode": "Ettergivelse av gjeld",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETTERGIV_GJELD_UFORE",
+    "kravGjelder": "ETTERGIV_GJELD",
+    "sakType": "UFOREP",
+    "codeAsString": "ETTERGIV_GJELD_UFORE"
+  },
+  {
+    "decode": "Dekning faste utgifter inst.opphold",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAS_UTG_IO_AFP",
+    "kravGjelder": "FAS_UTG_IO",
+    "sakType": "AFP",
+    "codeAsString": "FAS_UTG_IO_AFP"
+  },
+  {
+    "decode": "Dekning faste utgifter inst.opphold",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAS_UTG_IO_ALDER",
+    "kravGjelder": "FAS_UTG_IO",
+    "sakType": "ALDER",
+    "codeAsString": "FAS_UTG_IO_ALDER"
+  },
+  {
+    "decode": "Dekning faste utgifter inst.opphold",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAS_UTG_IO_BARNEP",
+    "kravGjelder": "FAS_UTG_IO",
+    "sakType": "BARNEP",
+    "codeAsString": "FAS_UTG_IO_BARNEP"
+  },
+  {
+    "decode": "Dekning faste utgifter inst.opphold",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAS_UTG_IO_FAM_PL",
+    "kravGjelder": "FAS_UTG_IO",
+    "sakType": "FAM_PL",
+    "codeAsString": "FAS_UTG_IO_FAM_PL"
+  },
+  {
+    "decode": "Dekning faste utgifter inst.opphold",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAS_UTG_IO_GJENLEV",
+    "kravGjelder": "FAS_UTG_IO",
+    "sakType": "GJENLEV",
+    "codeAsString": "FAS_UTG_IO_GJENLEV"
+  },
+  {
+    "decode": "Dekning faste utgifter inst.opphold",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAS_UTG_IO_KRIGSP",
+    "kravGjelder": "FAS_UTG_IO",
+    "sakType": "KRIGSP",
+    "codeAsString": "FAS_UTG_IO_KRIGSP"
+  },
+  {
+    "decode": "Dekning faste utgifter inst.opphold",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAS_UTG_IO_UFOREP",
+    "kravGjelder": "FAS_UTG_IO",
+    "sakType": "UFOREP",
+    "codeAsString": "FAS_UTG_IO_UFOREP"
+  },
+  {
+    "decode": "Førstegangsbehandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORSTEG_BH_AFP",
+    "kravGjelder": "FORSTEG_BH",
+    "sakType": "AFP",
+    "codeAsString": "FORSTEG_BH_AFP"
+  },
+  {
+    "decode": "Førstegangsbehandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORSTEG_BH_AFP_PRIV",
+    "kravGjelder": "FORSTEG_BH",
+    "sakType": "AFP_PRIVAT",
+    "codeAsString": "FORSTEG_BH_AFP_PRIV"
+  },
+  {
+    "decode": "Førstegangsbehandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORSTEG_BH_ALDER",
+    "kravGjelder": "FORSTEG_BH",
+    "sakType": "ALDER",
+    "codeAsString": "FORSTEG_BH_ALDER"
+  },
+  {
+    "decode": "Førstegangsbehandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORSTEG_BH_BARNEP",
+    "kravGjelder": "FORSTEG_BH",
+    "sakType": "BARNEP",
+    "codeAsString": "FORSTEG_BH_BARNEP"
+  },
+  {
+    "decode": "Førstegangsbehandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORSTEG_BH_FAM_PL",
+    "kravGjelder": "FORSTEG_BH",
+    "sakType": "FAM_PL",
+    "codeAsString": "FORSTEG_BH_FAM_PL"
+  },
+  {
+    "decode": "Førstegangsbehandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORSTEG_BH_GAM_YRK",
+    "kravGjelder": "FORSTEG_BH",
+    "sakType": "GAM_YRK",
+    "codeAsString": "FORSTEG_BH_GAM_YRK"
+  },
+  {
+    "decode": "Førstegangsbehandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORSTEG_BH_GJENLEV",
+    "kravGjelder": "FORSTEG_BH",
+    "sakType": "GJENLEV",
+    "codeAsString": "FORSTEG_BH_GJENLEV"
+  },
+  {
+    "decode": "Førstegangsbehandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORSTEG_BH_KRIGSP",
+    "kravGjelder": "FORSTEG_BH",
+    "sakType": "KRIGSP",
+    "codeAsString": "FORSTEG_BH_KRIGSP"
+  },
+  {
+    "decode": "Førstegangsbehandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORSTEG_BH_UFOREP",
+    "kravGjelder": "FORSTEG_BH",
+    "sakType": "UFOREP",
+    "codeAsString": "FORSTEG_BH_UFOREP"
+  },
+  {
+    "decode": "Førstegangsbehandling bosatt utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_BO_UTL_AFP",
+    "kravGjelder": "F_BH_BO_UTL",
+    "sakType": "AFP",
+    "codeAsString": "F_BH_BO_UTL_AFP"
+  },
+  {
+    "decode": "Førstegangsbehandling bosatt utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_BO_UTL_ALDER",
+    "kravGjelder": "F_BH_BO_UTL",
+    "sakType": "ALDER",
+    "codeAsString": "F_BH_BO_UTL_ALDER"
+  },
+  {
+    "decode": "Førstegangsbehandling bosatt utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_BO_UTL_BARNEP",
+    "kravGjelder": "F_BH_BO_UTL",
+    "sakType": "BARNEP",
+    "codeAsString": "F_BH_BO_UTL_BARNEP"
+  },
+  {
+    "decode": "Førstegangsbehandling bosatt utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_BO_UTL_FAM_PL",
+    "kravGjelder": "F_BH_BO_UTL",
+    "sakType": "FAM_PL",
+    "codeAsString": "F_BH_BO_UTL_FAM_PL"
+  },
+  {
+    "decode": "Førstegangsbehandling bosatt utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_BO_UTL_GAM_YRK",
+    "kravGjelder": "F_BH_BO_UTL",
+    "sakType": "GAM_YRK",
+    "codeAsString": "F_BH_BO_UTL_GAM_YRK"
+  },
+  {
+    "decode": "Førstegangsbehandling bosatt utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_BO_UTL_GJENLEV",
+    "kravGjelder": "F_BH_BO_UTL",
+    "sakType": "GJENLEV",
+    "codeAsString": "F_BH_BO_UTL_GJENLEV"
+  },
+  {
+    "decode": "Førstegangsbehandling bosatt utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_BO_UTL_KRIGSP",
+    "kravGjelder": "F_BH_BO_UTL",
+    "sakType": "KRIGSP",
+    "codeAsString": "F_BH_BO_UTL_KRIGSP"
+  },
+  {
+    "decode": "Førstegangsbehandling bosatt utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_BO_UTL_UFOREP",
+    "kravGjelder": "F_BH_BO_UTL",
+    "sakType": "UFOREP",
+    "codeAsString": "F_BH_BO_UTL_UFOREP"
+  },
+  {
+    "decode": "Førstegangsbehandling kun utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_KUN_UTL_ALDER",
+    "kravGjelder": "F_BH_KUN_UTL",
+    "sakType": "ALDER",
+    "codeAsString": "F_BH_KUN_UTL_ALDER"
+  },
+  {
+    "decode": "Førstegangsbehandling kun utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_KUN_UTL_BARNEP",
+    "kravGjelder": "F_BH_KUN_UTL",
+    "sakType": "BARNEP",
+    "codeAsString": "F_BH_KUN_UTL_BARNEP"
+  },
+  {
+    "decode": "Førstegangsbehandling kun utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_KUN_UTL_FAM_PL",
+    "kravGjelder": "F_BH_KUN_UTL",
+    "sakType": "FAM_PL",
+    "codeAsString": "F_BH_KUN_UTL_FAM_PL"
+  },
+  {
+    "decode": "Førstegangsbehandling kun utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_KUN_UTL_GJENLEV",
+    "kravGjelder": "F_BH_KUN_UTL",
+    "sakType": "GJENLEV",
+    "codeAsString": "F_BH_KUN_UTL_GJENLEV"
+  },
+  {
+    "decode": "Førstegangsbehandling kun utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_KUN_UTL_UFOREP",
+    "kravGjelder": "F_BH_KUN_UTL",
+    "sakType": "UFOREP",
+    "codeAsString": "F_BH_KUN_UTL_UFOREP"
+  },
+  {
+    "decode": "Førstegangsbehandling Norge/utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_MED_UTL_ALDER",
+    "kravGjelder": "F_BH_MED_UTL",
+    "sakType": "ALDER",
+    "codeAsString": "F_BH_MED_UTL_ALDER"
+  },
+  {
+    "decode": "Førstegangsbehandling Norge/utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_MED_UTL_BARNEP",
+    "kravGjelder": "F_BH_MED_UTL",
+    "sakType": "BARNEP",
+    "codeAsString": "F_BH_MED_UTL_BARNEP"
+  },
+  {
+    "decode": "Førstegangsbehandling Norge/utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_MED_UTL_FAM_PL",
+    "kravGjelder": "F_BH_MED_UTL",
+    "sakType": "FAM_PL",
+    "codeAsString": "F_BH_MED_UTL_FAM_PL"
+  },
+  {
+    "decode": "Førstegangsbehandling Norge/utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_MED_UTL_GJENLEV",
+    "kravGjelder": "F_BH_MED_UTL",
+    "sakType": "GJENLEV",
+    "codeAsString": "F_BH_MED_UTL_GJENLEV"
+  },
+  {
+    "decode": "Førstegangsbehandling Norge/utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_MED_UTL_UFOREP",
+    "kravGjelder": "F_BH_MED_UTL",
+    "sakType": "UFOREP",
+    "codeAsString": "F_BH_MED_UTL_UFOREP"
+  },
+  {
+    "decode": "Gjenlevenderettighet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GJ_RETT_ALDER",
+    "kravGjelder": "GJ_RETT",
+    "sakType": "ALDER",
+    "codeAsString": "GJ_RETT_ALDER"
+  },
+  {
+    "decode": "Gjenlevenderettighet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GJ_RETT_UFOREP",
+    "kravGjelder": "GJ_RETT",
+    "sakType": "UFOREP",
+    "codeAsString": "GJ_RETT_UFOREP"
+  },
+  {
+    "decode": "Godskrivning omsorgspoeng",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GOD_OMSGSP_OMSORG",
+    "kravGjelder": "GOD_OMSGSP",
+    "sakType": "OMSORG",
+    "codeAsString": "GOD_OMSGSP_OMSORG"
+  },
+  {
+    "decode": "G-omregning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GOMR_AFP",
+    "kravGjelder": "GOMR",
+    "sakType": "AFP",
+    "codeAsString": "GOMR_AFP"
+  },
+  {
+    "decode": "G-omregning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GOMR_ALDER",
+    "kravGjelder": "GOMR",
+    "sakType": "ALDER",
+    "codeAsString": "GOMR_ALDER"
+  },
+  {
+    "decode": "G-omregning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GOMR_BARNEP",
+    "kravGjelder": "GOMR",
+    "sakType": "BARNEP",
+    "codeAsString": "GOMR_BARNEP"
+  },
+  {
+    "decode": "G-omregning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GOMR_FAM_PL",
+    "kravGjelder": "GOMR",
+    "sakType": "FAM_PL",
+    "codeAsString": "GOMR_FAM_PL"
+  },
+  {
+    "decode": "G-omregning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GOMR_GAM_YRK",
+    "kravGjelder": "GOMR",
+    "sakType": "GAM_YRK",
+    "codeAsString": "GOMR_GAM_YRK"
+  },
+  {
+    "decode": "G-omregning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GOMR_GJENLEV",
+    "kravGjelder": "GOMR",
+    "sakType": "GJENLEV",
+    "codeAsString": "GOMR_GJENLEV"
+  },
+  {
+    "decode": "G-omregning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GOMR_KRIGSP",
+    "kravGjelder": "GOMR",
+    "sakType": "KRIGSP",
+    "codeAsString": "GOMR_KRIGSP"
+  },
+  {
+    "decode": "G-omregning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GOMR_UFOREP",
+    "kravGjelder": "GOMR",
+    "sakType": "UFOREP",
+    "codeAsString": "GOMR_UFOREP"
+  },
+  {
+    "decode": "Inntektsendring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNT_E",
+    "kravGjelder": "INNT_E",
+    "sakType": "UFOREP",
+    "codeAsString": "INNT_E"
+  },
+  {
+    "decode": "Inntektskontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNT_KTRL_AFP",
+    "kravGjelder": "INNT_KTRL",
+    "sakType": "AFP",
+    "codeAsString": "INNT_KTRL_AFP"
+  },
+  {
+    "decode": "Inntektskontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNT_KTRL_ALDER",
+    "kravGjelder": "INNT_KTRL",
+    "sakType": "ALDER",
+    "codeAsString": "INNT_KTRL_ALDER"
+  },
+  {
+    "decode": "Inntektskontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNT_KTRL_BARNEP",
+    "kravGjelder": "INNT_KTRL",
+    "sakType": "BARNEP",
+    "codeAsString": "INNT_KTRL_BARNEP"
+  },
+  {
+    "decode": "Inntektskontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNT_KTRL_FAM_PL",
+    "kravGjelder": "INNT_KTRL",
+    "sakType": "FAM_PL",
+    "codeAsString": "INNT_KTRL_FAM_PL"
+  },
+  {
+    "decode": "Inntektskontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNT_KTRL_GAM_YRK",
+    "kravGjelder": "INNT_KTRL",
+    "sakType": "GAM_YRK",
+    "codeAsString": "INNT_KTRL_GAM_YRK"
+  },
+  {
+    "decode": "Inntektskontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNT_KTRL_GJENLEV",
+    "kravGjelder": "INNT_KTRL",
+    "sakType": "GJENLEV",
+    "codeAsString": "INNT_KTRL_GJENLEV"
+  },
+  {
+    "decode": "Inntektskontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNT_KTRL_KRIGSP",
+    "kravGjelder": "INNT_KTRL",
+    "sakType": "KRIGSP",
+    "codeAsString": "INNT_KTRL_KRIGSP"
+  },
+  {
+    "decode": "Inntektskontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNT_KTRL_UFOREP",
+    "kravGjelder": "INNT_KTRL",
+    "sakType": "UFOREP",
+    "codeAsString": "INNT_KTRL_UFOREP"
+  },
+  {
+    "decode": "Klage",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KLAGE_AFP",
+    "kravGjelder": "KLAGE",
+    "sakType": "AFP",
+    "codeAsString": "KLAGE_AFP"
+  },
+  {
+    "decode": "Klage",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KLAGE_AFP_PRIVAT",
+    "kravGjelder": "KLAGE",
+    "sakType": "AFP_PRIVAT",
+    "codeAsString": "KLAGE_AFP_PRIVAT"
+  },
+  {
+    "decode": "Klage",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KLAGE_ALDER",
+    "kravGjelder": "KLAGE",
+    "sakType": "ALDER",
+    "codeAsString": "KLAGE_ALDER"
+  },
+  {
+    "decode": "Klage",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KLAGE_BARNEP",
+    "kravGjelder": "KLAGE",
+    "sakType": "BARNEP",
+    "codeAsString": "KLAGE_BARNEP"
+  },
+  {
+    "decode": "Klage",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KLAGE_FAM_PL",
+    "kravGjelder": "KLAGE",
+    "sakType": "FAM_PL",
+    "codeAsString": "KLAGE_FAM_PL"
+  },
+  {
+    "decode": "Klage",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KLAGE_GAM_YRK",
+    "kravGjelder": "KLAGE",
+    "sakType": "GAM_YRK",
+    "codeAsString": "KLAGE_GAM_YRK"
+  },
+  {
+    "decode": "Klage",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KLAGE_GENRL",
+    "kravGjelder": "KLAGE",
+    "sakType": "GENRL",
+    "codeAsString": "KLAGE_GENRL"
+  },
+  {
+    "decode": "Klage",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KLAGE_GJENLEV",
+    "kravGjelder": "KLAGE",
+    "sakType": "GJENLEV",
+    "codeAsString": "KLAGE_GJENLEV"
+  },
+  {
+    "decode": "Klage",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KLAGE_KRIGSP",
+    "kravGjelder": "KLAGE",
+    "sakType": "KRIGSP",
+    "codeAsString": "KLAGE_KRIGSP"
+  },
+  {
+    "decode": "Klage",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KLAGE_OMSORG",
+    "kravGjelder": "KLAGE",
+    "sakType": "OMSORG",
+    "codeAsString": "KLAGE_OMSORG"
+  },
+  {
+    "decode": "Klage",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KLAGE_UFOREP",
+    "kravGjelder": "KLAGE",
+    "sakType": "UFOREP",
+    "codeAsString": "KLAGE_UFOREP"
+  },
+  {
+    "decode": "Kontroll 3-17 a",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONTR_317A_ALDER",
+    "kravGjelder": "KONTROLL_3_17_A",
+    "sakType": "ALDER",
+    "codeAsString": "KONTR_317A_ALDER"
+  },
+  {
+    "decode": "Kontroll 3-17 a",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONTR_317A_GJENLEV",
+    "kravGjelder": "KONTROLL_3_17_A",
+    "sakType": "GJENLEV",
+    "codeAsString": "KONTR_317A_GJENLEV"
+  },
+  {
+    "decode": "Kontroll 3-17 a",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONTR_317A_UFOREP",
+    "kravGjelder": "KONTROLL_3_17_A",
+    "sakType": "UFOREP",
+    "codeAsString": "KONTR_317A_UFOREP"
+  },
+  {
+    "decode": "Konvertert krav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONVERTERING_AFP",
+    "kravGjelder": "KONVERTERING",
+    "sakType": "AFP",
+    "codeAsString": "KONVERTERING_AFP"
+  },
+  {
+    "decode": "Konvertert krav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONVERTERING_ALDER",
+    "kravGjelder": "KONVERTERING",
+    "sakType": "ALDER",
+    "codeAsString": "KONVERTERING_ALDER"
+  },
+  {
+    "decode": "Konvertert krav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONVERTERING_BARNEP",
+    "kravGjelder": "KONVERTERING",
+    "sakType": "BARNEP",
+    "codeAsString": "KONVERTERING_BARNEP"
+  },
+  {
+    "decode": "Konvertert krav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONVERTERING_FAM_PL",
+    "kravGjelder": "KONVERTERING",
+    "sakType": "FAM_PL",
+    "codeAsString": "KONVERTERING_FAM_PL"
+  },
+  {
+    "decode": "Konvertert krav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONVERTERING_GAM_YRK",
+    "kravGjelder": "KONVERTERING",
+    "sakType": "GAM_YRK",
+    "codeAsString": "KONVERTERING_GAM_YRK"
+  },
+  {
+    "decode": "Konvertert krav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONVERTERING_GJENLEV",
+    "kravGjelder": "KONVERTERING",
+    "sakType": "GJENLEV",
+    "codeAsString": "KONVERTERING_GJENLEV"
+  },
+  {
+    "decode": "Konvertert krav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONVERTERING_KRIGSP",
+    "kravGjelder": "KONVERTERING",
+    "sakType": "KRIGSP",
+    "codeAsString": "KONVERTERING_KRIGSP"
+  },
+  {
+    "decode": "Konvertert krav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONVERTERING_UFOREP",
+    "kravGjelder": "KONVERTERING",
+    "sakType": "UFOREP",
+    "codeAsString": "KONVERTERING_UFOREP"
+  },
+  {
+    "decode": "Minimalt konvertert krav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONV_MIN_AFP",
+    "kravGjelder": "KONVERTERING_MIN",
+    "sakType": "AFP",
+    "codeAsString": "KONV_MIN_AFP"
+  },
+  {
+    "decode": "Minimalt konvertert krav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONV_MIN_ALDER",
+    "kravGjelder": "KONVERTERING_MIN",
+    "sakType": "ALDER",
+    "codeAsString": "KONV_MIN_ALDER"
+  },
+  {
+    "decode": "Minimalt konvertert krav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONV_MIN_BARNEP",
+    "kravGjelder": "KONVERTERING_MIN",
+    "sakType": "BARNEP",
+    "codeAsString": "KONV_MIN_BARNEP"
+  },
+  {
+    "decode": "Minimalt konvertert krav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONV_MIN_FAM_PL",
+    "kravGjelder": "KONVERTERING_MIN",
+    "sakType": "FAM_PL",
+    "codeAsString": "KONV_MIN_FAM_PL"
+  },
+  {
+    "decode": "Minimalt konvertert krav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONV_MIN_GAM_YRK",
+    "kravGjelder": "KONVERTERING_MIN",
+    "sakType": "GAM_YRK",
+    "codeAsString": "KONV_MIN_GAM_YRK"
+  },
+  {
+    "decode": "Minimalt konvertert krav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONV_MIN_GJENLEV",
+    "kravGjelder": "KONVERTERING_MIN",
+    "sakType": "GJENLEV",
+    "codeAsString": "KONV_MIN_GJENLEV"
+  },
+  {
+    "decode": "Minimalt konvertert krav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONV_MIN_KRIGSP",
+    "kravGjelder": "KONVERTERING_MIN",
+    "sakType": "KRIGSP",
+    "codeAsString": "KONV_MIN_KRIGSP"
+  },
+  {
+    "decode": "Minimalt konvertert krav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONV_MIN_UFOREP",
+    "kravGjelder": "KONVERTERING_MIN",
+    "sakType": "UFOREP",
+    "codeAsString": "KONV_MIN_UFOREP"
+  },
+  {
+    "decode": "Inntektskontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KON_AV_G_BAT_AFP",
+    "kravGjelder": "KONV_AVVIK_G_BATCH",
+    "sakType": "AFP",
+    "codeAsString": "KON_AV_G_BAT_AFP"
+  },
+  {
+    "decode": "Inntektskontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KON_AV_G_BAT_ALDER",
+    "kravGjelder": "KONV_AVVIK_G_BATCH",
+    "sakType": "ALDER",
+    "codeAsString": "KON_AV_G_BAT_ALDER"
+  },
+  {
+    "decode": "Inntektskontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KON_AV_G_BAT_BARNEP",
+    "kravGjelder": "KONV_AVVIK_G_BATCH",
+    "sakType": "BARNEP",
+    "codeAsString": "KON_AV_G_BAT_BARNEP"
+  },
+  {
+    "decode": "Inntektskontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KON_AV_G_BAT_FAM_PL",
+    "kravGjelder": "KONV_AVVIK_G_BATCH",
+    "sakType": "FAM_PL",
+    "codeAsString": "KON_AV_G_BAT_FAM_PL"
+  },
+  {
+    "decode": "Inntektskontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KON_AV_G_BAT_GAM_YRK",
+    "kravGjelder": "KONV_AVVIK_G_BATCH",
+    "sakType": "GAM_YRK",
+    "codeAsString": "KON_AV_G_BAT_GAM_YRK"
+  },
+  {
+    "decode": "Inntektskontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KON_AV_G_BAT_GJENLEV",
+    "kravGjelder": "KONV_AVVIK_G_BATCH",
+    "sakType": "GJENLEV",
+    "codeAsString": "KON_AV_G_BAT_GJENLEV"
+  },
+  {
+    "decode": "Inntektskontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KON_AV_G_BAT_KRIGSP",
+    "kravGjelder": "KONV_AVVIK_G_BATCH",
+    "sakType": "KRIGSP",
+    "codeAsString": "KON_AV_G_BAT_KRIGSP"
+  },
+  {
+    "decode": "Inntektskontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KON_AV_G_BAT_UFOREP",
+    "kravGjelder": "KONV_AVVIK_G_BATCH",
+    "sakType": "UFOREP",
+    "codeAsString": "KON_AV_G_BAT_UFOREP"
+  },
+  {
+    "decode": "Mellombehandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MELLOMBH_ALDER",
+    "kravGjelder": "MELLOMBH",
+    "sakType": "ALDER",
+    "codeAsString": "MELLOMBH_ALDER"
+  },
+  {
+    "decode": "Mellombehandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MELLOMBH_BARNEP",
+    "kravGjelder": "MELLOMBH",
+    "sakType": "BARNEP",
+    "codeAsString": "MELLOMBH_BARNEP"
+  },
+  {
+    "decode": "Mellombehandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MELLOMBH_GJENLEV",
+    "kravGjelder": "MELLOMBH",
+    "sakType": "GJENLEV",
+    "codeAsString": "MELLOMBH_GJENLEV"
+  },
+  {
+    "decode": "Mellombehandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MELLOMBH_UFOREP",
+    "kravGjelder": "MELLOMBH",
+    "sakType": "UFOREP",
+    "codeAsString": "MELLOMBH_UFOREP"
+  },
+  {
+    "decode": "Merskatt tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MTK_AFP",
+    "kravGjelder": "MTK",
+    "sakType": "AFP",
+    "codeAsString": "MTK_AFP"
+  },
+  {
+    "decode": "Merskatt tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MTK_ALDER",
+    "kravGjelder": "MTK",
+    "sakType": "ALDER",
+    "codeAsString": "MTK_ALDER"
+  },
+  {
+    "decode": "Merskatt tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MTK_BARNEP",
+    "kravGjelder": "MTK",
+    "sakType": "BARNEP",
+    "codeAsString": "MTK_BARNEP"
+  },
+  {
+    "decode": "Merskatt tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MTK_FAM_PL",
+    "kravGjelder": "MTK",
+    "sakType": "FAM_PL",
+    "codeAsString": "MTK_FAM_PL"
+  },
+  {
+    "decode": "Merskatt tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MTK_GAM_YRK",
+    "kravGjelder": "MTK",
+    "sakType": "GAM_YRK",
+    "codeAsString": "MTK_GAM_YRK"
+  },
+  {
+    "decode": "Merskatt tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MTK_GJENLEV",
+    "kravGjelder": "MTK",
+    "sakType": "GJENLEV",
+    "codeAsString": "MTK_GJENLEV"
+  },
+  {
+    "decode": "Merskatt tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MTK_KRIGSP",
+    "kravGjelder": "MTK",
+    "sakType": "KRIGSP",
+    "codeAsString": "MTK_KRIGSP"
+  },
+  {
+    "decode": "Merskatt tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MTK_UFOREP",
+    "kravGjelder": "MTK",
+    "sakType": "UFOREP",
+    "codeAsString": "MTK_UFOREP"
+  },
+  {
+    "decode": "Omgjøring av tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMGJ_TILBAKE_AFP",
+    "kravGjelder": "OMGJ_TILBAKE",
+    "sakType": "AFP",
+    "codeAsString": "OMGJ_TILBAKE_AFP"
+  },
+  {
+    "decode": "Omgjøring av tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMGJ_TILBAKE_AFP_PRI",
+    "kravGjelder": "OMGJ_TILBAKE",
+    "sakType": "AFP_PRIVAT",
+    "codeAsString": "OMGJ_TILBAKE_AFP_PRI"
+  },
+  {
+    "decode": "Omgjøring av tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMGJ_TILBAKE_ALDER",
+    "kravGjelder": "OMGJ_TILBAKE",
+    "sakType": "ALDER",
+    "codeAsString": "OMGJ_TILBAKE_ALDER"
+  },
+  {
+    "decode": "Omgjøring av tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMGJ_TILBAKE_BARNEP",
+    "kravGjelder": "OMGJ_TILBAKE",
+    "sakType": "BARNEP",
+    "codeAsString": "OMGJ_TILBAKE_BARNEP"
+  },
+  {
+    "decode": "Omgjøring av tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMGJ_TILBAKE_FAM_PL",
+    "kravGjelder": "OMGJ_TILBAKE",
+    "sakType": "FAM_PL",
+    "codeAsString": "OMGJ_TILBAKE_FAM_PL"
+  },
+  {
+    "decode": "Omgjøring av tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMGJ_TILBAKE_GAM_YRK",
+    "kravGjelder": "OMGJ_TILBAKE",
+    "sakType": "GAM_YRK",
+    "codeAsString": "OMGJ_TILBAKE_GAM_YRK"
+  },
+  {
+    "decode": "Omgjøring av tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMGJ_TILBAKE_GENRL",
+    "kravGjelder": "OMGJ_TILBAKE",
+    "sakType": "GENRL",
+    "codeAsString": "OMGJ_TILBAKE_GENRL"
+  },
+  {
+    "decode": "Omgjøring av tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMGJ_TILBAKE_GJENLEV",
+    "kravGjelder": "OMGJ_TILBAKE",
+    "sakType": "GJENLEV",
+    "codeAsString": "OMGJ_TILBAKE_GJENLEV"
+  },
+  {
+    "decode": "Omgjøring av tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMGJ_TILBAKE_KRIGSP",
+    "kravGjelder": "OMGJ_TILBAKE",
+    "sakType": "KRIGSP",
+    "codeAsString": "OMGJ_TILBAKE_KRIGSP"
+  },
+  {
+    "decode": "Omgjøring av tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMGJ_TILBAKE_UFOREP",
+    "kravGjelder": "OMGJ_TILBAKE",
+    "sakType": "UFOREP",
+    "codeAsString": "OMGJ_TILBAKE_UFOREP"
+  },
+  {
+    "decode": "Overføring omsorgspoeng",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OVERF_OMSGSP_OMSORG",
+    "kravGjelder": "OVERF_OMSGSP",
+    "sakType": "OMSORG",
+    "codeAsString": "OVERF_OMSGSP_OMSORG"
+  },
+  {
+    "decode": "Regulering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REGULERING_AFP",
+    "kravGjelder": "REGULERING",
+    "sakType": "AFP",
+    "codeAsString": "REGULERING_AFP"
+  },
+  {
+    "decode": "Regulering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REGULERING_AFP_PR",
+    "kravGjelder": "REGULERING",
+    "sakType": "AFP_PRIVAT",
+    "codeAsString": "REGULERING_AFP_PR"
+  },
+  {
+    "decode": "Regulering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REGULERING_ALDER",
+    "kravGjelder": "REGULERING",
+    "sakType": "ALDER",
+    "codeAsString": "REGULERING_ALDER"
+  },
+  {
+    "decode": "Regulering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REGULERING_BARNEP",
+    "kravGjelder": "REGULERING",
+    "sakType": "BARNEP",
+    "codeAsString": "REGULERING_BARNEP"
+  },
+  {
+    "decode": "Regulering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REGULERING_FAM_PL",
+    "kravGjelder": "REGULERING",
+    "sakType": "FAM_PL",
+    "codeAsString": "REGULERING_FAM_PL"
+  },
+  {
+    "decode": "Regulering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REGULERING_GAM_YRK",
+    "kravGjelder": "REGULERING",
+    "sakType": "GAM_YRK",
+    "codeAsString": "REGULERING_GAM_YRK"
+  },
+  {
+    "decode": "Regulering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REGULERING_GJENLEV",
+    "kravGjelder": "REGULERING",
+    "sakType": "GJENLEV",
+    "codeAsString": "REGULERING_GJENLEV"
+  },
+  {
+    "decode": "Regulering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REGULERING_KRIGSP",
+    "kravGjelder": "REGULERING",
+    "sakType": "KRIGSP",
+    "codeAsString": "REGULERING_KRIGSP"
+  },
+  {
+    "decode": "Regulering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REGULERING_UFOREP",
+    "kravGjelder": "REGULERING",
+    "sakType": "UFOREP",
+    "codeAsString": "REGULERING_UFOREP"
+  },
+  {
+    "decode": "Revurdering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REVURD_AFP",
+    "kravGjelder": "REVURD",
+    "sakType": "AFP",
+    "codeAsString": "REVURD_AFP"
+  },
+  {
+    "decode": "Revurdering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REVURD_AFP_PRIVAT",
+    "kravGjelder": "REVURD",
+    "sakType": "AFP_PRIVAT",
+    "codeAsString": "REVURD_AFP_PRIVAT"
+  },
+  {
+    "decode": "Revurdering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REVURD_ALDER",
+    "kravGjelder": "REVURD",
+    "sakType": "ALDER",
+    "codeAsString": "REVURD_ALDER"
+  },
+  {
+    "decode": "Revurdering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REVURD_BARNEP",
+    "kravGjelder": "REVURD",
+    "sakType": "BARNEP",
+    "codeAsString": "REVURD_BARNEP"
+  },
+  {
+    "decode": "Revurdering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REVURD_FAM_PL",
+    "kravGjelder": "REVURD",
+    "sakType": "FAM_PL",
+    "codeAsString": "REVURD_FAM_PL"
+  },
+  {
+    "decode": "Revurdering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REVURD_GAM_YRK",
+    "kravGjelder": "REVURD",
+    "sakType": "GAM_YRK",
+    "codeAsString": "REVURD_GAM_YRK"
+  },
+  {
+    "decode": "Revurdering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REVURD_GJENLEV",
+    "kravGjelder": "REVURD",
+    "sakType": "GJENLEV",
+    "codeAsString": "REVURD_GJENLEV"
+  },
+  {
+    "decode": "Revurdering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REVURD_KRIGSP",
+    "kravGjelder": "REVURD",
+    "sakType": "KRIGSP",
+    "codeAsString": "REVURD_KRIGSP"
+  },
+  {
+    "decode": "Revurdering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REVURD_OMSORG",
+    "kravGjelder": "REVURD",
+    "sakType": "OMSORG",
+    "codeAsString": "REVURD_OMSORG"
+  },
+  {
+    "decode": "Revurdering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REVURD_UFOREP",
+    "kravGjelder": "REVURD",
+    "sakType": "UFOREP",
+    "codeAsString": "REVURD_UFOREP"
+  },
+  {
+    "decode": "Saksomkostninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAK_OMKOST_AFP",
+    "kravGjelder": "SAK_OMKOST",
+    "sakType": "AFP",
+    "codeAsString": "SAK_OMKOST_AFP"
+  },
+  {
+    "decode": "Saksomkostninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAK_OMKOST_AFP_PR",
+    "kravGjelder": "SAK_OMKOST",
+    "sakType": "AFP_PRIVAT",
+    "codeAsString": "SAK_OMKOST_AFP_PR"
+  },
+  {
+    "decode": "Saksomkostninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAK_OMKOST_ALDER",
+    "kravGjelder": "SAK_OMKOST",
+    "sakType": "ALDER",
+    "codeAsString": "SAK_OMKOST_ALDER"
+  },
+  {
+    "decode": "Saksomkostninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAK_OMKOST_BARNEP",
+    "kravGjelder": "SAK_OMKOST",
+    "sakType": "BARNEP",
+    "codeAsString": "SAK_OMKOST_BARNEP"
+  },
+  {
+    "decode": "Saksomkostninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAK_OMKOST_FAM_PL",
+    "kravGjelder": "SAK_OMKOST",
+    "sakType": "FAM_PL",
+    "codeAsString": "SAK_OMKOST_FAM_PL"
+  },
+  {
+    "decode": "Saksomkostninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAK_OMKOST_GAM_YRK",
+    "kravGjelder": "SAK_OMKOST",
+    "sakType": "GAM_YRK",
+    "codeAsString": "SAK_OMKOST_GAM_YRK"
+  },
+  {
+    "decode": "Saksomkostninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAK_OMKOST_GJENLEV",
+    "kravGjelder": "SAK_OMKOST",
+    "sakType": "GJENLEV",
+    "codeAsString": "SAK_OMKOST_GJENLEV"
+  },
+  {
+    "decode": "Saksomkostninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAK_OMKOST_KRIGSP",
+    "kravGjelder": "SAK_OMKOST",
+    "sakType": "KRIGSP",
+    "codeAsString": "SAK_OMKOST_KRIGSP"
+  },
+  {
+    "decode": "Saksomkostninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAK_OMKOST_OMSORG",
+    "kravGjelder": "SAK_OMKOST",
+    "sakType": "OMSORG",
+    "codeAsString": "SAK_OMKOST_OMSORG"
+  },
+  {
+    "decode": "Saksomkostninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAK_OMKOST_UFOREP",
+    "kravGjelder": "SAK_OMKOST",
+    "sakType": "UFOREP",
+    "codeAsString": "SAK_OMKOST_UFOREP"
+  },
+  {
+    "decode": "Sluttbehandling kun utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SLUTTBEH_UTL_ALDER",
+    "kravGjelder": "SLUTTBEH_KUN_UTL",
+    "sakType": "ALDER",
+    "codeAsString": "SLUTTBEH_UTL_ALDER"
+  },
+  {
+    "decode": "Sluttbehandling kun utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SLUTTBEH_UTL_BARNEP",
+    "kravGjelder": "SLUTTBEH_KUN_UTL",
+    "sakType": "BARNEP",
+    "codeAsString": "SLUTTBEH_UTL_BARNEP"
+  },
+  {
+    "decode": "Sluttbehandling kun utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SLUTTBEH_UTL_FAM_PL",
+    "kravGjelder": "SLUTTBEH_KUN_UTL",
+    "sakType": "FAM_PL",
+    "codeAsString": "SLUTTBEH_UTL_FAM_PL"
+  },
+  {
+    "decode": "Sluttbehandling kun utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SLUTTBEH_UTL_GJENLEV",
+    "kravGjelder": "SLUTTBEH_KUN_UTL",
+    "sakType": "GJENLEV",
+    "codeAsString": "SLUTTBEH_UTL_GJENLEV"
+  },
+  {
+    "decode": "Sluttbehandling kun utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SLUTTBEH_UTL_UFOREP",
+    "kravGjelder": "SLUTTBEH_KUN_UTL",
+    "sakType": "UFOREP",
+    "codeAsString": "SLUTTBEH_UTL_UFOREP"
+  },
+  {
+    "decode": "Sluttbehandling Norge/utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SLUTT_BH_UTL_ALDER",
+    "kravGjelder": "SLUTT_BH_UTL",
+    "sakType": "ALDER",
+    "codeAsString": "SLUTT_BH_UTL_ALDER"
+  },
+  {
+    "decode": "Sluttbehandling Norge/utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SLUTT_BH_UTL_BARNEP",
+    "kravGjelder": "SLUTT_BH_UTL",
+    "sakType": "BARNEP",
+    "codeAsString": "SLUTT_BH_UTL_BARNEP"
+  },
+  {
+    "decode": "Sluttbehandling Norge/utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SLUTT_BH_UTL_FAM_PL",
+    "kravGjelder": "SLUTT_BH_UTL",
+    "sakType": "FAM_PL",
+    "codeAsString": "SLUTT_BH_UTL_FAM_PL"
+  },
+  {
+    "decode": "Sluttbehandling Norge/utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SLUTT_BH_UTL_GJENLEV",
+    "kravGjelder": "SLUTT_BH_UTL",
+    "sakType": "GJENLEV",
+    "codeAsString": "SLUTT_BH_UTL_GJENLEV"
+  },
+  {
+    "decode": "Sluttbehandling Norge/utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SLUTT_BH_UTL_UFOREP",
+    "kravGjelder": "SLUTT_BH_UTL",
+    "sakType": "UFOREP",
+    "codeAsString": "SLUTT_BH_UTL_UFOREP"
+  },
+  {
+    "decode": "Søknad om økning av uføregrad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SOK_OKN_UG_UFOREP",
+    "kravGjelder": "SOK_OKN_UG",
+    "sakType": "UFOREP",
+    "codeAsString": "SOK_OKN_UG_UFOREP"
+  },
+  {
+    "decode": "Søknad om reduksjon av uføregrad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SOK_RED_UG_UFOREP",
+    "kravGjelder": "SOK_RED_UG",
+    "sakType": "UFOREP",
+    "codeAsString": "SOK_RED_UG_UFOREP"
+  },
+  {
+    "decode": "Søknad om ung uføre",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SOK_UU",
+    "kravGjelder": "SOK_UU",
+    "sakType": "UFOREP",
+    "codeAsString": "SOK_UU"
+  },
+  {
+    "decode": "Søknad om yrkesskade",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SOK_YS",
+    "kravGjelder": "SOK_YS",
+    "sakType": "UFOREP",
+    "codeAsString": "SOK_YS"
+  },
+  {
+    "decode": "Tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TILBAKEKR_AFP",
+    "kravGjelder": "TILBAKEKR",
+    "sakType": "AFP",
+    "codeAsString": "TILBAKEKR_AFP"
+  },
+  {
+    "decode": "Tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TILBAKEKR_AFP_PRIVAT",
+    "kravGjelder": "TILBAKEKR",
+    "sakType": "AFP_PRIVAT",
+    "codeAsString": "TILBAKEKR_AFP_PRIVAT"
+  },
+  {
+    "decode": "Tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TILBAKEKR_ALDER",
+    "kravGjelder": "TILBAKEKR",
+    "sakType": "ALDER",
+    "codeAsString": "TILBAKEKR_ALDER"
+  },
+  {
+    "decode": "Tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TILBAKEKR_BARNEP",
+    "kravGjelder": "TILBAKEKR",
+    "sakType": "BARNEP",
+    "codeAsString": "TILBAKEKR_BARNEP"
+  },
+  {
+    "decode": "Tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TILBAKEKR_FAM_PL",
+    "kravGjelder": "TILBAKEKR",
+    "sakType": "FAM_PL",
+    "codeAsString": "TILBAKEKR_FAM_PL"
+  },
+  {
+    "decode": "Tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TILBAKEKR_GAM_YRK",
+    "kravGjelder": "TILBAKEKR",
+    "sakType": "GAM_YRK",
+    "codeAsString": "TILBAKEKR_GAM_YRK"
+  },
+  {
+    "decode": "Tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TILBAKEKR_GENRL",
+    "kravGjelder": "TILBAKEKR",
+    "sakType": "GENRL",
+    "codeAsString": "TILBAKEKR_GENRL"
+  },
+  {
+    "decode": "Tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TILBAKEKR_GJENLEV",
+    "kravGjelder": "TILBAKEKR",
+    "sakType": "GJENLEV",
+    "codeAsString": "TILBAKEKR_GJENLEV"
+  },
+  {
+    "decode": "Tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TILBAKEKR_KRIGSP",
+    "kravGjelder": "TILBAKEKR",
+    "sakType": "KRIGSP",
+    "codeAsString": "TILBAKEKR_KRIGSP"
+  },
+  {
+    "decode": "Tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TILBAKEKR_UFOREP",
+    "kravGjelder": "TILBAKEKR",
+    "sakType": "UFOREP",
+    "codeAsString": "TILBAKEKR_UFOREP"
+  },
+  {
+    "decode": "Utsendelse til avtaleland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSEND_AVTLAND_ALDER",
+    "kravGjelder": "UTSEND_AVTALELAND",
+    "sakType": "ALDER",
+    "codeAsString": "UTSEND_AVTLAND_ALDER"
+  },
+  {
+    "decode": "Utsendelse til avtaleland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSEND_AVTLAND_BARNE",
+    "kravGjelder": "UTSEND_AVTALELAND",
+    "sakType": "BARNEP",
+    "codeAsString": "UTSEND_AVTLAND_BARNE"
+  },
+  {
+    "decode": "Utsendelse til avtaleland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSEND_AVTLAND_FAM",
+    "kravGjelder": "UTSEND_AVTALELAND",
+    "sakType": "FAM_PL",
+    "codeAsString": "UTSEND_AVTLAND_FAM"
+  },
+  {
+    "decode": "Utsendelse til avtaleland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSEND_AVTLAND_GJENL",
+    "kravGjelder": "UTSEND_AVTALELAND",
+    "sakType": "GJENLEV",
+    "codeAsString": "UTSEND_AVTLAND_GJENL"
+  },
+  {
+    "decode": "Utsendelse til avtaleland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSEND_AVTLAND_UFORE",
+    "kravGjelder": "UTSEND_AVTALELAND",
+    "sakType": "UFOREP",
+    "codeAsString": "UTSEND_AVTLAND_UFORE"
+  },
+  {
+    "decode": "Etteroppgjør",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_EO",
+    "kravGjelder": "UT_EO",
+    "sakType": "UFOREP",
+    "codeAsString": "UT_EO"
+  },
+  {
+    "decode": "Vurdering Etteroppgjør",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_VURDERING_EO",
+    "kravGjelder": "UT_VURDERING_EO",
+    "sakType": "UFOREP",
+    "codeAsString": "UT_VURDERING_EO"
+  }
+]

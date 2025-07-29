@@ -1,1 +1,138 @@
-[{"decode":"Anke","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ANKE","codeAsString":"ANKE"},{"decode":"Eksport","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EKSPORT","codeAsString":"EKSPORT"},{"decode":"Endring","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ENDRING","codeAsString":"ENDRING"},{"decode":"Ettergivelse av gjeld","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ETTG_GJELD","codeAsString":"ETTG_GJELD"},{"decode":"Dekning faste utgifter inst.opphold","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FAS_UTG_IO","codeAsString":"FAS_UTG_IO"},{"decode":"Førstegangsbehandling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FORSTEG_BH","codeAsString":"FORSTEG_BH"},{"decode":"Førstegangsbehandling bosatt utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_BO_UTL","codeAsString":"F_BH_BO_UTL"},{"decode":"Førstegangsbehandling kun utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_KUN_UTL","codeAsString":"F_BH_KUN_UTL"},{"decode":"Førstegangsbehandling Norge/utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F_BH_MED_UTL","codeAsString":"F_BH_MED_UTL"},{"decode":"Gjenlevenderettighet","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GJ_RETT","codeAsString":"GJ_RETT"},{"decode":"Godskrivning omsorgspoeng","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GOD_OMSGSP","codeAsString":"GOD_OMSGSP"},{"decode":"Klage","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KLAGE","codeAsString":"KLAGE"},{"decode":"Konvertert krav","valid":true,"fromDate":-2209078800000,"toDate":1230678000000,"code":"KONVERTERING","codeAsString":"KONVERTERING"},{"decode":"Overføring omsorgspoeng","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OVERF_OMSGSP","codeAsString":"OVERF_OMSGSP"},{"decode":"Revurdering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REVURD","codeAsString":"REVURD"},{"decode":"Sluttbehandling Norge/utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SLUTT_BH_UTL","codeAsString":"SLUTT_BH_UTL"},{"decode":"Tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TILB_KREV","codeAsString":"TILB_KREV"}]
+[
+  {
+    "decode": "Anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKE",
+    "codeAsString": "ANKE"
+  },
+  {
+    "decode": "Eksport",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKSPORT",
+    "codeAsString": "EKSPORT"
+  },
+  {
+    "decode": "Endring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ENDRING",
+    "codeAsString": "ENDRING"
+  },
+  {
+    "decode": "Ettergivelse av gjeld",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETTG_GJELD",
+    "codeAsString": "ETTG_GJELD"
+  },
+  {
+    "decode": "Dekning faste utgifter inst.opphold",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAS_UTG_IO",
+    "codeAsString": "FAS_UTG_IO"
+  },
+  {
+    "decode": "Førstegangsbehandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORSTEG_BH",
+    "codeAsString": "FORSTEG_BH"
+  },
+  {
+    "decode": "Førstegangsbehandling bosatt utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_BO_UTL",
+    "codeAsString": "F_BH_BO_UTL"
+  },
+  {
+    "decode": "Førstegangsbehandling kun utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_KUN_UTL",
+    "codeAsString": "F_BH_KUN_UTL"
+  },
+  {
+    "decode": "Førstegangsbehandling Norge/utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_MED_UTL",
+    "codeAsString": "F_BH_MED_UTL"
+  },
+  {
+    "decode": "Gjenlevenderettighet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GJ_RETT",
+    "codeAsString": "GJ_RETT"
+  },
+  {
+    "decode": "Godskrivning omsorgspoeng",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GOD_OMSGSP",
+    "codeAsString": "GOD_OMSGSP"
+  },
+  {
+    "decode": "Klage",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KLAGE",
+    "codeAsString": "KLAGE"
+  },
+  {
+    "decode": "Konvertert krav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1230678000000,
+    "code": "KONVERTERING",
+    "codeAsString": "KONVERTERING"
+  },
+  {
+    "decode": "Overføring omsorgspoeng",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OVERF_OMSGSP",
+    "codeAsString": "OVERF_OMSGSP"
+  },
+  {
+    "decode": "Revurdering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REVURD",
+    "codeAsString": "REVURD"
+  },
+  {
+    "decode": "Sluttbehandling Norge/utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SLUTT_BH_UTL",
+    "codeAsString": "SLUTT_BH_UTL"
+  },
+  {
+    "decode": "Tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TILB_KREV",
+    "codeAsString": "TILB_KREV"
+  }
+]

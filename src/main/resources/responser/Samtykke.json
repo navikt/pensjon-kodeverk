@@ -1,1 +1,18 @@
-[{"decode":"Ja","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"J","codeAsString":"J"},{"decode":"Nei","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"N","codeAsString":"N"}]
+[
+  {
+    "decode": "Ja",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "J",
+    "codeAsString": "J"
+  },
+  {
+    "decode": "Nei",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "N",
+    "codeAsString": "N"
+  }
+]

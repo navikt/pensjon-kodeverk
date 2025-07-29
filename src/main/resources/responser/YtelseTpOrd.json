@@ -1,1 +1,66 @@
-[{"decode":"AFP-pensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AFP","codeAsString":"AFP"},{"decode":"Alderspensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ALDER","codeAsString":"ALDER"},{"decode":"Barnepensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BARN","codeAsString":"BARN"},{"decode":"Gjenlevendepensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GJENLEVENDE","codeAsString":"GJENLEVENDE"},{"decode":"Oppsatt bruttopensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OPPSATT_BTO_PEN","codeAsString":"OPPSATT_BTO_PEN"},{"decode":"Særalder","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SAERALDER","codeAsString":"SAERALDER"},{"decode":"Uførepensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORE","codeAsString":"UFORE"},{"decode":"Ukjent","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UKJENT","codeAsString":"UKJENT"}]
+[
+  {
+    "decode": "AFP-pensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AFP",
+    "codeAsString": "AFP"
+  },
+  {
+    "decode": "Alderspensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ALDER",
+    "codeAsString": "ALDER"
+  },
+  {
+    "decode": "Barnepensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BARN",
+    "codeAsString": "BARN"
+  },
+  {
+    "decode": "Gjenlevendepensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GJENLEVENDE",
+    "codeAsString": "GJENLEVENDE"
+  },
+  {
+    "decode": "Oppsatt bruttopensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OPPSATT_BTO_PEN",
+    "codeAsString": "OPPSATT_BTO_PEN"
+  },
+  {
+    "decode": "Særalder",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAERALDER",
+    "codeAsString": "SAERALDER"
+  },
+  {
+    "decode": "Uførepensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UFORE",
+    "codeAsString": "UFORE"
+  },
+  {
+    "decode": "Ukjent",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UKJENT",
+    "codeAsString": "UKJENT"
+  }
+]

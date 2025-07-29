@@ -1,1 +1,66 @@
-[{"decode":"Barn","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BARN","codeAsString":"BARN"},{"decode":"Ektefelle","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EKTE","codeAsString":"EKTE"},{"decode":"Far","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FARA","codeAsString":"FARA"},{"decode":"Medmor","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MEDMOR","codeAsString":"MEDMOR"},{"decode":"Mor","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MORA","codeAsString":"MORA"},{"decode":"Registrert partner","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REPA","codeAsString":"REPA"},{"decode":"Samboer","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SAMB","codeAsString":"SAMB"},{"decode":"Søsken","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SOSK","codeAsString":"SOSK"}]
+[
+  {
+    "decode": "Barn",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BARN",
+    "codeAsString": "BARN"
+  },
+  {
+    "decode": "Ektefelle",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKTE",
+    "codeAsString": "EKTE"
+  },
+  {
+    "decode": "Far",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FARA",
+    "codeAsString": "FARA"
+  },
+  {
+    "decode": "Medmor",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MEDMOR",
+    "codeAsString": "MEDMOR"
+  },
+  {
+    "decode": "Mor",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MORA",
+    "codeAsString": "MORA"
+  },
+  {
+    "decode": "Registrert partner",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REPA",
+    "codeAsString": "REPA"
+  },
+  {
+    "decode": "Samboer",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAMB",
+    "codeAsString": "SAMB"
+  },
+  {
+    "decode": "Søsken",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SOSK",
+    "codeAsString": "SOSK"
+  }
+]

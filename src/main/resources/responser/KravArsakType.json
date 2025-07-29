@@ -1,1 +1,992 @@
-[{"decode":"AFP etteroppgjør","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"AFP_EO","manuell":true,"rekkefolge":23,"codeAsString":"AFP_EO"},{"decode":"Aldersovergang","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"ALDERSOVERGANG","manuell":true,"rekkefolge":2,"codeAsString":"ALDERSOVERGANG"},{"decode":"Annen årsak til saksbehandling","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"ANNEN_ARSAK","manuell":true,"rekkefolge":3,"codeAsString":"ANNEN_ARSAK"},{"decode":"Annen årsak til inntektsendring","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"ANNEN_ARSAK_END_IN","manuell":true,"rekkefolge":38,"codeAsString":"ANNEN_ARSAK_END_IN"},{"decode":"Annen forelder har endret inntekt","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"ANNEN_FOR_END_IN","manuell":true,"rekkefolge":10,"codeAsString":"ANNEN_FOR_END_IN"},{"decode":"Annet","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"ANNET","manuell":true,"rekkefolge":0,"codeAsString":"ANNET"},{"decode":"Avslag","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"AVSLAG","manuell":true,"rekkefolge":0,"codeAsString":"AVSLAG"},{"decode":"Avslag (Invalide-/eller enkepensjon)","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"AVSLAG_INVAL_ENKEP","manuell":true,"rekkefolge":0,"codeAsString":"AVSLAG_INVAL_ENKEP"},{"decode":"Avslag ung ufør","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"AVSLAG_UNG_UFR","manuell":true,"rekkefolge":0,"codeAsString":"AVSLAG_UNG_UFR"},{"decode":"Avslag uføretrygd","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"AVSLAG_UT","manuell":true,"rekkefolge":0,"codeAsString":"AVSLAG_UT"},{"decode":"Barnetillegg","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"BARNETILLEGG","manuell":true,"rekkefolge":0,"codeAsString":"BARNETILLEGG"},{"decode":"Dødsfall barn","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"BARN_DOD","manuell":true,"rekkefolge":12,"codeAsString":"BARN_DOD"},{"decode":"Inntekt til barn er endret","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"BARN_ENDRET_INNTEKT","manuell":true,"rekkefolge":30,"codeAsString":"BARN_ENDRET_INNTEKT"},{"decode":"Barnetilsyn/utd.stønad/flytteutg.","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"BARN_UTDS_FLYTTEUTG","manuell":true,"rekkefolge":0,"codeAsString":"BARN_UTDS_FLYTTEUTG"},{"decode":"Begge forsørgerne har endret inntekt","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"BEGGE_FOR_END_IN","manuell":true,"rekkefolge":11,"codeAsString":"BEGGE_FOR_END_IN"},{"decode":"Beregning","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"BEREGNING","manuell":true,"rekkefolge":0,"codeAsString":"BEREGNING"},{"decode":"Bodd/arbeidet i avtaleland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BODD_ARB_UTL","manuell":true,"rekkefolge":0,"codeAsString":"BODD_ARB_UTL"},{"decode":"Eksport","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"EKSPORT","manuell":true,"rekkefolge":0,"codeAsString":"EKSPORT"},{"decode":"Ektefelletillegg","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"EKTEFELLETILLEGG","manuell":true,"rekkefolge":0,"codeAsString":"EKTEFELLETILLEGG"},{"decode":"Inntekt til bruker er endret","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"ENDRET_INNTEKT","manuell":true,"rekkefolge":36,"codeAsString":"ENDRET_INNTEKT"},{"decode":"Opptjeningsgrunnlag er endret","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"ENDRET_OPPTJENING","manuell":true,"rekkefolge":8,"codeAsString":"ENDRET_OPPTJENING"},{"decode":"Endring av IFU","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"ENDRING_IFU","manuell":true,"rekkefolge":29,"codeAsString":"ENDRING_IFU"},{"decode":"Bruker har annen sak som er endret","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"ENDR_ANNEN_SAK","manuell":true,"rekkefolge":33,"codeAsString":"ENDR_ANNEN_SAK"},{"decode":"Inntekt til tilstøtende er endret","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"EPS_ENDRET_INNTEKT","manuell":true,"rekkefolge":32,"codeAsString":"EPS_ENDRET_INNTEKT"},{"decode":"Tilstøtende har fått innvilget pensjon","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"EPS_NY_YTELSE","manuell":true,"rekkefolge":35,"codeAsString":"EPS_NY_YTELSE"},{"decode":"Tilstøtende har fått innvilget uføretrygd","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"EPS_NY_YTELSE_UT","manuell":true,"rekkefolge":37,"codeAsString":"EPS_NY_YTELSE_UT"},{"decode":"Tilstøtende sin uføretrygd er opphørt","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"EPS_OPPH_YTELSE_UT","manuell":true,"rekkefolge":39,"codeAsString":"EPS_OPPH_YTELSE_UT"},{"decode":"Etteroppgjør","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"ETTEROPPGJOR","manuell":true,"rekkefolge":0,"codeAsString":"ETTEROPPGJOR"},{"decode":"Gjenlevenderett","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"GJENLEVENDERETT","manuell":true,"rekkefolge":0,"codeAsString":"GJENLEVENDERETT"},{"decode":"Gjenlevendetillegg","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"GJENLEVENDETILLEGG","manuell":true,"rekkefolge":0,"codeAsString":"GJENLEVENDETILLEGG"},{"decode":"Gjenlevendetillegg skal vurderes","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"GJNL_SKAL_VURD","manuell":true,"rekkefolge":28,"codeAsString":"GJNL_SKAL_VURD"},{"decode":"Godskriving/overføring","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"GODSKR_OVERF","manuell":true,"rekkefolge":22,"codeAsString":"GODSKR_OVERF"},{"decode":"G-omregning","valid":true,"fromDate":-2208992400000,"toDate":1293836400000,"code":"GOMR","manuell":true,"rekkefolge":0,"codeAsString":"GOMR"},{"decode":"Gradsendringer","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"GRADSENDRINGER","manuell":true,"rekkefolge":0,"codeAsString":"GRADSENDRINGER"},{"decode":"Hjemmeberegning for uføretrygd","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"HJEMMEBER_FOR_UT","manuell":false,"rekkefolge":0,"codeAsString":"HJEMMEBER_FOR_UT"},{"decode":"Hvilende stønadsrett","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"HVIL_STONADSRETT","manuell":true,"rekkefolge":0,"codeAsString":"HVIL_STONADSRETT"},{"decode":"Inntektskontroll","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"INNT_KONTROLL","manuell":true,"rekkefolge":0,"codeAsString":"INNT_KONTROLL"},{"decode":"Innvandring","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"INNVANDRET","manuell":true,"rekkefolge":6,"codeAsString":"INNVANDRET"},{"decode":"Institusjonsopphold på bruker/tilstøtende","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"INSTOPPHOLD","manuell":true,"rekkefolge":9,"codeAsString":"INSTOPPHOLD"},{"decode":"Klage/anke","valid":true,"fromDate":-2208992400000,"toDate":1426287600000,"code":"KLAGE_ANKE","manuell":true,"rekkefolge":27,"codeAsString":"KLAGE_ANKE"},{"decode":"Kontroll 3-17 a","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"KONTR_3_17","manuell":true,"rekkefolge":20,"codeAsString":"KONTR_3_17"},{"decode":"Lovvalg","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"LOVVALG","manuell":true,"rekkefolge":0,"codeAsString":"LOVVALG"},{"decode":"Medisinsk stønad","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"MEDISINSK_STONAD","manuell":true,"rekkefolge":0,"codeAsString":"MEDISINSK_STONAD"},{"decode":"Medlemskap/trygdetid","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"MEDL_TRYGDETID","manuell":true,"rekkefolge":0,"codeAsString":"MEDL_TRYGDETID"},{"decode":"Medlemskap/trygdetid/opptjening","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"MEDL_TRYGDETID_OPPTJ","manuell":true,"rekkefolge":0,"codeAsString":"MEDL_TRYGDETID_OPPTJ"},{"decode":"Nye opplysninger på bruker","valid":false,"fromDate":-2208992400000,"toDate":-2206400400000,"code":"NYE_OPPLYSNINGER","manuell":true,"rekkefolge":0,"codeAsString":"NYE_OPPLYSNINGER"},{"decode":"Ny søknad","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"NY_SOKNAD","manuell":true,"rekkefolge":1,"codeAsString":"NY_SOKNAD"},{"decode":"Omgjøring etter anke","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"OMGJ_ETTER_ANKE","manuell":true,"rekkefolge":26,"codeAsString":"OMGJ_ETTER_ANKE"},{"decode":"Omgjøring fvl. § 35 første ledd bokstav a","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"OMGJ_ETTER_FVL_P35_A","manuell":true,"rekkefolge":0,"codeAsString":"OMGJ_ETTER_FVL_P35_A"},{"decode":"Omgjøring fvl. § 35 første ledd bokstav b","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"OMGJ_ETTER_FVL_P35_B","manuell":true,"rekkefolge":0,"codeAsString":"OMGJ_ETTER_FVL_P35_B"},{"decode":"Omgjøring fvl. § 35 første ledd bokstav c","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"OMGJ_ETTER_FVL_P35_C","manuell":true,"rekkefolge":0,"codeAsString":"OMGJ_ETTER_FVL_P35_C"},{"decode":"Omgjøring etter klage","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"OMGJ_ETTER_KLAGE","manuell":true,"rekkefolge":25,"codeAsString":"OMGJ_ETTER_KLAGE"},{"decode":"Omregning pga regelendring","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OMREGNING","manuell":true,"rekkefolge":0,"codeAsString":"OMREGNING"},{"decode":"Omregning til uføretrygd","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"OMREGN_UFORETRYGD","manuell":true,"rekkefolge":15,"codeAsString":"OMREGN_UFORETRYGD"},{"decode":"Omregning etter feilretting","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OMR_FEILRETTING","manuell":true,"rekkefolge":0,"codeAsString":"OMR_FEILRETTING"},{"decode":"Omsorg for små barn","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"OMSORG_FOR_SMA_BARN","manuell":true,"rekkefolge":0,"codeAsString":"OMSORG_FOR_SMA_BARN"},{"decode":"Opphør av brukers ytelse","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"OPPHOR","manuell":true,"rekkefolge":7,"codeAsString":"OPPHOR"},{"decode":"Opphør av hjelpeløshetsbidrag","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"OPPHOR_HJELPELOS","manuell":true,"rekkefolge":0,"codeAsString":"OPPHOR_HJELPELOS"},{"decode":"Opphør/reduksjon","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"OPPHOR_REDUKSJON","manuell":true,"rekkefolge":0,"codeAsString":"OPPHOR_REDUKSJON"},{"decode":"Opphør/reduksjon uføregrad","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"OPPHOR_RED_UFG","manuell":true,"rekkefolge":0,"codeAsString":"OPPHOR_RED_UFG"},{"decode":"Opphør av tillegg til hjelp i huset","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"OPPHOR_TLG_HJELP_HUS","manuell":true,"rekkefolge":0,"codeAsString":"OPPHOR_TLG_HJELP_HUS"},{"decode":"Opplysninger fra utlandet","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"OPPL_UTLAND","manuell":true,"rekkefolge":19,"codeAsString":"OPPL_UTLAND"},{"decode":"Opptjeningsgrunnlag","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"OPPTJENINGSGRUNNLAG","manuell":true,"rekkefolge":0,"codeAsString":"OPPTJENINGSGRUNNLAG"},{"decode":"Overgangsstønad","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"OVERGANGSSTONAD","manuell":true,"rekkefolge":0,"codeAsString":"OVERGANGSSTONAD"},{"decode":"Overføring av omsorgsopptjening","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"OVRFR_OMSORGSPOENG","manuell":true,"rekkefolge":0,"codeAsString":"OVRFR_OMSORGSPOENG"},{"decode":"Pensjonsvilkår","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"PENSJONSVILKAR","manuell":true,"rekkefolge":0,"codeAsString":"PENSJONSVILKAR"},{"decode":"Pleie eldre/syke/ funksjonshemmede","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"PLEIE_ELDR_SYK_FUNK","manuell":true,"rekkefolge":0,"codeAsString":"PLEIE_ELDR_SYK_FUNK"},{"decode":"Regulering av brukers ytelse","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"REGULERING","manuell":true,"rekkefolge":16,"codeAsString":"REGULERING"},{"decode":"Rekonstruksjon","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"REKONSTRUKSJON","manuell":true,"rekkefolge":14,"codeAsString":"REKONSTRUKSJON"},{"decode":"Samordning","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"SAMORDNING","manuell":true,"rekkefolge":0,"codeAsString":"SAMORDNING"},{"decode":"Sivilstandsendring","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"SIVILSTANDSENDRING","manuell":true,"rekkefolge":4,"codeAsString":"SIVILSTANDSENDRING"},{"decode":"Søknad om barnetillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SOKNAD_BT","manuell":true,"rekkefolge":0,"codeAsString":"SOKNAD_BT"},{"decode":"Tidliguttak","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"TIDLIGUTTAK","manuell":true,"rekkefolge":0,"codeAsString":"TIDLIGUTTAK"},{"decode":"Tilbakekreving","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"TILBAKEKREVING","manuell":true,"rekkefolge":17,"codeAsString":"TILBAKEKREVING"},{"decode":"Tilstøtende sin sak er endret","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"TILSTOT_ENDR_YTELSE","manuell":true,"rekkefolge":34,"codeAsString":"TILSTOT_ENDR_YTELSE"},{"decode":"Opphør av tilstøtendes ytelse","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"TILSTOT_OPPHORT","manuell":true,"rekkefolge":31,"codeAsString":"TILSTOT_OPPHORT"},{"decode":"Dødsfall tilstøtende","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"TILST_DOD","manuell":true,"rekkefolge":13,"codeAsString":"TILST_DOD"},{"decode":"Tvungen forvaltning","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"TVUNGEN_FORVALTNING","manuell":true,"rekkefolge":0,"codeAsString":"TVUNGEN_FORVALTNING"},{"decode":"Uføregrad/IFU og IEU","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"UFG_IFU_OG_IEU","manuell":true,"rekkefolge":0,"codeAsString":"UFG_IFU_OG_IEU"},{"decode":"Uføreberegning ved garantigrad","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"UFOREBER_V_GTGRD","manuell":false,"rekkefolge":0,"codeAsString":"UFOREBER_V_GTGRD"},{"decode":"Uføreber. ved tidl. Uføretidspunkt","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"UFOREBER_V_TIDUFT","manuell":false,"rekkefolge":0,"codeAsString":"UFOREBER_V_TIDUFT"},{"decode":"Uføretrygdovergang","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"UFOREOVERGANG","manuell":true,"rekkefolge":24,"codeAsString":"UFOREOVERGANG"},{"decode":"Uføregrad","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"UFR_GRAD","manuell":true,"rekkefolge":0,"codeAsString":"UFR_GRAD"},{"decode":"Uføre-/pensjonsgrad","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"UFR_PENSJON_GRAD","manuell":true,"rekkefolge":0,"codeAsString":"UFR_PENSJON_GRAD"},{"decode":"Uføretidspunkt","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"UFR_TIDSPUNKT","manuell":true,"rekkefolge":0,"codeAsString":"UFR_TIDSPUNKT"},{"decode":"Utbetaling/avkortning","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"UTBET_AVKORT","manuell":true,"rekkefolge":0,"codeAsString":"UTBET_AVKORT"},{"decode":"Uttaksgrad er endret eller oppdatert","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"UTTAKSGRAD","manuell":true,"rekkefolge":21,"codeAsString":"UTTAKSGRAD"},{"decode":"Utvandring/eksport","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"UTVANDRET","manuell":true,"rekkefolge":18,"codeAsString":"UTVANDRET"},{"decode":"Etteroppgjør","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UT_EO","manuell":true,"rekkefolge":40,"codeAsString":"UT_EO"},{"decode":"Omgjøring etter anke","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UT_OMGJ_ANKE_EO","manuell":true,"rekkefolge":0,"codeAsString":"UT_OMGJ_ANKE_EO"},{"decode":"Omgjøring etter klage","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UT_OMGJ_KLAGE_EO","manuell":true,"rekkefolge":0,"codeAsString":"UT_OMGJ_KLAGE_EO"},{"decode":"Vurdering Etteroppgjør","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UT_VURDERING_EO","manuell":true,"rekkefolge":0,"codeAsString":"UT_VURDERING_EO"},{"decode":"Vilkår","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"VILKAR","manuell":true,"rekkefolge":0,"codeAsString":"VILKAR"},{"decode":"Virkningstidspunkt","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"VIRK_TIDSPUNKT","manuell":true,"rekkefolge":0,"codeAsString":"VIRK_TIDSPUNKT"},{"decode":"Forsørgingstillegg skal vurderes","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"VURDER_FORSORG","manuell":true,"rekkefolge":5,"codeAsString":"VURDER_FORSORG"},{"decode":"Særskilt sats for forsørger skal vurderes","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"VURDER_SERSKILT_SATS","manuell":true,"rekkefolge":0,"codeAsString":"VURDER_SERSKILT_SATS"},{"decode":"Avvik i vurdert sivilstand for berørte saker","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"VURD_SIVILST","manuell":false,"rekkefolge":0,"codeAsString":"VURD_SIVILST"},{"decode":"Yrkesskade","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"YRKESSKADE","manuell":true,"rekkefolge":0,"codeAsString":"YRKESSKADE"},{"decode":"Yrkesskade/-sykdom","valid":true,"fromDate":-2208992400000,"toDate":null,"code":"YRK_SKADE_SYK","manuell":true,"rekkefolge":0,"codeAsString":"YRK_SKADE_SYK"}]
+[
+  {
+    "decode": "AFP etteroppgjør",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "AFP_EO",
+    "manuell": true,
+    "rekkefolge": 23,
+    "codeAsString": "AFP_EO"
+  },
+  {
+    "decode": "Aldersovergang",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "ALDERSOVERGANG",
+    "manuell": true,
+    "rekkefolge": 2,
+    "codeAsString": "ALDERSOVERGANG"
+  },
+  {
+    "decode": "Annen årsak til saksbehandling",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "ANNEN_ARSAK",
+    "manuell": true,
+    "rekkefolge": 3,
+    "codeAsString": "ANNEN_ARSAK"
+  },
+  {
+    "decode": "Annen årsak til inntektsendring",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "ANNEN_ARSAK_END_IN",
+    "manuell": true,
+    "rekkefolge": 38,
+    "codeAsString": "ANNEN_ARSAK_END_IN"
+  },
+  {
+    "decode": "Annen forelder har endret inntekt",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "ANNEN_FOR_END_IN",
+    "manuell": true,
+    "rekkefolge": 10,
+    "codeAsString": "ANNEN_FOR_END_IN"
+  },
+  {
+    "decode": "Annet",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "ANNET",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "ANNET"
+  },
+  {
+    "decode": "Avslag",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "AVSLAG",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "AVSLAG"
+  },
+  {
+    "decode": "Avslag (Invalide-/eller enkepensjon)",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "AVSLAG_INVAL_ENKEP",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "AVSLAG_INVAL_ENKEP"
+  },
+  {
+    "decode": "Avslag ung ufør",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "AVSLAG_UNG_UFR",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "AVSLAG_UNG_UFR"
+  },
+  {
+    "decode": "Avslag uføretrygd",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "AVSLAG_UT",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "AVSLAG_UT"
+  },
+  {
+    "decode": "Barnetillegg",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "BARNETILLEGG",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "BARNETILLEGG"
+  },
+  {
+    "decode": "Dødsfall barn",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "BARN_DOD",
+    "manuell": true,
+    "rekkefolge": 12,
+    "codeAsString": "BARN_DOD"
+  },
+  {
+    "decode": "Inntekt til barn er endret",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "BARN_ENDRET_INNTEKT",
+    "manuell": true,
+    "rekkefolge": 30,
+    "codeAsString": "BARN_ENDRET_INNTEKT"
+  },
+  {
+    "decode": "Barnetilsyn/utd.stønad/flytteutg.",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "BARN_UTDS_FLYTTEUTG",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "BARN_UTDS_FLYTTEUTG"
+  },
+  {
+    "decode": "Begge forsørgerne har endret inntekt",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "BEGGE_FOR_END_IN",
+    "manuell": true,
+    "rekkefolge": 11,
+    "codeAsString": "BEGGE_FOR_END_IN"
+  },
+  {
+    "decode": "Beregning",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "BEREGNING",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "BEREGNING"
+  },
+  {
+    "decode": "Bodd/arbeidet i avtaleland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BODD_ARB_UTL",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "BODD_ARB_UTL"
+  },
+  {
+    "decode": "Eksport",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "EKSPORT",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "EKSPORT"
+  },
+  {
+    "decode": "Ektefelletillegg",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "EKTEFELLETILLEGG",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "EKTEFELLETILLEGG"
+  },
+  {
+    "decode": "Inntekt til bruker er endret",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "ENDRET_INNTEKT",
+    "manuell": true,
+    "rekkefolge": 36,
+    "codeAsString": "ENDRET_INNTEKT"
+  },
+  {
+    "decode": "Opptjeningsgrunnlag er endret",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "ENDRET_OPPTJENING",
+    "manuell": true,
+    "rekkefolge": 8,
+    "codeAsString": "ENDRET_OPPTJENING"
+  },
+  {
+    "decode": "Endring av IFU",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "ENDRING_IFU",
+    "manuell": true,
+    "rekkefolge": 29,
+    "codeAsString": "ENDRING_IFU"
+  },
+  {
+    "decode": "Bruker har annen sak som er endret",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "ENDR_ANNEN_SAK",
+    "manuell": true,
+    "rekkefolge": 33,
+    "codeAsString": "ENDR_ANNEN_SAK"
+  },
+  {
+    "decode": "Inntekt til tilstøtende er endret",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "EPS_ENDRET_INNTEKT",
+    "manuell": true,
+    "rekkefolge": 32,
+    "codeAsString": "EPS_ENDRET_INNTEKT"
+  },
+  {
+    "decode": "Tilstøtende har fått innvilget pensjon",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "EPS_NY_YTELSE",
+    "manuell": true,
+    "rekkefolge": 35,
+    "codeAsString": "EPS_NY_YTELSE"
+  },
+  {
+    "decode": "Tilstøtende har fått innvilget uføretrygd",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "EPS_NY_YTELSE_UT",
+    "manuell": true,
+    "rekkefolge": 37,
+    "codeAsString": "EPS_NY_YTELSE_UT"
+  },
+  {
+    "decode": "Tilstøtende sin uføretrygd er opphørt",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "EPS_OPPH_YTELSE_UT",
+    "manuell": true,
+    "rekkefolge": 39,
+    "codeAsString": "EPS_OPPH_YTELSE_UT"
+  },
+  {
+    "decode": "Etteroppgjør",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "ETTEROPPGJOR",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "ETTEROPPGJOR"
+  },
+  {
+    "decode": "Gjenlevenderett",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "GJENLEVENDERETT",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "GJENLEVENDERETT"
+  },
+  {
+    "decode": "Gjenlevendetillegg",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "GJENLEVENDETILLEGG",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "GJENLEVENDETILLEGG"
+  },
+  {
+    "decode": "Gjenlevendetillegg skal vurderes",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "GJNL_SKAL_VURD",
+    "manuell": true,
+    "rekkefolge": 28,
+    "codeAsString": "GJNL_SKAL_VURD"
+  },
+  {
+    "decode": "Godskriving/overføring",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "GODSKR_OVERF",
+    "manuell": true,
+    "rekkefolge": 22,
+    "codeAsString": "GODSKR_OVERF"
+  },
+  {
+    "decode": "G-omregning",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": 1293836400000,
+    "code": "GOMR",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "GOMR"
+  },
+  {
+    "decode": "Gradsendringer",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "GRADSENDRINGER",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "GRADSENDRINGER"
+  },
+  {
+    "decode": "Hjemmeberegning for uføretrygd",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "HJEMMEBER_FOR_UT",
+    "manuell": false,
+    "rekkefolge": 0,
+    "codeAsString": "HJEMMEBER_FOR_UT"
+  },
+  {
+    "decode": "Hvilende stønadsrett",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "HVIL_STONADSRETT",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "HVIL_STONADSRETT"
+  },
+  {
+    "decode": "Inntektskontroll",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "INNT_KONTROLL",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "INNT_KONTROLL"
+  },
+  {
+    "decode": "Innvandring",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "INNVANDRET",
+    "manuell": true,
+    "rekkefolge": 6,
+    "codeAsString": "INNVANDRET"
+  },
+  {
+    "decode": "Institusjonsopphold på bruker/tilstøtende",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "INSTOPPHOLD",
+    "manuell": true,
+    "rekkefolge": 9,
+    "codeAsString": "INSTOPPHOLD"
+  },
+  {
+    "decode": "Klage/anke",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": 1426287600000,
+    "code": "KLAGE_ANKE",
+    "manuell": true,
+    "rekkefolge": 27,
+    "codeAsString": "KLAGE_ANKE"
+  },
+  {
+    "decode": "Kontroll 3-17 a",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "KONTR_3_17",
+    "manuell": true,
+    "rekkefolge": 20,
+    "codeAsString": "KONTR_3_17"
+  },
+  {
+    "decode": "Lovvalg",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "LOVVALG",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "LOVVALG"
+  },
+  {
+    "decode": "Medisinsk stønad",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "MEDISINSK_STONAD",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "MEDISINSK_STONAD"
+  },
+  {
+    "decode": "Medlemskap/trygdetid",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "MEDL_TRYGDETID",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "MEDL_TRYGDETID"
+  },
+  {
+    "decode": "Medlemskap/trygdetid/opptjening",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "MEDL_TRYGDETID_OPPTJ",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "MEDL_TRYGDETID_OPPTJ"
+  },
+  {
+    "decode": "Nye opplysninger på bruker",
+    "valid": false,
+    "fromDate": -2208992400000,
+    "toDate": -2206400400000,
+    "code": "NYE_OPPLYSNINGER",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "NYE_OPPLYSNINGER"
+  },
+  {
+    "decode": "Ny søknad",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "NY_SOKNAD",
+    "manuell": true,
+    "rekkefolge": 1,
+    "codeAsString": "NY_SOKNAD"
+  },
+  {
+    "decode": "Omgjøring etter anke",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "OMGJ_ETTER_ANKE",
+    "manuell": true,
+    "rekkefolge": 26,
+    "codeAsString": "OMGJ_ETTER_ANKE"
+  },
+  {
+    "decode": "Omgjøring fvl. § 35 første ledd bokstav a",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "OMGJ_ETTER_FVL_P35_A",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "OMGJ_ETTER_FVL_P35_A"
+  },
+  {
+    "decode": "Omgjøring fvl. § 35 første ledd bokstav b",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "OMGJ_ETTER_FVL_P35_B",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "OMGJ_ETTER_FVL_P35_B"
+  },
+  {
+    "decode": "Omgjøring fvl. § 35 første ledd bokstav c",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "OMGJ_ETTER_FVL_P35_C",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "OMGJ_ETTER_FVL_P35_C"
+  },
+  {
+    "decode": "Omgjøring etter klage",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "OMGJ_ETTER_KLAGE",
+    "manuell": true,
+    "rekkefolge": 25,
+    "codeAsString": "OMGJ_ETTER_KLAGE"
+  },
+  {
+    "decode": "Omregning pga regelendring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMREGNING",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "OMREGNING"
+  },
+  {
+    "decode": "Omregning til uføretrygd",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "OMREGN_UFORETRYGD",
+    "manuell": true,
+    "rekkefolge": 15,
+    "codeAsString": "OMREGN_UFORETRYGD"
+  },
+  {
+    "decode": "Omregning etter feilretting",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMR_FEILRETTING",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "OMR_FEILRETTING"
+  },
+  {
+    "decode": "Omsorg for små barn",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "OMSORG_FOR_SMA_BARN",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "OMSORG_FOR_SMA_BARN"
+  },
+  {
+    "decode": "Opphør av brukers ytelse",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "OPPHOR",
+    "manuell": true,
+    "rekkefolge": 7,
+    "codeAsString": "OPPHOR"
+  },
+  {
+    "decode": "Opphør av hjelpeløshetsbidrag",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "OPPHOR_HJELPELOS",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "OPPHOR_HJELPELOS"
+  },
+  {
+    "decode": "Opphør/reduksjon",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "OPPHOR_REDUKSJON",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "OPPHOR_REDUKSJON"
+  },
+  {
+    "decode": "Opphør/reduksjon uføregrad",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "OPPHOR_RED_UFG",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "OPPHOR_RED_UFG"
+  },
+  {
+    "decode": "Opphør av tillegg til hjelp i huset",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "OPPHOR_TLG_HJELP_HUS",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "OPPHOR_TLG_HJELP_HUS"
+  },
+  {
+    "decode": "Opplysninger fra utlandet",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "OPPL_UTLAND",
+    "manuell": true,
+    "rekkefolge": 19,
+    "codeAsString": "OPPL_UTLAND"
+  },
+  {
+    "decode": "Opptjeningsgrunnlag",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "OPPTJENINGSGRUNNLAG",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "OPPTJENINGSGRUNNLAG"
+  },
+  {
+    "decode": "Overgangsstønad",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "OVERGANGSSTONAD",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "OVERGANGSSTONAD"
+  },
+  {
+    "decode": "Overføring av omsorgsopptjening",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "OVRFR_OMSORGSPOENG",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "OVRFR_OMSORGSPOENG"
+  },
+  {
+    "decode": "Pensjonsvilkår",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "PENSJONSVILKAR",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "PENSJONSVILKAR"
+  },
+  {
+    "decode": "Pleie eldre/syke/ funksjonshemmede",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "PLEIE_ELDR_SYK_FUNK",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "PLEIE_ELDR_SYK_FUNK"
+  },
+  {
+    "decode": "Regulering av brukers ytelse",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "REGULERING",
+    "manuell": true,
+    "rekkefolge": 16,
+    "codeAsString": "REGULERING"
+  },
+  {
+    "decode": "Rekonstruksjon",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "REKONSTRUKSJON",
+    "manuell": true,
+    "rekkefolge": 14,
+    "codeAsString": "REKONSTRUKSJON"
+  },
+  {
+    "decode": "Samordning",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "SAMORDNING",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "SAMORDNING"
+  },
+  {
+    "decode": "Sivilstandsendring",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "SIVILSTANDSENDRING",
+    "manuell": true,
+    "rekkefolge": 4,
+    "codeAsString": "SIVILSTANDSENDRING"
+  },
+  {
+    "decode": "Søknad om barnetillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SOKNAD_BT",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "SOKNAD_BT"
+  },
+  {
+    "decode": "Tidliguttak",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "TIDLIGUTTAK",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "TIDLIGUTTAK"
+  },
+  {
+    "decode": "Tilbakekreving",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "TILBAKEKREVING",
+    "manuell": true,
+    "rekkefolge": 17,
+    "codeAsString": "TILBAKEKREVING"
+  },
+  {
+    "decode": "Tilstøtende sin sak er endret",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "TILSTOT_ENDR_YTELSE",
+    "manuell": true,
+    "rekkefolge": 34,
+    "codeAsString": "TILSTOT_ENDR_YTELSE"
+  },
+  {
+    "decode": "Opphør av tilstøtendes ytelse",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "TILSTOT_OPPHORT",
+    "manuell": true,
+    "rekkefolge": 31,
+    "codeAsString": "TILSTOT_OPPHORT"
+  },
+  {
+    "decode": "Dødsfall tilstøtende",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "TILST_DOD",
+    "manuell": true,
+    "rekkefolge": 13,
+    "codeAsString": "TILST_DOD"
+  },
+  {
+    "decode": "Tvungen forvaltning",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "TVUNGEN_FORVALTNING",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "TVUNGEN_FORVALTNING"
+  },
+  {
+    "decode": "Uføregrad/IFU og IEU",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "UFG_IFU_OG_IEU",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "UFG_IFU_OG_IEU"
+  },
+  {
+    "decode": "Uføreberegning ved garantigrad",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "UFOREBER_V_GTGRD",
+    "manuell": false,
+    "rekkefolge": 0,
+    "codeAsString": "UFOREBER_V_GTGRD"
+  },
+  {
+    "decode": "Uføreber. ved tidl. Uføretidspunkt",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "UFOREBER_V_TIDUFT",
+    "manuell": false,
+    "rekkefolge": 0,
+    "codeAsString": "UFOREBER_V_TIDUFT"
+  },
+  {
+    "decode": "Uføretrygdovergang",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "UFOREOVERGANG",
+    "manuell": true,
+    "rekkefolge": 24,
+    "codeAsString": "UFOREOVERGANG"
+  },
+  {
+    "decode": "Uføregrad",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "UFR_GRAD",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "UFR_GRAD"
+  },
+  {
+    "decode": "Uføre-/pensjonsgrad",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "UFR_PENSJON_GRAD",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "UFR_PENSJON_GRAD"
+  },
+  {
+    "decode": "Uføretidspunkt",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "UFR_TIDSPUNKT",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "UFR_TIDSPUNKT"
+  },
+  {
+    "decode": "Utbetaling/avkortning",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "UTBET_AVKORT",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "UTBET_AVKORT"
+  },
+  {
+    "decode": "Uttaksgrad er endret eller oppdatert",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "UTTAKSGRAD",
+    "manuell": true,
+    "rekkefolge": 21,
+    "codeAsString": "UTTAKSGRAD"
+  },
+  {
+    "decode": "Utvandring/eksport",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "UTVANDRET",
+    "manuell": true,
+    "rekkefolge": 18,
+    "codeAsString": "UTVANDRET"
+  },
+  {
+    "decode": "Etteroppgjør",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_EO",
+    "manuell": true,
+    "rekkefolge": 40,
+    "codeAsString": "UT_EO"
+  },
+  {
+    "decode": "Omgjøring etter anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_OMGJ_ANKE_EO",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "UT_OMGJ_ANKE_EO"
+  },
+  {
+    "decode": "Omgjøring etter klage",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_OMGJ_KLAGE_EO",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "UT_OMGJ_KLAGE_EO"
+  },
+  {
+    "decode": "Vurdering Etteroppgjør",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_VURDERING_EO",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "UT_VURDERING_EO"
+  },
+  {
+    "decode": "Vilkår",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "VILKAR",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "VILKAR"
+  },
+  {
+    "decode": "Virkningstidspunkt",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "VIRK_TIDSPUNKT",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "VIRK_TIDSPUNKT"
+  },
+  {
+    "decode": "Forsørgingstillegg skal vurderes",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "VURDER_FORSORG",
+    "manuell": true,
+    "rekkefolge": 5,
+    "codeAsString": "VURDER_FORSORG"
+  },
+  {
+    "decode": "Særskilt sats for forsørger skal vurderes",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "VURDER_SERSKILT_SATS",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "VURDER_SERSKILT_SATS"
+  },
+  {
+    "decode": "Avvik i vurdert sivilstand for berørte saker",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "VURD_SIVILST",
+    "manuell": false,
+    "rekkefolge": 0,
+    "codeAsString": "VURD_SIVILST"
+  },
+  {
+    "decode": "Yrkesskade",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "YRKESSKADE",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "YRKESSKADE"
+  },
+  {
+    "decode": "Yrkesskade/-sykdom",
+    "valid": true,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "YRK_SKADE_SYK",
+    "manuell": true,
+    "rekkefolge": 0,
+    "codeAsString": "YRK_SKADE_SYK"
+  }
+]

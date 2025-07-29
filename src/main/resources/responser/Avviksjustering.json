@@ -1,1 +1,42 @@
-[{"decode":"Ingen justering er foretatt da avviksbeløp er 0 kr","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INGEN","codeAsString":"INGEN"},{"decode":"Et negativt avviksbeløp har oppstått og lar seg ikke etterbetale i de gjenstående måneder","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"NEG_IKKE_OK","codeAsString":"NEG_IKKE_OK"},{"decode":"Et negativt avviksbeløp har oppstått og blir etterbetalt i de gjenstående måneder","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"NEG_OK","codeAsString":"NEG_OK"},{"decode":"Et positivt avviksbeløp har oppstått og lar seg ikke tilbakekreve i de gjenstående måneder","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"POS_IKKE_OK","codeAsString":"POS_IKKE_OK"},{"decode":"Et positivt avviksbeløp har oppstått og blir tilbakekrevd i de gjenstående måneder","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"POS_OK","codeAsString":"POS_OK"}]
+[
+  {
+    "decode": "Ingen justering er foretatt da avviksbeløp er 0 kr",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INGEN",
+    "codeAsString": "INGEN"
+  },
+  {
+    "decode": "Et negativt avviksbeløp har oppstått og lar seg ikke etterbetale i de gjenstående måneder",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NEG_IKKE_OK",
+    "codeAsString": "NEG_IKKE_OK"
+  },
+  {
+    "decode": "Et negativt avviksbeløp har oppstått og blir etterbetalt i de gjenstående måneder",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NEG_OK",
+    "codeAsString": "NEG_OK"
+  },
+  {
+    "decode": "Et positivt avviksbeløp har oppstått og lar seg ikke tilbakekreve i de gjenstående måneder",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "POS_IKKE_OK",
+    "codeAsString": "POS_IKKE_OK"
+  },
+  {
+    "decode": "Et positivt avviksbeløp har oppstått og blir tilbakekrevd i de gjenstående måneder",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "POS_OK",
+    "codeAsString": "POS_OK"
+  }
+]

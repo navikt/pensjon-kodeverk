@@ -1,1 +1,101 @@
-[{"decode":"Avbrutt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"A","forkortelse":"Avbrutt","codeAsString":"A"},{"decode":"Under arbeid","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"D","forkortelse":"UArbeid","codeAsString":"D"},{"decode":"Ekspedert","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"E","forkortelse":"Ekspedert","codeAsString":"E"},{"decode":"Ferdig og klar for lokal print","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FL","forkortelse":"LokalP","codeAsString":"FL"},{"decode":"Ferdig og klar for sentral print","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FS","forkortelse":"SentralP","codeAsString":"FS"},{"decode":"Journalført","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"J","forkortelse":"Journalført","codeAsString":"J"},{"decode":"Midlertidig journalført","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"M","forkortelse":"Mid Journ","codeAsString":"M"},{"decode":"Mottatt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MO","forkortelse":"Mottatt","codeAsString":"MO"},{"decode":"Opplasting dokument","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OD","forkortelse":"Opplasting dokument","codeAsString":"OD"},{"decode":"Reservert","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"R","forkortelse":"Reservert","codeAsString":"R"},{"decode":"Utgår før tilknytning til sak","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U","forkortelse":"Utgår","codeAsString":"U"}]
+[
+  {
+    "decode": "Avbrutt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "A",
+    "forkortelse": "Avbrutt",
+    "codeAsString": "A"
+  },
+  {
+    "decode": "Under arbeid",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "D",
+    "forkortelse": "UArbeid",
+    "codeAsString": "D"
+  },
+  {
+    "decode": "Ekspedert",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "E",
+    "forkortelse": "Ekspedert",
+    "codeAsString": "E"
+  },
+  {
+    "decode": "Ferdig og klar for lokal print",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FL",
+    "forkortelse": "LokalP",
+    "codeAsString": "FL"
+  },
+  {
+    "decode": "Ferdig og klar for sentral print",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FS",
+    "forkortelse": "SentralP",
+    "codeAsString": "FS"
+  },
+  {
+    "decode": "Journalført",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "J",
+    "forkortelse": "Journalført",
+    "codeAsString": "J"
+  },
+  {
+    "decode": "Midlertidig journalført",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "M",
+    "forkortelse": "Mid Journ",
+    "codeAsString": "M"
+  },
+  {
+    "decode": "Mottatt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MO",
+    "forkortelse": "Mottatt",
+    "codeAsString": "MO"
+  },
+  {
+    "decode": "Opplasting dokument",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OD",
+    "forkortelse": "Opplasting dokument",
+    "codeAsString": "OD"
+  },
+  {
+    "decode": "Reservert",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "R",
+    "forkortelse": "Reservert",
+    "codeAsString": "R"
+  },
+  {
+    "decode": "Utgår før tilknytning til sak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U",
+    "forkortelse": "Utgår",
+    "codeAsString": "U"
+  }
+]

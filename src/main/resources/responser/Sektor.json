@@ -1,1 +1,82 @@
-[{"decode":"Medlemskap","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"A","codeAsString":"A"},{"decode":"Yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"DA","codeAsString":"DA"},{"decode":"Familie","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"F","codeAsString":"F"},{"decode":"Global","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"HG","codeAsString":"HG"},{"decode":"Identifikasjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"HI","codeAsString":"HI"},{"decode":"Bosted","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"HR","codeAsString":"HR"},{"decode":"Pensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"P","codeAsString":"P"},{"decode":"Feilutbetaling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"R","codeAsString":"R"},{"decode":"Sykdom","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"S","codeAsString":"S"},{"decode":"Arbeidsløshet","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U","codeAsString":"U"}]
+[
+  {
+    "decode": "Medlemskap",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "A",
+    "codeAsString": "A"
+  },
+  {
+    "decode": "Yrkesskade",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DA",
+    "codeAsString": "DA"
+  },
+  {
+    "decode": "Familie",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F",
+    "codeAsString": "F"
+  },
+  {
+    "decode": "Global",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HG",
+    "codeAsString": "HG"
+  },
+  {
+    "decode": "Identifikasjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HI",
+    "codeAsString": "HI"
+  },
+  {
+    "decode": "Bosted",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HR",
+    "codeAsString": "HR"
+  },
+  {
+    "decode": "Pensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P",
+    "codeAsString": "P"
+  },
+  {
+    "decode": "Feilutbetaling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "R",
+    "codeAsString": "R"
+  },
+  {
+    "decode": "Sykdom",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "S",
+    "codeAsString": "S"
+  },
+  {
+    "decode": "Arbeidsløshet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U",
+    "codeAsString": "U"
+  }
+]

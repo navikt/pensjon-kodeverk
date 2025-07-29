@@ -1,1 +1,1667 @@
-[{"decode":"Afar","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"1","code":"AA","codeAsString":"AA"},{"decode":"Abkhasisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"2","code":"AB","codeAsString":"AB"},{"decode":"Avestisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"3","code":"AE","codeAsString":"AE"},{"decode":"Afrikaans","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"4","code":"AF","codeAsString":"AF"},{"decode":"Akan","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"5","code":"AK","codeAsString":"AK"},{"decode":"Amharisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"6","code":"AM","codeAsString":"AM"},{"decode":"Aragonesisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"7","code":"AN","codeAsString":"AN"},{"decode":"Arabisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"8","code":"AR","codeAsString":"AR"},{"decode":"Assamesisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"9","code":"AS","codeAsString":"AS"},{"decode":"Avar","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"10","code":"AV","codeAsString":"AV"},{"decode":"Aymara","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"11","code":"AY","codeAsString":"AY"},{"decode":"Aserbajdsjansk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"12","code":"AZ","codeAsString":"AZ"},{"decode":"Basjkirsk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"13","code":"BA","codeAsString":"BA"},{"decode":"Hviterussisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"14","code":"BE","codeAsString":"BE"},{"decode":"Bulgarsk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"15","code":"BG","codeAsString":"BG"},{"decode":"Bihari","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"16","code":"BH","codeAsString":"BH"},{"decode":"Bislama","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"17","code":"BI","codeAsString":"BI"},{"decode":"Bambara","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"18","code":"BM","codeAsString":"BM"},{"decode":"Bengali","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"19","code":"BN","codeAsString":"BN"},{"decode":"Tibetansk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"20","code":"BO","codeAsString":"BO"},{"decode":"Bretonsk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"21","code":"BR","codeAsString":"BR"},{"decode":"Bosnisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"22","code":"BS","codeAsString":"BS"},{"decode":"Katalansk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"23","code":"CA","codeAsString":"CA"},{"decode":"Tsjetsjensk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"24","code":"CE","codeAsString":"CE"},{"decode":"Chamorro","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"25","code":"CH","codeAsString":"CH"},{"decode":"Korsikansk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"26","code":"CO","codeAsString":"CO"},{"decode":"Cree","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"27","code":"CR","codeAsString":"CR"},{"decode":"Tsjekkisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"28","code":"CS","codeAsString":"CS"},{"decode":"Gammelslavisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"29","code":"CU","codeAsString":"CU"},{"decode":"Tsjuvansk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"30","code":"CV","codeAsString":"CV"},{"decode":"Walisisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"31","code":"CY","codeAsString":"CY"},{"decode":"Dansk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"32","code":"DA","codeAsString":"DA"},{"decode":"Tysk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"33","code":"DE","codeAsString":"DE"},{"decode":"Divehi","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"34","code":"DV","codeAsString":"DV"},{"decode":"Dzongkha","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"35","code":"DZ","codeAsString":"DZ"},{"decode":"Ewe","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"36","code":"EE","codeAsString":"EE"},{"decode":"Gresk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"37","code":"EL","codeAsString":"EL"},{"decode":"Engelsk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"38","code":"EN","codeAsString":"EN"},{"decode":"Esperanto","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"39","code":"EO","codeAsString":"EO"},{"decode":"Spansk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"40","code":"ES","codeAsString":"ES"},{"decode":"Estisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"41","code":"ET","codeAsString":"ET"},{"decode":"Baskisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"42","code":"EU","codeAsString":"EU"},{"decode":"Farsi","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"43","code":"FA","codeAsString":"FA"},{"decode":"Fulfulde","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"44","code":"FF","codeAsString":"FF"},{"decode":"Finsk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"45","code":"FI","codeAsString":"FI"},{"decode":"Fijisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"46","code":"FJ","codeAsString":"FJ"},{"decode":"Færøysk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"47","code":"FO","codeAsString":"FO"},{"decode":"Fransk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"48","code":"FR","codeAsString":"FR"},{"decode":"Frisisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"49","code":"FY","codeAsString":"FY"},{"decode":"Irsk gælisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"50","code":"GA","codeAsString":"GA"},{"decode":"Skotsk gælisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"51","code":"GD","codeAsString":"GD"},{"decode":"Galisisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"52","code":"GL","codeAsString":"GL"},{"decode":"Guaraní","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"53","code":"GN","codeAsString":"GN"},{"decode":"Gujarati","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"54","code":"GU","codeAsString":"GU"},{"decode":"Manx","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"55","code":"GV","codeAsString":"GV"},{"decode":"Hausa","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"56","code":"HA","codeAsString":"HA"},{"decode":"Hebraisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"57","code":"HE","codeAsString":"HE"},{"decode":"Hindi","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"58","code":"HI","codeAsString":"HI"},{"decode":"Hiri motu","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"59","code":"HO","codeAsString":"HO"},{"decode":"Kroatisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"60","code":"HR","codeAsString":"HR"},{"decode":"Haitisk kreolsk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"61","code":"HT","codeAsString":"HT"},{"decode":"Ungarsk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"62","code":"HU","codeAsString":"HU"},{"decode":"Armensk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"63","code":"HY","codeAsString":"HY"},{"decode":"Herero","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"64","code":"HZ","codeAsString":"HZ"},{"decode":"Interlingua (International Auxiliary Language Association)","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"65","code":"IA","codeAsString":"IA"},{"decode":"Indonesisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"66","code":"ID","codeAsString":"ID"},{"decode":"Interlingue","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"67","code":"IE","codeAsString":"IE"},{"decode":"Ibo","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"68","code":"IG","codeAsString":"IG"},{"decode":"Yi","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"69","code":"II","codeAsString":"II"},{"decode":"Inupiak","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"70","code":"IK","codeAsString":"IK"},{"decode":"Ido","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"71","code":"IO","codeAsString":"IO"},{"decode":"Islandsk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"72","code":"IS","codeAsString":"IS"},{"decode":"Italiensk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"73","code":"IT","codeAsString":"IT"},{"decode":"Inuittisk språk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"74","code":"IU","codeAsString":"IU"},{"decode":"Japansk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"75","code":"JA","codeAsString":"JA"},{"decode":"Javanesisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"76","code":"JV","codeAsString":"JV"},{"decode":"Georgisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"77","code":"KA","codeAsString":"KA"},{"decode":"KiKongo","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"78","code":"KG","codeAsString":"KG"},{"decode":"Kikuyu","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"79","code":"KI","codeAsString":"KI"},{"decode":"Kuanyama","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"80","code":"KJ","codeAsString":"KJ"},{"decode":"Kasakhisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"81","code":"KK","codeAsString":"KK"},{"decode":"Kalaallisut","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"82","code":"KL","codeAsString":"KL"},{"decode":"Khmer","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"83","code":"KM","codeAsString":"KM"},{"decode":"Kannada","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"84","code":"KN","codeAsString":"KN"},{"decode":"Koreansk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"85","code":"KO","codeAsString":"KO"},{"decode":"Kanuri","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"86","code":"KR","codeAsString":"KR"},{"decode":"Kashmir","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"87","code":"KS","codeAsString":"KS"},{"decode":"Kurdisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"88","code":"KU","codeAsString":"KU"},{"decode":"Komi","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"89","code":"KV","codeAsString":"KV"},{"decode":"Kornisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"90","code":"KW","codeAsString":"KW"},{"decode":"Kirghiz","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"91","code":"KY","codeAsString":"KY"},{"decode":"Latin","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"92","code":"LA","codeAsString":"LA"},{"decode":"Luxembourgisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"93","code":"LB","codeAsString":"LB"},{"decode":"Ganda","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"94","code":"LG","codeAsString":"LG"},{"decode":"Limburgish","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"95","code":"LI","codeAsString":"LI"},{"decode":"Lingala","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"96","code":"LN","codeAsString":"LN"},{"decode":"Lao","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"97","code":"LO","codeAsString":"LO"},{"decode":"Litauisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"98","code":"LT","codeAsString":"LT"},{"decode":"Luba-Katanga","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"99","code":"LU","codeAsString":"LU"},{"decode":"Latvisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"100","code":"LV","codeAsString":"LV"},{"decode":"Malagasy","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"101","code":"MG","codeAsString":"MG"},{"decode":"Marshallesisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"102","code":"MH","codeAsString":"MH"},{"decode":"Maori","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"103","code":"MI","codeAsString":"MI"},{"decode":"Makedonsk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"104","code":"MK","codeAsString":"MK"},{"decode":"Malayalam","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"105","code":"ML","codeAsString":"ML"},{"decode":"Mongolsk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"106","code":"MN","codeAsString":"MN"},{"decode":"Moldavisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"107","code":"MO","codeAsString":"MO"},{"decode":"Marathi","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"108","code":"MR","codeAsString":"MR"},{"decode":"Malay","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"109","code":"MS","codeAsString":"MS"},{"decode":"Maltesisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"110","code":"MT","codeAsString":"MT"},{"decode":"Burmesisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"111","code":"MY","codeAsString":"MY"},{"decode":"Naurisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"112","code":"NA","codeAsString":"NA"},{"decode":"Bokmål","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"113","code":"NB","codeAsString":"NB"},{"decode":"Nord-ndebele","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"114","code":"ND","codeAsString":"ND"},{"decode":"Nepali","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"115","code":"NE","codeAsString":"NE"},{"decode":"Ndonga","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"116","code":"NG","codeAsString":"NG"},{"decode":"Nederlandsk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"117","code":"NL","codeAsString":"NL"},{"decode":"Nynorsk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"118","code":"NN","codeAsString":"NN"},{"decode":"Norsk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"119","code":"NO","codeAsString":"NO"},{"decode":"Sør-ndebele","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"120","code":"NR","codeAsString":"NR"},{"decode":"Navajo","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"121","code":"NV","codeAsString":"NV"},{"decode":"Chichewa","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"122","code":"NY","codeAsString":"NY"},{"decode":"Oksitansk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"123","code":"OC","codeAsString":"OC"},{"decode":"Ojibwa","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"124","code":"OJ","codeAsString":"OJ"},{"decode":"Oromo","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"125","code":"OM","codeAsString":"OM"},{"decode":"Oriya","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"126","code":"OR","codeAsString":"OR"},{"decode":"Ossetisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"127","code":"OS","codeAsString":"OS"},{"decode":"Punjabi","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"128","code":"PA","codeAsString":"PA"},{"decode":"Pali","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"129","code":"PI","codeAsString":"PI"},{"decode":"Polsk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"130","code":"PL","codeAsString":"PL"},{"decode":"Pashto","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"131","code":"PS","codeAsString":"PS"},{"decode":"Portugisisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"132","code":"PT","codeAsString":"PT"},{"decode":"Quechua","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"133","code":"QU","codeAsString":"QU"},{"decode":"Retoromansk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"134","code":"RM","codeAsString":"RM"},{"decode":"Kirundi","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"135","code":"RN","codeAsString":"RN"},{"decode":"Rumensk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"136","code":"RO","codeAsString":"RO"},{"decode":"Russisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"137","code":"RU","codeAsString":"RU"},{"decode":"Kinyarwanda","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"138","code":"RW","codeAsString":"RW"},{"decode":"Sanskrit","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"139","code":"SA","codeAsString":"SA"},{"decode":"Sardinsk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"140","code":"SC","codeAsString":"SC"},{"decode":"Sindhi","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"141","code":"SD","codeAsString":"SD"},{"decode":"Nordsamisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"142","code":"SE","codeAsString":"SE"},{"decode":"Sango","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"143","code":"SG","codeAsString":"SG"},{"decode":"Sinhala","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"144","code":"SI","codeAsString":"SI"},{"decode":"Slovakisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"145","code":"SK","codeAsString":"SK"},{"decode":"Slovensk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"146","code":"SL","codeAsString":"SL"},{"decode":"Samoansk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"147","code":"SM","codeAsString":"SM"},{"decode":"Shona","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"148","code":"SN","codeAsString":"SN"},{"decode":"Somalisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"149","code":"SO","codeAsString":"SO"},{"decode":"Albansk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"150","code":"SQ","codeAsString":"SQ"},{"decode":"Serbisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"151","code":"SR","codeAsString":"SR"},{"decode":"Swati","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"152","code":"SS","codeAsString":"SS"},{"decode":"Sesotho","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"153","code":"ST","codeAsString":"ST"},{"decode":"Sundanesisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"154","code":"SU","codeAsString":"SU"},{"decode":"Svensk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"155","code":"SV","codeAsString":"SV"},{"decode":"Swahili","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"156","code":"SW","codeAsString":"SW"},{"decode":"Tamilsk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"157","code":"TA","codeAsString":"TA"},{"decode":"Telugu","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"158","code":"TE","codeAsString":"TE"},{"decode":"Tadsjikisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"159","code":"TG","codeAsString":"TG"},{"decode":"Thai","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"160","code":"TH","codeAsString":"TH"},{"decode":"Tigrinya","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"161","code":"TI","codeAsString":"TI"},{"decode":"Turkmensk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"162","code":"TK","codeAsString":"TK"},{"decode":"Tagalog","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"163","code":"TL","codeAsString":"TL"},{"decode":"Tswana","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"164","code":"TN","codeAsString":"TN"},{"decode":"Tonganesisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"165","code":"TO","codeAsString":"TO"},{"decode":"Tyrkisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"166","code":"TR","codeAsString":"TR"},{"decode":"Tsonga","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"167","code":"TS","codeAsString":"TS"},{"decode":"Tatarsk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"168","code":"TT","codeAsString":"TT"},{"decode":"Twi","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"169","code":"TW","codeAsString":"TW"},{"decode":"Tahitisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"170","code":"TY","codeAsString":"TY"},{"decode":"Uighur","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"171","code":"UG","codeAsString":"UG"},{"decode":"Ukrainsk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"172","code":"UK","codeAsString":"UK"},{"decode":"Urdu","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"173","code":"UR","codeAsString":"UR"},{"decode":"Usbekisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"174","code":"UZ","codeAsString":"UZ"},{"decode":"Venda","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"175","code":"VE","codeAsString":"VE"},{"decode":"Vietnamesisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"176","code":"VI","codeAsString":"VI"},{"decode":"Volapük","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"177","code":"VO","codeAsString":"VO"},{"decode":"Vallonsk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"178","code":"WA","codeAsString":"WA"},{"decode":"Wolof","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"179","code":"WO","codeAsString":"WO"},{"decode":"Xhosa","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"180","code":"XH","codeAsString":"XH"},{"decode":"Yiddisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"181","code":"YI","codeAsString":"YI"},{"decode":"Yoruba","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"182","code":"YO","codeAsString":"YO"},{"decode":"Zhuang","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"183","code":"ZA","codeAsString":"ZA"},{"decode":"Kinesisk","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"184","code":"ZH","codeAsString":"ZH"},{"decode":"Zulu","valid":true,"fromDate":-2209078800000,"toDate":null,"id":"185","code":"ZU","codeAsString":"ZU"}]
+[
+  {
+    "decode": "Afar",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "1",
+    "code": "AA",
+    "codeAsString": "AA"
+  },
+  {
+    "decode": "Abkhasisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "2",
+    "code": "AB",
+    "codeAsString": "AB"
+  },
+  {
+    "decode": "Avestisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "3",
+    "code": "AE",
+    "codeAsString": "AE"
+  },
+  {
+    "decode": "Afrikaans",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "4",
+    "code": "AF",
+    "codeAsString": "AF"
+  },
+  {
+    "decode": "Akan",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "5",
+    "code": "AK",
+    "codeAsString": "AK"
+  },
+  {
+    "decode": "Amharisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "6",
+    "code": "AM",
+    "codeAsString": "AM"
+  },
+  {
+    "decode": "Aragonesisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "7",
+    "code": "AN",
+    "codeAsString": "AN"
+  },
+  {
+    "decode": "Arabisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "8",
+    "code": "AR",
+    "codeAsString": "AR"
+  },
+  {
+    "decode": "Assamesisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "9",
+    "code": "AS",
+    "codeAsString": "AS"
+  },
+  {
+    "decode": "Avar",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "10",
+    "code": "AV",
+    "codeAsString": "AV"
+  },
+  {
+    "decode": "Aymara",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "11",
+    "code": "AY",
+    "codeAsString": "AY"
+  },
+  {
+    "decode": "Aserbajdsjansk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "12",
+    "code": "AZ",
+    "codeAsString": "AZ"
+  },
+  {
+    "decode": "Basjkirsk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "13",
+    "code": "BA",
+    "codeAsString": "BA"
+  },
+  {
+    "decode": "Hviterussisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "14",
+    "code": "BE",
+    "codeAsString": "BE"
+  },
+  {
+    "decode": "Bulgarsk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "15",
+    "code": "BG",
+    "codeAsString": "BG"
+  },
+  {
+    "decode": "Bihari",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "16",
+    "code": "BH",
+    "codeAsString": "BH"
+  },
+  {
+    "decode": "Bislama",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "17",
+    "code": "BI",
+    "codeAsString": "BI"
+  },
+  {
+    "decode": "Bambara",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "18",
+    "code": "BM",
+    "codeAsString": "BM"
+  },
+  {
+    "decode": "Bengali",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "19",
+    "code": "BN",
+    "codeAsString": "BN"
+  },
+  {
+    "decode": "Tibetansk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "20",
+    "code": "BO",
+    "codeAsString": "BO"
+  },
+  {
+    "decode": "Bretonsk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "21",
+    "code": "BR",
+    "codeAsString": "BR"
+  },
+  {
+    "decode": "Bosnisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "22",
+    "code": "BS",
+    "codeAsString": "BS"
+  },
+  {
+    "decode": "Katalansk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "23",
+    "code": "CA",
+    "codeAsString": "CA"
+  },
+  {
+    "decode": "Tsjetsjensk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "24",
+    "code": "CE",
+    "codeAsString": "CE"
+  },
+  {
+    "decode": "Chamorro",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "25",
+    "code": "CH",
+    "codeAsString": "CH"
+  },
+  {
+    "decode": "Korsikansk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "26",
+    "code": "CO",
+    "codeAsString": "CO"
+  },
+  {
+    "decode": "Cree",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "27",
+    "code": "CR",
+    "codeAsString": "CR"
+  },
+  {
+    "decode": "Tsjekkisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "28",
+    "code": "CS",
+    "codeAsString": "CS"
+  },
+  {
+    "decode": "Gammelslavisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "29",
+    "code": "CU",
+    "codeAsString": "CU"
+  },
+  {
+    "decode": "Tsjuvansk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "30",
+    "code": "CV",
+    "codeAsString": "CV"
+  },
+  {
+    "decode": "Walisisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "31",
+    "code": "CY",
+    "codeAsString": "CY"
+  },
+  {
+    "decode": "Dansk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "32",
+    "code": "DA",
+    "codeAsString": "DA"
+  },
+  {
+    "decode": "Tysk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "33",
+    "code": "DE",
+    "codeAsString": "DE"
+  },
+  {
+    "decode": "Divehi",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "34",
+    "code": "DV",
+    "codeAsString": "DV"
+  },
+  {
+    "decode": "Dzongkha",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "35",
+    "code": "DZ",
+    "codeAsString": "DZ"
+  },
+  {
+    "decode": "Ewe",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "36",
+    "code": "EE",
+    "codeAsString": "EE"
+  },
+  {
+    "decode": "Gresk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "37",
+    "code": "EL",
+    "codeAsString": "EL"
+  },
+  {
+    "decode": "Engelsk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "38",
+    "code": "EN",
+    "codeAsString": "EN"
+  },
+  {
+    "decode": "Esperanto",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "39",
+    "code": "EO",
+    "codeAsString": "EO"
+  },
+  {
+    "decode": "Spansk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "40",
+    "code": "ES",
+    "codeAsString": "ES"
+  },
+  {
+    "decode": "Estisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "41",
+    "code": "ET",
+    "codeAsString": "ET"
+  },
+  {
+    "decode": "Baskisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "42",
+    "code": "EU",
+    "codeAsString": "EU"
+  },
+  {
+    "decode": "Farsi",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "43",
+    "code": "FA",
+    "codeAsString": "FA"
+  },
+  {
+    "decode": "Fulfulde",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "44",
+    "code": "FF",
+    "codeAsString": "FF"
+  },
+  {
+    "decode": "Finsk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "45",
+    "code": "FI",
+    "codeAsString": "FI"
+  },
+  {
+    "decode": "Fijisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "46",
+    "code": "FJ",
+    "codeAsString": "FJ"
+  },
+  {
+    "decode": "Færøysk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "47",
+    "code": "FO",
+    "codeAsString": "FO"
+  },
+  {
+    "decode": "Fransk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "48",
+    "code": "FR",
+    "codeAsString": "FR"
+  },
+  {
+    "decode": "Frisisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "49",
+    "code": "FY",
+    "codeAsString": "FY"
+  },
+  {
+    "decode": "Irsk gælisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "50",
+    "code": "GA",
+    "codeAsString": "GA"
+  },
+  {
+    "decode": "Skotsk gælisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "51",
+    "code": "GD",
+    "codeAsString": "GD"
+  },
+  {
+    "decode": "Galisisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "52",
+    "code": "GL",
+    "codeAsString": "GL"
+  },
+  {
+    "decode": "Guaraní",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "53",
+    "code": "GN",
+    "codeAsString": "GN"
+  },
+  {
+    "decode": "Gujarati",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "54",
+    "code": "GU",
+    "codeAsString": "GU"
+  },
+  {
+    "decode": "Manx",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "55",
+    "code": "GV",
+    "codeAsString": "GV"
+  },
+  {
+    "decode": "Hausa",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "56",
+    "code": "HA",
+    "codeAsString": "HA"
+  },
+  {
+    "decode": "Hebraisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "57",
+    "code": "HE",
+    "codeAsString": "HE"
+  },
+  {
+    "decode": "Hindi",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "58",
+    "code": "HI",
+    "codeAsString": "HI"
+  },
+  {
+    "decode": "Hiri motu",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "59",
+    "code": "HO",
+    "codeAsString": "HO"
+  },
+  {
+    "decode": "Kroatisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "60",
+    "code": "HR",
+    "codeAsString": "HR"
+  },
+  {
+    "decode": "Haitisk kreolsk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "61",
+    "code": "HT",
+    "codeAsString": "HT"
+  },
+  {
+    "decode": "Ungarsk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "62",
+    "code": "HU",
+    "codeAsString": "HU"
+  },
+  {
+    "decode": "Armensk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "63",
+    "code": "HY",
+    "codeAsString": "HY"
+  },
+  {
+    "decode": "Herero",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "64",
+    "code": "HZ",
+    "codeAsString": "HZ"
+  },
+  {
+    "decode": "Interlingua (International Auxiliary Language Association)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "65",
+    "code": "IA",
+    "codeAsString": "IA"
+  },
+  {
+    "decode": "Indonesisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "66",
+    "code": "ID",
+    "codeAsString": "ID"
+  },
+  {
+    "decode": "Interlingue",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "67",
+    "code": "IE",
+    "codeAsString": "IE"
+  },
+  {
+    "decode": "Ibo",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "68",
+    "code": "IG",
+    "codeAsString": "IG"
+  },
+  {
+    "decode": "Yi",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "69",
+    "code": "II",
+    "codeAsString": "II"
+  },
+  {
+    "decode": "Inupiak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "70",
+    "code": "IK",
+    "codeAsString": "IK"
+  },
+  {
+    "decode": "Ido",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "71",
+    "code": "IO",
+    "codeAsString": "IO"
+  },
+  {
+    "decode": "Islandsk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "72",
+    "code": "IS",
+    "codeAsString": "IS"
+  },
+  {
+    "decode": "Italiensk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "73",
+    "code": "IT",
+    "codeAsString": "IT"
+  },
+  {
+    "decode": "Inuittisk språk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "74",
+    "code": "IU",
+    "codeAsString": "IU"
+  },
+  {
+    "decode": "Japansk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "75",
+    "code": "JA",
+    "codeAsString": "JA"
+  },
+  {
+    "decode": "Javanesisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "76",
+    "code": "JV",
+    "codeAsString": "JV"
+  },
+  {
+    "decode": "Georgisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "77",
+    "code": "KA",
+    "codeAsString": "KA"
+  },
+  {
+    "decode": "KiKongo",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "78",
+    "code": "KG",
+    "codeAsString": "KG"
+  },
+  {
+    "decode": "Kikuyu",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "79",
+    "code": "KI",
+    "codeAsString": "KI"
+  },
+  {
+    "decode": "Kuanyama",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "80",
+    "code": "KJ",
+    "codeAsString": "KJ"
+  },
+  {
+    "decode": "Kasakhisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "81",
+    "code": "KK",
+    "codeAsString": "KK"
+  },
+  {
+    "decode": "Kalaallisut",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "82",
+    "code": "KL",
+    "codeAsString": "KL"
+  },
+  {
+    "decode": "Khmer",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "83",
+    "code": "KM",
+    "codeAsString": "KM"
+  },
+  {
+    "decode": "Kannada",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "84",
+    "code": "KN",
+    "codeAsString": "KN"
+  },
+  {
+    "decode": "Koreansk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "85",
+    "code": "KO",
+    "codeAsString": "KO"
+  },
+  {
+    "decode": "Kanuri",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "86",
+    "code": "KR",
+    "codeAsString": "KR"
+  },
+  {
+    "decode": "Kashmir",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "87",
+    "code": "KS",
+    "codeAsString": "KS"
+  },
+  {
+    "decode": "Kurdisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "88",
+    "code": "KU",
+    "codeAsString": "KU"
+  },
+  {
+    "decode": "Komi",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "89",
+    "code": "KV",
+    "codeAsString": "KV"
+  },
+  {
+    "decode": "Kornisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "90",
+    "code": "KW",
+    "codeAsString": "KW"
+  },
+  {
+    "decode": "Kirghiz",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "91",
+    "code": "KY",
+    "codeAsString": "KY"
+  },
+  {
+    "decode": "Latin",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "92",
+    "code": "LA",
+    "codeAsString": "LA"
+  },
+  {
+    "decode": "Luxembourgisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "93",
+    "code": "LB",
+    "codeAsString": "LB"
+  },
+  {
+    "decode": "Ganda",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "94",
+    "code": "LG",
+    "codeAsString": "LG"
+  },
+  {
+    "decode": "Limburgish",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "95",
+    "code": "LI",
+    "codeAsString": "LI"
+  },
+  {
+    "decode": "Lingala",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "96",
+    "code": "LN",
+    "codeAsString": "LN"
+  },
+  {
+    "decode": "Lao",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "97",
+    "code": "LO",
+    "codeAsString": "LO"
+  },
+  {
+    "decode": "Litauisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "98",
+    "code": "LT",
+    "codeAsString": "LT"
+  },
+  {
+    "decode": "Luba-Katanga",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "99",
+    "code": "LU",
+    "codeAsString": "LU"
+  },
+  {
+    "decode": "Latvisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "100",
+    "code": "LV",
+    "codeAsString": "LV"
+  },
+  {
+    "decode": "Malagasy",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "101",
+    "code": "MG",
+    "codeAsString": "MG"
+  },
+  {
+    "decode": "Marshallesisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "102",
+    "code": "MH",
+    "codeAsString": "MH"
+  },
+  {
+    "decode": "Maori",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "103",
+    "code": "MI",
+    "codeAsString": "MI"
+  },
+  {
+    "decode": "Makedonsk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "104",
+    "code": "MK",
+    "codeAsString": "MK"
+  },
+  {
+    "decode": "Malayalam",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "105",
+    "code": "ML",
+    "codeAsString": "ML"
+  },
+  {
+    "decode": "Mongolsk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "106",
+    "code": "MN",
+    "codeAsString": "MN"
+  },
+  {
+    "decode": "Moldavisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "107",
+    "code": "MO",
+    "codeAsString": "MO"
+  },
+  {
+    "decode": "Marathi",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "108",
+    "code": "MR",
+    "codeAsString": "MR"
+  },
+  {
+    "decode": "Malay",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "109",
+    "code": "MS",
+    "codeAsString": "MS"
+  },
+  {
+    "decode": "Maltesisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "110",
+    "code": "MT",
+    "codeAsString": "MT"
+  },
+  {
+    "decode": "Burmesisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "111",
+    "code": "MY",
+    "codeAsString": "MY"
+  },
+  {
+    "decode": "Naurisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "112",
+    "code": "NA",
+    "codeAsString": "NA"
+  },
+  {
+    "decode": "Bokmål",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "113",
+    "code": "NB",
+    "codeAsString": "NB"
+  },
+  {
+    "decode": "Nord-ndebele",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "114",
+    "code": "ND",
+    "codeAsString": "ND"
+  },
+  {
+    "decode": "Nepali",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "115",
+    "code": "NE",
+    "codeAsString": "NE"
+  },
+  {
+    "decode": "Ndonga",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "116",
+    "code": "NG",
+    "codeAsString": "NG"
+  },
+  {
+    "decode": "Nederlandsk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "117",
+    "code": "NL",
+    "codeAsString": "NL"
+  },
+  {
+    "decode": "Nynorsk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "118",
+    "code": "NN",
+    "codeAsString": "NN"
+  },
+  {
+    "decode": "Norsk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "119",
+    "code": "NO",
+    "codeAsString": "NO"
+  },
+  {
+    "decode": "Sør-ndebele",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "120",
+    "code": "NR",
+    "codeAsString": "NR"
+  },
+  {
+    "decode": "Navajo",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "121",
+    "code": "NV",
+    "codeAsString": "NV"
+  },
+  {
+    "decode": "Chichewa",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "122",
+    "code": "NY",
+    "codeAsString": "NY"
+  },
+  {
+    "decode": "Oksitansk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "123",
+    "code": "OC",
+    "codeAsString": "OC"
+  },
+  {
+    "decode": "Ojibwa",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "124",
+    "code": "OJ",
+    "codeAsString": "OJ"
+  },
+  {
+    "decode": "Oromo",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "125",
+    "code": "OM",
+    "codeAsString": "OM"
+  },
+  {
+    "decode": "Oriya",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "126",
+    "code": "OR",
+    "codeAsString": "OR"
+  },
+  {
+    "decode": "Ossetisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "127",
+    "code": "OS",
+    "codeAsString": "OS"
+  },
+  {
+    "decode": "Punjabi",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "128",
+    "code": "PA",
+    "codeAsString": "PA"
+  },
+  {
+    "decode": "Pali",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "129",
+    "code": "PI",
+    "codeAsString": "PI"
+  },
+  {
+    "decode": "Polsk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "130",
+    "code": "PL",
+    "codeAsString": "PL"
+  },
+  {
+    "decode": "Pashto",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "131",
+    "code": "PS",
+    "codeAsString": "PS"
+  },
+  {
+    "decode": "Portugisisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "132",
+    "code": "PT",
+    "codeAsString": "PT"
+  },
+  {
+    "decode": "Quechua",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "133",
+    "code": "QU",
+    "codeAsString": "QU"
+  },
+  {
+    "decode": "Retoromansk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "134",
+    "code": "RM",
+    "codeAsString": "RM"
+  },
+  {
+    "decode": "Kirundi",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "135",
+    "code": "RN",
+    "codeAsString": "RN"
+  },
+  {
+    "decode": "Rumensk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "136",
+    "code": "RO",
+    "codeAsString": "RO"
+  },
+  {
+    "decode": "Russisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "137",
+    "code": "RU",
+    "codeAsString": "RU"
+  },
+  {
+    "decode": "Kinyarwanda",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "138",
+    "code": "RW",
+    "codeAsString": "RW"
+  },
+  {
+    "decode": "Sanskrit",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "139",
+    "code": "SA",
+    "codeAsString": "SA"
+  },
+  {
+    "decode": "Sardinsk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "140",
+    "code": "SC",
+    "codeAsString": "SC"
+  },
+  {
+    "decode": "Sindhi",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "141",
+    "code": "SD",
+    "codeAsString": "SD"
+  },
+  {
+    "decode": "Nordsamisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "142",
+    "code": "SE",
+    "codeAsString": "SE"
+  },
+  {
+    "decode": "Sango",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "143",
+    "code": "SG",
+    "codeAsString": "SG"
+  },
+  {
+    "decode": "Sinhala",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "144",
+    "code": "SI",
+    "codeAsString": "SI"
+  },
+  {
+    "decode": "Slovakisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "145",
+    "code": "SK",
+    "codeAsString": "SK"
+  },
+  {
+    "decode": "Slovensk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "146",
+    "code": "SL",
+    "codeAsString": "SL"
+  },
+  {
+    "decode": "Samoansk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "147",
+    "code": "SM",
+    "codeAsString": "SM"
+  },
+  {
+    "decode": "Shona",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "148",
+    "code": "SN",
+    "codeAsString": "SN"
+  },
+  {
+    "decode": "Somalisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "149",
+    "code": "SO",
+    "codeAsString": "SO"
+  },
+  {
+    "decode": "Albansk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "150",
+    "code": "SQ",
+    "codeAsString": "SQ"
+  },
+  {
+    "decode": "Serbisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "151",
+    "code": "SR",
+    "codeAsString": "SR"
+  },
+  {
+    "decode": "Swati",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "152",
+    "code": "SS",
+    "codeAsString": "SS"
+  },
+  {
+    "decode": "Sesotho",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "153",
+    "code": "ST",
+    "codeAsString": "ST"
+  },
+  {
+    "decode": "Sundanesisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "154",
+    "code": "SU",
+    "codeAsString": "SU"
+  },
+  {
+    "decode": "Svensk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "155",
+    "code": "SV",
+    "codeAsString": "SV"
+  },
+  {
+    "decode": "Swahili",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "156",
+    "code": "SW",
+    "codeAsString": "SW"
+  },
+  {
+    "decode": "Tamilsk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "157",
+    "code": "TA",
+    "codeAsString": "TA"
+  },
+  {
+    "decode": "Telugu",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "158",
+    "code": "TE",
+    "codeAsString": "TE"
+  },
+  {
+    "decode": "Tadsjikisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "159",
+    "code": "TG",
+    "codeAsString": "TG"
+  },
+  {
+    "decode": "Thai",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "160",
+    "code": "TH",
+    "codeAsString": "TH"
+  },
+  {
+    "decode": "Tigrinya",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "161",
+    "code": "TI",
+    "codeAsString": "TI"
+  },
+  {
+    "decode": "Turkmensk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "162",
+    "code": "TK",
+    "codeAsString": "TK"
+  },
+  {
+    "decode": "Tagalog",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "163",
+    "code": "TL",
+    "codeAsString": "TL"
+  },
+  {
+    "decode": "Tswana",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "164",
+    "code": "TN",
+    "codeAsString": "TN"
+  },
+  {
+    "decode": "Tonganesisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "165",
+    "code": "TO",
+    "codeAsString": "TO"
+  },
+  {
+    "decode": "Tyrkisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "166",
+    "code": "TR",
+    "codeAsString": "TR"
+  },
+  {
+    "decode": "Tsonga",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "167",
+    "code": "TS",
+    "codeAsString": "TS"
+  },
+  {
+    "decode": "Tatarsk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "168",
+    "code": "TT",
+    "codeAsString": "TT"
+  },
+  {
+    "decode": "Twi",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "169",
+    "code": "TW",
+    "codeAsString": "TW"
+  },
+  {
+    "decode": "Tahitisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "170",
+    "code": "TY",
+    "codeAsString": "TY"
+  },
+  {
+    "decode": "Uighur",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "171",
+    "code": "UG",
+    "codeAsString": "UG"
+  },
+  {
+    "decode": "Ukrainsk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "172",
+    "code": "UK",
+    "codeAsString": "UK"
+  },
+  {
+    "decode": "Urdu",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "173",
+    "code": "UR",
+    "codeAsString": "UR"
+  },
+  {
+    "decode": "Usbekisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "174",
+    "code": "UZ",
+    "codeAsString": "UZ"
+  },
+  {
+    "decode": "Venda",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "175",
+    "code": "VE",
+    "codeAsString": "VE"
+  },
+  {
+    "decode": "Vietnamesisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "176",
+    "code": "VI",
+    "codeAsString": "VI"
+  },
+  {
+    "decode": "Volapük",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "177",
+    "code": "VO",
+    "codeAsString": "VO"
+  },
+  {
+    "decode": "Vallonsk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "178",
+    "code": "WA",
+    "codeAsString": "WA"
+  },
+  {
+    "decode": "Wolof",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "179",
+    "code": "WO",
+    "codeAsString": "WO"
+  },
+  {
+    "decode": "Xhosa",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "180",
+    "code": "XH",
+    "codeAsString": "XH"
+  },
+  {
+    "decode": "Yiddisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "181",
+    "code": "YI",
+    "codeAsString": "YI"
+  },
+  {
+    "decode": "Yoruba",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "182",
+    "code": "YO",
+    "codeAsString": "YO"
+  },
+  {
+    "decode": "Zhuang",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "183",
+    "code": "ZA",
+    "codeAsString": "ZA"
+  },
+  {
+    "decode": "Kinesisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "184",
+    "code": "ZH",
+    "codeAsString": "ZH"
+  },
+  {
+    "decode": "Zulu",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "185",
+    "code": "ZU",
+    "codeAsString": "ZU"
+  }
+]

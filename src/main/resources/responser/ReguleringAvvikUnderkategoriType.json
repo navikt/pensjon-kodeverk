@@ -1,1 +1,18 @@
-[{"decode":"Barnetillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BT","codeAsString":"BT"},{"decode":"Standard","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"STANDARD","codeAsString":"STANDARD"}]
+[
+  {
+    "decode": "Barnetillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BT",
+    "codeAsString": "BT"
+  },
+  {
+    "decode": "Standard",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "STANDARD",
+    "codeAsString": "STANDARD"
+  }
+]

@@ -1,1 +1,18 @@
-[{"decode":"Høy","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"HOY","codeAsString":"HOY"},{"decode":"Ordinær","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ORDINAER","codeAsString":"ORDINAER"}]
+[
+  {
+    "decode": "Høy",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HOY",
+    "codeAsString": "HOY"
+  },
+  {
+    "decode": "Ordinær",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ORDINAER",
+    "codeAsString": "ORDINAER"
+  }
+]

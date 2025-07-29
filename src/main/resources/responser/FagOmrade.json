@@ -1,1 +1,515 @@
-[{"decode":"Arbeidsavklaringspenger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AAP","ansvarsomrade":false,"codeAsString":"AAP"},{"decode":"AA-registeret","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AAR","ansvarsomrade":false,"codeAsString":"AAR"},{"decode":"Ajourhold - Grunnopplysninger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AGR","ansvarsomrade":false,"codeAsString":"AGR"},{"decode":"Arena","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ARE","ansvarsomrade":false,"codeAsString":"ARE"},{"decode":"07 - Barnetrygd","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BAR","ansvarsomrade":false,"codeAsString":"BAR"},{"decode":"04 - Bidrag","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BID","ansvarsomrade":false,"codeAsString":"BID"},{"decode":"05 - Bidrag innkreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BII","ansvarsomrade":false,"codeAsString":"BII"},{"decode":"07 - Bil","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BIL","ansvarsomrade":false,"codeAsString":"BIL"},{"decode":"07 - Dagpenger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"DAG","ansvarsomrade":false,"codeAsString":"DAG"},{"decode":"07 - Enslig forsørger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ENF","ansvarsomrade":false,"codeAsString":"ENF"},{"decode":"07 - Erstatning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ERS","ansvarsomrade":false,"codeAsString":"ERS"},{"decode":"Feilutbetaling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FEI","ansvarsomrade":false,"codeAsString":"FEI"},{"decode":"07 - Foreldre- og svangerskapspenger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FOR","ansvarsomrade":false,"codeAsString":"FOR"},{"decode":"07 - Forsikring","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FOS","ansvarsomrade":false,"codeAsString":"FOS"},{"decode":"GOSYS","valid":false,"fromDate":-2209078800000,"toDate":1326754800000,"code":"FS22","ansvarsomrade":false,"codeAsString":"FS22"},{"decode":"Fullmakt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FUL","ansvarsomrade":false,"codeAsString":"FUL"},{"decode":"Generell","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GEN","ansvarsomrade":false,"codeAsString":"GEN"},{"decode":"07 - Gravferdsstønad","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GRA","ansvarsomrade":false,"codeAsString":"GRA"},{"decode":"07 - Grunn- og hjelpestønad","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GRU","ansvarsomrade":false,"codeAsString":"GRU"},{"decode":"Helsetjenester og ort. Hjelpemidler","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"HEL","ansvarsomrade":false,"codeAsString":"HEL"},{"decode":"07 - Hjelpemidler","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"HJE","ansvarsomrade":false,"codeAsString":"HJE"},{"decode":"Inkluderende Arbeidsliv","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"IAR","ansvarsomrade":false,"codeAsString":"IAR"},{"decode":"07 - Individstønad","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"IND","ansvarsomrade":false,"codeAsString":"IND"},{"decode":"Klage/Anke","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KLA","ansvarsomrade":false,"codeAsString":"KLA"},{"decode":"Kontakt nav","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KNA","ansvarsomrade":false,"codeAsString":"KNA"},{"decode":"Kommunale tjenester","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KOM","ansvarsomrade":false,"codeAsString":"KOM"},{"decode":"07 - Kontantstøtte","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KON","ansvarsomrade":false,"codeAsString":"KON"},{"decode":"Kontroll","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KTR","ansvarsomrade":false,"codeAsString":"KTR"},{"decode":"Medlemskap","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MED","ansvarsomrade":false,"codeAsString":"MED"},{"decode":"07 - Mob.stønad","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MOB","ansvarsomrade":false,"codeAsString":"MOB"},{"decode":"03 - Skanning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MOT","ansvarsomrade":true,"codeAsString":"MOT"},{"decode":"02 - Økonomi","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OKO","ansvarsomrade":true,"codeAsString":"OKO"},{"decode":"07 - Omsorgs-, Pleie- og opplæringspenger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OMS","ansvarsomrade":false,"codeAsString":"OMS"},{"decode":"Oppfølging - Arbeidsgiver","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OPA","ansvarsomrade":false,"codeAsString":"OPA"},{"decode":"07 - Oppfølging","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OPP","ansvarsomrade":false,"codeAsString":"OPP"},{"decode":"06 - Øvrig","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OVR","ansvarsomrade":true,"codeAsString":"OVR"},{"decode":"01 - Pensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"PEN","ansvarsomrade":true,"codeAsString":"PEN"},{"decode":"Permittering og masseoppsigelser","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"PER","ansvarsomrade":false,"codeAsString":"PER"},{"decode":"07 - Rehabilitering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REH","ansvarsomrade":false,"codeAsString":"REH"},{"decode":"Rekruttering og Stilling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REK","ansvarsomrade":false,"codeAsString":"REK"},{"decode":"Sanksjon - Arbeidsgiver","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SAA","ansvarsomrade":false,"codeAsString":"SAA"},{"decode":"07 - Saksomkostning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SAK","ansvarsomrade":false,"codeAsString":"SAK"},{"decode":"Sanksjon - Person","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SAP","ansvarsomrade":false,"codeAsString":"SAP"},{"decode":"Serviceklager","valid":true,"fromDate":1319580000000,"toDate":null,"code":"SER","ansvarsomrade":false,"codeAsString":"SER"},{"decode":"Sikkerhetstiltak","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SIK","ansvarsomrade":false,"codeAsString":"SIK"},{"decode":"07 - Stønadsregnskap","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"STO","ansvarsomrade":false,"codeAsString":"STO"},{"decode":"07 - Supplerende stønad","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SUP","ansvarsomrade":false,"codeAsString":"SUP"},{"decode":"07 - Sykepenger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SYK","ansvarsomrade":false,"codeAsString":"SYK"},{"decode":"Sykemelding","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SYM","ansvarsomrade":false,"codeAsString":"SYM"},{"decode":"Tiltak","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TIL","ansvarsomrade":false,"codeAsString":"TIL"},{"decode":"Trekk","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TRK","ansvarsomrade":false,"codeAsString":"TRK"},{"decode":"Trygdeavgift","valid":true,"fromDate":1296255600000,"toDate":null,"code":"TRY","ansvarsomrade":false,"codeAsString":"TRY"},{"decode":"07 - Uføretrygd","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFO","ansvarsomrade":true,"codeAsString":"UFO"},{"decode":"Ukjent","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UKJ","ansvarsomrade":false,"codeAsString":"UKJ"},{"decode":"07 - Ventelønn","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"VEN","ansvarsomrade":false,"codeAsString":"VEN"},{"decode":"07 - Yrkesrettet attføring","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRA","ansvarsomrade":false,"codeAsString":"YRA"},{"decode":"07 - Yrkesskade / Menerstatning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRK","ansvarsomrade":false,"codeAsString":"YRK"}]
+[
+  {
+    "decode": "Arbeidsavklaringspenger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AAP",
+    "ansvarsomrade": false,
+    "codeAsString": "AAP"
+  },
+  {
+    "decode": "AA-registeret",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AAR",
+    "ansvarsomrade": false,
+    "codeAsString": "AAR"
+  },
+  {
+    "decode": "Ajourhold - Grunnopplysninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AGR",
+    "ansvarsomrade": false,
+    "codeAsString": "AGR"
+  },
+  {
+    "decode": "Arena",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ARE",
+    "ansvarsomrade": false,
+    "codeAsString": "ARE"
+  },
+  {
+    "decode": "07 - Barnetrygd",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BAR",
+    "ansvarsomrade": false,
+    "codeAsString": "BAR"
+  },
+  {
+    "decode": "04 - Bidrag",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BID",
+    "ansvarsomrade": false,
+    "codeAsString": "BID"
+  },
+  {
+    "decode": "05 - Bidrag innkreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BII",
+    "ansvarsomrade": false,
+    "codeAsString": "BII"
+  },
+  {
+    "decode": "07 - Bil",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BIL",
+    "ansvarsomrade": false,
+    "codeAsString": "BIL"
+  },
+  {
+    "decode": "07 - Dagpenger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DAG",
+    "ansvarsomrade": false,
+    "codeAsString": "DAG"
+  },
+  {
+    "decode": "07 - Enslig forsørger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ENF",
+    "ansvarsomrade": false,
+    "codeAsString": "ENF"
+  },
+  {
+    "decode": "07 - Erstatning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ERS",
+    "ansvarsomrade": false,
+    "codeAsString": "ERS"
+  },
+  {
+    "decode": "Feilutbetaling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FEI",
+    "ansvarsomrade": false,
+    "codeAsString": "FEI"
+  },
+  {
+    "decode": "07 - Foreldre- og svangerskapspenger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FOR",
+    "ansvarsomrade": false,
+    "codeAsString": "FOR"
+  },
+  {
+    "decode": "07 - Forsikring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FOS",
+    "ansvarsomrade": false,
+    "codeAsString": "FOS"
+  },
+  {
+    "decode": "GOSYS",
+    "valid": false,
+    "fromDate": -2209078800000,
+    "toDate": 1326754800000,
+    "code": "FS22",
+    "ansvarsomrade": false,
+    "codeAsString": "FS22"
+  },
+  {
+    "decode": "Fullmakt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FUL",
+    "ansvarsomrade": false,
+    "codeAsString": "FUL"
+  },
+  {
+    "decode": "Generell",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GEN",
+    "ansvarsomrade": false,
+    "codeAsString": "GEN"
+  },
+  {
+    "decode": "07 - Gravferdsstønad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GRA",
+    "ansvarsomrade": false,
+    "codeAsString": "GRA"
+  },
+  {
+    "decode": "07 - Grunn- og hjelpestønad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GRU",
+    "ansvarsomrade": false,
+    "codeAsString": "GRU"
+  },
+  {
+    "decode": "Helsetjenester og ort. Hjelpemidler",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HEL",
+    "ansvarsomrade": false,
+    "codeAsString": "HEL"
+  },
+  {
+    "decode": "07 - Hjelpemidler",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HJE",
+    "ansvarsomrade": false,
+    "codeAsString": "HJE"
+  },
+  {
+    "decode": "Inkluderende Arbeidsliv",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "IAR",
+    "ansvarsomrade": false,
+    "codeAsString": "IAR"
+  },
+  {
+    "decode": "07 - Individstønad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "IND",
+    "ansvarsomrade": false,
+    "codeAsString": "IND"
+  },
+  {
+    "decode": "Klage/Anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KLA",
+    "ansvarsomrade": false,
+    "codeAsString": "KLA"
+  },
+  {
+    "decode": "Kontakt nav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KNA",
+    "ansvarsomrade": false,
+    "codeAsString": "KNA"
+  },
+  {
+    "decode": "Kommunale tjenester",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KOM",
+    "ansvarsomrade": false,
+    "codeAsString": "KOM"
+  },
+  {
+    "decode": "07 - Kontantstøtte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KON",
+    "ansvarsomrade": false,
+    "codeAsString": "KON"
+  },
+  {
+    "decode": "Kontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KTR",
+    "ansvarsomrade": false,
+    "codeAsString": "KTR"
+  },
+  {
+    "decode": "Medlemskap",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MED",
+    "ansvarsomrade": false,
+    "codeAsString": "MED"
+  },
+  {
+    "decode": "07 - Mob.stønad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MOB",
+    "ansvarsomrade": false,
+    "codeAsString": "MOB"
+  },
+  {
+    "decode": "03 - Skanning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MOT",
+    "ansvarsomrade": true,
+    "codeAsString": "MOT"
+  },
+  {
+    "decode": "02 - Økonomi",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OKO",
+    "ansvarsomrade": true,
+    "codeAsString": "OKO"
+  },
+  {
+    "decode": "07 - Omsorgs-, Pleie- og opplæringspenger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMS",
+    "ansvarsomrade": false,
+    "codeAsString": "OMS"
+  },
+  {
+    "decode": "Oppfølging - Arbeidsgiver",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OPA",
+    "ansvarsomrade": false,
+    "codeAsString": "OPA"
+  },
+  {
+    "decode": "07 - Oppfølging",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OPP",
+    "ansvarsomrade": false,
+    "codeAsString": "OPP"
+  },
+  {
+    "decode": "06 - Øvrig",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OVR",
+    "ansvarsomrade": true,
+    "codeAsString": "OVR"
+  },
+  {
+    "decode": "01 - Pensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PEN",
+    "ansvarsomrade": true,
+    "codeAsString": "PEN"
+  },
+  {
+    "decode": "Permittering og masseoppsigelser",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PER",
+    "ansvarsomrade": false,
+    "codeAsString": "PER"
+  },
+  {
+    "decode": "07 - Rehabilitering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REH",
+    "ansvarsomrade": false,
+    "codeAsString": "REH"
+  },
+  {
+    "decode": "Rekruttering og Stilling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REK",
+    "ansvarsomrade": false,
+    "codeAsString": "REK"
+  },
+  {
+    "decode": "Sanksjon - Arbeidsgiver",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAA",
+    "ansvarsomrade": false,
+    "codeAsString": "SAA"
+  },
+  {
+    "decode": "07 - Saksomkostning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAK",
+    "ansvarsomrade": false,
+    "codeAsString": "SAK"
+  },
+  {
+    "decode": "Sanksjon - Person",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAP",
+    "ansvarsomrade": false,
+    "codeAsString": "SAP"
+  },
+  {
+    "decode": "Serviceklager",
+    "valid": true,
+    "fromDate": 1319580000000,
+    "toDate": null,
+    "code": "SER",
+    "ansvarsomrade": false,
+    "codeAsString": "SER"
+  },
+  {
+    "decode": "Sikkerhetstiltak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SIK",
+    "ansvarsomrade": false,
+    "codeAsString": "SIK"
+  },
+  {
+    "decode": "07 - Stønadsregnskap",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "STO",
+    "ansvarsomrade": false,
+    "codeAsString": "STO"
+  },
+  {
+    "decode": "07 - Supplerende stønad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SUP",
+    "ansvarsomrade": false,
+    "codeAsString": "SUP"
+  },
+  {
+    "decode": "07 - Sykepenger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SYK",
+    "ansvarsomrade": false,
+    "codeAsString": "SYK"
+  },
+  {
+    "decode": "Sykemelding",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SYM",
+    "ansvarsomrade": false,
+    "codeAsString": "SYM"
+  },
+  {
+    "decode": "Tiltak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TIL",
+    "ansvarsomrade": false,
+    "codeAsString": "TIL"
+  },
+  {
+    "decode": "Trekk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TRK",
+    "ansvarsomrade": false,
+    "codeAsString": "TRK"
+  },
+  {
+    "decode": "Trygdeavgift",
+    "valid": true,
+    "fromDate": 1296255600000,
+    "toDate": null,
+    "code": "TRY",
+    "ansvarsomrade": false,
+    "codeAsString": "TRY"
+  },
+  {
+    "decode": "07 - Uføretrygd",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UFO",
+    "ansvarsomrade": true,
+    "codeAsString": "UFO"
+  },
+  {
+    "decode": "Ukjent",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UKJ",
+    "ansvarsomrade": false,
+    "codeAsString": "UKJ"
+  },
+  {
+    "decode": "07 - Ventelønn",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VEN",
+    "ansvarsomrade": false,
+    "codeAsString": "VEN"
+  },
+  {
+    "decode": "07 - Yrkesrettet attføring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "YRA",
+    "ansvarsomrade": false,
+    "codeAsString": "YRA"
+  },
+  {
+    "decode": "07 - Yrkesskade / Menerstatning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "YRK",
+    "ansvarsomrade": false,
+    "codeAsString": "YRK"
+  }
+]

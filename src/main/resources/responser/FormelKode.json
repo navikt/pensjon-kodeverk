@@ -1,1 +1,1066 @@
-[{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AFP3","codeAsString":"AFP3"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AFP4","codeAsString":"AFP4"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AFPx","codeAsString":"AFPx"},{"decode":"Førsteuttak: Beregnet hel alderspensjon ved 67 år","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AP2016_1","codeAsString":"AP2016_1"},{"decode":"Endring av uttaksgrad: Beregnet hel alderspensjon ved 67 år","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AP2016_2","codeAsString":"AP2016_2"},{"decode":"AP kap.3 med gjenlevenderett er lavere enn AP kap.3 uten gjenlevenderett","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AP_GJT1","codeAsString":"AP_GJT1"},{"decode":"AP kap.3 med gjenlevenderett - AP kap.3 uten gjenlevenderett","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AP_GJT2","codeAsString":"AP_GJT2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BPUx","codeAsString":"BPUx"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BT1","codeAsString":"BT1"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BT2","codeAsString":"BT2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BTx","codeAsString":"BTx"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BasGP1","codeAsString":"BasGP1"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BasGPx","codeAsString":"BasGPx"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BasPenT3","codeAsString":"BasPenT3"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BasPenTx","codeAsString":"BasPenTx"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BasTP1","codeAsString":"BasTP1"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BasTP2","codeAsString":"BasTP2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BasTP3","codeAsString":"BasTP3"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BasTP4","codeAsString":"BasTP4"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BasTPx","codeAsString":"BasTPx"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BerPensjonvedUttak","codeAsString":"BerPensjonvedUttak"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BgOrdiner","codeAsString":"BgOrdiner"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ET1","codeAsString":"ET1"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ET2","codeAsString":"ET2"},{"decode":"1,31 * ET","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ETUTA","codeAsString":"ETUTA"},{"decode":"1,31 * ET + 0,62 * (UP - 165 000)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ETUTB","codeAsString":"ETUTB"},{"decode":"1,31 * ET + 0,62 * (268 000 - 165 000) - 0,05 * (UP - 268 000)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ETUTC","codeAsString":"ETUTC"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ETx","codeAsString":"ETx"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FullPensjon672","codeAsString":"FullPensjon672"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FullPensjon673","codeAsString":"FullPensjon673"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FullPensjon674","codeAsString":"FullPensjon674"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FullPensjon67x","codeAsString":"FullPensjon67x"},{"decode":"Garantipensjon førstegangsuttak","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GAP1","codeAsString":"GAP1"},{"decode":"Garantipensjon endring av uttaksgrad","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GAP2","codeAsString":"GAP2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GAPx","codeAsString":"GAPx"},{"decode":"Garantipensjonsbeholdning førstegangsuttak","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GAR_PEN_B1","codeAsString":"GAR_PEN_B1"},{"decode":"Garantipensjonsbeholdning endring av uttaksgrad","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GAR_PEN_B2","codeAsString":"GAR_PEN_B2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GAR_PEN_Bx","codeAsString":"GAR_PEN_Bx"},{"decode":"Garantitilleggsbeholdning førstegangsuttak","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GAR_T_B1","codeAsString":"GAR_T_B1"},{"decode":"Garantitilleggsbeholdning endring av uttaksgrad","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GAR_T_B2","codeAsString":"GAR_T_B2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GAR_T_Bx","codeAsString":"GAR_T_Bx"},{"decode":"Garantitillegg førstegangsuttak","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GAT1","codeAsString":"GAT1"},{"decode":"Garantitillegg endring av uttaksgrad","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GAT2","codeAsString":"GAT2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GATx","codeAsString":"GATx"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GP1","codeAsString":"GP1"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GP2","codeAsString":"GP2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GP3","codeAsString":"GP3"},{"decode":"Førsteuttak: Garantipensjonsnivå ved 67 år TOM 2029","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GPN_HOY_2029_1","codeAsString":"GPN_HOY_2029_1"},{"decode":"Førsteuttak: Garantipensjonsnivå ved 67 år TOM 2029","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GPN_HOY_2029_2","codeAsString":"GPN_HOY_2029_2"},{"decode":"Endring av uttaksgrad: Garantipensjonsnivå ved 67 år TOM 2029","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GPN_HOY_2030_1","codeAsString":"GPN_HOY_2030_1"},{"decode":"Endring av uttaksgrad: Garantipensjonsnivå ved 67 år TOM 2029","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GPN_HOY_2030_2","codeAsString":"GPN_HOY_2030_2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GPx","codeAsString":"GPx"},{"decode":"Inntektspensjon førstegangsuttak","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"IP1","codeAsString":"IP1"},{"decode":"Inntektspensjon endring av uttaksgrad","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"IP2","codeAsString":"IP2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"IPx","codeAsString":"IPx"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KompT1","codeAsString":"KompT1"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KompT2","codeAsString":"KompT2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"LivsvD1","codeAsString":"LivsvD1"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"LivsvD2","codeAsString":"LivsvD2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"LivsvD3","codeAsString":"LivsvD3"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"LivsvD4","codeAsString":"LivsvD4"},{"decode":"Minste pensjonsnivå - Samlet pensjon til utbetaling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MIN_NIVA_TILL_INDV1","codeAsString":"MIN_NIVA_TILL_INDV1"},{"decode":"Minste pensjonsnivå og Garantipensjonsnivå - Samlet pensjon til utbetaling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MIN_NIVA_TILL_INDV2","codeAsString":"MIN_NIVA_TILL_INDV2"},{"decode":"Garantipensjonsnivå - Samlet pensjon til utbetaling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MIN_NIVA_TILL_INDV3","codeAsString":"MIN_NIVA_TILL_INDV3"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MIN_NIVA_TILL_PPAR1","codeAsString":"MIN_NIVA_TILL_PPAR1"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MPN1","codeAsString":"MPN1"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MPNUttakFullTT","codeAsString":"MPNUttakFullTT"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MPNVilk1","codeAsString":"MPNVilk1"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MPNVilk2","codeAsString":"MPNVilk2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MPNvilkx","codeAsString":"MPNvilkx"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MPNx","codeAsString":"MPNx"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MyBest","codeAsString":"MyBest"},{"decode":"Eksportforbud for minsteytelse ved delvis eksport.","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MyEksportforbud","codeAsString":"MyEksportforbud"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MyOrdiner","codeAsString":"MyOrdiner"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MyOrdinerYrkesskade","codeAsString":"MyOrdinerYrkesskade"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MyProRata","codeAsString":"MyProRata"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MyYrkesskade","codeAsString":"MyYrkesskade"},{"decode":"Pensjonsbeholdning førstegangsuttak","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"PEN_B1","codeAsString":"PEN_B1"},{"decode":"Pensjonsbeholdning endring av uttaksgrad","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"PEN_B2","codeAsString":"PEN_B2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"PEN_Bx","codeAsString":"PEN_Bx"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"PenT1","codeAsString":"PenT1"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"PenT2","codeAsString":"PenT2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"PenT3","codeAsString":"PenT3"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"PenTx","codeAsString":"PenTx"},{"decode":"Førsteuttak: Garantipensjonsbeholdning etter  uttak","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"RES_GAR_PEN_B1","codeAsString":"RES_GAR_PEN_B1"},{"decode":"Endring av uttaksgrad: Garantipensjonsbeholdning etter uttak","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"RES_GAR_PEN_B2","codeAsString":"RES_GAR_PEN_B2"},{"decode":"Førsteuttak: Pensjonsbeholdning etter uttak","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"RES_PEN_B1","codeAsString":"RES_PEN_B1"},{"decode":"Endring av uttaksgrad: Pensjonsbeholdning etter uttak","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"RES_PEN_B2","codeAsString":"RES_PEN_B2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ResGP0","codeAsString":"ResGP0"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ResGP1","codeAsString":"ResGP1"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ResGP2","codeAsString":"ResGP2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ResGPx","codeAsString":"ResGPx"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ResP1","codeAsString":"ResP1"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ResP2","codeAsString":"ResP2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ResP3","codeAsString":"ResP3"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ResPenT0","codeAsString":"ResPenT0"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ResPenT1","codeAsString":"ResPenT1"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ResPenT2","codeAsString":"ResPenT2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ResPenTx","codeAsString":"ResPenTx"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ResPx","codeAsString":"ResPx"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ResTP0","codeAsString":"ResTP0"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ResTP1","codeAsString":"ResTP1"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ResTP3","codeAsString":"ResTP3"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ResTPx","codeAsString":"ResTPx"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SkattKompx","codeAsString":"SkattKompx"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"Skjerm1","codeAsString":"Skjerm1"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"Skjerm2","codeAsString":"Skjerm2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"Skjermx","codeAsString":"Skjermx"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TP1","codeAsString":"TP1"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TP2","codeAsString":"TP2"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TP3","codeAsString":"TP3"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TPx","codeAsString":"TPx"},{"decode":"Høy sats regel a)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSKH1","codeAsString":"UTSKH1"},{"decode":"Høy sats regel b)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSKH2","codeAsString":"UTSKH2"},{"decode":"Høy sats regel c)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSKH3","codeAsString":"UTSKH3"},{"decode":"Høy sats regel d)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSKH4","codeAsString":"UTSKH4"},{"decode":"Høy sats regel e)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSKH5","codeAsString":"UTSKH5"},{"decode":"Høy sats regel f)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSKH6","codeAsString":"UTSKH6"},{"decode":"Høy sats regel g)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSKH7","codeAsString":"UTSKH7"},{"decode":"Høy sats regel h)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSKH8","codeAsString":"UTSKH8"},{"decode":"Ordinær sats regel a)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSKO1","codeAsString":"UTSKO1"},{"decode":"Ordinær sats regel b)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSKO2","codeAsString":"UTSKO2"},{"decode":"Ordinær sats regel c)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSKO3","codeAsString":"UTSKO3"},{"decode":"Ordinær sats regel d)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSKO4","codeAsString":"UTSKO4"},{"decode":"Ordinær sats regel e)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSKO5","codeAsString":"UTSKO5"},{"decode":"Ordinær sats regel f)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSKO6","codeAsString":"UTSKO6"},{"decode":"Ordinær sats regel g)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSKO7","codeAsString":"UTSKO7"},{"decode":"Ordinær sats regel h)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTSKO8","codeAsString":"UTSKO8"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YgBest","codeAsString":"YgBest"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YgOrdiner","codeAsString":"YgOrdiner"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YgOrdinerYrkesskade","codeAsString":"YgOrdinerYrkesskade"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YgProRata","codeAsString":"YgProRata"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YgYrkesskade","codeAsString":"YgYrkesskade"}]
+[
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AFP3",
+    "codeAsString": "AFP3"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AFP4",
+    "codeAsString": "AFP4"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AFPx",
+    "codeAsString": "AFPx"
+  },
+  {
+    "decode": "Førsteuttak: Beregnet hel alderspensjon ved 67 år",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AP2016_1",
+    "codeAsString": "AP2016_1"
+  },
+  {
+    "decode": "Endring av uttaksgrad: Beregnet hel alderspensjon ved 67 år",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AP2016_2",
+    "codeAsString": "AP2016_2"
+  },
+  {
+    "decode": "AP kap.3 med gjenlevenderett er lavere enn AP kap.3 uten gjenlevenderett",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AP_GJT1",
+    "codeAsString": "AP_GJT1"
+  },
+  {
+    "decode": "AP kap.3 med gjenlevenderett - AP kap.3 uten gjenlevenderett",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AP_GJT2",
+    "codeAsString": "AP_GJT2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPUx",
+    "codeAsString": "BPUx"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BT1",
+    "codeAsString": "BT1"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BT2",
+    "codeAsString": "BT2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BTx",
+    "codeAsString": "BTx"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BasGP1",
+    "codeAsString": "BasGP1"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BasGPx",
+    "codeAsString": "BasGPx"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BasPenT3",
+    "codeAsString": "BasPenT3"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BasPenTx",
+    "codeAsString": "BasPenTx"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BasTP1",
+    "codeAsString": "BasTP1"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BasTP2",
+    "codeAsString": "BasTP2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BasTP3",
+    "codeAsString": "BasTP3"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BasTP4",
+    "codeAsString": "BasTP4"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BasTPx",
+    "codeAsString": "BasTPx"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BerPensjonvedUttak",
+    "codeAsString": "BerPensjonvedUttak"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BgOrdiner",
+    "codeAsString": "BgOrdiner"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ET1",
+    "codeAsString": "ET1"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ET2",
+    "codeAsString": "ET2"
+  },
+  {
+    "decode": "1,31 * ET",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETUTA",
+    "codeAsString": "ETUTA"
+  },
+  {
+    "decode": "1,31 * ET + 0,62 * (UP - 165 000)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETUTB",
+    "codeAsString": "ETUTB"
+  },
+  {
+    "decode": "1,31 * ET + 0,62 * (268 000 - 165 000) - 0,05 * (UP - 268 000)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETUTC",
+    "codeAsString": "ETUTC"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETx",
+    "codeAsString": "ETx"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FullPensjon672",
+    "codeAsString": "FullPensjon672"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FullPensjon673",
+    "codeAsString": "FullPensjon673"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FullPensjon674",
+    "codeAsString": "FullPensjon674"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FullPensjon67x",
+    "codeAsString": "FullPensjon67x"
+  },
+  {
+    "decode": "Garantipensjon førstegangsuttak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GAP1",
+    "codeAsString": "GAP1"
+  },
+  {
+    "decode": "Garantipensjon endring av uttaksgrad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GAP2",
+    "codeAsString": "GAP2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GAPx",
+    "codeAsString": "GAPx"
+  },
+  {
+    "decode": "Garantipensjonsbeholdning førstegangsuttak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GAR_PEN_B1",
+    "codeAsString": "GAR_PEN_B1"
+  },
+  {
+    "decode": "Garantipensjonsbeholdning endring av uttaksgrad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GAR_PEN_B2",
+    "codeAsString": "GAR_PEN_B2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GAR_PEN_Bx",
+    "codeAsString": "GAR_PEN_Bx"
+  },
+  {
+    "decode": "Garantitilleggsbeholdning førstegangsuttak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GAR_T_B1",
+    "codeAsString": "GAR_T_B1"
+  },
+  {
+    "decode": "Garantitilleggsbeholdning endring av uttaksgrad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GAR_T_B2",
+    "codeAsString": "GAR_T_B2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GAR_T_Bx",
+    "codeAsString": "GAR_T_Bx"
+  },
+  {
+    "decode": "Garantitillegg førstegangsuttak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GAT1",
+    "codeAsString": "GAT1"
+  },
+  {
+    "decode": "Garantitillegg endring av uttaksgrad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GAT2",
+    "codeAsString": "GAT2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GATx",
+    "codeAsString": "GATx"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GP1",
+    "codeAsString": "GP1"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GP2",
+    "codeAsString": "GP2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GP3",
+    "codeAsString": "GP3"
+  },
+  {
+    "decode": "Førsteuttak: Garantipensjonsnivå ved 67 år TOM 2029",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GPN_HOY_2029_1",
+    "codeAsString": "GPN_HOY_2029_1"
+  },
+  {
+    "decode": "Førsteuttak: Garantipensjonsnivå ved 67 år TOM 2029",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GPN_HOY_2029_2",
+    "codeAsString": "GPN_HOY_2029_2"
+  },
+  {
+    "decode": "Endring av uttaksgrad: Garantipensjonsnivå ved 67 år TOM 2029",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GPN_HOY_2030_1",
+    "codeAsString": "GPN_HOY_2030_1"
+  },
+  {
+    "decode": "Endring av uttaksgrad: Garantipensjonsnivå ved 67 år TOM 2029",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GPN_HOY_2030_2",
+    "codeAsString": "GPN_HOY_2030_2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GPx",
+    "codeAsString": "GPx"
+  },
+  {
+    "decode": "Inntektspensjon førstegangsuttak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "IP1",
+    "codeAsString": "IP1"
+  },
+  {
+    "decode": "Inntektspensjon endring av uttaksgrad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "IP2",
+    "codeAsString": "IP2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "IPx",
+    "codeAsString": "IPx"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KompT1",
+    "codeAsString": "KompT1"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KompT2",
+    "codeAsString": "KompT2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "LivsvD1",
+    "codeAsString": "LivsvD1"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "LivsvD2",
+    "codeAsString": "LivsvD2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "LivsvD3",
+    "codeAsString": "LivsvD3"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "LivsvD4",
+    "codeAsString": "LivsvD4"
+  },
+  {
+    "decode": "Minste pensjonsnivå - Samlet pensjon til utbetaling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MIN_NIVA_TILL_INDV1",
+    "codeAsString": "MIN_NIVA_TILL_INDV1"
+  },
+  {
+    "decode": "Minste pensjonsnivå og Garantipensjonsnivå - Samlet pensjon til utbetaling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MIN_NIVA_TILL_INDV2",
+    "codeAsString": "MIN_NIVA_TILL_INDV2"
+  },
+  {
+    "decode": "Garantipensjonsnivå - Samlet pensjon til utbetaling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MIN_NIVA_TILL_INDV3",
+    "codeAsString": "MIN_NIVA_TILL_INDV3"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MIN_NIVA_TILL_PPAR1",
+    "codeAsString": "MIN_NIVA_TILL_PPAR1"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MPN1",
+    "codeAsString": "MPN1"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MPNUttakFullTT",
+    "codeAsString": "MPNUttakFullTT"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MPNVilk1",
+    "codeAsString": "MPNVilk1"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MPNVilk2",
+    "codeAsString": "MPNVilk2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MPNvilkx",
+    "codeAsString": "MPNvilkx"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MPNx",
+    "codeAsString": "MPNx"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MyBest",
+    "codeAsString": "MyBest"
+  },
+  {
+    "decode": "Eksportforbud for minsteytelse ved delvis eksport.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MyEksportforbud",
+    "codeAsString": "MyEksportforbud"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MyOrdiner",
+    "codeAsString": "MyOrdiner"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MyOrdinerYrkesskade",
+    "codeAsString": "MyOrdinerYrkesskade"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MyProRata",
+    "codeAsString": "MyProRata"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MyYrkesskade",
+    "codeAsString": "MyYrkesskade"
+  },
+  {
+    "decode": "Pensjonsbeholdning førstegangsuttak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PEN_B1",
+    "codeAsString": "PEN_B1"
+  },
+  {
+    "decode": "Pensjonsbeholdning endring av uttaksgrad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PEN_B2",
+    "codeAsString": "PEN_B2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PEN_Bx",
+    "codeAsString": "PEN_Bx"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PenT1",
+    "codeAsString": "PenT1"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PenT2",
+    "codeAsString": "PenT2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PenT3",
+    "codeAsString": "PenT3"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PenTx",
+    "codeAsString": "PenTx"
+  },
+  {
+    "decode": "Førsteuttak: Garantipensjonsbeholdning etter  uttak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "RES_GAR_PEN_B1",
+    "codeAsString": "RES_GAR_PEN_B1"
+  },
+  {
+    "decode": "Endring av uttaksgrad: Garantipensjonsbeholdning etter uttak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "RES_GAR_PEN_B2",
+    "codeAsString": "RES_GAR_PEN_B2"
+  },
+  {
+    "decode": "Førsteuttak: Pensjonsbeholdning etter uttak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "RES_PEN_B1",
+    "codeAsString": "RES_PEN_B1"
+  },
+  {
+    "decode": "Endring av uttaksgrad: Pensjonsbeholdning etter uttak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "RES_PEN_B2",
+    "codeAsString": "RES_PEN_B2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ResGP0",
+    "codeAsString": "ResGP0"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ResGP1",
+    "codeAsString": "ResGP1"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ResGP2",
+    "codeAsString": "ResGP2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ResGPx",
+    "codeAsString": "ResGPx"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ResP1",
+    "codeAsString": "ResP1"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ResP2",
+    "codeAsString": "ResP2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ResP3",
+    "codeAsString": "ResP3"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ResPenT0",
+    "codeAsString": "ResPenT0"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ResPenT1",
+    "codeAsString": "ResPenT1"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ResPenT2",
+    "codeAsString": "ResPenT2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ResPenTx",
+    "codeAsString": "ResPenTx"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ResPx",
+    "codeAsString": "ResPx"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ResTP0",
+    "codeAsString": "ResTP0"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ResTP1",
+    "codeAsString": "ResTP1"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ResTP3",
+    "codeAsString": "ResTP3"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ResTPx",
+    "codeAsString": "ResTPx"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SkattKompx",
+    "codeAsString": "SkattKompx"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "Skjerm1",
+    "codeAsString": "Skjerm1"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "Skjerm2",
+    "codeAsString": "Skjerm2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "Skjermx",
+    "codeAsString": "Skjermx"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TP1",
+    "codeAsString": "TP1"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TP2",
+    "codeAsString": "TP2"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TP3",
+    "codeAsString": "TP3"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TPx",
+    "codeAsString": "TPx"
+  },
+  {
+    "decode": "Høy sats regel a)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSKH1",
+    "codeAsString": "UTSKH1"
+  },
+  {
+    "decode": "Høy sats regel b)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSKH2",
+    "codeAsString": "UTSKH2"
+  },
+  {
+    "decode": "Høy sats regel c)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSKH3",
+    "codeAsString": "UTSKH3"
+  },
+  {
+    "decode": "Høy sats regel d)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSKH4",
+    "codeAsString": "UTSKH4"
+  },
+  {
+    "decode": "Høy sats regel e)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSKH5",
+    "codeAsString": "UTSKH5"
+  },
+  {
+    "decode": "Høy sats regel f)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSKH6",
+    "codeAsString": "UTSKH6"
+  },
+  {
+    "decode": "Høy sats regel g)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSKH7",
+    "codeAsString": "UTSKH7"
+  },
+  {
+    "decode": "Høy sats regel h)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSKH8",
+    "codeAsString": "UTSKH8"
+  },
+  {
+    "decode": "Ordinær sats regel a)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSKO1",
+    "codeAsString": "UTSKO1"
+  },
+  {
+    "decode": "Ordinær sats regel b)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSKO2",
+    "codeAsString": "UTSKO2"
+  },
+  {
+    "decode": "Ordinær sats regel c)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSKO3",
+    "codeAsString": "UTSKO3"
+  },
+  {
+    "decode": "Ordinær sats regel d)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSKO4",
+    "codeAsString": "UTSKO4"
+  },
+  {
+    "decode": "Ordinær sats regel e)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSKO5",
+    "codeAsString": "UTSKO5"
+  },
+  {
+    "decode": "Ordinær sats regel f)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSKO6",
+    "codeAsString": "UTSKO6"
+  },
+  {
+    "decode": "Ordinær sats regel g)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSKO7",
+    "codeAsString": "UTSKO7"
+  },
+  {
+    "decode": "Ordinær sats regel h)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSKO8",
+    "codeAsString": "UTSKO8"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "YgBest",
+    "codeAsString": "YgBest"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "YgOrdiner",
+    "codeAsString": "YgOrdiner"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "YgOrdinerYrkesskade",
+    "codeAsString": "YgOrdinerYrkesskade"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "YgProRata",
+    "codeAsString": "YgProRata"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "YgYrkesskade",
+    "codeAsString": "YgYrkesskade"
+  }
+]

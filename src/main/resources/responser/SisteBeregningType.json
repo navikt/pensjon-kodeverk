@@ -1,1 +1,34 @@
-[{"decode":"Siste aldersberegning 1967","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SISTE_BER_1967","codeAsString":"SISTE_BER_1967"},{"decode":"Siste aldersberegning 2011","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SISTE_BER_2011","codeAsString":"SISTE_BER_2011"},{"decode":"Siste aldersberegning 2016","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SISTE_BER_2016","codeAsString":"SISTE_BER_2016"},{"decode":"Siste uforepensjonsberegning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SISTE_BER_UP","codeAsString":"SISTE_BER_UP"}]
+[
+  {
+    "decode": "Siste aldersberegning 1967",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SISTE_BER_1967",
+    "codeAsString": "SISTE_BER_1967"
+  },
+  {
+    "decode": "Siste aldersberegning 2011",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SISTE_BER_2011",
+    "codeAsString": "SISTE_BER_2011"
+  },
+  {
+    "decode": "Siste aldersberegning 2016",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SISTE_BER_2016",
+    "codeAsString": "SISTE_BER_2016"
+  },
+  {
+    "decode": "Siste uforepensjonsberegning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SISTE_BER_UP",
+    "codeAsString": "SISTE_BER_UP"
+  }
+]

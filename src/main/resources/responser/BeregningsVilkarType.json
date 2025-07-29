@@ -1,1 +1,90 @@
-[{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ALDER2011_VED_DOD","codeAsString":"ALDER2011_VED_DOD"},{"decode":"§ 12-9 Inntekt etter uførhet (IEU)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INNTEKT_ETTER_UFOR","codeAsString":"INNTEKT_ETTER_UFOR"},{"decode":"§ 12-9 Inntekt før uførhet (IFU)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INNTEKT_FOR_UFORHET","codeAsString":"INNTEKT_FOR_UFORHET"},{"decode":"§ 12-17 Inntekt på skadetidspunktet","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INNTEKT_SKADETIDSPKT","codeAsString":"INNTEKT_SKADETIDSPKT"},{"decode":"§ 12-17 Skadetidspunkt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SKADETIDSPUNKT","codeAsString":"SKADETIDSPUNKT"},{"decode":"-","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TIDLIGERE_GJP_VILKAR","codeAsString":"TIDLIGERE_GJP_VILKAR"},{"decode":"§ 12-xx","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TRYGDETID_BER_VILKAR","codeAsString":"TRYGDETID_BER_VILKAR"},{"decode":"§ 12-10 Uføregrad","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFOREGRAD","codeAsString":"UFOREGRAD"},{"decode":"§ 12-8 Uføretidspunkt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORETIDSPUNKT","codeAsString":"UFORETIDSPUNKT"},{"decode":"§ 22-12, 22-13 Virkningstidspunkt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"VIRKNINGSTIDSPUNKT","codeAsString":"VIRKNINGSTIDSPUNKT"},{"decode":"§ 12-17 Uføregrad som skyldes yrkesskade/yrkessykdom","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRKESSKADEGRAD","codeAsString":"YRKESSKADEGRAD"}]
+[
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ALDER2011_VED_DOD",
+    "codeAsString": "ALDER2011_VED_DOD"
+  },
+  {
+    "decode": "§ 12-9 Inntekt etter uførhet (IEU)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNTEKT_ETTER_UFOR",
+    "codeAsString": "INNTEKT_ETTER_UFOR"
+  },
+  {
+    "decode": "§ 12-9 Inntekt før uførhet (IFU)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNTEKT_FOR_UFORHET",
+    "codeAsString": "INNTEKT_FOR_UFORHET"
+  },
+  {
+    "decode": "§ 12-17 Inntekt på skadetidspunktet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNTEKT_SKADETIDSPKT",
+    "codeAsString": "INNTEKT_SKADETIDSPKT"
+  },
+  {
+    "decode": "§ 12-17 Skadetidspunkt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SKADETIDSPUNKT",
+    "codeAsString": "SKADETIDSPUNKT"
+  },
+  {
+    "decode": "-",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TIDLIGERE_GJP_VILKAR",
+    "codeAsString": "TIDLIGERE_GJP_VILKAR"
+  },
+  {
+    "decode": "§ 12-xx",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TRYGDETID_BER_VILKAR",
+    "codeAsString": "TRYGDETID_BER_VILKAR"
+  },
+  {
+    "decode": "§ 12-10 Uføregrad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UFOREGRAD",
+    "codeAsString": "UFOREGRAD"
+  },
+  {
+    "decode": "§ 12-8 Uføretidspunkt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UFORETIDSPUNKT",
+    "codeAsString": "UFORETIDSPUNKT"
+  },
+  {
+    "decode": "§ 22-12, 22-13 Virkningstidspunkt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VIRKNINGSTIDSPUNKT",
+    "codeAsString": "VIRKNINGSTIDSPUNKT"
+  },
+  {
+    "decode": "§ 12-17 Uføregrad som skyldes yrkesskade/yrkessykdom",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "YRKESSKADEGRAD",
+    "codeAsString": "YRKESSKADEGRAD"
+  }
+]

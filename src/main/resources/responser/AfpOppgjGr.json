@@ -1,1 +1,34 @@
-[{"decode":"Gruppe 4","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ANDRE_AVVIK","codeAsString":"ANDRE_AVVIK"},{"decode":"Gruppe 1","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AVVIK_UNDER_SATS","codeAsString":"AVVIK_UNDER_SATS"},{"decode":"Gruppe 3","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"NEGATIVT_AVVIK","codeAsString":"NEGATIVT_AVVIK"},{"decode":"Gruppe 2","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"POSITIVT_AVVIK","codeAsString":"POSITIVT_AVVIK"}]
+[
+  {
+    "decode": "Gruppe 4",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANDRE_AVVIK",
+    "codeAsString": "ANDRE_AVVIK"
+  },
+  {
+    "decode": "Gruppe 1",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AVVIK_UNDER_SATS",
+    "codeAsString": "AVVIK_UNDER_SATS"
+  },
+  {
+    "decode": "Gruppe 3",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NEGATIVT_AVVIK",
+    "codeAsString": "NEGATIVT_AVVIK"
+  },
+  {
+    "decode": "Gruppe 2",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "POSITIVT_AVVIK",
+    "codeAsString": "POSITIVT_AVVIK"
+  }
+]

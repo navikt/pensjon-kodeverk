@@ -1,1 +1,58 @@
-[{"decode":"E 001 - Anmodning om opplysninger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"E001","codeAsString":"E001"},{"decode":"E 202 - Behandling av krav om alderspensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"E202","codeAsString":"E202"},{"decode":"E 202 og E 205 - Behandling av krav om alderspensjon og Attest om trygdetid i Norge","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"E202_E205","codeAsString":"E202_E205"},{"decode":"E 204 - Behandling av krav om uføretrygd/uførepensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"E204","codeAsString":"E204"},{"decode":"E 205 - Attest om trygdetid i Norge","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"E205","codeAsString":"E205"},{"decode":"E 210 - Melding om vedtak i sak som gjelder krav","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"E210","codeAsString":"E210"},{"decode":"E 211 - Samlet melding om vedtakene","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"E211","codeAsString":"E211"}]
+[
+  {
+    "decode": "E 001 - Anmodning om opplysninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "E001",
+    "codeAsString": "E001"
+  },
+  {
+    "decode": "E 202 - Behandling av krav om alderspensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "E202",
+    "codeAsString": "E202"
+  },
+  {
+    "decode": "E 202 og E 205 - Behandling av krav om alderspensjon og Attest om trygdetid i Norge",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "E202_E205",
+    "codeAsString": "E202_E205"
+  },
+  {
+    "decode": "E 204 - Behandling av krav om uføretrygd/uførepensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "E204",
+    "codeAsString": "E204"
+  },
+  {
+    "decode": "E 205 - Attest om trygdetid i Norge",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "E205",
+    "codeAsString": "E205"
+  },
+  {
+    "decode": "E 210 - Melding om vedtak i sak som gjelder krav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "E210",
+    "codeAsString": "E210"
+  },
+  {
+    "decode": "E 211 - Samlet melding om vedtakene",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "E211",
+    "codeAsString": "E211"
+  }
+]

@@ -1,1 +1,26 @@
-[{"decode":"Skjema sendt til manuell behandling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MANUELL","codeAsString":"MANUELL"},{"decode":"Skjema sendt til maskinell behandling","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MASKINELL","codeAsString":"MASKINELL"},{"decode":"Skjema opprettet","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OPPRETTET","codeAsString":"OPPRETTET"}]
+[
+  {
+    "decode": "Skjema sendt til manuell behandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MANUELL",
+    "codeAsString": "MANUELL"
+  },
+  {
+    "decode": "Skjema sendt til maskinell behandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MASKINELL",
+    "codeAsString": "MASKINELL"
+  },
+  {
+    "decode": "Skjema opprettet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OPPRETTET",
+    "codeAsString": "OPPRETTET"
+  }
+]

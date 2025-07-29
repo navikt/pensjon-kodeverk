@@ -1,1 +1,515 @@
-[{"decode":"§8-5-1-tillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"P_8_5_1_T","prioritet":28,"codeAsString":"8_5_1_T"},{"decode":"Arbeidsavklaringspenger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AAP","prioritet":45,"codeAsString":"AAP"},{"decode":"AFP Kompensasjonstillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AFP_KOMP_TILLEGG","prioritet":20,"codeAsString":"AFP_KOMP_TILLEGG"},{"decode":"AFP kronetillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AFP_KRONETILLEGG","prioritet":19,"codeAsString":"AFP_KRONETILLEGG"},{"decode":"AFP livsvarig del","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AFP_LIVSVARIG","prioritet":18,"codeAsString":"AFP_LIVSVARIG"},{"decode":"AFP-tillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AFP_T","prioritet":17,"codeAsString":"AFP_T"},{"decode":"Annet","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ANNET","prioritet":36,"codeAsString":"ANNET"},{"decode":"Gjenlevendetillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AP_GJT","prioritet":11,"codeAsString":"AP_GJT"},{"decode":"Gjenlevendetillegg kapittel 19","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AP_GJT_KAP19","prioritet":56,"codeAsString":"AP_GJT_KAP19"},{"decode":"Barnepensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BARNEPENSJON","prioritet":57,"codeAsString":"BARNEPENSJON"},{"decode":"Barnetilsyn","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BARNETILSYN","prioritet":33,"codeAsString":"BARNETILSYN"},{"decode":"Barnetillegg (felles- og særkullsbarn)","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BT","prioritet":16,"codeAsString":"BT"},{"decode":"Ektefelletillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ET","prioritet":13,"codeAsString":"ET"},{"decode":"Familietillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FAM_T","prioritet":23,"codeAsString":"FAM_T"},{"decode":"Tillegg faste utgifter","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FAST_UTGIFT_T","prioritet":22,"codeAsString":"FAST_UTGIFT_T"},{"decode":"Feilkonto","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FEILKONTO","prioritet":1,"codeAsString":"FEILKONTO"},{"decode":"Garantipensjon","valid":true,"fromDate":1443650400000,"toDate":null,"code":"GAP","prioritet":5,"codeAsString":"GAP"},{"decode":"Garantitillegg EØS/nordisk konvensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GARANTITILLEGG","prioritet":21,"codeAsString":"GARANTITILLEGG"},{"decode":"Garantitillegg","valid":true,"fromDate":1443650400000,"toDate":null,"code":"GAT","prioritet":12,"codeAsString":"GAT"},{"decode":"Grunnpensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GP","prioritet":2,"codeAsString":"GP"},{"decode":"Hjelpeløshetsbidrag","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"HJELP_BIDRAG","prioritet":27,"codeAsString":"HJELP_BIDRAG"},{"decode":"Tillegg til hjelp i huset","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"HJELP_I_HUS","prioritet":25,"codeAsString":"HJELP_I_HUS"},{"decode":"Inntektspensjon","valid":true,"fromDate":1443650400000,"toDate":null,"code":"IP","prioritet":4,"codeAsString":"IP"},{"decode":"Justeringskonto","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"JUSTERINGSKONTO","prioritet":37,"codeAsString":"JUSTERINGSKONTO"},{"decode":"Krigspensjon og gammel yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KRIG_GY","prioritet":24,"codeAsString":"KRIG_GY"},{"decode":"Mén-del","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MENDEL","prioritet":26,"codeAsString":"MENDEL"},{"decode":"Minstenivåtillegg individuelt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MIN_NIVA_TILL_INDV","prioritet":9,"codeAsString":"MIN_NIVA_TILL_INDV"},{"decode":"Minstenivåtillegg pensjonistpar","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MIN_NIVA_TILL_PPAR","prioritet":8,"codeAsString":"MIN_NIVA_TILL_PPAR"},{"decode":"Militær skadekur","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"MISK","prioritet":31,"codeAsString":"MISK"},{"decode":"Pensjonstillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"PT","prioritet":6,"codeAsString":"PT"},{"decode":"Sivil skadekur","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SISK","prioritet":32,"codeAsString":"SISK"},{"decode":"Forskuddstrekk skatt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SKATT","prioritet":39,"codeAsString":"SKATT"},{"decode":"Skattefri grunnpensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SKATT_F_GP","prioritet":43,"codeAsString":"SKATT_F_GP"},{"decode":"Forskuddstrekk skatt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SKATT_F_T","prioritet":38,"codeAsString":"SKATT_F_T"},{"decode":"Skattefri uføretrygd ordinær","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SKATT_F_UT_ORDINER","prioritet":46,"codeAsString":"SKATT_F_UT_ORDINER"},{"decode":"Påleggstrekk skatt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SKATT_PALEGG","prioritet":40,"codeAsString":"SKATT_PALEGG"},{"decode":"Skjermingstillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SKJERMT","prioritet":42,"codeAsString":"SKJERMT"},{"decode":"Sykepenger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SP","prioritet":44,"codeAsString":"SP"},{"decode":"Særtillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ST","prioritet":7,"codeAsString":"ST"},{"decode":"Barnetillegg fellesbarn","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TFB","prioritet":14,"codeAsString":"TFB"},{"decode":"Tilskott til flytteutgifter","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TILSKOTT_FLYTTEUTG","prioritet":35,"codeAsString":"TILSKOTT_FLYTTEUTG"},{"decode":"Tjenestepensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TJENESTEPENSJON","prioritet":30,"codeAsString":"TJENESTEPENSJON"},{"decode":"Tilleggspensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TP","prioritet":3,"codeAsString":"TP"},{"decode":"Trekk","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TREKK","prioritet":41,"codeAsString":"TREKK"},{"decode":"Barnetillegg særkullsbarn","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TSB","prioritet":15,"codeAsString":"TSB"},{"decode":"Uforetillegg til alderspensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORETILLEGG_AP","prioritet":10,"codeAsString":"UFORETILLEGG_AP"},{"decode":"Utdanningsstønad","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTD_STONAD","prioritet":34,"codeAsString":"UTD_STONAD"},{"decode":"Uføretrygd motregning AAP","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UT_AAP","prioritet":54,"codeAsString":"UT_AAP"},{"decode":"Uføretrygd ektefelletillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UT_ET","prioritet":50,"codeAsString":"UT_ET"},{"decode":"Dekning av faste utgifter inst.opph","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UT_FAST_UTGIFT_T","prioritet":55,"codeAsString":"UT_FAST_UTGIFT_T"},{"decode":"Uføretrygd gjenlevendetillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UT_GJT","prioritet":51,"codeAsString":"UT_GJT"},{"decode":"Uføretrygd garantitillegg Nordisk konvensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UT_GT_NORDISK","prioritet":52,"codeAsString":"UT_GT_NORDISK"},{"decode":"Uføretrygd","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UT_ORDINER","prioritet":47,"codeAsString":"UT_ORDINER"},{"decode":"Uføretrygd motregning SP","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UT_SP","prioritet":53,"codeAsString":"UT_SP"},{"decode":"Uføretrygd barnetillegg felles barn","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UT_TFB","prioritet":48,"codeAsString":"UT_TFB"},{"decode":"Uføretrygd barnetillegg særkullsbarn","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UT_TSB","prioritet":49,"codeAsString":"UT_TSB"},{"decode":"Ventetillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"VT","prioritet":29,"codeAsString":"VT"}]
+[
+  {
+    "decode": "§8-5-1-tillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_8_5_1_T",
+    "prioritet": 28,
+    "codeAsString": "8_5_1_T"
+  },
+  {
+    "decode": "Arbeidsavklaringspenger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AAP",
+    "prioritet": 45,
+    "codeAsString": "AAP"
+  },
+  {
+    "decode": "AFP Kompensasjonstillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AFP_KOMP_TILLEGG",
+    "prioritet": 20,
+    "codeAsString": "AFP_KOMP_TILLEGG"
+  },
+  {
+    "decode": "AFP kronetillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AFP_KRONETILLEGG",
+    "prioritet": 19,
+    "codeAsString": "AFP_KRONETILLEGG"
+  },
+  {
+    "decode": "AFP livsvarig del",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AFP_LIVSVARIG",
+    "prioritet": 18,
+    "codeAsString": "AFP_LIVSVARIG"
+  },
+  {
+    "decode": "AFP-tillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AFP_T",
+    "prioritet": 17,
+    "codeAsString": "AFP_T"
+  },
+  {
+    "decode": "Annet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANNET",
+    "prioritet": 36,
+    "codeAsString": "ANNET"
+  },
+  {
+    "decode": "Gjenlevendetillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AP_GJT",
+    "prioritet": 11,
+    "codeAsString": "AP_GJT"
+  },
+  {
+    "decode": "Gjenlevendetillegg kapittel 19",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AP_GJT_KAP19",
+    "prioritet": 56,
+    "codeAsString": "AP_GJT_KAP19"
+  },
+  {
+    "decode": "Barnepensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BARNEPENSJON",
+    "prioritet": 57,
+    "codeAsString": "BARNEPENSJON"
+  },
+  {
+    "decode": "Barnetilsyn",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BARNETILSYN",
+    "prioritet": 33,
+    "codeAsString": "BARNETILSYN"
+  },
+  {
+    "decode": "Barnetillegg (felles- og særkullsbarn)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BT",
+    "prioritet": 16,
+    "codeAsString": "BT"
+  },
+  {
+    "decode": "Ektefelletillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ET",
+    "prioritet": 13,
+    "codeAsString": "ET"
+  },
+  {
+    "decode": "Familietillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAM_T",
+    "prioritet": 23,
+    "codeAsString": "FAM_T"
+  },
+  {
+    "decode": "Tillegg faste utgifter",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAST_UTGIFT_T",
+    "prioritet": 22,
+    "codeAsString": "FAST_UTGIFT_T"
+  },
+  {
+    "decode": "Feilkonto",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FEILKONTO",
+    "prioritet": 1,
+    "codeAsString": "FEILKONTO"
+  },
+  {
+    "decode": "Garantipensjon",
+    "valid": true,
+    "fromDate": 1443650400000,
+    "toDate": null,
+    "code": "GAP",
+    "prioritet": 5,
+    "codeAsString": "GAP"
+  },
+  {
+    "decode": "Garantitillegg EØS/nordisk konvensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GARANTITILLEGG",
+    "prioritet": 21,
+    "codeAsString": "GARANTITILLEGG"
+  },
+  {
+    "decode": "Garantitillegg",
+    "valid": true,
+    "fromDate": 1443650400000,
+    "toDate": null,
+    "code": "GAT",
+    "prioritet": 12,
+    "codeAsString": "GAT"
+  },
+  {
+    "decode": "Grunnpensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GP",
+    "prioritet": 2,
+    "codeAsString": "GP"
+  },
+  {
+    "decode": "Hjelpeløshetsbidrag",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HJELP_BIDRAG",
+    "prioritet": 27,
+    "codeAsString": "HJELP_BIDRAG"
+  },
+  {
+    "decode": "Tillegg til hjelp i huset",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HJELP_I_HUS",
+    "prioritet": 25,
+    "codeAsString": "HJELP_I_HUS"
+  },
+  {
+    "decode": "Inntektspensjon",
+    "valid": true,
+    "fromDate": 1443650400000,
+    "toDate": null,
+    "code": "IP",
+    "prioritet": 4,
+    "codeAsString": "IP"
+  },
+  {
+    "decode": "Justeringskonto",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "JUSTERINGSKONTO",
+    "prioritet": 37,
+    "codeAsString": "JUSTERINGSKONTO"
+  },
+  {
+    "decode": "Krigspensjon og gammel yrkesskade",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KRIG_GY",
+    "prioritet": 24,
+    "codeAsString": "KRIG_GY"
+  },
+  {
+    "decode": "Mén-del",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MENDEL",
+    "prioritet": 26,
+    "codeAsString": "MENDEL"
+  },
+  {
+    "decode": "Minstenivåtillegg individuelt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MIN_NIVA_TILL_INDV",
+    "prioritet": 9,
+    "codeAsString": "MIN_NIVA_TILL_INDV"
+  },
+  {
+    "decode": "Minstenivåtillegg pensjonistpar",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MIN_NIVA_TILL_PPAR",
+    "prioritet": 8,
+    "codeAsString": "MIN_NIVA_TILL_PPAR"
+  },
+  {
+    "decode": "Militær skadekur",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MISK",
+    "prioritet": 31,
+    "codeAsString": "MISK"
+  },
+  {
+    "decode": "Pensjonstillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PT",
+    "prioritet": 6,
+    "codeAsString": "PT"
+  },
+  {
+    "decode": "Sivil skadekur",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SISK",
+    "prioritet": 32,
+    "codeAsString": "SISK"
+  },
+  {
+    "decode": "Forskuddstrekk skatt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SKATT",
+    "prioritet": 39,
+    "codeAsString": "SKATT"
+  },
+  {
+    "decode": "Skattefri grunnpensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SKATT_F_GP",
+    "prioritet": 43,
+    "codeAsString": "SKATT_F_GP"
+  },
+  {
+    "decode": "Forskuddstrekk skatt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SKATT_F_T",
+    "prioritet": 38,
+    "codeAsString": "SKATT_F_T"
+  },
+  {
+    "decode": "Skattefri uføretrygd ordinær",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SKATT_F_UT_ORDINER",
+    "prioritet": 46,
+    "codeAsString": "SKATT_F_UT_ORDINER"
+  },
+  {
+    "decode": "Påleggstrekk skatt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SKATT_PALEGG",
+    "prioritet": 40,
+    "codeAsString": "SKATT_PALEGG"
+  },
+  {
+    "decode": "Skjermingstillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SKJERMT",
+    "prioritet": 42,
+    "codeAsString": "SKJERMT"
+  },
+  {
+    "decode": "Sykepenger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SP",
+    "prioritet": 44,
+    "codeAsString": "SP"
+  },
+  {
+    "decode": "Særtillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ST",
+    "prioritet": 7,
+    "codeAsString": "ST"
+  },
+  {
+    "decode": "Barnetillegg fellesbarn",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TFB",
+    "prioritet": 14,
+    "codeAsString": "TFB"
+  },
+  {
+    "decode": "Tilskott til flytteutgifter",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TILSKOTT_FLYTTEUTG",
+    "prioritet": 35,
+    "codeAsString": "TILSKOTT_FLYTTEUTG"
+  },
+  {
+    "decode": "Tjenestepensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TJENESTEPENSJON",
+    "prioritet": 30,
+    "codeAsString": "TJENESTEPENSJON"
+  },
+  {
+    "decode": "Tilleggspensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TP",
+    "prioritet": 3,
+    "codeAsString": "TP"
+  },
+  {
+    "decode": "Trekk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TREKK",
+    "prioritet": 41,
+    "codeAsString": "TREKK"
+  },
+  {
+    "decode": "Barnetillegg særkullsbarn",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TSB",
+    "prioritet": 15,
+    "codeAsString": "TSB"
+  },
+  {
+    "decode": "Uforetillegg til alderspensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UFORETILLEGG_AP",
+    "prioritet": 10,
+    "codeAsString": "UFORETILLEGG_AP"
+  },
+  {
+    "decode": "Utdanningsstønad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTD_STONAD",
+    "prioritet": 34,
+    "codeAsString": "UTD_STONAD"
+  },
+  {
+    "decode": "Uføretrygd motregning AAP",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_AAP",
+    "prioritet": 54,
+    "codeAsString": "UT_AAP"
+  },
+  {
+    "decode": "Uføretrygd ektefelletillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_ET",
+    "prioritet": 50,
+    "codeAsString": "UT_ET"
+  },
+  {
+    "decode": "Dekning av faste utgifter inst.opph",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_FAST_UTGIFT_T",
+    "prioritet": 55,
+    "codeAsString": "UT_FAST_UTGIFT_T"
+  },
+  {
+    "decode": "Uføretrygd gjenlevendetillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_GJT",
+    "prioritet": 51,
+    "codeAsString": "UT_GJT"
+  },
+  {
+    "decode": "Uføretrygd garantitillegg Nordisk konvensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_GT_NORDISK",
+    "prioritet": 52,
+    "codeAsString": "UT_GT_NORDISK"
+  },
+  {
+    "decode": "Uføretrygd",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_ORDINER",
+    "prioritet": 47,
+    "codeAsString": "UT_ORDINER"
+  },
+  {
+    "decode": "Uføretrygd motregning SP",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_SP",
+    "prioritet": 53,
+    "codeAsString": "UT_SP"
+  },
+  {
+    "decode": "Uføretrygd barnetillegg felles barn",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_TFB",
+    "prioritet": 48,
+    "codeAsString": "UT_TFB"
+  },
+  {
+    "decode": "Uføretrygd barnetillegg særkullsbarn",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_TSB",
+    "prioritet": 49,
+    "codeAsString": "UT_TSB"
+  },
+  {
+    "decode": "Ventetillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VT",
+    "prioritet": 29,
+    "codeAsString": "VT"
+  }
+]

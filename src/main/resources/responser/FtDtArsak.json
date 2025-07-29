@@ -1,1 +1,66 @@
-[{"decode":"Endring/oppdatering av uttaksgrad etter kapittel 19","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EU19","codeAsString":"EU19"},{"decode":"Endring/oppdatering av uttaksgrad etter kapittel 20","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EU20","codeAsString":"EU20"},{"decode":"Førstegangsuttak etter kapittel 19","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FU19","codeAsString":"FU19"},{"decode":"Førstegangsuttak etter kapittel 20","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FU20","codeAsString":"FU20"},{"decode":"100 % uttak etter kapittel 19","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"HU19","codeAsString":"HU19"},{"decode":"100 % uttak etter kapittel 20","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"HU20","codeAsString":"HU20"},{"decode":"Oppfrisking av grad etter kapittel 19","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OG19","codeAsString":"OG19"},{"decode":"Oppfrisking av grad etter kapittel 20","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OG20","codeAsString":"OG20"}]
+[
+  {
+    "decode": "Endring/oppdatering av uttaksgrad etter kapittel 19",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EU19",
+    "codeAsString": "EU19"
+  },
+  {
+    "decode": "Endring/oppdatering av uttaksgrad etter kapittel 20",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EU20",
+    "codeAsString": "EU20"
+  },
+  {
+    "decode": "Førstegangsuttak etter kapittel 19",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FU19",
+    "codeAsString": "FU19"
+  },
+  {
+    "decode": "Førstegangsuttak etter kapittel 20",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FU20",
+    "codeAsString": "FU20"
+  },
+  {
+    "decode": "100 % uttak etter kapittel 19",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HU19",
+    "codeAsString": "HU19"
+  },
+  {
+    "decode": "100 % uttak etter kapittel 20",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HU20",
+    "codeAsString": "HU20"
+  },
+  {
+    "decode": "Oppfrisking av grad etter kapittel 19",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OG19",
+    "codeAsString": "OG19"
+  },
+  {
+    "decode": "Oppfrisking av grad etter kapittel 20",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OG20",
+    "codeAsString": "OG20"
+  }
+]

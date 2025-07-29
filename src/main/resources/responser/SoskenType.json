@@ -1,1 +1,18 @@
-[{"decode":"Halvsøsken","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"HALV","codeAsString":"HALV"},{"decode":"Helsøsken","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"HEL","codeAsString":"HEL"}]
+[
+  {
+    "decode": "Halvsøsken",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HALV",
+    "codeAsString": "HALV"
+  },
+  {
+    "decode": "Helsøsken",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HEL",
+    "codeAsString": "HEL"
+  }
+]

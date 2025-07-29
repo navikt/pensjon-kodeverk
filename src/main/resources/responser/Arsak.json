@@ -1,1 +1,98 @@
-[{"decode":"Annet","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ANNET","codeAsString":"ANNET"},{"decode":"Arbeid/Høy inntekt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ARBHOYINNT","codeAsString":"ARBHOYINNT"},{"decode":"Beregningsfeil","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BEREGNFEIL","codeAsString":"BEREGNFEIL"},{"decode":"Dødsfall","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"DODSFALL","codeAsString":"DODSFALL"},{"decode":"Ekteskap","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EKTESKAP","codeAsString":"EKTESKAP"},{"decode":"Feil regelbruk","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FEILREGEL","codeAsString":"FEILREGEL"},{"decode":"Feil uføregrad","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FEILUFOREG","codeAsString":"FEILUFOREG"},{"decode":"Flyttet utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FLYTTUTLAND","codeAsString":"FLYTTUTLAND"},{"decode":"Ikke sjekket mot andre ytelser","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"IKKESJEKKYTELSE","codeAsString":"IKKESJEKKYTELSE"},{"decode":"Oversett melding","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OVERSETTMLD","codeAsString":"OVERSETTMLD"},{"decode":"Samliv","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SAMLIV","codeAsString":"SAMLIV"},{"decode":"Utbetaling til feil mottaker","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTBFEILMOT","codeAsString":"UTBFEILMOT"}]
+[
+  {
+    "decode": "Annet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANNET",
+    "codeAsString": "ANNET"
+  },
+  {
+    "decode": "Arbeid/Høy inntekt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ARBHOYINNT",
+    "codeAsString": "ARBHOYINNT"
+  },
+  {
+    "decode": "Beregningsfeil",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BEREGNFEIL",
+    "codeAsString": "BEREGNFEIL"
+  },
+  {
+    "decode": "Dødsfall",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DODSFALL",
+    "codeAsString": "DODSFALL"
+  },
+  {
+    "decode": "Ekteskap",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKTESKAP",
+    "codeAsString": "EKTESKAP"
+  },
+  {
+    "decode": "Feil regelbruk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FEILREGEL",
+    "codeAsString": "FEILREGEL"
+  },
+  {
+    "decode": "Feil uføregrad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FEILUFOREG",
+    "codeAsString": "FEILUFOREG"
+  },
+  {
+    "decode": "Flyttet utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FLYTTUTLAND",
+    "codeAsString": "FLYTTUTLAND"
+  },
+  {
+    "decode": "Ikke sjekket mot andre ytelser",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "IKKESJEKKYTELSE",
+    "codeAsString": "IKKESJEKKYTELSE"
+  },
+  {
+    "decode": "Oversett melding",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OVERSETTMLD",
+    "codeAsString": "OVERSETTMLD"
+  },
+  {
+    "decode": "Samliv",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAMLIV",
+    "codeAsString": "SAMLIV"
+  },
+  {
+    "decode": "Utbetaling til feil mottaker",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTBFEILMOT",
+    "codeAsString": "UTBFEILMOT"
+  }
+]

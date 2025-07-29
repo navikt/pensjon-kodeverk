@@ -1,1 +1,82 @@
-[{"decode":"Enke/-mann","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ENKE","codeAsString":"ENKE"},{"decode":"Gift","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GIFT","codeAsString":"GIFT"},{"decode":"Gjenlevende partner","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GJPA","codeAsString":"GJPA"},{"decode":"Uoppgitt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"NULL","codeAsString":"NULL"},{"decode":"Registrert partner","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"REPA","codeAsString":"REPA"},{"decode":"Separert partner","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SEPA","codeAsString":"SEPA"},{"decode":"Separert","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SEPR","codeAsString":"SEPR"},{"decode":"Skilt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SKIL","codeAsString":"SKIL"},{"decode":"Skilt partner","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SKPA","codeAsString":"SKPA"},{"decode":"Ugift","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UGIF","codeAsString":"UGIF"}]
+[
+  {
+    "decode": "Enke/-mann",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ENKE",
+    "codeAsString": "ENKE"
+  },
+  {
+    "decode": "Gift",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GIFT",
+    "codeAsString": "GIFT"
+  },
+  {
+    "decode": "Gjenlevende partner",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GJPA",
+    "codeAsString": "GJPA"
+  },
+  {
+    "decode": "Uoppgitt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NULL",
+    "codeAsString": "NULL"
+  },
+  {
+    "decode": "Registrert partner",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REPA",
+    "codeAsString": "REPA"
+  },
+  {
+    "decode": "Separert partner",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SEPA",
+    "codeAsString": "SEPA"
+  },
+  {
+    "decode": "Separert",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SEPR",
+    "codeAsString": "SEPR"
+  },
+  {
+    "decode": "Skilt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SKIL",
+    "codeAsString": "SKIL"
+  },
+  {
+    "decode": "Skilt partner",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SKPA",
+    "codeAsString": "SKPA"
+  },
+  {
+    "decode": "Ugift",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UGIF",
+    "codeAsString": "UGIF"
+  }
+]

@@ -1,1 +1,10 @@
-[{"decode":"Forventede inntekter fradrag","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FORV_INNT_FRADRAG","codeAsString":"FORV_INNT_FRADRAG"}]
+[
+  {
+    "decode": "Forventede inntekter fradrag",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORV_INNT_FRADRAG",
+    "codeAsString": "FORV_INNT_FRADRAG"
+  }
+]

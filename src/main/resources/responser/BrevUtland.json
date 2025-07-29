@@ -1,1 +1,26 @@
-[{"decode":"Brev vises for innland og utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ALLTID","codeAsString":"ALLTID"},{"decode":"Innlandsbrev","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"NASJONALT","codeAsString":"NASJONALT"},{"decode":"Utlandsbrev","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTLAND","codeAsString":"UTLAND"}]
+[
+  {
+    "decode": "Brev vises for innland og utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ALLTID",
+    "codeAsString": "ALLTID"
+  },
+  {
+    "decode": "Innlandsbrev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NASJONALT",
+    "codeAsString": "NASJONALT"
+  },
+  {
+    "decode": "Utlandsbrev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTLAND",
+    "codeAsString": "UTLAND"
+  }
+]

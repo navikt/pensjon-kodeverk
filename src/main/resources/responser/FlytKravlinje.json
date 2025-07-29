@@ -1,1 +1,101 @@
-[{"decode":"Barnetillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BARNETILLEGG_ALD","sakType":"ALDER","codeAsString":"BARNETILLEGG_ALD"},{"decode":"Barnetillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BARNETILLEGG_GAM_YRK","sakType":"GAM_YRK","codeAsString":"BARNETILLEGG_GAM_YRK"},{"decode":"Barnetillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BARNETILLEGG_KRG","sakType":"KRIGSP","codeAsString":"BARNETILLEGG_KRG"},{"decode":"Barnetillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BARNETILLEGG_UFO","sakType":"UFOREP","codeAsString":"BARNETILLEGG_UFO"},{"decode":"Ektefelletillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EKTEFELLE_TL_AFP","sakType":"AFP","codeAsString":"EKTEFELLE_TL_AFP"},{"decode":"Ektefelletillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EKTEFELLE_TL_ALD","sakType":"ALDER","codeAsString":"EKTEFELLE_TL_ALD"},{"decode":"Ektefelletillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EKTEFELLE_TL_UFO","sakType":"UFOREP","codeAsString":"EKTEFELLE_TL_UFO"},{"decode":"Ektefelle- og barnetillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EKTE_BARNE_TIL_UFO","sakType":"UFOREP","codeAsString":"EKTE_BARNE_TIL_UFO"},{"decode":"Ektefelle- og barnetillegg","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EKTE_BARNE_TL_ALD","sakType":"ALDER","codeAsString":"EKTE_BARNE_TL_ALD"},{"decode":"Hjelpeløshetsbidrag","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"HJELPELOSHET_BI","sakType":"KRIGSP","codeAsString":"HJELPELOSHET_BI"},{"decode":"Tillegg til hjelp i huset","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"HJELP_HUSET","sakType":"KRIGSP","codeAsString":"HJELP_HUSET"}]
+[
+  {
+    "decode": "Barnetillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BARNETILLEGG_ALD",
+    "sakType": "ALDER",
+    "codeAsString": "BARNETILLEGG_ALD"
+  },
+  {
+    "decode": "Barnetillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BARNETILLEGG_GAM_YRK",
+    "sakType": "GAM_YRK",
+    "codeAsString": "BARNETILLEGG_GAM_YRK"
+  },
+  {
+    "decode": "Barnetillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BARNETILLEGG_KRG",
+    "sakType": "KRIGSP",
+    "codeAsString": "BARNETILLEGG_KRG"
+  },
+  {
+    "decode": "Barnetillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BARNETILLEGG_UFO",
+    "sakType": "UFOREP",
+    "codeAsString": "BARNETILLEGG_UFO"
+  },
+  {
+    "decode": "Ektefelletillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKTEFELLE_TL_AFP",
+    "sakType": "AFP",
+    "codeAsString": "EKTEFELLE_TL_AFP"
+  },
+  {
+    "decode": "Ektefelletillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKTEFELLE_TL_ALD",
+    "sakType": "ALDER",
+    "codeAsString": "EKTEFELLE_TL_ALD"
+  },
+  {
+    "decode": "Ektefelletillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKTEFELLE_TL_UFO",
+    "sakType": "UFOREP",
+    "codeAsString": "EKTEFELLE_TL_UFO"
+  },
+  {
+    "decode": "Ektefelle- og barnetillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKTE_BARNE_TIL_UFO",
+    "sakType": "UFOREP",
+    "codeAsString": "EKTE_BARNE_TIL_UFO"
+  },
+  {
+    "decode": "Ektefelle- og barnetillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKTE_BARNE_TL_ALD",
+    "sakType": "ALDER",
+    "codeAsString": "EKTE_BARNE_TL_ALD"
+  },
+  {
+    "decode": "Hjelpeløshetsbidrag",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HJELPELOSHET_BI",
+    "sakType": "KRIGSP",
+    "codeAsString": "HJELPELOSHET_BI"
+  },
+  {
+    "decode": "Tillegg til hjelp i huset",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HJELP_HUSET",
+    "sakType": "KRIGSP",
+    "codeAsString": "HJELP_HUSET"
+  }
+]

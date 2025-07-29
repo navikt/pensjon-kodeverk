@@ -1,1 +1,18 @@
-[{"decode":"Infotrygd","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INFOTRYGD","codeAsString":"INFOTRYGD"},{"decode":"Pesys","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"PESYS","codeAsString":"PESYS"}]
+[
+  {
+    "decode": "Infotrygd",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INFOTRYGD",
+    "codeAsString": "INFOTRYGD"
+  },
+  {
+    "decode": "Pesys",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PESYS",
+    "codeAsString": "PESYS"
+  }
+]

@@ -1,1 +1,18 @@
-[{"decode":"Er minstepensjonist","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ER_MINST_PEN","codeAsString":"ER_MINST_PEN"},{"decode":"Er ikke minstepensjonist","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"IKKE_MINST_PEN","codeAsString":"IKKE_MINST_PEN"}]
+[
+  {
+    "decode": "Er minstepensjonist",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ER_MINST_PEN",
+    "codeAsString": "ER_MINST_PEN"
+  },
+  {
+    "decode": "Er ikke minstepensjonist",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "IKKE_MINST_PEN",
+    "codeAsString": "IKKE_MINST_PEN"
+  }
+]

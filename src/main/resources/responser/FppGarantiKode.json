@@ -1,1 +1,42 @@
-[{"decode":"Unge uføre før 1967.","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UNG_UF_FOR_67","codeAsString":"UNG_UF_FOR_67"},{"decode":"Ung ufør med rett til 3.3 poeng fra mai 1992.","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UNG_UF_MR_33_FR_92","codeAsString":"UNG_UF_MR_33_FR_92"},{"decode":"Ung ufør med rett til 3.3 Pensjonspoeng.","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UNG_UF_MR_33_PO","codeAsString":"UNG_UF_MR_33_PO"},{"decode":"Ung ufør som venter, og som ble ufør 20 år gammel.","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UNG_UF_VEN","codeAsString":"UNG_UF_VEN"},{"decode":"Ung ufør som venter på rett Til 3.3 Pensjonspoeng.","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UNG_UF_VEN_R_T_33_PP","codeAsString":"UNG_UF_VEN_R_T_33_PP"}]
+[
+  {
+    "decode": "Unge uføre før 1967.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UNG_UF_FOR_67",
+    "codeAsString": "UNG_UF_FOR_67"
+  },
+  {
+    "decode": "Ung ufør med rett til 3.3 poeng fra mai 1992.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UNG_UF_MR_33_FR_92",
+    "codeAsString": "UNG_UF_MR_33_FR_92"
+  },
+  {
+    "decode": "Ung ufør med rett til 3.3 Pensjonspoeng.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UNG_UF_MR_33_PO",
+    "codeAsString": "UNG_UF_MR_33_PO"
+  },
+  {
+    "decode": "Ung ufør som venter, og som ble ufør 20 år gammel.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UNG_UF_VEN",
+    "codeAsString": "UNG_UF_VEN"
+  },
+  {
+    "decode": "Ung ufør som venter på rett Til 3.3 Pensjonspoeng.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UNG_UF_VEN_R_T_33_PP",
+    "codeAsString": "UNG_UF_VEN_R_T_33_PP"
+  }
+]

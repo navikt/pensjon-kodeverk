@@ -1,1 +1,26 @@
-[{"decode":"Avvisning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AVVIS","codeAsString":"AVVIS"},{"decode":"Delvis omgjøring","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"DEL_OMG","codeAsString":"DEL_OMG"},{"decode":"Opprettholdelse","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OPPR","codeAsString":"OPPR"}]
+[
+  {
+    "decode": "Avvisning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AVVIS",
+    "codeAsString": "AVVIS"
+  },
+  {
+    "decode": "Delvis omgjøring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DEL_OMG",
+    "codeAsString": "DEL_OMG"
+  },
+  {
+    "decode": "Opprettholdelse",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OPPR",
+    "codeAsString": "OPPR"
+  }
+]

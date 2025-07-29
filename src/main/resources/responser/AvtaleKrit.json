@@ -1,1 +1,58 @@
-[{"decode":"Ikke yrkesaktiv, 3 års botid","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"IK_YRK_BO","codeAsString":"IK_YRK_BO"},{"decode":"Ikke yrkesaktiv, 1 års trygdetid","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"IK_YRK_TRYGD","codeAsString":"IK_YRK_TRYGD"},{"decode":"Omfattet av bestemmelsene i eksportavtale","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OMF_BES_EKSP","codeAsString":"OMF_BES_EKSP"},{"decode":"Yrkesaktiv, 1 års arbeid","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRK_ARB","codeAsString":"YRK_ARB"},{"decode":"Yrkesaktiv i Norge eller EØS, ett års medlemskap i Norge","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRK_MEDL","codeAsString":"YRK_MEDL"},{"decode":"Yrkesaktiv i Norge eller EØS","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRK_MEDL_ALT","codeAsString":"YRK_MEDL_ALT"},{"decode":"Yrkesaktiv, 1 års trygdetid","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRK_TRYGD","codeAsString":"YRK_TRYGD"}]
+[
+  {
+    "decode": "Ikke yrkesaktiv, 3 års botid",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "IK_YRK_BO",
+    "codeAsString": "IK_YRK_BO"
+  },
+  {
+    "decode": "Ikke yrkesaktiv, 1 års trygdetid",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "IK_YRK_TRYGD",
+    "codeAsString": "IK_YRK_TRYGD"
+  },
+  {
+    "decode": "Omfattet av bestemmelsene i eksportavtale",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMF_BES_EKSP",
+    "codeAsString": "OMF_BES_EKSP"
+  },
+  {
+    "decode": "Yrkesaktiv, 1 års arbeid",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "YRK_ARB",
+    "codeAsString": "YRK_ARB"
+  },
+  {
+    "decode": "Yrkesaktiv i Norge eller EØS, ett års medlemskap i Norge",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "YRK_MEDL",
+    "codeAsString": "YRK_MEDL"
+  },
+  {
+    "decode": "Yrkesaktiv i Norge eller EØS",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "YRK_MEDL_ALT",
+    "codeAsString": "YRK_MEDL_ALT"
+  },
+  {
+    "decode": "Yrkesaktiv, 1 års trygdetid",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "YRK_TRYGD",
+    "codeAsString": "YRK_TRYGD"
+  }
+]

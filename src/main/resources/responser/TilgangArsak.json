@@ -1,1 +1,155 @@
-[{"decode":"Anke","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ANKE","maksMndTilgang":12,"codeAsString":"ANKE"},{"decode":"Diskresjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"DISKRESJON","maksMndTilgang":3,"codeAsString":"DISKRESJON"},{"decode":"Egen ansatt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EGEN_ANSATT","maksMndTilgang":3,"codeAsString":"EGEN_ANSATT"},{"decode":"Erstatning","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ERST","maksMndTilgang":3,"codeAsString":"ERST"},{"decode":"Ettergivelse av gjeld","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ETTERG","maksMndTilgang":3,"codeAsString":"ETTERG"},{"decode":"Feilutbetaling/Tilbakekreving","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FEILUTBETALING","maksMndTilgang":3,"codeAsString":"FEILUTBETALING"},{"decode":"Flytting","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FLYTTING","maksMndTilgang":3,"codeAsString":"FLYTTING"},{"decode":"Inhabilitet","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INHABIL","maksMndTilgang":3,"codeAsString":"INHABIL"},{"decode":"Inntektskontroll","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INNT","maksMndTilgang":3,"codeAsString":"INNT"},{"decode":"Klage","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KLAGE","maksMndTilgang":12,"codeAsString":"KLAGE"},{"decode":"Koordinere saker","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KOORD","maksMndTilgang":3,"codeAsString":"KOORD"},{"decode":"Overført til NNP","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"NNP","maksMndTilgang":3,"codeAsString":"NNP"},{"decode":"Nyopprettet","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"NYOPP","maksMndTilgang":3,"codeAsString":"NYOPP"},{"decode":"Saksomkostninger","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OMKOST","maksMndTilgang":3,"codeAsString":"OMKOST"},{"decode":"Opphørt egen ansatt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OPPHORT_EGEN_ANSATT","maksMndTilgang":3,"codeAsString":"OPPHORT_EGEN_ANSATT"},{"decode":"Overført fra Nav Ny pensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OVERFORT_NNP","maksMndTilgang":3,"codeAsString":"OVERFORT_NNP"},{"decode":"Utland","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTLAND","maksMndTilgang":3,"codeAsString":"UTLAND"}]
+[
+  {
+    "decode": "Anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKE",
+    "maksMndTilgang": 12,
+    "codeAsString": "ANKE"
+  },
+  {
+    "decode": "Diskresjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DISKRESJON",
+    "maksMndTilgang": 3,
+    "codeAsString": "DISKRESJON"
+  },
+  {
+    "decode": "Egen ansatt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EGEN_ANSATT",
+    "maksMndTilgang": 3,
+    "codeAsString": "EGEN_ANSATT"
+  },
+  {
+    "decode": "Erstatning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ERST",
+    "maksMndTilgang": 3,
+    "codeAsString": "ERST"
+  },
+  {
+    "decode": "Ettergivelse av gjeld",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETTERG",
+    "maksMndTilgang": 3,
+    "codeAsString": "ETTERG"
+  },
+  {
+    "decode": "Feilutbetaling/Tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FEILUTBETALING",
+    "maksMndTilgang": 3,
+    "codeAsString": "FEILUTBETALING"
+  },
+  {
+    "decode": "Flytting",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FLYTTING",
+    "maksMndTilgang": 3,
+    "codeAsString": "FLYTTING"
+  },
+  {
+    "decode": "Inhabilitet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INHABIL",
+    "maksMndTilgang": 3,
+    "codeAsString": "INHABIL"
+  },
+  {
+    "decode": "Inntektskontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNT",
+    "maksMndTilgang": 3,
+    "codeAsString": "INNT"
+  },
+  {
+    "decode": "Klage",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KLAGE",
+    "maksMndTilgang": 12,
+    "codeAsString": "KLAGE"
+  },
+  {
+    "decode": "Koordinere saker",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KOORD",
+    "maksMndTilgang": 3,
+    "codeAsString": "KOORD"
+  },
+  {
+    "decode": "Overført til NNP",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NNP",
+    "maksMndTilgang": 3,
+    "codeAsString": "NNP"
+  },
+  {
+    "decode": "Nyopprettet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NYOPP",
+    "maksMndTilgang": 3,
+    "codeAsString": "NYOPP"
+  },
+  {
+    "decode": "Saksomkostninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMKOST",
+    "maksMndTilgang": 3,
+    "codeAsString": "OMKOST"
+  },
+  {
+    "decode": "Opphørt egen ansatt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OPPHORT_EGEN_ANSATT",
+    "maksMndTilgang": 3,
+    "codeAsString": "OPPHORT_EGEN_ANSATT"
+  },
+  {
+    "decode": "Overført fra Nav Ny pensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OVERFORT_NNP",
+    "maksMndTilgang": 3,
+    "codeAsString": "OVERFORT_NNP"
+  },
+  {
+    "decode": "Utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTLAND",
+    "maksMndTilgang": 3,
+    "codeAsString": "UTLAND"
+  }
+]

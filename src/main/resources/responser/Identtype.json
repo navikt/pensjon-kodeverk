@@ -1,1 +1,130 @@
-[{"decode":"Norsk D-nummer","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"DNR","codeAsString":"DNR"},{"decode":"EØS-nummer","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EOS","codeAsString":"EOS"},{"decode":"Fødselsdato","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FDAT","codeAsString":"FDAT"},{"decode":"Fødselsnummer","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FNR","codeAsString":"FNR"},{"decode":"H-nummer","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"HNR","codeAsString":"HNR"},{"decode":"Objec Identifier","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"HPR","codeAsString":"HPR"},{"decode":"Institusjonsnr","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"INST","codeAsString":"INST"},{"decode":"Kommunenr","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KOMM","codeAsString":"KOMM"},{"decode":"Land","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"LAND","codeAsString":"LAND"},{"decode":"Loc-nr","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"LNR","codeAsString":"LNR"},{"decode":"Norsk orgnr","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ORG","codeAsString":"ORG"},{"decode":"Norsk pnr","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"PNR","codeAsString":"PNR"},{"decode":"Trygdekontornr","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TKNR","codeAsString":"TKNR"},{"decode":"TP leverandør","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"TPNR","codeAsString":"TPNR"},{"decode":"Utenlandsk orgnr","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTOR","codeAsString":"UTOR"},{"decode":"Utenlandsk pnr","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UTPE","codeAsString":"UTPE"}]
+[
+  {
+    "decode": "Norsk D-nummer",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DNR",
+    "codeAsString": "DNR"
+  },
+  {
+    "decode": "EØS-nummer",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EOS",
+    "codeAsString": "EOS"
+  },
+  {
+    "decode": "Fødselsdato",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FDAT",
+    "codeAsString": "FDAT"
+  },
+  {
+    "decode": "Fødselsnummer",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FNR",
+    "codeAsString": "FNR"
+  },
+  {
+    "decode": "H-nummer",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HNR",
+    "codeAsString": "HNR"
+  },
+  {
+    "decode": "Objec Identifier",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HPR",
+    "codeAsString": "HPR"
+  },
+  {
+    "decode": "Institusjonsnr",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INST",
+    "codeAsString": "INST"
+  },
+  {
+    "decode": "Kommunenr",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KOMM",
+    "codeAsString": "KOMM"
+  },
+  {
+    "decode": "Land",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "LAND",
+    "codeAsString": "LAND"
+  },
+  {
+    "decode": "Loc-nr",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "LNR",
+    "codeAsString": "LNR"
+  },
+  {
+    "decode": "Norsk orgnr",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ORG",
+    "codeAsString": "ORG"
+  },
+  {
+    "decode": "Norsk pnr",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PNR",
+    "codeAsString": "PNR"
+  },
+  {
+    "decode": "Trygdekontornr",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TKNR",
+    "codeAsString": "TKNR"
+  },
+  {
+    "decode": "TP leverandør",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TPNR",
+    "codeAsString": "TPNR"
+  },
+  {
+    "decode": "Utenlandsk orgnr",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTOR",
+    "codeAsString": "UTOR"
+  },
+  {
+    "decode": "Utenlandsk pnr",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTPE",
+    "codeAsString": "UTPE"
+  }
+]

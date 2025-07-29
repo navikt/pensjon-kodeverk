@@ -1,1 +1,26 @@
-[{"decode":"Brev feilet","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FEILET","codeAsString":"FEILET"},{"decode":"Ikke sendt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"IKKESENDT","codeAsString":"IKKESENDT"},{"decode":"Brev sendt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"SENDT","codeAsString":"SENDT"}]
+[
+  {
+    "decode": "Brev feilet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FEILET",
+    "codeAsString": "FEILET"
+  },
+  {
+    "decode": "Ikke sendt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "IKKESENDT",
+    "codeAsString": "IKKESENDT"
+  },
+  {
+    "decode": "Brev sendt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SENDT",
+    "codeAsString": "SENDT"
+  }
+]

@@ -1,1 +1,530 @@
-[{"decode":"100","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U_100","uforeType":{"decode":"Uføre","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORE","codeAsString":"UFORE"},"codeAsString":"U_100"},{"decode":"20","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U_20","uforeType":{"decode":"Uføre","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORE","codeAsString":"UFORE"},"codeAsString":"U_20"},{"decode":"25","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U_25","uforeType":{"decode":"Uføre","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORE","codeAsString":"UFORE"},"codeAsString":"U_25"},{"decode":"30","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U_30","uforeType":{"decode":"Uføre","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORE","codeAsString":"UFORE"},"codeAsString":"U_30"},{"decode":"35","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U_35","uforeType":{"decode":"Uføre","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORE","codeAsString":"UFORE"},"codeAsString":"U_35"},{"decode":"40","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U_40","uforeType":{"decode":"Uføre","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORE","codeAsString":"UFORE"},"codeAsString":"U_40"},{"decode":"45","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U_45","uforeType":{"decode":"Uføre","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORE","codeAsString":"UFORE"},"codeAsString":"U_45"},{"decode":"50","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U_50","uforeType":{"decode":"Uføre","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORE","codeAsString":"UFORE"},"codeAsString":"U_50"},{"decode":"55","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U_55","uforeType":{"decode":"Uføre","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORE","codeAsString":"UFORE"},"codeAsString":"U_55"},{"decode":"60","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U_60","uforeType":{"decode":"Uføre","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORE","codeAsString":"UFORE"},"codeAsString":"U_60"},{"decode":"65","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U_65","uforeType":{"decode":"Uføre","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORE","codeAsString":"UFORE"},"codeAsString":"U_65"},{"decode":"70","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U_70","uforeType":{"decode":"Uføre","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORE","codeAsString":"UFORE"},"codeAsString":"U_70"},{"decode":"75","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U_75","uforeType":{"decode":"Uføre","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORE","codeAsString":"UFORE"},"codeAsString":"U_75"},{"decode":"80","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U_80","uforeType":{"decode":"Uføre","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORE","codeAsString":"UFORE"},"codeAsString":"U_80"},{"decode":"85","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U_85","uforeType":{"decode":"Uføre","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORE","codeAsString":"UFORE"},"codeAsString":"U_85"},{"decode":"90","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U_90","uforeType":{"decode":"Uføre","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORE","codeAsString":"UFORE"},"codeAsString":"U_90"},{"decode":"95","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U_95","uforeType":{"decode":"Uføre","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFORE","codeAsString":"UFORE"},"codeAsString":"U_95"},{"decode":"0","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"Y_0","uforeType":{"decode":"Yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRKE","codeAsString":"YRKE"},"codeAsString":"Y_0"},{"decode":"100","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"Y_100","uforeType":{"decode":"Yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRKE","codeAsString":"YRKE"},"codeAsString":"Y_100"},{"decode":"30","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"Y_30","uforeType":{"decode":"Yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRKE","codeAsString":"YRKE"},"codeAsString":"Y_30"},{"decode":"35","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"Y_35","uforeType":{"decode":"Yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRKE","codeAsString":"YRKE"},"codeAsString":"Y_35"},{"decode":"40","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"Y_40","uforeType":{"decode":"Yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRKE","codeAsString":"YRKE"},"codeAsString":"Y_40"},{"decode":"45","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"Y_45","uforeType":{"decode":"Yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRKE","codeAsString":"YRKE"},"codeAsString":"Y_45"},{"decode":"50","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"Y_50","uforeType":{"decode":"Yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRKE","codeAsString":"YRKE"},"codeAsString":"Y_50"},{"decode":"55","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"Y_55","uforeType":{"decode":"Yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRKE","codeAsString":"YRKE"},"codeAsString":"Y_55"},{"decode":"60","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"Y_60","uforeType":{"decode":"Yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRKE","codeAsString":"YRKE"},"codeAsString":"Y_60"},{"decode":"65","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"Y_65","uforeType":{"decode":"Yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRKE","codeAsString":"YRKE"},"codeAsString":"Y_65"},{"decode":"70","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"Y_70","uforeType":{"decode":"Yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRKE","codeAsString":"YRKE"},"codeAsString":"Y_70"},{"decode":"75","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"Y_75","uforeType":{"decode":"Yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRKE","codeAsString":"YRKE"},"codeAsString":"Y_75"},{"decode":"80","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"Y_80","uforeType":{"decode":"Yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRKE","codeAsString":"YRKE"},"codeAsString":"Y_80"},{"decode":"85","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"Y_85","uforeType":{"decode":"Yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRKE","codeAsString":"YRKE"},"codeAsString":"Y_85"},{"decode":"90","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"Y_90","uforeType":{"decode":"Yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRKE","codeAsString":"YRKE"},"codeAsString":"Y_90"},{"decode":"95","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"Y_95","uforeType":{"decode":"Yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"YRKE","codeAsString":"YRKE"},"codeAsString":"Y_95"}]
+[
+  {
+    "decode": "100",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U_100",
+    "uforeType": {
+      "decode": "Uføre",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "UFORE",
+      "codeAsString": "UFORE"
+    },
+    "codeAsString": "U_100"
+  },
+  {
+    "decode": "20",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U_20",
+    "uforeType": {
+      "decode": "Uføre",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "UFORE",
+      "codeAsString": "UFORE"
+    },
+    "codeAsString": "U_20"
+  },
+  {
+    "decode": "25",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U_25",
+    "uforeType": {
+      "decode": "Uføre",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "UFORE",
+      "codeAsString": "UFORE"
+    },
+    "codeAsString": "U_25"
+  },
+  {
+    "decode": "30",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U_30",
+    "uforeType": {
+      "decode": "Uføre",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "UFORE",
+      "codeAsString": "UFORE"
+    },
+    "codeAsString": "U_30"
+  },
+  {
+    "decode": "35",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U_35",
+    "uforeType": {
+      "decode": "Uføre",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "UFORE",
+      "codeAsString": "UFORE"
+    },
+    "codeAsString": "U_35"
+  },
+  {
+    "decode": "40",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U_40",
+    "uforeType": {
+      "decode": "Uføre",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "UFORE",
+      "codeAsString": "UFORE"
+    },
+    "codeAsString": "U_40"
+  },
+  {
+    "decode": "45",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U_45",
+    "uforeType": {
+      "decode": "Uføre",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "UFORE",
+      "codeAsString": "UFORE"
+    },
+    "codeAsString": "U_45"
+  },
+  {
+    "decode": "50",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U_50",
+    "uforeType": {
+      "decode": "Uføre",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "UFORE",
+      "codeAsString": "UFORE"
+    },
+    "codeAsString": "U_50"
+  },
+  {
+    "decode": "55",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U_55",
+    "uforeType": {
+      "decode": "Uføre",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "UFORE",
+      "codeAsString": "UFORE"
+    },
+    "codeAsString": "U_55"
+  },
+  {
+    "decode": "60",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U_60",
+    "uforeType": {
+      "decode": "Uføre",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "UFORE",
+      "codeAsString": "UFORE"
+    },
+    "codeAsString": "U_60"
+  },
+  {
+    "decode": "65",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U_65",
+    "uforeType": {
+      "decode": "Uføre",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "UFORE",
+      "codeAsString": "UFORE"
+    },
+    "codeAsString": "U_65"
+  },
+  {
+    "decode": "70",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U_70",
+    "uforeType": {
+      "decode": "Uføre",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "UFORE",
+      "codeAsString": "UFORE"
+    },
+    "codeAsString": "U_70"
+  },
+  {
+    "decode": "75",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U_75",
+    "uforeType": {
+      "decode": "Uføre",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "UFORE",
+      "codeAsString": "UFORE"
+    },
+    "codeAsString": "U_75"
+  },
+  {
+    "decode": "80",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U_80",
+    "uforeType": {
+      "decode": "Uføre",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "UFORE",
+      "codeAsString": "UFORE"
+    },
+    "codeAsString": "U_80"
+  },
+  {
+    "decode": "85",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U_85",
+    "uforeType": {
+      "decode": "Uføre",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "UFORE",
+      "codeAsString": "UFORE"
+    },
+    "codeAsString": "U_85"
+  },
+  {
+    "decode": "90",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U_90",
+    "uforeType": {
+      "decode": "Uføre",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "UFORE",
+      "codeAsString": "UFORE"
+    },
+    "codeAsString": "U_90"
+  },
+  {
+    "decode": "95",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U_95",
+    "uforeType": {
+      "decode": "Uføre",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "UFORE",
+      "codeAsString": "UFORE"
+    },
+    "codeAsString": "U_95"
+  },
+  {
+    "decode": "0",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "Y_0",
+    "uforeType": {
+      "decode": "Yrkesskade",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "YRKE",
+      "codeAsString": "YRKE"
+    },
+    "codeAsString": "Y_0"
+  },
+  {
+    "decode": "100",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "Y_100",
+    "uforeType": {
+      "decode": "Yrkesskade",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "YRKE",
+      "codeAsString": "YRKE"
+    },
+    "codeAsString": "Y_100"
+  },
+  {
+    "decode": "30",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "Y_30",
+    "uforeType": {
+      "decode": "Yrkesskade",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "YRKE",
+      "codeAsString": "YRKE"
+    },
+    "codeAsString": "Y_30"
+  },
+  {
+    "decode": "35",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "Y_35",
+    "uforeType": {
+      "decode": "Yrkesskade",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "YRKE",
+      "codeAsString": "YRKE"
+    },
+    "codeAsString": "Y_35"
+  },
+  {
+    "decode": "40",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "Y_40",
+    "uforeType": {
+      "decode": "Yrkesskade",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "YRKE",
+      "codeAsString": "YRKE"
+    },
+    "codeAsString": "Y_40"
+  },
+  {
+    "decode": "45",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "Y_45",
+    "uforeType": {
+      "decode": "Yrkesskade",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "YRKE",
+      "codeAsString": "YRKE"
+    },
+    "codeAsString": "Y_45"
+  },
+  {
+    "decode": "50",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "Y_50",
+    "uforeType": {
+      "decode": "Yrkesskade",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "YRKE",
+      "codeAsString": "YRKE"
+    },
+    "codeAsString": "Y_50"
+  },
+  {
+    "decode": "55",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "Y_55",
+    "uforeType": {
+      "decode": "Yrkesskade",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "YRKE",
+      "codeAsString": "YRKE"
+    },
+    "codeAsString": "Y_55"
+  },
+  {
+    "decode": "60",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "Y_60",
+    "uforeType": {
+      "decode": "Yrkesskade",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "YRKE",
+      "codeAsString": "YRKE"
+    },
+    "codeAsString": "Y_60"
+  },
+  {
+    "decode": "65",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "Y_65",
+    "uforeType": {
+      "decode": "Yrkesskade",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "YRKE",
+      "codeAsString": "YRKE"
+    },
+    "codeAsString": "Y_65"
+  },
+  {
+    "decode": "70",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "Y_70",
+    "uforeType": {
+      "decode": "Yrkesskade",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "YRKE",
+      "codeAsString": "YRKE"
+    },
+    "codeAsString": "Y_70"
+  },
+  {
+    "decode": "75",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "Y_75",
+    "uforeType": {
+      "decode": "Yrkesskade",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "YRKE",
+      "codeAsString": "YRKE"
+    },
+    "codeAsString": "Y_75"
+  },
+  {
+    "decode": "80",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "Y_80",
+    "uforeType": {
+      "decode": "Yrkesskade",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "YRKE",
+      "codeAsString": "YRKE"
+    },
+    "codeAsString": "Y_80"
+  },
+  {
+    "decode": "85",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "Y_85",
+    "uforeType": {
+      "decode": "Yrkesskade",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "YRKE",
+      "codeAsString": "YRKE"
+    },
+    "codeAsString": "Y_85"
+  },
+  {
+    "decode": "90",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "Y_90",
+    "uforeType": {
+      "decode": "Yrkesskade",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "YRKE",
+      "codeAsString": "YRKE"
+    },
+    "codeAsString": "Y_90"
+  },
+  {
+    "decode": "95",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "Y_95",
+    "uforeType": {
+      "decode": "Yrkesskade",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "YRKE",
+      "codeAsString": "YRKE"
+    },
+    "codeAsString": "Y_95"
+  }
+]

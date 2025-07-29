@@ -1,1 +1,18 @@
-[{"decode":"Barnetilleggsvurdering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BT_VURDERING","codeAsString":"BT_VURDERING"},{"decode":"Forventede inntekter-vurdering","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FORV_INNT_VURDERING","codeAsString":"FORV_INNT_VURDERING"}]
+[
+  {
+    "decode": "Barnetilleggsvurdering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BT_VURDERING",
+    "codeAsString": "BT_VURDERING"
+  },
+  {
+    "decode": "Forventede inntekter-vurdering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORV_INNT_VURDERING",
+    "codeAsString": "FORV_INNT_VURDERING"
+  }
+]

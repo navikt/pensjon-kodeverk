@@ -1,1 +1,42 @@
-[{"decode":"Feil i vedtak","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FEIL_I_VEDTAK","codeAsString":"FEIL_I_VEDTAK"},{"decode":"Feil i vedtaksbrev","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FEIL_I_VEDTAKSBREV","codeAsString":"FEIL_I_VEDTAKSBREV"},{"decode":"Saksbehandlerstandard ikke fulgt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FEIL_SAKSBEHANDLING","codeAsString":"FEIL_SAKSBEHANDLING"},{"decode":"Forvaltningsnotat utilstrekkelig","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FORV_NOTAT_UTILSTR","codeAsString":"FORV_NOTAT_UTILSTR"},{"decode":"Hent inn nytt grunnlag","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"HENT_NYTT_GRUNNLAG","codeAsString":"HENT_NYTT_GRUNNLAG"}]
+[
+  {
+    "decode": "Feil i vedtak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FEIL_I_VEDTAK",
+    "codeAsString": "FEIL_I_VEDTAK"
+  },
+  {
+    "decode": "Feil i vedtaksbrev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FEIL_I_VEDTAKSBREV",
+    "codeAsString": "FEIL_I_VEDTAKSBREV"
+  },
+  {
+    "decode": "Saksbehandlerstandard ikke fulgt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FEIL_SAKSBEHANDLING",
+    "codeAsString": "FEIL_SAKSBEHANDLING"
+  },
+  {
+    "decode": "Forvaltningsnotat utilstrekkelig",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORV_NOTAT_UTILSTR",
+    "codeAsString": "FORV_NOTAT_UTILSTR"
+  },
+  {
+    "decode": "Hent inn nytt grunnlag",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HENT_NYTT_GRUNNLAG",
+    "codeAsString": "HENT_NYTT_GRUNNLAG"
+  }
+]

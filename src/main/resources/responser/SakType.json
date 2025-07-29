@@ -1,1 +1,110 @@
-[{"decode":"AFP","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AFP","frist":30,"codeAsString":"AFP"},{"decode":"AFP Privat","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"AFP_PRIVAT","frist":60,"codeAsString":"AFP_PRIVAT"},{"decode":"Alderspensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ALDER","frist":30,"codeAsString":"ALDER"},{"decode":"Barnepensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BARNEP","frist":30,"codeAsString":"BARNEP"},{"decode":"Familiepleierytelse","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"FAM_PL","frist":30,"codeAsString":"FAM_PL"},{"decode":"Gammel yrkesskade","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GAM_YRK","frist":30,"codeAsString":"GAM_YRK"},{"decode":"Generell","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GENRL","frist":null,"codeAsString":"GENRL"},{"decode":"Gjenlevendeytelse","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GJENLEV","frist":30,"codeAsString":"GJENLEV"},{"decode":"Grunnblanketter","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"GRBL","frist":null,"codeAsString":"GRBL"},{"decode":"Krigspensjon","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"KRIGSP","frist":30,"codeAsString":"KRIGSP"},{"decode":"Omsorgsopptjening","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"OMSORG","frist":30,"codeAsString":"OMSORG"},{"decode":"Uføretrygd","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"UFOREP","frist":14,"codeAsString":"UFOREP"}]
+[
+  {
+    "decode": "AFP",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AFP",
+    "frist": 30,
+    "codeAsString": "AFP"
+  },
+  {
+    "decode": "AFP Privat",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AFP_PRIVAT",
+    "frist": 60,
+    "codeAsString": "AFP_PRIVAT"
+  },
+  {
+    "decode": "Alderspensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ALDER",
+    "frist": 30,
+    "codeAsString": "ALDER"
+  },
+  {
+    "decode": "Barnepensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BARNEP",
+    "frist": 30,
+    "codeAsString": "BARNEP"
+  },
+  {
+    "decode": "Familiepleierytelse",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAM_PL",
+    "frist": 30,
+    "codeAsString": "FAM_PL"
+  },
+  {
+    "decode": "Gammel yrkesskade",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GAM_YRK",
+    "frist": 30,
+    "codeAsString": "GAM_YRK"
+  },
+  {
+    "decode": "Generell",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GENRL",
+    "frist": null,
+    "codeAsString": "GENRL"
+  },
+  {
+    "decode": "Gjenlevendeytelse",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GJENLEV",
+    "frist": 30,
+    "codeAsString": "GJENLEV"
+  },
+  {
+    "decode": "Grunnblanketter",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GRBL",
+    "frist": null,
+    "codeAsString": "GRBL"
+  },
+  {
+    "decode": "Krigspensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KRIGSP",
+    "frist": 30,
+    "codeAsString": "KRIGSP"
+  },
+  {
+    "decode": "Omsorgsopptjening",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMSORG",
+    "frist": 30,
+    "codeAsString": "OMSORG"
+  },
+  {
+    "decode": "Uføretrygd",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UFOREP",
+    "frist": 14,
+    "codeAsString": "UFOREP"
+  }
+]

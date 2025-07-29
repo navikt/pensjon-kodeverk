@@ -1,1 +1,26 @@
-[{"decode":"Forsørgingstillegget er redusert på bakgrunn av inntekten til bruker og ektefelle","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BRUKER_EKTEF_INNT","codeAsString":"BRUKER_EKTEF_INNT"},{"decode":"Forsørgingstillegget er redusert på bakgrunn av inntekten til bruker","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"BRUKER_INNT","codeAsString":"BRUKER_INNT"},{"decode":"Forsørgingstillegget er redusert på bakgrunn av inntekten til ektefelle","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"EKTEF_INNT","codeAsString":"EKTEF_INNT"}]
+[
+  {
+    "decode": "Forsørgingstillegget er redusert på bakgrunn av inntekten til bruker og ektefelle",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BRUKER_EKTEF_INNT",
+    "codeAsString": "BRUKER_EKTEF_INNT"
+  },
+  {
+    "decode": "Forsørgingstillegget er redusert på bakgrunn av inntekten til bruker",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BRUKER_INNT",
+    "codeAsString": "BRUKER_INNT"
+  },
+  {
+    "decode": "Forsørgingstillegget er redusert på bakgrunn av inntekten til ektefelle",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKTEF_INNT",
+    "codeAsString": "EKTEF_INNT"
+  }
+]

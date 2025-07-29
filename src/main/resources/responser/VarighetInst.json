@@ -1,1 +1,26 @@
-[{"decode":"Kortvarig","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"K","codeAsString":"K"},{"decode":"Langvarig","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"L","codeAsString":"L"},{"decode":"Ubestemt","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"U","codeAsString":"U"}]
+[
+  {
+    "decode": "Kortvarig",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "K",
+    "codeAsString": "K"
+  },
+  {
+    "decode": "Langvarig",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "L",
+    "codeAsString": "L"
+  },
+  {
+    "decode": "Ubestemt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U",
+    "codeAsString": "U"
+  }
+]

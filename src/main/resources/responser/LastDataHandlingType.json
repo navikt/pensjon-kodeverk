@@ -1,1 +1,18 @@
-[{"decode":"Endre behandlingstype","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ENDR_KRAV_BEH_TYPE","codeAsString":"ENDR_KRAV_BEH_TYPE"},{"decode":"Endre status","valid":true,"fromDate":-2209078800000,"toDate":null,"code":"ENDR_STATUS_TYPE","codeAsString":"ENDR_STATUS_TYPE"}]
+[
+  {
+    "decode": "Endre behandlingstype",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ENDR_KRAV_BEH_TYPE",
+    "codeAsString": "ENDR_KRAV_BEH_TYPE"
+  },
+  {
+    "decode": "Endre status",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ENDR_STATUS_TYPE",
+    "codeAsString": "ENDR_STATUS_TYPE"
+  }
+]

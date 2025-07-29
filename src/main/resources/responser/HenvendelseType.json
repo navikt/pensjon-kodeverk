@@ -1,1 +1,2662 @@
-[{"code":"ANNET_BAR","decode":"Annet","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"ANNET_BID","decode":"Annet","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"ANNET_BIL","decode":"Annet","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"ANNET_ENF","decode":"Annet","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"ANNET_FOR","decode":"Annet","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"ANNET_FOS","decode":"Annet","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"ANNET_GRA","decode":"Annet","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"ANNET_GRU","decode":"Annet","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"ANNET_HJE","decode":"Annet","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"ANNET_KON","decode":"Annet","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"ANNET_OMS","decode":"Annet","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"ANNET_SUP","decode":"Annet","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"ANNET_YRK","decode":"Annet","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BEREGNING","decode":"Beregning av pensjon","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_AAP","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_BAR","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_BIL","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_DAG","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_ENF","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_ERS","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_FEI","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_FOR","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_FOS","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_GRA","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_GRU","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_HEL","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_HJE","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_IND","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_KON","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_MED","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_MOB","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_OMS","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_OPP","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_REH","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_SAK","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_SUP","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_SYK","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_UFO","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_VEN","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_YRA","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"BER_UT_YRK","decode":"Beregning og utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_AAP","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_BAR","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_BII","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_BIL","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_DAG","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_ENF","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_ERS","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_FEI","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_FOR","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_FOS","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_FUL","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_GRA","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_GRU","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_HEL","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_HJE","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_IND","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_KON","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_MED","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_MOB","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_MOT","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_OKO","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_OMS","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_OPP","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_OVR","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_REH","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_SAK","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_SUP","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_SYK","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_UFO","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_VEN","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_YRA","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FORESP_MOTE_YRK","decode":"Forespørsel møte","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_AAP","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_BAR","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_BIL","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_DAG","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_ENF","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_ERS","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_FEI","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_FOR","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_FOS","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_FUL","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_GRA","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_GRU","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_HEL","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_HJE","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_IND","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_KON","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_MED","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_MOB","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_OMS","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_OPP","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_REH","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_SAK","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_SUP","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_SYK","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_UFO","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_VEN","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_YRA","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"FOR_SAK_YRK","decode":"Forespørsel saksdokumenter","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GENERELL_STO","decode":"Generell","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING","decode":"Annet","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_AAP","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_BAR","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_BID","decode":"Gen.veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_BII","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_BIL","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_DAG","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_ENF","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_ERS","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_FEI","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_FOR","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_FOS","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_FUL","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_GRA","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_GRU","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_HEL","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_HJE","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_IND","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_KON","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_MED","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_MOB","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_MOT","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_OKO","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_OMS","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_OPP","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_OVR","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_REH","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_SAK","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_SUP","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_SYK","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_UFO","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_VEN","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_YRA","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"GEN_VEILEDNING_YRK","decode":"Generell veiledning","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INFORMASJON_BAR","decode":"Informasjon","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INFORMASJON_BIL","decode":"Informasjon","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INFORMASJON_ENF","decode":"Informasjon","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INFORMASJON_FOR","decode":"Informasjon","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INFORMASJON_FOS","decode":"Informasjon","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INFORMASJON_GRA","decode":"Informasjon","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INFORMASJON_GRU","decode":"Informasjon","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INFORMASJON_HJE","decode":"Informasjon","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INFORMASJON_KON","decode":"Informasjon","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INFORMASJON_OMS","decode":"Informasjon","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INFORMASJON_SUP","decode":"Informasjon","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INFORMASJON_YRK","decode":"Informasjon","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_AAP","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_BAR","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_BID","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_BII","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_BIL","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_DAG","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_ENF","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_ERS","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_FEI","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_FOR","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_FOS","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_FUL","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_GRA","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_GRU","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_HEL","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_HJE","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_IND","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_KON","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_MED","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_MOB","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_MOT","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_OKO","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_OMS","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_OPP","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_OVR","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_REH","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_SAK","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_SUP","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_SYK","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_UFO","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_VEN","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_YRA","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_HENV_YRK","decode":"Intern henvendelse","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"INTERN_STO","decode":"Intern","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD","decode":"Pensjonsutbetalinger, skatt og trekk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_BAR","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_BID","decode":"Øk.forhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_BII","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_BIL","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_DAG","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_ENF","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_ERS","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_FOR","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_FOS","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_GRA","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_GRU","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_HJE","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_IND","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_KON","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_MOB","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_MOT","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_OKO","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_OMS","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_OPP","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_OVR","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_REH","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_SAK","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_SUP","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_SYK","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_UFO","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_VEN","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_YRA","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OKONOMIFORHOLD_YRK","decode":"Økonomiforhold","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_AAP","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_BAR","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_BIL","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_DAG","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_ENF","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_ERS","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_FEI","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_FOR","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_FOS","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_GRA","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_GRU","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_HEL","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_HJE","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_IND","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_KON","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_MED","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_MOB","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_OMS","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_OPP","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_REH","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_SAK","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_SUP","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_SYK","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_UFO","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_VEN","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_YRA","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPFOLGING_YRK","decode":"Oppfølging","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"OPPR_ENDAGSPASSORD","decode":"Opprettelse av endagspassord","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"PENSJONSREFORM","decode":"Regler for alderspensjon og AFP","fromDate":-2209078800000,"toDate":1306706400000,"valid":true},{"code":"PRIVAT_AVT_BID","decode":"Privat avt.","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK","decode":"Regler for uføre-, gjenlevende- eller barnepensjon","fromDate":-2209078800000,"toDate":1306706400000,"valid":true},{"code":"REGELVERK_BAR","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_BID","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_BII","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_BIL","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_DAG","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_ENF","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_ERS","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_FOR","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_FOS","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_GRA","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_GRU","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_HJE","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_IND","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_KON","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_MOB","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_MOT","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_NY","decode":"Spørsmål om regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_OKO","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_OMS","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_OPP","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_OVR","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_REH","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_SAK","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_SUP","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_SYK","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_UFO","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_VEN","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_YRA","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"REGELVERK_YRK","decode":"Regelverk","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SAK_U_BEHANDLING","decode":"Sak under behandling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA","decode":"Utfylling av skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_BAR","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_BID","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_BII","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_BIL","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_DAG","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_ENF","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_ERS","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_FOR","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_FOS","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_GRA","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_GRU","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_HJE","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_IND","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_KON","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_MOB","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_MOT","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_OKO","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_OMS","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_OPP","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_OVR","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_REH","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_SAK","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_SUP","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_SYK","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_UFO","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_VEN","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_YRA","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SKJEMA_YRK","decode":"Skjema","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_AAP","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_BAR","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_BIL","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_DAG","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_ENF","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_ERS","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_FEI","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_FOR","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_FOS","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_GRA","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_GRU","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_HEL","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_HJE","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_IND","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_KON","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_MED","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_MOB","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_OMS","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_OPP","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_REH","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_SAK","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_SUP","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_SYK","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_UFO","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_VEN","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_YRA","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_SAKSGANG_YRK","decode":"Spørsmål om saksgang","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_AAP","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_BAR","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_BIL","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_DAG","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_ENF","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_ERS","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_FEI","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_FOR","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_FOS","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_GRA","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_GRU","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_HEL","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_HJE","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_IND","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_KON","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_MED","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_MOB","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_OMS","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_OPP","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_REH","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_SAK","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_SUP","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_SYK","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_UFO","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_VEN","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_YRA","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"SP_OM_VEDTAK_YRK","decode":"Spørsmål om vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"UTBETALING_BAR","decode":"Utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"UTBETALING_BIL","decode":"Utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"UTBETALING_ENF","decode":"Utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"UTBETALING_FOR","decode":"Utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"UTBETALING_FOS","decode":"Utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"UTBETALING_GRA","decode":"Utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"UTBETALING_GRU","decode":"Utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"UTBETALING_KON","decode":"Utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"UTBETALING_OMS","decode":"Utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"UTBETALING_SUP","decode":"Utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"UTBETALING_YRK","decode":"Utbetaling","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"VEDTAK_BAR","decode":"Vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"VEDTAK_BIL","decode":"Vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"VEDTAK_ENF","decode":"Vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"VEDTAK_FOR","decode":"Vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"VEDTAK_FOS","decode":"Vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"VEDTAK_GRA","decode":"Vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"VEDTAK_GRU","decode":"Vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"VEDTAK_HJE","decode":"Vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"VEDTAK_KON","decode":"Vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"VEDTAK_OMS","decode":"Vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"VEDTAK_SUP","decode":"Vedtak","fromDate":-2209078800000,"toDate":null,"valid":true},{"code":"VEDTAK_YRK","decode":"Vedtak","fromDate":-2209078800000,"toDate":null,"valid":true}]
+[
+  {
+    "code": "ANNET_BAR",
+    "decode": "Annet",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_BID",
+    "decode": "Annet",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_BIL",
+    "decode": "Annet",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_ENF",
+    "decode": "Annet",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_FOR",
+    "decode": "Annet",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_FOS",
+    "decode": "Annet",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_GRA",
+    "decode": "Annet",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_GRU",
+    "decode": "Annet",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_HJE",
+    "decode": "Annet",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_KON",
+    "decode": "Annet",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_OMS",
+    "decode": "Annet",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_SUP",
+    "decode": "Annet",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_YRK",
+    "decode": "Annet",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEREGNING",
+    "decode": "Beregning av pensjon",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_AAP",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_BAR",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_BIL",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_DAG",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_ENF",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_ERS",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_FEI",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_FOR",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_FOS",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_GRA",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_GRU",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_HEL",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_HJE",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_IND",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_KON",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_MED",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_MOB",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_OMS",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_OPP",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_REH",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_SAK",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_SUP",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_SYK",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_UFO",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_VEN",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_YRA",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BER_UT_YRK",
+    "decode": "Beregning og utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_AAP",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_BAR",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_BII",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_BIL",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_DAG",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_ENF",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_ERS",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_FEI",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_FOR",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_FOS",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_FUL",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_GRA",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_GRU",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_HEL",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_HJE",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_IND",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_KON",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_MED",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_MOB",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_MOT",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_OKO",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_OMS",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_OPP",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_OVR",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_REH",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_SAK",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_SUP",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_SYK",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_UFO",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_VEN",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_YRA",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESP_MOTE_YRK",
+    "decode": "Forespørsel møte",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_AAP",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_BAR",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_BIL",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_DAG",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_ENF",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_ERS",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_FEI",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_FOR",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_FOS",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_FUL",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_GRA",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_GRU",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_HEL",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_HJE",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_IND",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_KON",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_MED",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_MOB",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_OMS",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_OPP",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_REH",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_SAK",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_SUP",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_SYK",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_UFO",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_VEN",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_YRA",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FOR_SAK_YRK",
+    "decode": "Forespørsel saksdokumenter",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GENERELL_STO",
+    "decode": "Generell",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING",
+    "decode": "Annet",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_AAP",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_BAR",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_BID",
+    "decode": "Gen.veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_BII",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_BIL",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_DAG",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_ENF",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_ERS",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_FEI",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_FOR",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_FOS",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_FUL",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_GRA",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_GRU",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_HEL",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_HJE",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_IND",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_KON",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_MED",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_MOB",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_MOT",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_OKO",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_OMS",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_OPP",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_OVR",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_REH",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_SAK",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_SUP",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_SYK",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_UFO",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_VEN",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_YRA",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_VEILEDNING_YRK",
+    "decode": "Generell veiledning",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INFORMASJON_BAR",
+    "decode": "Informasjon",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INFORMASJON_BIL",
+    "decode": "Informasjon",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INFORMASJON_ENF",
+    "decode": "Informasjon",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INFORMASJON_FOR",
+    "decode": "Informasjon",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INFORMASJON_FOS",
+    "decode": "Informasjon",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INFORMASJON_GRA",
+    "decode": "Informasjon",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INFORMASJON_GRU",
+    "decode": "Informasjon",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INFORMASJON_HJE",
+    "decode": "Informasjon",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INFORMASJON_KON",
+    "decode": "Informasjon",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INFORMASJON_OMS",
+    "decode": "Informasjon",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INFORMASJON_SUP",
+    "decode": "Informasjon",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INFORMASJON_YRK",
+    "decode": "Informasjon",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_AAP",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_BAR",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_BID",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_BII",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_BIL",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_DAG",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_ENF",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_ERS",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_FEI",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_FOR",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_FOS",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_FUL",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_GRA",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_GRU",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_HEL",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_HJE",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_IND",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_KON",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_MED",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_MOB",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_MOT",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_OKO",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_OMS",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_OPP",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_OVR",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_REH",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_SAK",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_SUP",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_SYK",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_UFO",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_VEN",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_YRA",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_HENV_YRK",
+    "decode": "Intern henvendelse",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_STO",
+    "decode": "Intern",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD",
+    "decode": "Pensjonsutbetalinger, skatt og trekk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_BAR",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_BID",
+    "decode": "Øk.forhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_BII",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_BIL",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_DAG",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_ENF",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_ERS",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_FOR",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_FOS",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_GRA",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_GRU",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_HJE",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_IND",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_KON",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_MOB",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_MOT",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_OKO",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_OMS",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_OPP",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_OVR",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_REH",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_SAK",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_SUP",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_SYK",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_UFO",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_VEN",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_YRA",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKONOMIFORHOLD_YRK",
+    "decode": "Økonomiforhold",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_AAP",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_BAR",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_BIL",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_DAG",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_ENF",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_ERS",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_FEI",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_FOR",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_FOS",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_GRA",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_GRU",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_HEL",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_HJE",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_IND",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_KON",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_MED",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_MOB",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_OMS",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_OPP",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_REH",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_SAK",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_SUP",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_SYK",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_UFO",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_VEN",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_YRA",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLGING_YRK",
+    "decode": "Oppfølging",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPR_ENDAGSPASSORD",
+    "decode": "Opprettelse av endagspassord",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "PENSJONSREFORM",
+    "decode": "Regler for alderspensjon og AFP",
+    "fromDate": -2209078800000,
+    "toDate": 1306706400000,
+    "valid": true
+  },
+  {
+    "code": "PRIVAT_AVT_BID",
+    "decode": "Privat avt.",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK",
+    "decode": "Regler for uføre-, gjenlevende- eller barnepensjon",
+    "fromDate": -2209078800000,
+    "toDate": 1306706400000,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_BAR",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_BID",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_BII",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_BIL",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_DAG",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_ENF",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_ERS",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_FOR",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_FOS",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_GRA",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_GRU",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_HJE",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_IND",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_KON",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_MOB",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_MOT",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_NY",
+    "decode": "Spørsmål om regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_OKO",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_OMS",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_OPP",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_OVR",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_REH",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_SAK",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_SUP",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_SYK",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_UFO",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_VEN",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_YRA",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGELVERK_YRK",
+    "decode": "Regelverk",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SAK_U_BEHANDLING",
+    "decode": "Sak under behandling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA",
+    "decode": "Utfylling av skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_BAR",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_BID",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_BII",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_BIL",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_DAG",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_ENF",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_ERS",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_FOR",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_FOS",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_GRA",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_GRU",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_HJE",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_IND",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_KON",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_MOB",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_MOT",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_OKO",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_OMS",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_OPP",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_OVR",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_REH",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_SAK",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_SUP",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_SYK",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_UFO",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_VEN",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_YRA",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKJEMA_YRK",
+    "decode": "Skjema",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_AAP",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_BAR",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_BIL",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_DAG",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_ENF",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_ERS",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_FEI",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_FOR",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_FOS",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_GRA",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_GRU",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_HEL",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_HJE",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_IND",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_KON",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_MED",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_MOB",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_OMS",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_OPP",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_REH",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_SAK",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_SUP",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_SYK",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_UFO",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_VEN",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_YRA",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_SAKSGANG_YRK",
+    "decode": "Spørsmål om saksgang",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_AAP",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_BAR",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_BIL",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_DAG",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_ENF",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_ERS",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_FEI",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_FOR",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_FOS",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_GRA",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_GRU",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_HEL",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_HJE",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_IND",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_KON",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_MED",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_MOB",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_OMS",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_OPP",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_REH",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_SAK",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_SUP",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_SYK",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_UFO",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_VEN",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_YRA",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SP_OM_VEDTAK_YRK",
+    "decode": "Spørsmål om vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "UTBETALING_BAR",
+    "decode": "Utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "UTBETALING_BIL",
+    "decode": "Utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "UTBETALING_ENF",
+    "decode": "Utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "UTBETALING_FOR",
+    "decode": "Utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "UTBETALING_FOS",
+    "decode": "Utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "UTBETALING_GRA",
+    "decode": "Utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "UTBETALING_GRU",
+    "decode": "Utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "UTBETALING_KON",
+    "decode": "Utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "UTBETALING_OMS",
+    "decode": "Utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "UTBETALING_SUP",
+    "decode": "Utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "UTBETALING_YRK",
+    "decode": "Utbetaling",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VEDTAK_BAR",
+    "decode": "Vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VEDTAK_BIL",
+    "decode": "Vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VEDTAK_ENF",
+    "decode": "Vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VEDTAK_FOR",
+    "decode": "Vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VEDTAK_FOS",
+    "decode": "Vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VEDTAK_GRA",
+    "decode": "Vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VEDTAK_GRU",
+    "decode": "Vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VEDTAK_HJE",
+    "decode": "Vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VEDTAK_KON",
+    "decode": "Vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VEDTAK_OMS",
+    "decode": "Vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VEDTAK_SUP",
+    "decode": "Vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VEDTAK_YRK",
+    "decode": "Vedtak",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  }
+]
