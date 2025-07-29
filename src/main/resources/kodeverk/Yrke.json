@@ -1,0 +1,146 @@
+[
+  {
+    "decode": "Andre",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1323817200000,
+    "code": "ANDRE",
+    "codeAsString": "ANDRE"
+  },
+  {
+    "decode": "Antas å ville ha vært i en kombinert yrkesaktiv/-hjemmearbeidende situasjon om uførheten ikke hadde oppstått",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1323817200000,
+    "code": "ANTA_KOMB",
+    "codeAsString": "ANTA_KOMB"
+  },
+  {
+    "decode": "Antas å ville ha vært yrkesaktiv om ikke uførheten hadde inntruffet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1323817200000,
+    "code": "ANTA_YRK",
+    "codeAsString": "ANTA_YRK"
+  },
+  {
+    "decode": "Yrkesaktiv",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ARB",
+    "codeAsString": "ARB"
+  },
+  {
+    "decode": "Fisker",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1323817200000,
+    "code": "FISKER",
+    "codeAsString": "FISKER"
+  },
+  {
+    "decode": "Funksjonær",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1323817200000,
+    "code": "FUNK",
+    "codeAsString": "FUNK"
+  },
+  {
+    "decode": "Gårdbruker",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1323817200000,
+    "code": "GB",
+    "codeAsString": "GB"
+  },
+  {
+    "decode": "Er gjenlevende",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1323817200000,
+    "code": "GJENL",
+    "codeAsString": "GJENL"
+  },
+  {
+    "decode": "Hjemmearbeidende",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HJEM_ARB",
+    "codeAsString": "HJEM_ARB"
+  },
+  {
+    "decode": "Ektefellens inntekt er mindre enn 2G",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1323817200000,
+    "code": "INNT_2G",
+    "codeAsString": "INNT_2G"
+  },
+  {
+    "decode": "Ikke yrkesaktiv",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTET",
+    "codeAsString": "INTET"
+  },
+  {
+    "decode": "Er faktisk i en kombinert yrkessituasjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1323817200000,
+    "code": "KOMB_YRK",
+    "codeAsString": "KOMB_YRK"
+  },
+  {
+    "decode": "Pensjonist",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1323817200000,
+    "code": "PENS",
+    "codeAsString": "PENS"
+  },
+  {
+    "decode": "Selvstendig næringsdrivende",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1323817200000,
+    "code": "SELVN",
+    "codeAsString": "SELVN"
+  },
+  {
+    "decode": "Formelt eller faktisk separert",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1323817200000,
+    "code": "SEP",
+    "codeAsString": "SEP"
+  },
+  {
+    "decode": "Sjømann",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1323817200000,
+    "code": "SJO",
+    "codeAsString": "SJO"
+  },
+  {
+    "decode": "Er skilt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1323817200000,
+    "code": "SKILT",
+    "codeAsString": "SKILT"
+  },
+  {
+    "decode": "Skoleelev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1323817200000,
+    "code": "SKOLE",
+    "codeAsString": "SKOLE"
+  }
+]

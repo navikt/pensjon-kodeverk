@@ -1,0 +1,26 @@
+[
+  {
+    "decode": "Applikasjonsbruker",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "APPBRUKER",
+    "codeAsString": "APPBRUKER"
+  },
+  {
+    "decode": "Person",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PERSON",
+    "codeAsString": "PERSON"
+  },
+  {
+    "decode": "Samhandler",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAMHANDLER",
+    "codeAsString": "SAMHANDLER"
+  }
+]

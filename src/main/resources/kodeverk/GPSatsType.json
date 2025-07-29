@@ -1,0 +1,18 @@
+[
+  {
+    "decode": "Forhøyet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORHOYET",
+    "codeAsString": "FORHOYET"
+  },
+  {
+    "decode": "Ordinær",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ORDINAER",
+    "codeAsString": "ORDINAER"
+  }
+]

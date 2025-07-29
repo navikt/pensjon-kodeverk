@@ -1,0 +1,1856 @@
+[
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV",
+    "fagomrade": "PEN",
+    "codeAsString": "BREV"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_AAP",
+    "fagomrade": "AAP",
+    "codeAsString": "BREV_AAP"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_BAR",
+    "fagomrade": "BAR",
+    "codeAsString": "BREV_BAR"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_BID",
+    "fagomrade": "BID",
+    "codeAsString": "BREV_BID"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_BII",
+    "fagomrade": "BII",
+    "codeAsString": "BREV_BII"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_BIL",
+    "fagomrade": "BIL",
+    "codeAsString": "BREV_BIL"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_DAG",
+    "fagomrade": "DAG",
+    "codeAsString": "BREV_DAG"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_ENF",
+    "fagomrade": "ENF",
+    "codeAsString": "BREV_ENF"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_ERS",
+    "fagomrade": "ERS",
+    "codeAsString": "BREV_ERS"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_FEI",
+    "fagomrade": "FEI",
+    "codeAsString": "BREV_FEI"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_FOR",
+    "fagomrade": "FOR",
+    "codeAsString": "BREV_FOR"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_FOS",
+    "fagomrade": "FOS",
+    "codeAsString": "BREV_FOS"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_FUL",
+    "fagomrade": "FUL",
+    "codeAsString": "BREV_FUL"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_GRA",
+    "fagomrade": "GRA",
+    "codeAsString": "BREV_GRA"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_GRU",
+    "fagomrade": "GRU",
+    "codeAsString": "BREV_GRU"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_HEL",
+    "fagomrade": "HEL",
+    "codeAsString": "BREV_HEL"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_HJE",
+    "fagomrade": "HJE",
+    "codeAsString": "BREV_HJE"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_IND",
+    "fagomrade": "IND",
+    "codeAsString": "BREV_IND"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_KON",
+    "fagomrade": "KON",
+    "codeAsString": "BREV_KON"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_MED",
+    "fagomrade": "MED",
+    "codeAsString": "BREV_MED"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_MOB",
+    "fagomrade": "MOB",
+    "codeAsString": "BREV_MOB"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_MOT",
+    "fagomrade": "MOT",
+    "codeAsString": "BREV_MOT"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_OKO",
+    "fagomrade": "OKO",
+    "codeAsString": "BREV_OKO"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_OMS",
+    "fagomrade": "OMS",
+    "codeAsString": "BREV_OMS"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_OPP",
+    "fagomrade": "OPP",
+    "codeAsString": "BREV_OPP"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_OVR",
+    "fagomrade": "OVR",
+    "codeAsString": "BREV_OVR"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_REH",
+    "fagomrade": "REH",
+    "codeAsString": "BREV_REH"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_SAK",
+    "fagomrade": "SAK",
+    "codeAsString": "BREV_SAK"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_STO",
+    "fagomrade": "STO",
+    "codeAsString": "BREV_STO"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_SUP",
+    "fagomrade": "SUP",
+    "codeAsString": "BREV_SUP"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_SYK",
+    "fagomrade": "SYK",
+    "codeAsString": "BREV_SYK"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_UFO",
+    "fagomrade": "UFO",
+    "codeAsString": "BREV_UFO"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_VEN",
+    "fagomrade": "VEN",
+    "codeAsString": "BREV_VEN"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_YRA",
+    "fagomrade": "YRA",
+    "codeAsString": "BREV_YRA"
+  },
+  {
+    "decode": "Brev",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BREV_YRK",
+    "fagomrade": "YRK",
+    "codeAsString": "BREV_YRK"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_AAP",
+    "fagomrade": "AAP",
+    "codeAsString": "E-POST_AAP"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_BAR",
+    "fagomrade": "BAR",
+    "codeAsString": "E-POST_BAR"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_BIL",
+    "fagomrade": "BIL",
+    "codeAsString": "E-POST_BIL"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_DAG",
+    "fagomrade": "DAG",
+    "codeAsString": "E-POST_DAG"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_ENF",
+    "fagomrade": "ENF",
+    "codeAsString": "E-POST_ENF"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_ERS",
+    "fagomrade": "ERS",
+    "codeAsString": "E-POST_ERS"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_FEI",
+    "fagomrade": "FEI",
+    "codeAsString": "E-POST_FEI"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_FOR",
+    "fagomrade": "FOR",
+    "codeAsString": "E-POST_FOR"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_FOS",
+    "fagomrade": "FOS",
+    "codeAsString": "E-POST_FOS"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_FUL",
+    "fagomrade": "FUL",
+    "codeAsString": "E-POST_FUL"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_GRA",
+    "fagomrade": "GRA",
+    "codeAsString": "E-POST_GRA"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_GRU",
+    "fagomrade": "GRU",
+    "codeAsString": "E-POST_GRU"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_HEL",
+    "fagomrade": "HEL",
+    "codeAsString": "E-POST_HEL"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_HJE",
+    "fagomrade": "HJE",
+    "codeAsString": "E-POST_HJE"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_IND",
+    "fagomrade": "IND",
+    "codeAsString": "E-POST_IND"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_KON",
+    "fagomrade": "KON",
+    "codeAsString": "E-POST_KON"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_MED",
+    "fagomrade": "MED",
+    "codeAsString": "E-POST_MED"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_MOB",
+    "fagomrade": "MOB",
+    "codeAsString": "E-POST_MOB"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_OMS",
+    "fagomrade": "OMS",
+    "codeAsString": "E-POST_OMS"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_OPP",
+    "fagomrade": "OPP",
+    "codeAsString": "E-POST_OPP"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_REH",
+    "fagomrade": "REH",
+    "codeAsString": "E-POST_REH"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_SAK",
+    "fagomrade": "SAK",
+    "codeAsString": "E-POST_SAK"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_STO",
+    "fagomrade": "STO",
+    "codeAsString": "E-POST_STO"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_SUP",
+    "fagomrade": "SUP",
+    "codeAsString": "E-POST_SUP"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_SYK",
+    "fagomrade": "SYK",
+    "codeAsString": "E-POST_SYK"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_UFO",
+    "fagomrade": "UFO",
+    "codeAsString": "E-POST_UFO"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_VEN",
+    "fagomrade": "VEN",
+    "codeAsString": "E-POST_VEN"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_YRA",
+    "fagomrade": "YRA",
+    "codeAsString": "E-POST_YRA"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_E_x_POST_YRK",
+    "fagomrade": "YRK",
+    "codeAsString": "E-POST_YRK"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EPOST",
+    "fagomrade": "PEN",
+    "codeAsString": "EPOST"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EPOST_BID",
+    "fagomrade": "BID",
+    "codeAsString": "EPOST_BID"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EPOST_BII",
+    "fagomrade": "BII",
+    "codeAsString": "EPOST_BII"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EPOST_MOT",
+    "fagomrade": "MOT",
+    "codeAsString": "EPOST_MOT"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EPOST_OKO",
+    "fagomrade": "OKO",
+    "codeAsString": "EPOST_OKO"
+  },
+  {
+    "decode": "E-post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EPOST_OVR",
+    "fagomrade": "OVR",
+    "codeAsString": "EPOST_OVR"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX",
+    "fagomrade": "PEN",
+    "codeAsString": "FAX"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_AAP",
+    "fagomrade": "AAP",
+    "codeAsString": "FAX_AAP"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_BAR",
+    "fagomrade": "BAR",
+    "codeAsString": "FAX_BAR"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_BID",
+    "fagomrade": "BID",
+    "codeAsString": "FAX_BID"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_BII",
+    "fagomrade": "BII",
+    "codeAsString": "FAX_BII"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_BIL",
+    "fagomrade": "BIL",
+    "codeAsString": "FAX_BIL"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_DAG",
+    "fagomrade": "DAG",
+    "codeAsString": "FAX_DAG"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_ENF",
+    "fagomrade": "ENF",
+    "codeAsString": "FAX_ENF"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_ERS",
+    "fagomrade": "ERS",
+    "codeAsString": "FAX_ERS"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_FEI",
+    "fagomrade": "FEI",
+    "codeAsString": "FAX_FEI"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_FOR",
+    "fagomrade": "FOR",
+    "codeAsString": "FAX_FOR"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_FOS",
+    "fagomrade": "FOS",
+    "codeAsString": "FAX_FOS"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_FUL",
+    "fagomrade": "FUL",
+    "codeAsString": "FAX_FUL"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_GRA",
+    "fagomrade": "GRA",
+    "codeAsString": "FAX_GRA"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_GRU",
+    "fagomrade": "GRU",
+    "codeAsString": "FAX_GRU"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_HEL",
+    "fagomrade": "HEL",
+    "codeAsString": "FAX_HEL"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_HJE",
+    "fagomrade": "HJE",
+    "codeAsString": "FAX_HJE"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_IND",
+    "fagomrade": "IND",
+    "codeAsString": "FAX_IND"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_KON",
+    "fagomrade": "KON",
+    "codeAsString": "FAX_KON"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_MED",
+    "fagomrade": "MED",
+    "codeAsString": "FAX_MED"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_MOB",
+    "fagomrade": "MOB",
+    "codeAsString": "FAX_MOB"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_MOT",
+    "fagomrade": "MOT",
+    "codeAsString": "FAX_MOT"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_OKO",
+    "fagomrade": "OKO",
+    "codeAsString": "FAX_OKO"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_OMS",
+    "fagomrade": "OMS",
+    "codeAsString": "FAX_OMS"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_OPP",
+    "fagomrade": "OPP",
+    "codeAsString": "FAX_OPP"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_OVR",
+    "fagomrade": "OVR",
+    "codeAsString": "FAX_OVR"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_REH",
+    "fagomrade": "REH",
+    "codeAsString": "FAX_REH"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_SAK",
+    "fagomrade": "SAK",
+    "codeAsString": "FAX_SAK"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_STO",
+    "fagomrade": "STO",
+    "codeAsString": "FAX_STO"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_SUP",
+    "fagomrade": "SUP",
+    "codeAsString": "FAX_SUP"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_SYK",
+    "fagomrade": "SYK",
+    "codeAsString": "FAX_SYK"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_UFO",
+    "fagomrade": "UFO",
+    "codeAsString": "FAX_UFO"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_VEN",
+    "fagomrade": "VEN",
+    "codeAsString": "FAX_VEN"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_YRA",
+    "fagomrade": "YRA",
+    "codeAsString": "FAX_YRA"
+  },
+  {
+    "decode": "Fax",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAX_YRK",
+    "fagomrade": "YRK",
+    "codeAsString": "FAX_YRK"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE",
+    "fagomrade": "PEN",
+    "codeAsString": "FREMMOTE"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_AAP",
+    "fagomrade": "AAP",
+    "codeAsString": "FREMMOTE_AAP"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_BAR",
+    "fagomrade": "BAR",
+    "codeAsString": "FREMMOTE_BAR"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_BID",
+    "fagomrade": "BID",
+    "codeAsString": "FREMMOTE_BID"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_BII",
+    "fagomrade": "BII",
+    "codeAsString": "FREMMOTE_BII"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_BIL",
+    "fagomrade": "BIL",
+    "codeAsString": "FREMMOTE_BIL"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_DAG",
+    "fagomrade": "DAG",
+    "codeAsString": "FREMMOTE_DAG"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_ENF",
+    "fagomrade": "ENF",
+    "codeAsString": "FREMMOTE_ENF"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_ERS",
+    "fagomrade": "ERS",
+    "codeAsString": "FREMMOTE_ERS"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_FEI",
+    "fagomrade": "FEI",
+    "codeAsString": "FREMMOTE_FEI"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_FOR",
+    "fagomrade": "FOR",
+    "codeAsString": "FREMMOTE_FOR"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_FOS",
+    "fagomrade": "FOS",
+    "codeAsString": "FREMMOTE_FOS"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_FUL",
+    "fagomrade": "FUL",
+    "codeAsString": "FREMMOTE_FUL"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_GRA",
+    "fagomrade": "GRA",
+    "codeAsString": "FREMMOTE_GRA"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_GRU",
+    "fagomrade": "GRU",
+    "codeAsString": "FREMMOTE_GRU"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_HEL",
+    "fagomrade": "HEL",
+    "codeAsString": "FREMMOTE_HEL"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_HJE",
+    "fagomrade": "HJE",
+    "codeAsString": "FREMMOTE_HJE"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_IND",
+    "fagomrade": "IND",
+    "codeAsString": "FREMMOTE_IND"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_KON",
+    "fagomrade": "KON",
+    "codeAsString": "FREMMOTE_KON"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_MED",
+    "fagomrade": "MED",
+    "codeAsString": "FREMMOTE_MED"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_MOB",
+    "fagomrade": "MOB",
+    "codeAsString": "FREMMOTE_MOB"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_MOT",
+    "fagomrade": "MOT",
+    "codeAsString": "FREMMOTE_MOT"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_OKO",
+    "fagomrade": "OKO",
+    "codeAsString": "FREMMOTE_OKO"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_OMS",
+    "fagomrade": "OMS",
+    "codeAsString": "FREMMOTE_OMS"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_OPP",
+    "fagomrade": "OPP",
+    "codeAsString": "FREMMOTE_OPP"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_OVR",
+    "fagomrade": "OVR",
+    "codeAsString": "FREMMOTE_OVR"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_REH",
+    "fagomrade": "REH",
+    "codeAsString": "FREMMOTE_REH"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_SAK",
+    "fagomrade": "SAK",
+    "codeAsString": "FREMMOTE_SAK"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_STO",
+    "fagomrade": "STO",
+    "codeAsString": "FREMMOTE_STO"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_SUP",
+    "fagomrade": "SUP",
+    "codeAsString": "FREMMOTE_SUP"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_SYK",
+    "fagomrade": "SYK",
+    "codeAsString": "FREMMOTE_SYK"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_UFO",
+    "fagomrade": "UFO",
+    "codeAsString": "FREMMOTE_UFO"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_VEN",
+    "fagomrade": "VEN",
+    "codeAsString": "FREMMOTE_VEN"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_YRA",
+    "fagomrade": "YRA",
+    "codeAsString": "FREMMOTE_YRA"
+  },
+  {
+    "decode": "Fremmøte",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FREMMOTE_YRK",
+    "fagomrade": "YRK",
+    "codeAsString": "FREMMOTE_YRK"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_AAP",
+    "fagomrade": "AAP",
+    "codeAsString": "INTERN_AAP"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_BAR",
+    "fagomrade": "BAR",
+    "codeAsString": "INTERN_BAR"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_BIL",
+    "fagomrade": "BIL",
+    "codeAsString": "INTERN_BIL"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_DAG",
+    "fagomrade": "DAG",
+    "codeAsString": "INTERN_DAG"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_ENF",
+    "fagomrade": "ENF",
+    "codeAsString": "INTERN_ENF"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_ERS",
+    "fagomrade": "ERS",
+    "codeAsString": "INTERN_ERS"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_FEI",
+    "fagomrade": "FEI",
+    "codeAsString": "INTERN_FEI"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_FOR",
+    "fagomrade": "FOR",
+    "codeAsString": "INTERN_FOR"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_FOS",
+    "fagomrade": "FOS",
+    "codeAsString": "INTERN_FOS"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_FUL",
+    "fagomrade": "FUL",
+    "codeAsString": "INTERN_FUL"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_GRA",
+    "fagomrade": "GRA",
+    "codeAsString": "INTERN_GRA"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_GRU",
+    "fagomrade": "GRU",
+    "codeAsString": "INTERN_GRU"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_HEL",
+    "fagomrade": "HEL",
+    "codeAsString": "INTERN_HEL"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_HJE",
+    "fagomrade": "HJE",
+    "codeAsString": "INTERN_HJE"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_IND",
+    "fagomrade": "IND",
+    "codeAsString": "INTERN_IND"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_KON",
+    "fagomrade": "KON",
+    "codeAsString": "INTERN_KON"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_MED",
+    "fagomrade": "MED",
+    "codeAsString": "INTERN_MED"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_MOB",
+    "fagomrade": "MOB",
+    "codeAsString": "INTERN_MOB"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_OMS",
+    "fagomrade": "OMS",
+    "codeAsString": "INTERN_OMS"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_OPP",
+    "fagomrade": "OPP",
+    "codeAsString": "INTERN_OPP"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_REH",
+    "fagomrade": "REH",
+    "codeAsString": "INTERN_REH"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_SAK",
+    "fagomrade": "SAK",
+    "codeAsString": "INTERN_SAK"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_STO",
+    "fagomrade": "STO",
+    "codeAsString": "INTERN_STO"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_SUP",
+    "fagomrade": "SUP",
+    "codeAsString": "INTERN_SUP"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_SYK",
+    "fagomrade": "SYK",
+    "codeAsString": "INTERN_SYK"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_UFO",
+    "fagomrade": "UFO",
+    "codeAsString": "INTERN_UFO"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_VEN",
+    "fagomrade": "VEN",
+    "codeAsString": "INTERN_VEN"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_YRA",
+    "fagomrade": "YRA",
+    "codeAsString": "INTERN_YRA"
+  },
+  {
+    "decode": "Intern",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERN_YRK",
+    "fagomrade": "YRK",
+    "codeAsString": "INTERN_YRK"
+  },
+  {
+    "decode": "Selvbetjening",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SELVBETJENING",
+    "fagomrade": "PEN",
+    "codeAsString": "SELVBETJENING"
+  },
+  {
+    "decode": "Selvbetjening",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SELVBETJENING_OKO",
+    "fagomrade": "OKO",
+    "codeAsString": "SELVBETJENING_OKO"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_AAP",
+    "fagomrade": "AAP",
+    "codeAsString": "TELEFON_AAP"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_BAR",
+    "fagomrade": "BAR",
+    "codeAsString": "TELEFON_BAR"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_BIL",
+    "fagomrade": "BIL",
+    "codeAsString": "TELEFON_BIL"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_DAG",
+    "fagomrade": "DAG",
+    "codeAsString": "TELEFON_DAG"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_ENF",
+    "fagomrade": "ENF",
+    "codeAsString": "TELEFON_ENF"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_ERS",
+    "fagomrade": "ERS",
+    "codeAsString": "TELEFON_ERS"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_FEI",
+    "fagomrade": "FEI",
+    "codeAsString": "TELEFON_FEI"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_FOR",
+    "fagomrade": "FOR",
+    "codeAsString": "TELEFON_FOR"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_FOS",
+    "fagomrade": "FOS",
+    "codeAsString": "TELEFON_FOS"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_FUL",
+    "fagomrade": "FUL",
+    "codeAsString": "TELEFON_FUL"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_GRA",
+    "fagomrade": "GRA",
+    "codeAsString": "TELEFON_GRA"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_GRU",
+    "fagomrade": "GRU",
+    "codeAsString": "TELEFON_GRU"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_HEL",
+    "fagomrade": "HEL",
+    "codeAsString": "TELEFON_HEL"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_HJE",
+    "fagomrade": "HJE",
+    "codeAsString": "TELEFON_HJE"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_IND",
+    "fagomrade": "IND",
+    "codeAsString": "TELEFON_IND"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_KON",
+    "fagomrade": "KON",
+    "codeAsString": "TELEFON_KON"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_MED",
+    "fagomrade": "MED",
+    "codeAsString": "TELEFON_MED"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_MOB",
+    "fagomrade": "MOB",
+    "codeAsString": "TELEFON_MOB"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_OMS",
+    "fagomrade": "OMS",
+    "codeAsString": "TELEFON_OMS"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_OPP",
+    "fagomrade": "OPP",
+    "codeAsString": "TELEFON_OPP"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_REH",
+    "fagomrade": "REH",
+    "codeAsString": "TELEFON_REH"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_SAK",
+    "fagomrade": "SAK",
+    "codeAsString": "TELEFON_SAK"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_STO",
+    "fagomrade": "STO",
+    "codeAsString": "TELEFON_STO"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_SUP",
+    "fagomrade": "SUP",
+    "codeAsString": "TELEFON_SUP"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_SYK",
+    "fagomrade": "SYK",
+    "codeAsString": "TELEFON_SYK"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_UFO",
+    "fagomrade": "UFO",
+    "codeAsString": "TELEFON_UFO"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_VEN",
+    "fagomrade": "VEN",
+    "codeAsString": "TELEFON_VEN"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_YRA",
+    "fagomrade": "YRA",
+    "codeAsString": "TELEFON_YRA"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TELEFON_YRK",
+    "fagomrade": "YRK",
+    "codeAsString": "TELEFON_YRK"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TLF",
+    "fagomrade": "PEN",
+    "codeAsString": "TLF"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TLF_BID",
+    "fagomrade": "BID",
+    "codeAsString": "TLF_BID"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TLF_BII",
+    "fagomrade": "BII",
+    "codeAsString": "TLF_BII"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TLF_MOT",
+    "fagomrade": "MOT",
+    "codeAsString": "TLF_MOT"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TLF_OKO",
+    "fagomrade": "OKO",
+    "codeAsString": "TLF_OKO"
+  },
+  {
+    "decode": "Telefon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TLF_OVR",
+    "fagomrade": "OVR",
+    "codeAsString": "TLF_OVR"
+  }
+]

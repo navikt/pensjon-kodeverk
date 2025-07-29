@@ -1,0 +1,706 @@
+[
+  {
+    "decode": "01.06.1986",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AUT1986",
+    "avtale": {
+      "decode": "Østerrike",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "AUT",
+      "codeAsString": "AUT"
+    },
+    "codeAsString": "AUT1986"
+  },
+  {
+    "decode": "EØS 01.01.1994",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AUT1994",
+    "avtale": {
+      "decode": "Østerrike",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "AUT",
+      "codeAsString": "AUT"
+    },
+    "codeAsString": "AUT1994"
+  },
+  {
+    "decode": "01.06.1998",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AUT1998",
+    "avtale": {
+      "decode": "Østerrike",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "AUT",
+      "codeAsString": "AUT"
+    },
+    "codeAsString": "AUT1998"
+  },
+  {
+    "decode": "01.03.1992",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BIH1992",
+    "avtale": {
+      "decode": "Bosnia-Hercegovina",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "BIH",
+      "codeAsString": "BIH"
+    },
+    "codeAsString": "BIH1992"
+  },
+  {
+    "decode": "01.01.1987",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "CAN1987",
+    "avtale": {
+      "decode": "Canada",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "CAN",
+      "codeAsString": "CAN"
+    },
+    "codeAsString": "CAN1987"
+  },
+  {
+    "decode": "01.01.2014",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "CAN2014",
+    "avtale": {
+      "decode": "Canada",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "CAN",
+      "codeAsString": "CAN"
+    },
+    "codeAsString": "CAN2014"
+  },
+  {
+    "decode": "01.11.1980",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "CHE1980",
+    "avtale": {
+      "decode": "Sveits",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "CHE",
+      "codeAsString": "CHE"
+    },
+    "codeAsString": "CHE1980"
+  },
+  {
+    "decode": "EØS 01.01.1994",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "CHE1994",
+    "avtale": {
+      "decode": "Sveits",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "CHE",
+      "codeAsString": "CHE"
+    },
+    "codeAsString": "CHE1994"
+  },
+  {
+    "decode": "EØS 01.06.2002",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "CHE2002",
+    "avtale": {
+      "decode": "Sveits",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "CHE",
+      "codeAsString": "CHE"
+    },
+    "codeAsString": "CHE2002"
+  },
+  {
+    "decode": "01.01.1994",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EOS1994",
+    "avtale": {
+      "decode": "Eøs-Avtalen/Nordisk Konvensjon",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "EOS_NOR",
+      "codeAsString": "EOS_NOR"
+    },
+    "codeAsString": "EOS1994"
+  },
+  {
+    "decode": "01.05.2004",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EOS2004",
+    "avtale": {
+      "decode": "Eøs-Avtalen/Nordisk Konvensjon",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "EOS_NOR",
+      "codeAsString": "EOS_NOR"
+    },
+    "codeAsString": "EOS2004"
+  },
+  {
+    "decode": "01.01.2007",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EOS2007",
+    "avtale": {
+      "decode": "Eøs-Avtalen/Nordisk Konvensjon",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "EOS_NOR",
+      "codeAsString": "EOS_NOR"
+    },
+    "codeAsString": "EOS2007"
+  },
+  {
+    "decode": "01.06.2012",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EOS2010",
+    "avtale": {
+      "decode": "Eøs-Avtalen/Nordisk Konvensjon",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "EOS_NOR",
+      "codeAsString": "EOS_NOR"
+    },
+    "codeAsString": "EOS2010"
+  },
+  {
+    "decode": "12.04.2014",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EOS2014",
+    "avtale": {
+      "decode": "Eøs-Avtalen/Nordisk Konvensjon",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "EOS_NOR",
+      "codeAsString": "EOS_NOR"
+    },
+    "codeAsString": "EOS2014"
+  },
+  {
+    "decode": "01.07.1956",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FRA1956",
+    "avtale": {
+      "decode": "Frankrike",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "FRA",
+      "codeAsString": "FRA"
+    },
+    "codeAsString": "FRA1956"
+  },
+  {
+    "decode": "EØS 01.01.1994",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FRA1994",
+    "avtale": {
+      "decode": "Frankrike",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "FRA",
+      "codeAsString": "FRA"
+    },
+    "codeAsString": "FRA1994"
+  },
+  {
+    "decode": "01.04.1958",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GBR1958",
+    "avtale": {
+      "decode": "Storbritannia",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "GBR",
+      "codeAsString": "GBR"
+    },
+    "codeAsString": "GBR1958"
+  },
+  {
+    "decode": "01.04.1991",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GBR1991",
+    "avtale": {
+      "decode": "Storbritannia",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "GBR",
+      "codeAsString": "GBR"
+    },
+    "codeAsString": "GBR1991"
+  },
+  {
+    "decode": "EØS 01.01.1994",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GBR1994",
+    "avtale": {
+      "decode": "Storbritannia",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "GBR",
+      "codeAsString": "GBR"
+    },
+    "codeAsString": "GBR1994"
+  },
+  {
+    "decode": "08.10.1991",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HRV1991",
+    "avtale": {
+      "decode": "Kroatia",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "HRV",
+      "codeAsString": "HRV"
+    },
+    "codeAsString": "HRV1991"
+  },
+  {
+    "decode": "EØS 12.04.2014",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HRV2014",
+    "avtale": {
+      "decode": "Kroatia",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "HRV",
+      "codeAsString": "HRV"
+    },
+    "codeAsString": "HRV2014"
+  },
+  {
+    "decode": "01.01.2015",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "IND2015",
+    "avtale": {
+      "decode": "India",
+      "valid": true,
+      "fromDate": 1420066800000,
+      "toDate": null,
+      "code": "IND",
+      "codeAsString": "IND"
+    },
+    "codeAsString": "IND2015"
+  },
+  {
+    "decode": "01.02.1962",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ITA1962",
+    "avtale": {
+      "decode": "Italia",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "ITA",
+      "codeAsString": "ITA"
+    },
+    "codeAsString": "ITA1962"
+  },
+  {
+    "decode": "EØS 01.01.1994",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ITA1994",
+    "avtale": {
+      "decode": "Italia",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "ITA",
+      "codeAsString": "ITA"
+    },
+    "codeAsString": "ITA1994"
+  },
+  {
+    "decode": "01.03.1992",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "LUX1992",
+    "avtale": {
+      "decode": "Luxembourg",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "LUX",
+      "codeAsString": "LUX"
+    },
+    "codeAsString": "LUX1992"
+  },
+  {
+    "decode": "EØS 01.01.1994",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "LUX1994",
+    "avtale": {
+      "decode": "Luxembourg",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "LUX",
+      "codeAsString": "LUX"
+    },
+    "codeAsString": "LUX1994"
+  },
+  {
+    "decode": "01.09.1998",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "LUX1998",
+    "avtale": {
+      "decode": "Luxembourg",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "LUX",
+      "codeAsString": "LUX"
+    },
+    "codeAsString": "LUX1998"
+  },
+  {
+    "decode": "03.06.2006",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MNE2006",
+    "avtale": {
+      "decode": "Montenegro",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MNE",
+      "codeAsString": "MNE"
+    },
+    "codeAsString": "MNE2006"
+  },
+  {
+    "decode": "01.10.1990",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NLD1990",
+    "avtale": {
+      "decode": "Nederland",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "NLD",
+      "codeAsString": "NLD"
+    },
+    "codeAsString": "NLD1990"
+  },
+  {
+    "decode": "EØS 01.01.1994",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NLD1994",
+    "avtale": {
+      "decode": "Nederland",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "NLD",
+      "codeAsString": "NLD"
+    },
+    "codeAsString": "NLD1994"
+  },
+  {
+    "decode": "01.04.1997",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NLD1997",
+    "avtale": {
+      "decode": "Nederland",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "NLD",
+      "codeAsString": "NLD"
+    },
+    "codeAsString": "NLD1997"
+  },
+  {
+    "decode": "01.11.1956",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NOR1956",
+    "avtale": {
+      "decode": "Nordisk Konvensjon",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "NOR_KONV",
+      "codeAsString": "NOR_KONV"
+    },
+    "codeAsString": "NOR1956"
+  },
+  {
+    "decode": "01.01.1982",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NOR1982",
+    "avtale": {
+      "decode": "Nordisk Konvensjon",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "NOR_KONV",
+      "codeAsString": "NOR_KONV"
+    },
+    "codeAsString": "NOR1982"
+  },
+  {
+    "decode": "EØS 01.01.1994",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NOR1994",
+    "avtale": {
+      "decode": "Nordisk Konvensjon",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "NOR_KONV",
+      "codeAsString": "NOR_KONV"
+    },
+    "codeAsString": "NOR1994"
+  },
+  {
+    "decode": "01.09.2004",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NOR2004",
+    "avtale": {
+      "decode": "Nordisk Konvensjon",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "NOR_KONV",
+      "codeAsString": "NOR_KONV"
+    },
+    "codeAsString": "NOR2004"
+  },
+  {
+    "decode": "01.09.1981",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PRT1981",
+    "avtale": {
+      "decode": "Portugal",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "PRT",
+      "codeAsString": "PRT"
+    },
+    "codeAsString": "PRT1981"
+  },
+  {
+    "decode": "EØS 01.01.1994",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PRT1994",
+    "avtale": {
+      "decode": "Portugal",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "PRT",
+      "codeAsString": "PRT"
+    },
+    "codeAsString": "PRT1994"
+  },
+  {
+    "decode": "29.05.2003",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SRB2003",
+    "avtale": {
+      "decode": "Serbia",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "SRB",
+      "codeAsString": "SRB"
+    },
+    "codeAsString": "SRB2003"
+  },
+  {
+    "decode": "25.06.1991",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SVN1991",
+    "avtale": {
+      "decode": "Slovenia",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "SVN",
+      "codeAsString": "SVN"
+    },
+    "codeAsString": "SVN1991"
+  },
+  {
+    "decode": "01.06.1981",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TUR1981",
+    "avtale": {
+      "decode": "Tyrkia",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "TUR",
+      "codeAsString": "TUR"
+    },
+    "codeAsString": "TUR1981"
+  },
+  {
+    "decode": "Noteveksling av 26.06.1968",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "USA1968",
+    "avtale": {
+      "decode": "USA",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "USA",
+      "codeAsString": "USA"
+    },
+    "codeAsString": "USA1968"
+  },
+  {
+    "decode": "01.07.1984",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "USA1984",
+    "avtale": {
+      "decode": "USA",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "USA",
+      "codeAsString": "USA"
+    },
+    "codeAsString": "USA1984"
+  },
+  {
+    "decode": "01.09.2003",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "USA2003",
+    "avtale": {
+      "decode": "USA",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "USA",
+      "codeAsString": "USA"
+    },
+    "codeAsString": "USA2003"
+  },
+  {
+    "decode": "01.08.1976",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "YUG1976",
+    "avtale": {
+      "decode": "Jugoslavia",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "YUG",
+      "codeAsString": "YUG"
+    },
+    "codeAsString": "YUG1976"
+  }
+]

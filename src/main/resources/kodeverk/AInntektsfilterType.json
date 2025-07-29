@@ -1,0 +1,164 @@
+[
+  {
+    "decode": "Alderspensjon EPS a-inntekt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ALDERSPENSJON_EPS_A_INNTEKT",
+    "fellesKodeverkCode": "AlderspensjonEPS",
+    "codeAsString": "ALDERSPENSJON_EPS_A_INNTEKT"
+  },
+  {
+    "decode": "Bidragsforskudd a-inntekt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BIDRAGSFORSKUDD_A_INNTEKT",
+    "fellesKodeverkCode": "BidragsforskuddA-Inntekt",
+    "codeAsString": "BIDRAGSFORSKUDD_A_INNTEKT"
+  },
+  {
+    "decode": "Bidrag a-inntekt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BIDRAG_A_INNTEKT",
+    "fellesKodeverkCode": "BidragA-Inntekt",
+    "codeAsString": "BIDRAG_A_INNTEKT"
+  },
+  {
+    "decode": "Dagpenger - grunnlag a-inntekt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DAGPENGER_GRUNNLAG_A_INNTEKT",
+    "fellesKodeverkCode": "DagpengerGrunnlagA-Inntekt",
+    "codeAsString": "DAGPENGER_GRUNNLAG_A_INNTEKT"
+  },
+  {
+    "decode": "Dagpenger - minsteinntekt a-inntekt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DAGPENGER_MINSTEINNTEKT_A_INNTEKT",
+    "fellesKodeverkCode": "DagpengerMinsteinntektA-Inntekt",
+    "codeAsString": "DAGPENGER_MINSTEINNTEKT_A_INNTEKT"
+  },
+  {
+    "decode": "Etterbetaling a-inntekt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETTERBET_A_INNTEKT",
+    "fellesKodeverkCode": "EtterbetalingA-inntekt",
+    "codeAsString": "ETTERBET_A_INNTEKT"
+  },
+  {
+    "decode": "Foreldrepenger a-inntekt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORELDREPENGER_A_INNTEKT",
+    "fellesKodeverkCode": "ForeldrepengerA-Inntekt",
+    "codeAsString": "FORELDREPENGER_A_INNTEKT"
+  },
+  {
+    "decode": "Forsikring små bedrifter a-inntekt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORSIKRING_SMAA_BEDRIFTER_A_INNTEKT",
+    "fellesKodeverkCode": "ForsikringSmaaBedrifterA-Inntekt",
+    "codeAsString": "FORSIKRING_SMAA_BEDRIFTER_A_INNTEKT"
+  },
+  {
+    "decode": "NAV kontroll a-inntekt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NAV_KONTROLL_A_INNTEKT",
+    "fellesKodeverkCode": "NAVKontrollA-Inntekt",
+    "codeAsString": "NAV_KONTROLL_A_INNTEKT"
+  },
+  {
+    "decode": "Omsorgspenger a-inntekt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMSORGSPENGER_A_INNTEKT",
+    "fellesKodeverkCode": "OmsorgspengerA-Inntekt",
+    "codeAsString": "OMSORGSPENGER_A_INNTEKT"
+  },
+  {
+    "decode": "Oppfostringsbidrag a-inntekt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OPPFOSTRINGSBIDRAG_A_INNTEKT",
+    "fellesKodeverkCode": "OppfostringsbidragA-Inntekt",
+    "codeAsString": "OPPFOSTRINGSBIDRAG_A_INNTEKT"
+  },
+  {
+    "decode": "Opplæringspenger a-inntekt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OPPLAERINGSPENGER_A_INNTEKT",
+    "fellesKodeverkCode": "OpplaeringspengerA-Inntekt",
+    "codeAsString": "OPPLAERINGSPENGER_A_INNTEKT"
+  },
+  {
+    "decode": "Pensjonsgivende a-inntekt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PENSJONSGIVENDE_A_INNTEKT",
+    "fellesKodeverkCode": "PensjonsgivendeA-Inntekt",
+    "codeAsString": "PENSJONSGIVENDE_A_INNTEKT"
+  },
+  {
+    "decode": "Pleiepenger a-inntekt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PLEIEPENGER_A_INNTEKT",
+    "fellesKodeverkCode": "PleiepengerA-Inntekt",
+    "codeAsString": "PLEIEPENGER_A_INNTEKT"
+  },
+  {
+    "decode": "Svangerskapspenger a-inntekt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SVANGERSKAPSPENGER_A_INNTEKT",
+    "fellesKodeverkCode": "SvangerskapspengerA-Inntekt",
+    "codeAsString": "SVANGERSKAPSPENGER_A_INNTEKT"
+  },
+  {
+    "decode": "Sykepenger a-inntekt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SYKEPENGER_A_INNTEKT",
+    "fellesKodeverkCode": "SykepengerA-Inntekt",
+    "codeAsString": "SYKEPENGER_A_INNTEKT"
+  },
+  {
+    "decode": "Uføre a-inntekt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UFOERE_A_INNTEKT",
+    "fellesKodeverkCode": "UfoereA-Inntekt",
+    "codeAsString": "UFOERE_A_INNTEKT"
+  },
+  {
+    "decode": "Uføeretrygd Barnetillegg a-Inntekt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UFOERE_BT_A_INNTEKT",
+    "fellesKodeverkCode": "UfoereBarnetilleggA-inntekt",
+    "codeAsString": "UFOERE_BT_A_INNTEKT"
+  }
+]

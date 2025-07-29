@@ -1,0 +1,42 @@
+[
+  {
+    "decode": "Gammelt regelverk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GG",
+    "codeAsString": "GG"
+  },
+  {
+    "decode": "Nytt regelverk med gammel opptjening",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GN",
+    "codeAsString": "GN"
+  },
+  {
+    "decode": "Nytt regelverk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NN",
+    "codeAsString": "NN"
+  },
+  {
+    "decode": "Overgangsordning med ny og gammel opptjening",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ON",
+    "codeAsString": "ON"
+  },
+  {
+    "decode": "Øvrige brev, ikke knyttet til gammelt eller nytt regelverk.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OVRIGE",
+    "codeAsString": "OVRIGE"
+  }
+]

@@ -1,0 +1,776 @@
+[
+  {
+    "decode": "Adresse/bank",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ADR_BANK",
+    "dokType": "I",
+    "codeAsString": "ADR_BANK"
+  },
+  {
+    "decode": "AFP-vedtak fellesordninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AFP_VED",
+    "dokType": "I",
+    "codeAsString": "AFP_VED"
+  },
+  {
+    "decode": "Anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKE",
+    "dokType": "I",
+    "codeAsString": "ANKE"
+  },
+  {
+    "decode": "Anmodning om dokumentinnsyn",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANMOD_DOK_INNS",
+    "dokType": "I",
+    "codeAsString": "ANMOD_DOK_INNS"
+  },
+  {
+    "decode": "Begjæring om gjenopptak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BEGJ_GJENOPPT",
+    "dokType": "I",
+    "codeAsString": "BEGJ_GJENOPPT"
+  },
+  {
+    "decode": "Begjæring om omgjøring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BEGJ_OMGJOR",
+    "dokType": "I",
+    "codeAsString": "BEGJ_OMGJOR"
+  },
+  {
+    "decode": "Bekreftelse på utdanning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BEKREFT_UTDANNING",
+    "dokType": null,
+    "codeAsString": "BEKREFT_UTDANNING"
+  },
+  {
+    "decode": "Botid/fartstid",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BO_FART",
+    "dokType": "I",
+    "codeAsString": "BO_FART"
+  },
+  {
+    "decode": "Detaljert EØS-legeerklæring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DETALJ_EOS_LEGERKL",
+    "dokType": "I",
+    "codeAsString": "DETALJ_EOS_LEGERKL"
+  },
+  {
+    "decode": "Dødsfall",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DODSFALL",
+    "dokType": "I",
+    "codeAsString": "DODSFALL"
+  },
+  {
+    "decode": "Dokumentasjon fra andre land",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DOK_ANDRE_LAND",
+    "dokType": "I",
+    "codeAsString": "DOK_ANDRE_LAND"
+  },
+  {
+    "decode": "Dokumentoversikt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DOK_OVERSIKT",
+    "dokType": null,
+    "codeAsString": "DOK_OVERSIKT"
+  },
+  {
+    "decode": "D-nummer",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "D_NUM",
+    "dokType": "I",
+    "codeAsString": "D_NUM"
+  },
+  {
+    "decode": "Egenerklæring omsorgspoeng",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EGENERKL_OMS",
+    "dokType": "I",
+    "codeAsString": "EGENERKL_OMS"
+  },
+  {
+    "decode": "Etteroppgjør",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETTEROPPGJOR",
+    "dokType": "I",
+    "codeAsString": "ETTEROPPGJOR"
+  },
+  {
+    "decode": "E-blankett",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "E_BLANK",
+    "dokType": null,
+    "codeAsString": "E_BLANK"
+  },
+  {
+    "decode": "Fagforeningstrekk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAGFOR_TREKK",
+    "dokType": "I",
+    "codeAsString": "FAGFOR_TREKK"
+  },
+  {
+    "decode": "Fødsel",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FODSEL",
+    "dokType": "I",
+    "codeAsString": "FODSEL"
+  },
+  {
+    "decode": "Fødsel/sivilstand/død",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1664488800000,
+    "code": "FOD_SIV_DO",
+    "dokType": "I",
+    "codeAsString": "FOD_SIV_DO"
+  },
+  {
+    "decode": "Foreløpig anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORELOP_ANKE",
+    "dokType": "I",
+    "codeAsString": "FORELOP_ANKE"
+  },
+  {
+    "decode": "Forespørsel",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORESP",
+    "dokType": "I",
+    "codeAsString": "FORESP"
+  },
+  {
+    "decode": "Forespørsel til avtaleland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORESP_AVT_LAND",
+    "dokType": "I",
+    "codeAsString": "FORESP_AVT_LAND"
+  },
+  {
+    "decode": "Forhåndsfastsetting",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORH_FASTS",
+    "dokType": "I",
+    "codeAsString": "FORH_FASTS"
+  },
+  {
+    "decode": "Forvaltning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORVALTNING",
+    "dokType": "I",
+    "codeAsString": "FORVALTNING"
+  },
+  {
+    "decode": "Forespørsel fra namsmannen",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FS_NAM",
+    "dokType": "I",
+    "codeAsString": "FS_NAM"
+  },
+  {
+    "decode": "Fullmakt/verge",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FULL_VER",
+    "dokType": "I",
+    "codeAsString": "FULL_VER"
+  },
+  {
+    "decode": "Frivillig skattetrekk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FVS",
+    "dokType": "I",
+    "codeAsString": "FVS"
+  },
+  {
+    "decode": "Forhåndsligning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1664488800000,
+    "code": "F_LIGNING",
+    "dokType": "I",
+    "codeAsString": "F_LIGNING"
+  },
+  {
+    "decode": "Generell",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GENERELL",
+    "dokType": "I",
+    "codeAsString": "GENERELL"
+  },
+  {
+    "decode": "Helseopplysninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HELSE_OPPL",
+    "dokType": "I",
+    "codeAsString": "HELSE_OPPL"
+  },
+  {
+    "decode": "Husleietrekk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HUSL_TREKK",
+    "dokType": "I",
+    "codeAsString": "HUSL_TREKK"
+  },
+  {
+    "decode": "Inntekt/arbeid",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNT_ARB",
+    "dokType": "I",
+    "codeAsString": "INNT_ARB"
+  },
+  {
+    "decode": "Inntektsopplysninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNT_OPPL",
+    "dokType": "I",
+    "codeAsString": "INNT_OPPL"
+  },
+  {
+    "decode": "Institusjonsopphold",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INST_OPPH",
+    "dokType": "I",
+    "codeAsString": "INST_OPPH"
+  },
+  {
+    "decode": "Klage",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KLAGE",
+    "dokType": "I",
+    "codeAsString": "KLAGE"
+  },
+  {
+    "decode": "Klage/anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1675240905000,
+    "code": "KLAG_ANK",
+    "dokType": "I",
+    "codeAsString": "KLAG_ANK"
+  },
+  {
+    "decode": "Klage/anke-vedtak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1675240905000,
+    "code": "KLAG_ANK_V",
+    "dokType": "I",
+    "codeAsString": "KLAG_ANK_V"
+  },
+  {
+    "decode": "Kopi fra saksmappen",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KOPI_FRA_SAKSMAPPEN",
+    "dokType": null,
+    "codeAsString": "KOPI_FRA_SAKSMAPPEN"
+  },
+  {
+    "decode": "Kravblankett",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KRAV_BL",
+    "dokType": null,
+    "codeAsString": "KRAV_BL"
+  },
+  {
+    "decode": "Krav om forlengelse av hvilende rett til uførepensjon i fem nye år",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1664488800000,
+    "code": "KRAV_FORL_UFOREP",
+    "dokType": "I",
+    "codeAsString": "KRAV_FORL_UFOREP"
+  },
+  {
+    "decode": "Krav om forsørgingstillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KRAV_FT",
+    "dokType": "I",
+    "codeAsString": "KRAV_FT"
+  },
+  {
+    "decode": "Krav om gjennopptak/omgjøring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KRA_GJENNOPPTAK_OMGJ",
+    "dokType": null,
+    "codeAsString": "KRA_GJENNOPPTAK_OMGJ"
+  },
+  {
+    "decode": "Leveattest",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "LEVEATT",
+    "dokType": "I",
+    "codeAsString": "LEVEATT"
+  },
+  {
+    "decode": "Lønns- og trekkoppgave",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "LTO",
+    "dokType": "I",
+    "codeAsString": "LTO"
+  },
+  {
+    "decode": "Medisinske opplysninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MED_OPPL",
+    "dokType": "I",
+    "codeAsString": "MED_OPPL"
+  },
+  {
+    "decode": "Merknader i ankesak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MERKNAD_ANKE",
+    "dokType": null,
+    "codeAsString": "MERKNAD_ANKE"
+  },
+  {
+    "decode": "Oppheving av ankesak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OPPHEV_ANKESAK",
+    "dokType": null,
+    "codeAsString": "OPPHEV_ANKESAK"
+  },
+  {
+    "decode": "Oversatte dokument",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OVERSATT_DOK",
+    "dokType": "I",
+    "codeAsString": "OVERSATT_DOK"
+  },
+  {
+    "decode": "Oversettelse av dokumenter",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OVERSETTELSE_AV_DOK",
+    "dokType": null,
+    "codeAsString": "OVERSETTELSE_AV_DOK"
+  },
+  {
+    "decode": "P1 Samlet melding om pensjonsvedtak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P1_SAML_MELD_PV",
+    "dokType": null,
+    "codeAsString": "P1_SAML_MELD_PV"
+  },
+  {
+    "decode": "Kreditortrekk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PALEGG",
+    "dokType": "I",
+    "codeAsString": "PALEGG"
+  },
+  {
+    "decode": "Prosesskriv til Trygderetten",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PRSKRIV_TRYGDERETT",
+    "dokType": null,
+    "codeAsString": "PRSKRIV_TRYGDERETT"
+  },
+  {
+    "decode": "Purring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PURRING",
+    "dokType": "I",
+    "codeAsString": "PURRING"
+  },
+  {
+    "decode": "Refusjonskrav pensjonskasse",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REF_PEN",
+    "dokType": "I",
+    "codeAsString": "REF_PEN"
+  },
+  {
+    "decode": "Refusjonskrav sosialkontor",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REF_SOS",
+    "dokType": "I",
+    "codeAsString": "REF_SOS"
+  },
+  {
+    "decode": "Refusjonskrav utenlandsk myndighet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REF_UTL_M",
+    "dokType": "I",
+    "codeAsString": "REF_UTL_M"
+  },
+  {
+    "decode": "Registreringsblankett uføre",
+    "valid": false,
+    "fromDate": -2209078800000,
+    "toDate": 1327273200000,
+    "code": "REGBL_UFORE",
+    "dokType": "I",
+    "codeAsString": "REGBL_UFORE"
+  },
+  {
+    "decode": "Regnskap",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REGNSKAP",
+    "dokType": "I",
+    "codeAsString": "REGNSKAP"
+  },
+  {
+    "decode": "Rettsavgjørelse",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "RETTSAVGJORELSE",
+    "dokType": null,
+    "codeAsString": "RETTSAVGJORELSE"
+  },
+  {
+    "decode": "Søknad om saksomkostninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAKSOMKOSTNINGER",
+    "dokType": null,
+    "codeAsString": "SAKSOMKOSTNINGER"
+  },
+  {
+    "decode": "Samordningsmelding",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAMORD",
+    "dokType": "I",
+    "codeAsString": "SAMORD"
+  },
+  {
+    "decode": "SED",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SED",
+    "dokType": null,
+    "codeAsString": "SED"
+  },
+  {
+    "decode": "Serviceberegning av folketrygdberegnet AFP",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SERVBER_FTBER_AFP",
+    "dokType": "U",
+    "codeAsString": "SERVBER_FTBER_AFP"
+  },
+  {
+    "decode": "Sivilstand",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SIVILSTAND",
+    "dokType": "I",
+    "codeAsString": "SIVILSTAND"
+  },
+  {
+    "decode": "Skatteopplysninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SKATTOPP",
+    "dokType": "I",
+    "codeAsString": "SKATTOPP"
+  },
+  {
+    "decode": "Søknad om dekning av faste utgifter under opphold i institusjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SOKN_DEKN_FAST_UTG",
+    "dokType": "I",
+    "codeAsString": "SOKN_DEKN_FAST_UTG"
+  },
+  {
+    "decode": "Søknad om endring av inntektsnivå før/etter uførhet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SOK_ENDR_INNT",
+    "dokType": "I",
+    "codeAsString": "SOK_ENDR_INNT"
+  },
+  {
+    "decode": "Stevning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "STEVNING",
+    "dokType": null,
+    "codeAsString": "STEVNING"
+  },
+  {
+    "decode": "Stopp/endring trekk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "STOPP_ENDR_TREKK",
+    "dokType": "I",
+    "codeAsString": "STOPP_ENDR_TREKK"
+  },
+  {
+    "decode": "Tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TILBAKEK",
+    "dokType": "I",
+    "codeAsString": "TILBAKEK"
+  },
+  {
+    "decode": "Tilleggsopplysninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TILLEGGOPP",
+    "dokType": "I",
+    "codeAsString": "TILLEGGOPP"
+  },
+  {
+    "decode": "Tilsvar til inntektskontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TILSV_INNTEKT",
+    "dokType": "I",
+    "codeAsString": "TILSV_INNTEKT"
+  },
+  {
+    "decode": "Til uttalelse fra Trygderetten",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TIL_U_F_TRYGDERETT",
+    "dokType": null,
+    "codeAsString": "TIL_U_F_TRYGDERETT"
+  },
+  {
+    "decode": "TP-ordning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TP_ORDNING",
+    "dokType": "I",
+    "codeAsString": "TP_ORDNING"
+  },
+  {
+    "decode": "Trekker anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TREKKER_ANKE",
+    "dokType": null,
+    "codeAsString": "TREKKER_ANKE"
+  },
+  {
+    "decode": "Trekker klage",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TREKKER_KLAGE",
+    "dokType": null,
+    "codeAsString": "TREKKER_KLAGE"
+  },
+  {
+    "decode": "Trekkopplysninger (andre)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TREKKOPP",
+    "dokType": "I",
+    "codeAsString": "TREKKOPP"
+  },
+  {
+    "decode": "Tvungen forvaltning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TVUNGEN_FORV",
+    "dokType": "I",
+    "codeAsString": "TVUNGEN_FORV"
+  },
+  {
+    "decode": "Ukjent",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UKJENT",
+    "dokType": "I",
+    "codeAsString": "UKJENT"
+  },
+  {
+    "decode": "Undersøkelse (henv. fra Sivilombudsmannen)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UNDERSOKELSE",
+    "dokType": null,
+    "codeAsString": "UNDERSOKELSE"
+  },
+  {
+    "decode": "Utbetaling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTBET",
+    "dokType": "I",
+    "codeAsString": "UTBET"
+  },
+  {
+    "decode": "Utfyllende anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTFYLL_ANKE",
+    "dokType": "I",
+    "codeAsString": "UTFYLL_ANKE"
+  },
+  {
+    "decode": "Uttalelse",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTTALELSE",
+    "dokType": "I",
+    "codeAsString": "UTTALELSE"
+  },
+  {
+    "decode": "Uttalelse i klagesak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTTAL_KLAGE",
+    "dokType": "I",
+    "codeAsString": "UTTAL_KLAGE"
+  },
+  {
+    "decode": "Uttalelse til varsel",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTTAL_VARSEL",
+    "dokType": "I",
+    "codeAsString": "UTTAL_VARSEL"
+  },
+  {
+    "decode": "Vederlagstrekk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VEDERLAGT",
+    "dokType": "I",
+    "codeAsString": "VEDERLAGT"
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "decode": "Attestert",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ATT",
+    "erTeknisk": true,
+    "codeAsString": "ATT"
+  },
+  {
+    "decode": "Beregnet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BEREGNET",
+    "erTeknisk": true,
+    "codeAsString": "BEREGNET"
+  },
+  {
+    "decode": "Feilregistrert",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FEILREGISTRERT",
+    "erTeknisk": false,
+    "codeAsString": "FEILREGISTRERT"
+  },
+  {
+    "decode": "Ferdig Behandlet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FERDIG",
+    "erTeknisk": true,
+    "codeAsString": "FERDIG"
+  },
+  {
+    "decode": "Henlagt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HENLAGT",
+    "erTeknisk": false,
+    "codeAsString": "HENLAGT"
+  },
+  {
+    "decode": "Klar til attestering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KLAR_TIL_ATT",
+    "erTeknisk": true,
+    "codeAsString": "KLAR_TIL_ATT"
+  },
+  {
+    "decode": "På vent",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PA_VENT",
+    "erTeknisk": true,
+    "codeAsString": "PA_VENT"
+  },
+  {
+    "decode": "Til behandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TIL_BEHANDLING",
+    "erTeknisk": false,
+    "codeAsString": "TIL_BEHANDLING"
+  },
+  {
+    "decode": "Trukket",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TRUKKET",
+    "erTeknisk": false,
+    "codeAsString": "TRUKKET"
+  },
+  {
+    "decode": "Venter på Fellesordningen",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VENTER_AFP",
+    "erTeknisk": false,
+    "codeAsString": "VENTER_AFP"
+  },
+  {
+    "decode": "Venter på bruker",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VENTER_BRUKER",
+    "erTeknisk": false,
+    "codeAsString": "VENTER_BRUKER"
+  },
+  {
+    "decode": "Venter på klageinstans",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VENTER_KLAGEINSTANS",
+    "erTeknisk": false,
+    "codeAsString": "VENTER_KLAGEINSTANS"
+  },
+  {
+    "decode": "Venter på opplysninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VENTER_OPPL",
+    "erTeknisk": false,
+    "codeAsString": "VENTER_OPPL"
+  },
+  {
+    "decode": "Venter på trygderetten",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VENTER_RETT",
+    "erTeknisk": false,
+    "codeAsString": "VENTER_RETT"
+  },
+  {
+    "decode": "Venter på saksbehandling",
+    "valid": false,
+    "fromDate": -2209078800000,
+    "toDate": 1306879200000,
+    "code": "VENTER_SAKSBEH",
+    "erTeknisk": false,
+    "codeAsString": "VENTER_SAKSBEH"
+  },
+  {
+    "decode": "Sendt utland",
+    "valid": false,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VENTER_UTL",
+    "erTeknisk": false,
+    "codeAsString": "VENTER_UTL"
+  },
+  {
+    "decode": "Vilkårsprøvd",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VILKARSPROVD",
+    "erTeknisk": true,
+    "codeAsString": "VILKARSPROVD"
+  }
+]

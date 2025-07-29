@@ -1,0 +1,122 @@
+[
+  {
+    "decode": "Applikasjonsbruker",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "APPBRK",
+    "codeAsString": "APPBRK"
+  },
+  {
+    "decode": "ARENA",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ARENA",
+    "codeAsString": "ARENA"
+  },
+  {
+    "decode": "Barnetrygd Systemet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BA",
+    "codeAsString": "BA"
+  },
+  {
+    "decode": "DSF",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DSF",
+    "codeAsString": "DSF"
+  },
+  {
+    "decode": "Garantikassen for fiskere",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GFF",
+    "codeAsString": "GFF"
+  },
+  {
+    "decode": "Infotrygd",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "IT",
+    "codeAsString": "IT"
+  },
+  {
+    "decode": "NAV",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NAV",
+    "codeAsString": "NAV"
+  },
+  {
+    "decode": "NAV Utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NAVU",
+    "codeAsString": "NAVU"
+  },
+  {
+    "decode": "Omsorgsopptjening",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMSORGSOPPTJENING",
+    "codeAsString": "OMSORGSOPPTJENING"
+  },
+  {
+    "decode": "Generert av PEN",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PEN",
+    "codeAsString": "PEN"
+  },
+  {
+    "decode": "Generert av POPP",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "POPP",
+    "codeAsString": "POPP"
+  },
+  {
+    "decode": "Pensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PP01",
+    "codeAsString": "PP01"
+  },
+  {
+    "decode": "Skattedirektoratet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SKD",
+    "codeAsString": "SKD"
+  },
+  {
+    "decode": "TPS",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TPS",
+    "codeAsString": "TPS"
+  },
+  {
+    "decode": "Vernepliktsverket",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VPV",
+    "codeAsString": "VPV"
+  }
+]

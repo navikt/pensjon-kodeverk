@@ -1,0 +1,514 @@
+[
+  {
+    "decode": "Brukers AFP er endret. Tilstøtendes uføretrygdsak med barnetillegg må derfor revurderes av saksbehandler",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AFP_ENDRET_EPS_UT_BT",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "AFP_ENDRET_EPS_UT_BT"
+  },
+  {
+    "decode": "Brukers alderspensjon er endret. Tilstøtendes uføretrygdsak med barnetillegg må derfor revurderes av saksbehandler",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AP_ENDRET_EPS_UT_BT",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "AP_ENDRET_EPS_UT_BT"
+  },
+  {
+    "decode": "Brukers alderspensjon er endret. Brukers uføretrygdsak med barnetillegg må derfor revurderes av saksbehandler",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AP_ENDRET_UT_BT",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "AP_ENDRET_UT_BT"
+  },
+  {
+    "decode": "Forelder har ytelse som må behandles manuelt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BARN_DOD",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "BARN_DOD"
+  },
+  {
+    "decode": "En av brukers søsken i barnekullet har fått opphørt sin ytelse. Brukers sak må manuelt revurderes.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BP_OPPH_BARNEKULL",
+    "behandling": {
+      "decode": "Automatisk",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "AUTO",
+      "codeAsString": "AUTO"
+    },
+    "codeAsString": "BP_OPPH_BARNEKULL"
+  },
+  {
+    "decode": "Bruker er død og tilstøtende har løpende vedtak som ikke hensyntar dødsfallet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1521414000000,
+    "code": "BRUKER_DOD",
+    "behandling": {
+      "decode": "Automatisk",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "AUTO",
+      "codeAsString": "AUTO"
+    },
+    "codeAsString": "BRUKER_DOD"
+  },
+  {
+    "decode": "Bruker har AP med forsørgingstillegg som må revurderes på bakgrunn av at bruker nå får iverksatt AFP Privat.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BRUKER_REBER_AP_FT",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "BRUKER_REBER_AP_FT"
+  },
+  {
+    "decode": "Det har vært en endring i institusjonsoppholdreduksjonsperioder fra brukers gamle krav til brukers nye krav. Det må opprettes revurderingskrav på brukers ektefelle/partner/samboer.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ENDR_INST_RED_PER",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "ENDR_INST_RED_PER"
+  },
+  {
+    "decode": "E/P/S har ytelse som vil bli behandlet automatisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EPS_DOD",
+    "behandling": {
+      "decode": "Automatisk",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "AUTO",
+      "codeAsString": "AUTO"
+    },
+    "codeAsString": "EPS_DOD"
+  },
+  {
+    "decode": "E/P/S  har ytelse som må behandles manuelt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EPS_DOD_BT",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "EPS_DOD_BT"
+  },
+  {
+    "decode": "E/P/S  har ytelse som må behandles manuelt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EPS_DOD_GJT",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "EPS_DOD_GJT"
+  },
+  {
+    "decode": "E/P/S  har ytelse som må behandles manuelt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EPS_DOD_INST",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "EPS_DOD_INST"
+  },
+  {
+    "decode": "E/P/S  har ytelse som må behandles manuelt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EPS_DOD_SAMBO",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "EPS_DOD_SAMBO"
+  },
+  {
+    "decode": "Tilstøtende har beregninger som legger til grunn at bruker ikke mottar ytelse",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EPS_MOTTAR_IKKE_YTLS",
+    "behandling": {
+      "decode": "Automatisk",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "AUTO",
+      "codeAsString": "AUTO"
+    },
+    "codeAsString": "EPS_MOTTAR_IKKE_YTLS"
+  },
+  {
+    "decode": "Tilstøtende har beregninger som legger til grunn at bruker mottar ytelse",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EPS_MOTTAR_YTELSE",
+    "behandling": {
+      "decode": "Automatisk",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "AUTO",
+      "codeAsString": "AUTO"
+    },
+    "codeAsString": "EPS_MOTTAR_YTELSE"
+  },
+  {
+    "decode": "Brukers sak er revurdert og hvorvidt det berører tilstøtendes sak må vurderes av saksbehandler",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EPS_VURDER_MAN",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "EPS_VURDER_MAN"
+  },
+  {
+    "decode": "Brukers FPP endret som følge av revurdert uførepensjonssak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FPP_POT_ENDRET",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "FPP_POT_ENDRET"
+  },
+  {
+    "decode": "Brukers AFP Privat-ytelse er endret og minstenivåtillegg pensjonistpar er potensielt berørt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MIN_NIVA_TILL_PPAR",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "MIN_NIVA_TILL_PPAR"
+  },
+  {
+    "decode": "Brukers AP2025 er endret og minstenivå pensjonistpar er potensielt berørt.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MNT_PP_AP2025",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "MNT_PP_AP2025"
+  },
+  {
+    "decode": "Uførepensjon er opphørt. Uføretrygd må opphøres manuelt fra 01.01.2015.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OPPR_OPPG_OPPHOR_UT",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "OPPR_OPPG_OPPHOR_UT"
+  },
+  {
+    "decode": "Samlet pensjonsgrad overstiger 100%",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PGRAD_OVERSTEGET",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "PGRAD_OVERSTEGET"
+  },
+  {
+    "decode": "Søsken har ytelse som vil bli behandlet automatisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SOSKEN_DOD",
+    "behandling": {
+      "decode": "Automatisk",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "AUTO",
+      "codeAsString": "AUTO"
+    },
+    "codeAsString": "SOSKEN_DOD"
+  },
+  {
+    "decode": "Tilstøtende har beregninger som legger til grunn at bruker mottar ytelse og revurdering av tilstøtendes ytelse vil bli sammenstøtsbehandlet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SSTOT_VED_REVURD",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "SSTOT_VED_REVURD"
+  },
+  {
+    "decode": "Tilstøtende har vedtak som tidligere har vært sammenstøtsbehandlet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TIDL_SSTOT",
+    "behandling": {
+      "decode": "Automatisk",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "AUTO",
+      "codeAsString": "AUTO"
+    },
+    "codeAsString": "TIDL_SSTOT"
+  },
+  {
+    "decode": "Brukers uføretrygd er endret. Tilstøtendes alderspensjonssak med barnetillegg må derfor revurderes av saksbehandler",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_ENDRET_EPS_AP_BT",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "UT_ENDRET_EPS_AP_BT"
+  },
+  {
+    "decode": "Brukers uføretrygd er endret. Tilstøtendes uføretrygdsak med barnetillegg må derfor revurderes av saksbehandler",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_ENDRET_EPS_UT_BT",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "UT_ENDRET_EPS_UT_BT"
+  },
+  {
+    "decode": "Brukers uføreopptjening er endret. Alderspensjon må revurderes. Kontroller at virkningstidspunktet satt i kravet, er korrekt.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_ENDRET_UH",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "UT_ENDRET_UH"
+  },
+  {
+    "decode": "Et vedtak er iverksatt på brukers uføretrygd, endringer i gjenlevendepensjon må vurderes",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_ENDRET_VURDER_GJP",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "UT_ENDRET_VURDER_GJP"
+  },
+  {
+    "decode": "Bruker får innvilget uføretrygd og tilstøtende har beregninger som legger til grunn at bruker ikke mottar ytelse.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_INNV_EPS_IKKE",
+    "behandling": {
+      "decode": "Automatisk",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "AUTO",
+      "codeAsString": "AUTO"
+    },
+    "codeAsString": "UT_INNV_EPS_IKKE"
+  },
+  {
+    "decode": "Bruker får opphørt uføretrygden på grunn av dødsfall og tilstøtende har beregninger som legger til grunn at bruker mottar ytelse.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1521414000000,
+    "code": "UT_OPPH_BRUKER_DOD",
+    "behandling": {
+      "decode": "Automatisk",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "AUTO",
+      "codeAsString": "AUTO"
+    },
+    "codeAsString": "UT_OPPH_BRUKER_DOD"
+  },
+  {
+    "decode": "Bruker får opphørt uføretrygden og tilstøtende har beregninger som legger til grunn at bruker mottar ytelse.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_OPPH_EPS_MOTTAR",
+    "behandling": {
+      "decode": "Automatisk",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "AUTO",
+      "codeAsString": "AUTO"
+    },
+    "codeAsString": "UT_OPPH_EPS_MOTTAR"
+  },
+  {
+    "decode": "Brukers Uførepensjon er revurdert og skal videreføres til Uføretrygd",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VIDEREFOR_TIL_UT",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "VIDEREFOR_TIL_UT"
+  }
+]

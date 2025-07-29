@@ -1,0 +1,58 @@
+[
+  {
+    "decode": "Annen forelder har rett til BT",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANNEN_FORELDER_BT",
+    "codeAsString": "ANNEN_FORELDER_BT"
+  },
+  {
+    "decode": "Barn er bosatt og oppholder seg i Norge eller avtaleland.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BARN_BOSATT_NORGE_ELLER_OPPH_AVT_LAND",
+    "codeAsString": "BARN_BOSATT_NORGE_ELLER_OPPH_AVT_LAND"
+  },
+  {
+    "decode": "Bruker forsørger barnet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BIDRAR_TIL_FORS",
+    "codeAsString": "BIDRAR_TIL_FORS"
+  },
+  {
+    "decode": "Barnet bor med begge foreldre",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BOR_MED_BEGGE",
+    "codeAsString": "BOR_MED_BEGGE"
+  },
+  {
+    "decode": "Barnet bor med bruker",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BOR_MED_BRUKER",
+    "codeAsString": "BOR_MED_BRUKER"
+  },
+  {
+    "decode": "Barnet har inntekt over 1 G",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNT_OVER_1G",
+    "codeAsString": "INNT_OVER_1G"
+  },
+  {
+    "decode": "Medlem i folketrygden eller bosatt i avtaleland.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MEDLEM_FOLKETRYGD_ELLER_BOSATT_AVT_LAND",
+    "codeAsString": "MEDLEM_FOLKETRYGD_ELLER_BOSATT_AVT_LAND"
+  }
+]

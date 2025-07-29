@@ -1,0 +1,434 @@
+[
+  {
+    "decode": "Australia",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AUS",
+    "erSedLand": false,
+    "codeAsString": "AUS"
+  },
+  {
+    "decode": "Østerrike",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AUT",
+    "erSedLand": true,
+    "codeAsString": "AUT"
+  },
+  {
+    "decode": "Belgia",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BEL",
+    "erSedLand": true,
+    "codeAsString": "BEL"
+  },
+  {
+    "decode": "Bulgaria",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BGR",
+    "erSedLand": true,
+    "codeAsString": "BGR"
+  },
+  {
+    "decode": "Canada",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "CAN",
+    "erSedLand": false,
+    "codeAsString": "CAN"
+  },
+  {
+    "decode": "Sveits",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "CHE",
+    "erSedLand": true,
+    "codeAsString": "CHE"
+  },
+  {
+    "decode": "Chile",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "CHL",
+    "erSedLand": false,
+    "codeAsString": "CHL"
+  },
+  {
+    "decode": "Kypros",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "CYP",
+    "erSedLand": true,
+    "codeAsString": "CYP"
+  },
+  {
+    "decode": "Den Tsjekkiske Rep.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "CZE",
+    "erSedLand": true,
+    "codeAsString": "CZE"
+  },
+  {
+    "decode": "Tyskland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DEU",
+    "erSedLand": true,
+    "codeAsString": "DEU"
+  },
+  {
+    "decode": "Danmark",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DNK",
+    "erSedLand": true,
+    "codeAsString": "DNK"
+  },
+  {
+    "decode": "Spania",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ESP",
+    "erSedLand": true,
+    "codeAsString": "ESP"
+  },
+  {
+    "decode": "Estland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EST",
+    "erSedLand": true,
+    "codeAsString": "EST"
+  },
+  {
+    "decode": "Finland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FIN",
+    "erSedLand": true,
+    "codeAsString": "FIN"
+  },
+  {
+    "decode": "Frankrike",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FRA",
+    "erSedLand": true,
+    "codeAsString": "FRA"
+  },
+  {
+    "decode": "Færøyene",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FRO",
+    "erSedLand": true,
+    "codeAsString": "FRO"
+  },
+  {
+    "decode": "Storbritannia",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GBR",
+    "erSedLand": true,
+    "codeAsString": "GBR"
+  },
+  {
+    "decode": "Frankrike Guadeloupe",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GLP",
+    "erSedLand": false,
+    "codeAsString": "GLP"
+  },
+  {
+    "decode": "Hellas",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GRC",
+    "erSedLand": true,
+    "codeAsString": "GRC"
+  },
+  {
+    "decode": "Grønland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GRL",
+    "erSedLand": true,
+    "codeAsString": "GRL"
+  },
+  {
+    "decode": "Frankrike Fransk Guyana",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GUF",
+    "erSedLand": false,
+    "codeAsString": "GUF"
+  },
+  {
+    "decode": "Kroatia",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HRV",
+    "erSedLand": true,
+    "codeAsString": "HRV"
+  },
+  {
+    "decode": "Ungarn",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HUN",
+    "erSedLand": true,
+    "codeAsString": "HUN"
+  },
+  {
+    "decode": "Storbritannia Isle Of Man",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "IMN",
+    "erSedLand": false,
+    "codeAsString": "IMN"
+  },
+  {
+    "decode": "India",
+    "valid": true,
+    "fromDate": 1420066800000,
+    "toDate": null,
+    "code": "IND",
+    "erSedLand": false,
+    "codeAsString": "IND"
+  },
+  {
+    "decode": "Irland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "IRL",
+    "erSedLand": true,
+    "codeAsString": "IRL"
+  },
+  {
+    "decode": "Island",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ISL",
+    "erSedLand": true,
+    "codeAsString": "ISL"
+  },
+  {
+    "decode": "Israel",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ISR",
+    "erSedLand": false,
+    "codeAsString": "ISR"
+  },
+  {
+    "decode": "Italia",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ITA",
+    "erSedLand": true,
+    "codeAsString": "ITA"
+  },
+  {
+    "decode": "Storbritannia Jersey",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "JEY",
+    "erSedLand": false,
+    "codeAsString": "JEY"
+  },
+  {
+    "decode": "Sør-Korea",
+    "valid": true,
+    "fromDate": 1420066800000,
+    "toDate": null,
+    "code": "KOR",
+    "erSedLand": false,
+    "codeAsString": "KOR"
+  },
+  {
+    "decode": "Liechtenstein",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "LIE",
+    "erSedLand": true,
+    "codeAsString": "LIE"
+  },
+  {
+    "decode": "Litauen",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "LTU",
+    "erSedLand": true,
+    "codeAsString": "LTU"
+  },
+  {
+    "decode": "Luxembourg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "LUX",
+    "erSedLand": true,
+    "codeAsString": "LUX"
+  },
+  {
+    "decode": "Latvia",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "LVA",
+    "erSedLand": true,
+    "codeAsString": "LVA"
+  },
+  {
+    "decode": "Malta",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MLT",
+    "erSedLand": true,
+    "codeAsString": "MLT"
+  },
+  {
+    "decode": "Frankrike Martinique",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MTQ",
+    "erSedLand": false,
+    "codeAsString": "MTQ"
+  },
+  {
+    "decode": "Nederland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NLD",
+    "erSedLand": true,
+    "codeAsString": "NLD"
+  },
+  {
+    "decode": "Norge",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NOR",
+    "erSedLand": true,
+    "codeAsString": "NOR"
+  },
+  {
+    "decode": "Polen",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "POL",
+    "erSedLand": true,
+    "codeAsString": "POL"
+  },
+  {
+    "decode": "Portugal",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PRT",
+    "erSedLand": true,
+    "codeAsString": "PRT"
+  },
+  {
+    "decode": "Quebec",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "QEB",
+    "erSedLand": false,
+    "codeAsString": "QEB"
+  },
+  {
+    "decode": "Frankrike Reunion",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REU",
+    "erSedLand": false,
+    "codeAsString": "REU"
+  },
+  {
+    "decode": "Romania",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ROU",
+    "erSedLand": true,
+    "codeAsString": "ROU"
+  },
+  {
+    "decode": "Slovakia",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SVK",
+    "erSedLand": true,
+    "codeAsString": "SVK"
+  },
+  {
+    "decode": "Slovenia",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SVN",
+    "erSedLand": true,
+    "codeAsString": "SVN"
+  },
+  {
+    "decode": "Sverige",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SWE",
+    "erSedLand": true,
+    "codeAsString": "SWE"
+  },
+  {
+    "decode": "USA",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "USA",
+    "erSedLand": false,
+    "codeAsString": "USA"
+  }
+]

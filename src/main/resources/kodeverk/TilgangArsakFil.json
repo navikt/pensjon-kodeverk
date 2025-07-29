@@ -1,0 +1,128 @@
+[
+  {
+    "decode": "Midlertidig - Anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKE",
+    "tilgangType": "MIDL",
+    "codeAsString": "ANKE"
+  },
+  {
+    "decode": "Permanent - Diskresjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DISKRESJON",
+    "tilgangType": "PERM",
+    "codeAsString": "DISKRESJON"
+  },
+  {
+    "decode": "Midlertidig - Erstatning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ERST",
+    "tilgangType": "MIDL",
+    "codeAsString": "ERST"
+  },
+  {
+    "decode": "Midlertidig - Ettergivelse av gjeld",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETTERG",
+    "tilgangType": "MIDL",
+    "codeAsString": "ETTERG"
+  },
+  {
+    "decode": "Midlertidig - Feilutbetaling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FEILUTBETALING",
+    "tilgangType": "MIDL",
+    "codeAsString": "FEILUTBETALING"
+  },
+  {
+    "decode": "Permanent - Flytting",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FLYTTING",
+    "tilgangType": "PERM",
+    "codeAsString": "FLYTTING"
+  },
+  {
+    "decode": "Permanent - Inhabilitet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INHABIL",
+    "tilgangType": "PERM",
+    "codeAsString": "INHABIL"
+  },
+  {
+    "decode": "Midlertidig - Klage",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KLAGE",
+    "tilgangType": "MIDL",
+    "codeAsString": "KLAGE"
+  },
+  {
+    "decode": "Midlertidig - Koordinere saker",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KOORD",
+    "tilgangType": "MIDL",
+    "codeAsString": "KOORD"
+  },
+  {
+    "decode": "Permanent - Overført til Nav Ny Pensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NNP",
+    "tilgangType": "PERM",
+    "codeAsString": "NNP"
+  },
+  {
+    "decode": "Permanent - Nyopprettet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NYOPP",
+    "tilgangType": "PERM",
+    "codeAsString": "NYOPP"
+  },
+  {
+    "decode": "Midlertidig - Saksomkostninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMKOST",
+    "tilgangType": "MIDL",
+    "codeAsString": "OMKOST"
+  },
+  {
+    "decode": "Permanent - Overført fra Nav Ny Pensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OVERFORT_NNP",
+    "tilgangType": "PERM",
+    "codeAsString": "OVERFORT_NNP"
+  },
+  {
+    "decode": "Permanent - Utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTLAND",
+    "tilgangType": "PERM",
+    "codeAsString": "UTLAND"
+  }
+]

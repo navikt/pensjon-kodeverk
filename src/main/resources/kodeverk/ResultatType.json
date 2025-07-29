@@ -1,0 +1,398 @@
+[
+  {
+    "decode": "AFP",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AFP",
+    "skjermbildeId": "BES581",
+    "codeAsString": "AFP"
+  },
+  {
+    "decode": "AFP i privat sektor",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AFP_PRIVAT",
+    "skjermbildeId": "BES583",
+    "codeAsString": "AFP_PRIVAT"
+  },
+  {
+    "decode": "Alderspensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AP",
+    "skjermbildeId": "BES570",
+    "codeAsString": "AP"
+  },
+  {
+    "decode": "Alderspensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AP2011",
+    "skjermbildeId": "BES561",
+    "codeAsString": "AP2011"
+  },
+  {
+    "decode": "Alderspensjon med gjenlevenderett",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AP2011_GJP",
+    "skjermbildeId": "BES561",
+    "codeAsString": "AP2011_GJP"
+  },
+  {
+    "decode": "Alderspensjon med gjenlevenderett",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AP2011_GJP_UP",
+    "skjermbildeId": "BES561",
+    "codeAsString": "AP2011_GJP_UP"
+  },
+  {
+    "decode": "Alderspensjon med gjenlevenderett",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AP2011_GJP_UP_YP",
+    "skjermbildeId": "BES561",
+    "codeAsString": "AP2011_GJP_UP_YP"
+  },
+  {
+    "decode": "Alderspensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AP2016",
+    "skjermbildeId": "BES566",
+    "codeAsString": "AP2016"
+  },
+  {
+    "decode": "Alderspensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AP2025",
+    "skjermbildeId": "BES567",
+    "codeAsString": "AP2025"
+  },
+  {
+    "decode": "Alderspensjon med gjenlevenderett",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AP_GJP",
+    "skjermbildeId": "BES570",
+    "codeAsString": "AP_GJP"
+  },
+  {
+    "decode": "Alderspensjon med gjenlevenderett",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AP_GJP_UP",
+    "skjermbildeId": "BES570",
+    "codeAsString": "AP_GJP_UP"
+  },
+  {
+    "decode": "Alderspensjon med gjenlevenderett",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AP_GJP_UP_YP",
+    "skjermbildeId": "BES570",
+    "codeAsString": "AP_GJP_UP_YP"
+  },
+  {
+    "decode": "Barnepensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BP1",
+    "skjermbildeId": "BES574",
+    "codeAsString": "BP1"
+  },
+  {
+    "decode": "Barnepensjon med avdødes uføreopptjening",
+    "valid": false,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BP1_UP",
+    "skjermbildeId": "BES574",
+    "codeAsString": "BP1_UP"
+  },
+  {
+    "decode": "Barnepensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BP2",
+    "skjermbildeId": "BES572",
+    "codeAsString": "BP2"
+  },
+  {
+    "decode": "Barnepensjon med avdødes uføreopptjening",
+    "valid": false,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BP2_UP",
+    "skjermbildeId": "BES572",
+    "codeAsString": "BP2_UP"
+  },
+  {
+    "decode": "Familiepleierytelse",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAMP",
+    "skjermbildeId": "BES578",
+    "codeAsString": "FAMP"
+  },
+  {
+    "decode": "Gammel yrkesskade",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GAM_YRK",
+    "skjermbildeId": "BES569",
+    "codeAsString": "GAM_YRK"
+  },
+  {
+    "decode": "Gjenlevendeytelse",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GJP",
+    "skjermbildeId": "BES572",
+    "codeAsString": "GJP"
+  },
+  {
+    "decode": "Gjenlevendeytelse etter far",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GJP_FAR",
+    "skjermbildeId": "BES572",
+    "codeAsString": "GJP_FAR"
+  },
+  {
+    "decode": "Gjenlevendeytelse etter mor",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GJP_MOR",
+    "skjermbildeId": "BES572",
+    "codeAsString": "GJP_MOR"
+  },
+  {
+    "decode": "Gjenlevendepensjon med avdødes uføreopptjening",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GJP_UP",
+    "skjermbildeId": "BES572",
+    "codeAsString": "GJP_UP"
+  },
+  {
+    "decode": "Gjenlevendeytelse med avdødes uføreopptjening",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GJP_UP_YP",
+    "skjermbildeId": "BES572",
+    "codeAsString": "GJP_UP_YP"
+  },
+  {
+    "decode": "Gjenlevenderett",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GJR",
+    "skjermbildeId": "BES572",
+    "codeAsString": "GJR"
+  },
+  {
+    "decode": "Konvertert AFP",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONV_AFP",
+    "skjermbildeId": "BES581",
+    "codeAsString": "KONV_AFP"
+  },
+  {
+    "decode": "Konvertert alderspensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONV_ALDER",
+    "skjermbildeId": "BES570",
+    "codeAsString": "KONV_ALDER"
+  },
+  {
+    "decode": "Konvertert barnepensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONV_BARNEP1",
+    "skjermbildeId": "BES574",
+    "codeAsString": "KONV_BARNEP1"
+  },
+  {
+    "decode": "Konvertert barnepensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONV_BARNEP2",
+    "skjermbildeId": "BES572",
+    "codeAsString": "KONV_BARNEP2"
+  },
+  {
+    "decode": "Konvertert familiepleierytelse",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONV_FAM_PLEIE",
+    "skjermbildeId": "BES578",
+    "codeAsString": "KONV_FAM_PLEIE"
+  },
+  {
+    "decode": "Konvertert gammel yrkesskade",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONV_GAM_YRK",
+    "skjermbildeId": "BES569",
+    "codeAsString": "KONV_GAM_YRK"
+  },
+  {
+    "decode": "Konvertert gjenlevendeytelse",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONV_GJENL",
+    "skjermbildeId": "BES572",
+    "codeAsString": "KONV_GJENL"
+  },
+  {
+    "decode": "Konvertert krigspensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONV_KRIG",
+    "skjermbildeId": "BES569",
+    "codeAsString": "KONV_KRIG"
+  },
+  {
+    "decode": "Konvertert uførepensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONV_UFORE",
+    "skjermbildeId": "BES571",
+    "codeAsString": "KONV_UFORE"
+  },
+  {
+    "decode": "Krigspensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KP",
+    "skjermbildeId": "BES569",
+    "codeAsString": "KP"
+  },
+  {
+    "decode": "Uførepensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UP",
+    "skjermbildeId": "BES571",
+    "codeAsString": "UP"
+  },
+  {
+    "decode": "Uførepensjon med gjenlevenderett",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UP_GJP",
+    "skjermbildeId": "BES571",
+    "codeAsString": "UP_GJP"
+  },
+  {
+    "decode": "Uførepensjon med gjenlevenderett",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UP_GJP_UP",
+    "skjermbildeId": "BES571",
+    "codeAsString": "UP_GJP_UP"
+  },
+  {
+    "decode": "Uførepensjon med gjenlevenderett",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UP_GJP_UP_YP",
+    "skjermbildeId": "BES571",
+    "codeAsString": "UP_GJP_UP_YP"
+  },
+  {
+    "decode": "Uførepensjon med yrkesskadefordeler",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UP_YP",
+    "skjermbildeId": "BES571",
+    "codeAsString": "UP_YP"
+  },
+  {
+    "decode": "Uføretrygd",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT",
+    "skjermbildeId": "BES585",
+    "codeAsString": "UT"
+  },
+  {
+    "decode": "Uføretrygd med gjenlevendetillegg",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_GJT",
+    "skjermbildeId": "BES585",
+    "codeAsString": "UT_GJT"
+  },
+  {
+    "decode": "Uføretrygd med yrkesskadefordeler",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_YT",
+    "skjermbildeId": "BES585",
+    "codeAsString": "UT_YT"
+  },
+  {
+    "decode": "Yrkesskade",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "YP",
+    "skjermbildeId": "BES577",
+    "codeAsString": "YP"
+  },
+  {
+    "decode": "Yrkesskade",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "YT",
+    "skjermbildeId": "BES585",
+    "codeAsString": "YT"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "decode": "Annen ytelse fra NAV",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANNEN_NAV",
+    "codeAsString": "ANNEN_NAV"
+  },
+  {
+    "decode": "Applikasjonsbruker",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "APPBRK",
+    "codeAsString": "APPBRK"
+  },
+  {
+    "decode": "Arbeidsgiver",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ARBGIV",
+    "codeAsString": "ARBGIV"
+  },
+  {
+    "decode": "A-ordning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "A_ORDNING",
+    "codeAsString": "A_ORDNING"
+  },
+  {
+    "decode": "BISYS",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BISYS",
+    "codeAsString": "BISYS"
+  },
+  {
+    "decode": "DSF",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DSF",
+    "codeAsString": "DSF"
+  },
+  {
+    "decode": "G-omregning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GOMR",
+    "codeAsString": "GOMR"
+  },
+  {
+    "decode": "Infotrygd",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "IT",
+    "codeAsString": "IT"
+  },
+  {
+    "decode": "Konvertering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONVERT",
+    "codeAsString": "KONVERT"
+  },
+  {
+    "decode": "PEN",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PEN",
+    "codeAsString": "PEN"
+  },
+  {
+    "decode": "Pesys",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PESYS",
+    "codeAsString": "PESYS"
+  },
+  {
+    "decode": "Pensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PP01",
+    "codeAsString": "PP01"
+  },
+  {
+    "decode": "Selvbetjening",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SELVBETJ",
+    "codeAsString": "SELVBETJ"
+  },
+  {
+    "decode": "Skattedirektoratet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SKD",
+    "codeAsString": "SKD"
+  },
+  {
+    "decode": "TP-ordning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TP_ORDN",
+    "codeAsString": "TP_ORDN"
+  },
+  {
+    "decode": "Utenlandsk trygdemyndighet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTL_TRYGD",
+    "codeAsString": "UTL_TRYGD"
+  }
+]

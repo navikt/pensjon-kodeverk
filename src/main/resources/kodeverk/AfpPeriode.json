@@ -1,0 +1,26 @@
+[
+  {
+    "decode": "Opphør",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OPPHOR",
+    "codeAsString": "OPPHOR"
+  },
+  {
+    "decode": "Revurdering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REVURDERING",
+    "codeAsString": "REVURDERING"
+  },
+  {
+    "decode": "Uttak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTTAK",
+    "codeAsString": "UTTAK"
+  }
+]

@@ -1,0 +1,7372 @@
+[
+  {
+    "code": "ADR_BANK_OKO",
+    "decode": "Adresse + kontoinformasjon",
+    "frist": 7,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANALYSE_OKO",
+    "decode": "Analyse",
+    "frist": 4,
+    "orgEnhetId": null,
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_BAR",
+    "decode": "Annet",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_BIL",
+    "decode": "Annet",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_ENF",
+    "decode": "Annet",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_FOR",
+    "decode": "Annet",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_FOS",
+    "decode": "Annet",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_GRA",
+    "decode": "Annet",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_GRU",
+    "decode": "Annet",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_HJE",
+    "decode": "Annet",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_KON",
+    "decode": "Annet",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_OMS",
+    "decode": "Annet",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_SUP",
+    "decode": "Annet",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ANNET_YRK",
+    "decode": "Annet",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "AR_BII",
+    "decode": "2 - Arkiv",
+    "frist": 7,
+    "orgEnhetId": null,
+    "fagomrade": "BII",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ATT",
+    "decode": "Attestering",
+    "frist": 7,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "AUT",
+    "decode": "Automatisk kontroll",
+    "frist": 7,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "AVST_STO",
+    "decode": "Avstemming",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_HENV_AAP",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AAP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_HENV_ARE",
+    "decode": "Behandle henvendelse",
+    "frist": 0,
+    "orgEnhetId": null,
+    "fagomrade": "ARE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_HENV_DAG",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "DAG",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_HENV_FEI",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FEI",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_HENV_IND",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "IND",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_HENV_MOB",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MOB",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_HENV_OPP",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OPP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_HENV_REH",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "REH",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_HENV_SYK",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_HENV_UFO",
+    "decode": "Behandle henvendelse",
+    "frist": 2,
+    "orgEnhetId": null,
+    "fagomrade": "UFO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_HENV_VEN",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "VEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_HENV_YRA",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_INNT_ENDR",
+    "decode": "Behandle inntektsendring",
+    "frist": 14,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_INNT_OPP",
+    "decode": "Behandle inntektsoppdatering",
+    "frist": 21,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_BAR",
+    "decode": "Behandle sak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_BIL",
+    "decode": "Behandle sak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_ENF",
+    "decode": "Behandle sak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_ERS",
+    "decode": "Behandle sak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ERS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_FOR",
+    "decode": "Behandle sak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_FOS",
+    "decode": "Behandle sak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_GRA",
+    "decode": "Behandle sak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_GRU",
+    "decode": "Behandle sak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_HJE",
+    "decode": "Behandle sak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_KON",
+    "decode": "Behandle sak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_MK",
+    "decode": "Behandle sak manuell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SER",
+    "fromDate": 1319580000000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_MK_AAR",
+    "decode": "Behandle sak (Manuell)",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_MK_MED",
+    "decode": "Behandle sak (Manuell)",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MED",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_MK_OMS",
+    "decode": "Behandle sak (Manuell)",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_MK_REH",
+    "decode": "Behandle sak (Manuell)",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "REH",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_MK_SAK",
+    "decode": "Behandle sak (Manuell)",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_MK_SUP",
+    "decode": "Behandle sak (Manuell)",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_MK_SYK",
+    "decode": "Behandle sak (Manuell)",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_MK_TRY",
+    "decode": "Behandle sak (Manuell)",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRY",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_MK_UFO",
+    "decode": "Behandle sak (Manuell)",
+    "frist": 30,
+    "orgEnhetId": null,
+    "fagomrade": "UFO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_MK_YRK",
+    "decode": "Behandle sak (Manuell)",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_OMS",
+    "decode": "Behandle sak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_REH",
+    "decode": "Behandle sak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "REH",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_SAK",
+    "decode": "Behandle sak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_SUP",
+    "decode": "Behandle sak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_SYK",
+    "decode": "Behandle sak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_UFO",
+    "decode": "Behandle sak",
+    "frist": 30,
+    "orgEnhetId": null,
+    "fagomrade": "UFO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SAK_YRK",
+    "decode": "Behandle sak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SED_AAP",
+    "decode": "Behandle SED",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AAP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SED_BAR",
+    "decode": "Behandle SED",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SED_DAG",
+    "decode": "Behandle SED",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "DAG",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SED_FOR",
+    "decode": "Behandle SED",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SED_GEN",
+    "decode": "Behandle SED",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SED_GRA",
+    "decode": "Behandle SED",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SED_GRU",
+    "decode": "Behandle SED",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SED_KON",
+    "decode": "Behandle SED",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SED_MED",
+    "decode": "Behandle SED",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MED",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SED_OMS",
+    "decode": "Behandle SED",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SED_PEN",
+    "decode": "Behandle SED",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SED_SAK",
+    "decode": "Behandle SED",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SED_SUP",
+    "decode": "Behandle SED",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SED_SYK",
+    "decode": "Behandle SED",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SED_TRY",
+    "decode": "Behandle SED",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRY",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SED_UFO",
+    "decode": "Behandle SED",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "UFO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_SED_YRK",
+    "decode": "Behandle SED",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_UND_VED_BAR",
+    "decode": "Behandle underkjent vedtak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_UND_VED_GRA",
+    "decode": "Behandle underkjent vedtak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEH_UND_VED_KON",
+    "decode": "Behandle underkjent vedtak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEST_ORGINAL_GEN",
+    "decode": "Bestill orginal",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BEST_RESCAN_GEN",
+    "decode": "Bestill reskanning",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BE_BAR",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BE_BIL",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BE_ENF",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BE_FOR",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BE_FOS",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BE_GRA",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BE_GRU",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BE_HJE",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BE_KON",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BE_OMS",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BE_SUP",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BE_YRK",
+    "decode": "Behandle henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "BR_HENV_PEN",
+    "decode": "Brukerhenvendelse",
+    "frist": 2,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "DK_APEN",
+    "decode": "Ny G - Mulig avvik - Har ST",
+    "frist": 30,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "DK_LMVT",
+    "decode": "Ny G - Mulig avvik - Har ikke ST",
+    "frist": 30,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "DK_LUVT",
+    "decode": "Ny G - Krig og gammel yrkesskade",
+    "frist": 30,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "DK_OVR",
+    "decode": "4 - Div. kundesenter",
+    "frist": 7,
+    "orgEnhetId": null,
+    "fagomrade": "OVR",
+    "fromDate": -2209078800000,
+    "toDate": 1346364000000,
+    "valid": true
+  },
+  {
+    "code": "ENDRING_TRK",
+    "decode": "Endring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRK",
+    "fromDate": 1296428400000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FAGF_TREKK_OKO",
+    "decode": "Fagforeningstrekk",
+    "frist": 14,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_AAP",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AAP",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_AAR",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AAR",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_AGR",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AGR",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_BAR",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_BIL",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": 1303077600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_DAG",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "DAG",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_ENF",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_ERS",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ERS",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_FEI",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FEI",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_FOR",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_FOS",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_FUL",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FUL",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_GEN",
+    "decode": "Fordeling",
+    "frist": 1,
+    "orgEnhetId": null,
+    "fagomrade": "GEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_GRU",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_HEL",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HEL",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_HJE",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": 1303077600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_IAR",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "IAR",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_IND",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "IND",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_KLA",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KLA",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_KON",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_KTR",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KTR",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_MED",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MED",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_MOB",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MOB",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_OMS",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_OPA",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OPA",
+    "fromDate": 1304892000000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_OPP",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OPP",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_PER",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "PER",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_REH",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "REH",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_REK",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "REK",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_SAA",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAA",
+    "fromDate": 1304892000000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_SAK",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_SAP",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAP",
+    "fromDate": 1304892000000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_SER",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SER",
+    "fromDate": 1319580000000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_STO",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_SUP",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_SYK",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYK",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_SYM",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYM",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_TIL",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TIL",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_TRK",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRK",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_TRY",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRY",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_UFO",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "UFO",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_UKJ",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "UKJ",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_VEN",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "VEN",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_YRA",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRA",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FDR_YRK",
+    "decode": "Fordeling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FEDREKVOTE_FOR",
+    "decode": "Fedrekvote",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FEILUTBET_STO",
+    "decode": "Feilutbetalingsvedtak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FLY_BAR",
+    "decode": "Flyttesak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FLY_BIL",
+    "decode": "Flyttesak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FLY_ENF",
+    "decode": "Flyttesak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FLY_ERS",
+    "decode": "Flyttesak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ERS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FLY_FOR",
+    "decode": "Flyttesak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FLY_FOS",
+    "decode": "Flyttesak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FLY_GRA",
+    "decode": "Flyttesak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FLY_GRU",
+    "decode": "Flyttesak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FLY_HEL",
+    "decode": "Flyttesak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HEL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FLY_HJE",
+    "decode": "Flyttesak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FLY_KON",
+    "decode": "Flyttesak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FLY_MED",
+    "decode": "Flyttesak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MED",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FLY_OMS",
+    "decode": "Flyttesak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FLY_SAK",
+    "decode": "Flyttesak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FLY_SUP",
+    "decode": "Flyttesak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FLY_SYK",
+    "decode": "Flyttesak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYK",
+    "fromDate": 1316469600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FLY_TRY",
+    "decode": "Flyttesak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRY",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FLY_YRK",
+    "decode": "Flyttesak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESPSKATT_STO",
+    "decode": "Forespørsel skatt feilutbet.",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORESPTIL_STO",
+    "decode": "Forespørsel tiltak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORVALT_KONTO_OKO",
+    "decode": "Forvaltningskonto",
+    "frist": 1,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FORVALT_TREKK_OKO",
+    "decode": "Forvaltningstrekk",
+    "frist": 14,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "FRIV_SKATTETREKK_OKO",
+    "decode": "Frivillig skattetrekk",
+    "frist": 6,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN",
+    "decode": "Generell",
+    "frist": 7,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_AAR",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_AGR",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AGR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_BAR",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_BIL",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_ENF",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_ERS",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ERS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_FOR",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_FOS",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_FUL",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FUL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_GRA",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_GRU",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_HEL",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HEL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_HJE",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_KON",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_KTR",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KTR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_MED",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MED",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_OMS",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_SAK",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_SER",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SER",
+    "fromDate": 1319580000000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_STO",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_SUP",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_TRK",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_TRY",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRY",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GEN_YRK",
+    "decode": "Generell",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GE_BID",
+    "decode": "1 - Generell",
+    "frist": 7,
+    "orgEnhetId": null,
+    "fagomrade": "BID",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GI_VEI_INFO_BAR",
+    "decode": "Gi veiledning og informasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GI_VEI_INFO_BIL",
+    "decode": "Gi veiledning og informasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GI_VEI_INFO_ENF",
+    "decode": "Gi veiledning og informasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GI_VEI_INFO_ERS",
+    "decode": "Gi veiledning og informasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ERS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GI_VEI_INFO_FOR",
+    "decode": "Gi veiledning og informasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GI_VEI_INFO_FOS",
+    "decode": "Gi veiledning og informasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GI_VEI_INFO_GRA",
+    "decode": "Gi veiledning og informasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GI_VEI_INFO_GRU",
+    "decode": "Gi veiledning og informasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GI_VEI_INFO_HEL",
+    "decode": "Gi veiledning og informasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HEL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GI_VEI_INFO_HJE",
+    "decode": "Gi veiledning og informasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GI_VEI_INFO_KON",
+    "decode": "Gi veiledning og informasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GI_VEI_INFO_MED",
+    "decode": "Gi veiledning og informasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MED",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GI_VEI_INFO_OMS",
+    "decode": "Gi veiledning og informasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GI_VEI_INFO_SAK",
+    "decode": "Gi veiledning og informasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GI_VEI_INFO_SUP",
+    "decode": "Gi veiledning og informasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GI_VEI_INFO_TRY",
+    "decode": "Gi veiledning og informasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRY",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GI_VEI_INFO_YRK",
+    "decode": "Gi veiledning og informasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GOD_VED_BAR",
+    "decode": "Godkjenne vedtak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GOD_VED_GRA",
+    "decode": "Godkjenne vedtak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "GOD_VED_KON",
+    "decode": "Godkjenne vedtak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "HAST_ADR_OPPLYS_OKO",
+    "decode": "Haster adresseopplysninger",
+    "frist": 1,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "HAST_BANK_OPPLYS_OKO",
+    "decode": "Haster bankopplysninger",
+    "frist": 1,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "HUSL_TREKK_OKO",
+    "decode": "Husleietrekk",
+    "frist": 14,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INNH_DOK_BAR",
+    "decode": "Innhent dokumentasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INNH_DOK_BIL",
+    "decode": "Innhent dokumentasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INNH_DOK_ENF",
+    "decode": "Innhent dokumentasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INNH_DOK_ERS",
+    "decode": "Innhent dokumentasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ERS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INNH_DOK_FOR",
+    "decode": "Innhent dokumentasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INNH_DOK_FOS",
+    "decode": "Innhent dokumentasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INNH_DOK_FUL",
+    "decode": "Innhent dokumentasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FUL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INNH_DOK_GRA",
+    "decode": "Innhent dokumentasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INNH_DOK_GRU",
+    "decode": "Innhent dokumentasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INNH_DOK_HEL",
+    "decode": "Innhent dokumentasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HEL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INNH_DOK_HJE",
+    "decode": "Innhent dokumentasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INNH_DOK_KON",
+    "decode": "Innhent dokumentasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INNH_DOK_MED",
+    "decode": "Innhent dokumentasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MED",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INNH_DOK_OMS",
+    "decode": "Innhent dokumentasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INNH_DOK_SAK",
+    "decode": "Innhent dokumentasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INNH_DOK_SUP",
+    "decode": "Innhent dokumentasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INNH_DOK_TRY",
+    "decode": "Innhent dokumentasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRY",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INNH_DOK_YRK",
+    "decode": "Innhent dokumentasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "INTERN_STO",
+    "decode": "Intern oppfølging NRM",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "IN_BII",
+    "decode": "2 - Innkreving",
+    "frist": 1,
+    "orgEnhetId": null,
+    "fagomrade": "BII",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "IVE",
+    "decode": "Iverksettelse",
+    "frist": 1,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR",
+    "decode": "Journalføring",
+    "frist": 1,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_AAP",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AAP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_AAR",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_AGR",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AGR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_BAR",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_BIL",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_DAG",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "DAG",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_ENF",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_ERS",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ERS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_FEI",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FEI",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_FOR",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_FOS",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_FUL",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FUL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_GEN",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_GRA",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_GRU",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_HEL",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HEL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_HJE",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_IAR",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "IAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_IND",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "IND",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_KON",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_KTR",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KTR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_MED",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MED",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_MOB",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MOB",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_OKO",
+    "decode": "Journalføring",
+    "frist": 1,
+    "orgEnhetId": null,
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_OMS",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_OPA",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OPA",
+    "fromDate": 1304892000000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_OPP",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OPP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_PER",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "PER",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_REH",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "REH",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_REK",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "REK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_SAA",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAA",
+    "fromDate": 1304892000000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_SAK",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_SAP",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAP",
+    "fromDate": 1304892000000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_SER",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SER",
+    "fromDate": 1319580000000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_STO",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_SUP",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_SYK",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_SYM",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYM",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_TIL",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_TRK",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_TRY",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRY",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_UFO",
+    "decode": "Journalføring",
+    "frist": 1,
+    "orgEnhetId": null,
+    "fagomrade": "UFO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_VEN",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "VEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_YRA",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JFR_YRK",
+    "decode": "Journalføring",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "JF_BID",
+    "decode": "1 - Journalføring",
+    "frist": 1,
+    "orgEnhetId": null,
+    "fagomrade": "BID",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONTROLLVEDTAK_STO",
+    "decode": "Kontroller vedtak",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_AAP",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AAP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_BAR",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_BID",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BID",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_BII",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BII",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_BIL",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_DAG",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "DAG",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_ENF",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_ERS",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ERS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_FEI",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FEI",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_FOR",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_FOS",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_FUL",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FUL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_GEN",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_GRA",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_GRU",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_HEL",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HEL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_HJE",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_IAR",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "IAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_IND",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "IND",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_KOM",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KOM",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_KON",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_MED",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MED",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_MOB",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MOB",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_MOT",
+    "decode": "Kontakt bruker",
+    "frist": 2,
+    "orgEnhetId": null,
+    "fagomrade": "MOT",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_OKO",
+    "decode": "Kontakt bruker",
+    "frist": 2,
+    "orgEnhetId": null,
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_OMS",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_OPA",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OPA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_OPP",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OPP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_OVR",
+    "decode": "Kontakt bruker",
+    "frist": 2,
+    "orgEnhetId": null,
+    "fagomrade": "OVR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_PEN",
+    "decode": "Kontakt bruker",
+    "frist": 2,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_PER",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "PER",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_REH",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "REH",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_REK",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "REK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_SAA",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_SAK",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_SAP",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_SER",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SER",
+    "fromDate": 1319580000000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_STO",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_SUP",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_SYK",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_TIL",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_TRY",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRY",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_UFO",
+    "decode": "Kontakt bruker",
+    "frist": 2,
+    "orgEnhetId": null,
+    "fagomrade": "UFO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_VEN",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "VEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_YRA",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONT_BRUK_YRK",
+    "decode": "Kontakt bruker",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONY_BAR",
+    "decode": "Konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONY_BIL",
+    "decode": "Konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONY_ENF",
+    "decode": "Konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONY_FOR",
+    "decode": "Konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONY_FOS",
+    "decode": "Konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONY_GRA",
+    "decode": "Konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONY_GRU",
+    "decode": "Konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONY_HJE",
+    "decode": "Konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONY_KON",
+    "decode": "Konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONY_OMS",
+    "decode": "Konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONY_SUP",
+    "decode": "Konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KONY_YRK",
+    "decode": "Konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_AAP",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AAP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_AAR",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_AGR",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AGR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_BAR",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_BID",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BID",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_BII",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BII",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_BIL",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_DAG",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "DAG",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_ENF",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_ERS",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ERS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_FEI",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FEI",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_FOR",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_FOS",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_FUL",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_GEN",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_GRA",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_GRU",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_HEL",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HEL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_HJE",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_IAR",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "IAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_IND",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "IND",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_KLA",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KLA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_KOM",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KOM",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_KON",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_KTR",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KTR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_MED",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MED",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_MOB",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MOB",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_MOT",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MOT",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_OKO",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_OMS",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_OPP",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OPP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_OVR",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OVR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_PEN",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_PER",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "PER",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_REH",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "REH",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_REK",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "REK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_SAK",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_SER",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SER",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_STO",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_SUP",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_SYK",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_SYM",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYM",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_TIL",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_TRK",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_TRY",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRY",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_UFO",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "UFO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_VEN",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "VEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_YRA",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KON_UTG_SCA_DOK_YRK",
+    "decode": "Kontroller utgående skannet dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KRA",
+    "decode": "Krav",
+    "frist": 30,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "KRA_DOD",
+    "decode": "Død",
+    "frist": 2,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "LTOKORR_STO",
+    "decode": "LTO/korrigering",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MAN",
+    "decode": "Manuell behandling",
+    "frist": 30,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MANPOS_STO",
+    "decode": "Manuell postering OS",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MAN_UTB_BAR",
+    "decode": "Manglende utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MAN_UTB_BIL",
+    "decode": "Manglende utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MAN_UTB_ENF",
+    "decode": "Manglende utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MAN_UTB_ERS",
+    "decode": "Manglende utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ERS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MAN_UTB_FOR",
+    "decode": "Manglende utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MAN_UTB_FOS",
+    "decode": "Manglende utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MAN_UTB_GRA",
+    "decode": "Manglende utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MAN_UTB_GRU",
+    "decode": "Manglende utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MAN_UTB_HEL",
+    "decode": "Manglende utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HEL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MAN_UTB_HJE",
+    "decode": "Manglende utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MAN_UTB_KON",
+    "decode": "Manglende utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MAN_UTB_OMS",
+    "decode": "Manglende utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MAN_UTB_SAK",
+    "decode": "Manglende utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MAN_UTB_SUP",
+    "decode": "Manglende utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MAN_UTB_YRK",
+    "decode": "Manglende utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MEDL_OVR",
+    "decode": "4 - Medlemskap",
+    "frist": 7,
+    "orgEnhetId": null,
+    "fagomrade": "OVR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTB_BAR",
+    "decode": "Besvare henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTB_BIL",
+    "decode": "Besvare henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTB_ENF",
+    "decode": "Besvare henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTB_FOR",
+    "decode": "Besvare henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTB_FOS",
+    "decode": "Besvare henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTB_GRA",
+    "decode": "Besvare henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTB_GRU",
+    "decode": "Besvare henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTB_HJE",
+    "decode": "Besvare henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTB_KON",
+    "decode": "Besvare henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTB_OMS",
+    "decode": "Besvare henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTB_SUP",
+    "decode": "Besvare henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTB_YRK",
+    "decode": "Besvare henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTK_BAR",
+    "decode": "Krav mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTK_BIL",
+    "decode": "Krav mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTK_ENF",
+    "decode": "Krav mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTK_ERS",
+    "decode": "Krav mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ERS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTK_FOR",
+    "decode": "Krav mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTK_FOS",
+    "decode": "Krav mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTK_GRA",
+    "decode": "Krav mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTK_GRU",
+    "decode": "Krav mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTK_HEL",
+    "decode": "Krav mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HEL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTK_HJE",
+    "decode": "Krav mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTK_KON",
+    "decode": "Krav mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTK_MED",
+    "decode": "Krav mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MED",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTK_OMS",
+    "decode": "Krav mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTK_SAK",
+    "decode": "Krav mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTK_SUP",
+    "decode": "Krav mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTK_TRY",
+    "decode": "Krav mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRY",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "MOTK_YRK",
+    "decode": "Krav mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "NODUTBET_STO",
+    "decode": "Nødutbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKO_GEN",
+    "decode": "Generell",
+    "frist": 7,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKO_OS",
+    "decode": "Oppdrag (OS)",
+    "frist": 3,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKO_REF_KR",
+    "decode": "Refusjonskrav",
+    "frist": 1,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKO_STOPP",
+    "decode": "Stopp",
+    "frist": 1,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKO_TBK",
+    "decode": "Tilbakekreving",
+    "frist": 1,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKO_TREKK",
+    "decode": "Trekk",
+    "frist": 6,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKO_UR",
+    "decode": "Utbetalingsreskontro (UR)",
+    "frist": 3,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OKO_UTB",
+    "decode": "Utbetaling",
+    "frist": 1,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPFOLG_STO",
+    "decode": "Oppfølging",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "OPPINF_OPP",
+    "decode": "Registrer oppfølgningsinfo sykefravær",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OPP",
+    "fromDate": 1320274800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_BAR",
+    "decode": "Orienter om saksgang",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_BIL",
+    "decode": "Orienter om saksgang",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_ENF",
+    "decode": "Orienter om saksgang",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_ERS",
+    "decode": "Orienter om saksgang",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ERS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_FOR",
+    "decode": "Orienter om saksgang",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_FOS",
+    "decode": "Orienter om saksgang",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_GRA",
+    "decode": "Orienter om saksgang",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_GRU",
+    "decode": "Orienter om saksgang",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_HJE",
+    "decode": "Orienter om saksgang",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_KON",
+    "decode": "Orienter om saksgang",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_OMS",
+    "decode": "Orienter om saksgang",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_SAK",
+    "decode": "Orienter om saksgang",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_SUP",
+    "decode": "Orienter om saksgang",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_UTB_BAR",
+    "decode": "Orienter om saksgang og utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_UTB_BIL",
+    "decode": "Orienter om saksgang og utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_UTB_ENF",
+    "decode": "Orienter om saksgang og utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_UTB_ERS",
+    "decode": "Orienter om saksgang og utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ERS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_UTB_FOR",
+    "decode": "Orienter om saksgang og utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_UTB_FOS",
+    "decode": "Orienter om saksgang og utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_UTB_GRA",
+    "decode": "Orienter om saksgang og utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_UTB_GRU",
+    "decode": "Orienter om saksgang og utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_UTB_HEL",
+    "decode": "Orienter om saksgang og utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HEL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_UTB_HJE",
+    "decode": "Orienter om saksgang og utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_UTB_KON",
+    "decode": "Orienter om saksgang og utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_UTB_OMS",
+    "decode": "Orienter om saksgang og utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_UTB_SAK",
+    "decode": "Orienter om saksgang og utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_UTB_SUP",
+    "decode": "Orienter om saksgang og utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_UTB_YRK",
+    "decode": "Orienter om saksgang og utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_SAK_YRK",
+    "decode": "Orienter om saksgang",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_UTB_BAR",
+    "decode": "Orienter om utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_UTB_BIL",
+    "decode": "Orienter om utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_UTB_ENF",
+    "decode": "Orienter om utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_UTB_ERS",
+    "decode": "Orienter om utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ERS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_UTB_FOR",
+    "decode": "Orienter om utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_UTB_FOS",
+    "decode": "Orienter om utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_UTB_GRA",
+    "decode": "Orienter om utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_UTB_GRU",
+    "decode": "Orienter om utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_UTB_HJE",
+    "decode": "Orienter om utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_UTB_KON",
+    "decode": "Orienter om utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_UTB_OMS",
+    "decode": "Orienter om utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_UTB_SAK",
+    "decode": "Orienter om utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_UTB_SUP",
+    "decode": "Orienter om utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_UTB_YRK",
+    "decode": "Orienter om utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_VED_BER_BAR",
+    "decode": "Orienter om vedtak og beregning",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_VED_BER_BIL",
+    "decode": "Orienter om vedtak og beregning",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_VED_BER_ENF",
+    "decode": "Orienter om vedtak og beregning",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_VED_BER_ERS",
+    "decode": "Orienter om vedtak og beregning",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ERS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_VED_BER_FOR",
+    "decode": "Orienter om vedtak og beregning",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_VED_BER_FOS",
+    "decode": "Orienter om vedtak og beregning",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_VED_BER_GRA",
+    "decode": "Orienter om vedtak og beregning",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_VED_BER_GRU",
+    "decode": "Orienter om vedtak og beregning",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_VED_BER_HEL",
+    "decode": "Orienter om vedtak og beregning",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HEL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_VED_BER_HJE",
+    "decode": "Orienter om vedtak og beregning",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_VED_BER_KON",
+    "decode": "Orienter om vedtak og beregning",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_VED_BER_MED",
+    "decode": "Orienter om vedtak og beregning",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MED",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_VED_BER_OMS",
+    "decode": "Orienter om vedtak og beregning",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_VED_BER_SAK",
+    "decode": "Orienter om vedtak og beregning",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_VED_BER_SUP",
+    "decode": "Orienter om vedtak og beregning",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "ORI_VED_BER_YRK",
+    "decode": "Orienter om vedtak og beregning",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "PRIOR_TREKK_OKO",
+    "decode": "Prioriterte trekk",
+    "frist": 14,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REFUSJON_STO",
+    "decode": "Refusjonskrav",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REFUSJON_TRK",
+    "decode": "Refusjonskrav",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGNSKAP_OKO",
+    "decode": "Regnskap",
+    "frist": 7,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGNSK_STO",
+    "decode": "Regnskap",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REGULERING",
+    "decode": "Regulering av pensjon",
+    "frist": 30,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REG_HENV_IAR",
+    "decode": "Registrer henvendelse - arbeidsgiver",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "IAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REG_HENV_OPA",
+    "decode": "Registrer henvendelse - arbeidsgiver",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OPA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REG_HENV_PER",
+    "decode": "Registrer henvendelse - arbeidsgiver",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "PER",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REG_HENV_REK",
+    "decode": "Registrer henvendelse - arbeidsgiver",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "REK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REG_HENV_SAA",
+    "decode": "Registrer henvendelse - arbeidsgiver",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REG_HENV_SYK",
+    "decode": "Registrer henvendelse - arbeidsgiver",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "REG_HENV_TIL",
+    "decode": "Registrer henvendelse - arbeidsgiver",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "RE_BII",
+    "decode": "2 - Regnskap",
+    "frist": 7,
+    "orgEnhetId": null,
+    "fagomrade": "BII",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "RV_BID",
+    "decode": "1 - Revurdering",
+    "frist": 21,
+    "orgEnhetId": null,
+    "fagomrade": "BID",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SALDOFLYTT_STO",
+    "decode": "Saldflytt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SD_MOT",
+    "decode": "Diverse skanning",
+    "frist": 30,
+    "orgEnhetId": null,
+    "fagomrade": "MOT",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SETTVENT_STO",
+    "decode": "Sett utbetaling på vent",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SF_MOT",
+    "decode": "Feilføring person",
+    "frist": 1,
+    "orgEnhetId": null,
+    "fagomrade": "MOT",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKATTEKORRIG_STO",
+    "decode": "Skattekorrigering",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SKATTEKORRIG_TRK",
+    "decode": "Skattekorrigering",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SO_BID",
+    "decode": "1 - Søknad",
+    "frist": 30,
+    "orgEnhetId": null,
+    "fagomrade": "BID",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SPM_OG_SVR",
+    "decode": "Besvar spørsmål fra nav.no",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KNA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SR_MOT",
+    "decode": "Retur original",
+    "frist": 2,
+    "orgEnhetId": null,
+    "fagomrade": "MOT",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "STARTV_AAP",
+    "decode": "Start Vedtaksbehandling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AAP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "STARTV_DAG",
+    "decode": "Start vedtaksbehandling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "DAG",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "STARTV_FEI",
+    "decode": "Start Vedtaksbehandling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FEI",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "STARTV_IND",
+    "decode": "Start vedtaksbehandling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "IND",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "STARTV_MOB",
+    "decode": "Start vedtaksbehandling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MOB",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "STARTV_OPP",
+    "decode": "Start vedtaksbehandling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OPP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "STARTV_YRA",
+    "decode": "Start vedtaksbehandling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "STOPP_STO",
+    "decode": "Stopp",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "STOPP_TRK",
+    "decode": "Stopp",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_AAP",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AAP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_AGR",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AGR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_BAR",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_BID",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BID",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_BIL",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_DAG",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "DAG",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_ENF",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_FEI",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FEI",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_FOR",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_FOS",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_FUL",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FUL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_GEN",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_GRA",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_GRU",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_HEL",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HEL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_HJE",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_IND",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "IND",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_KIR",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KTR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_KOM",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KOM",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_KON",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_MED",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MED",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_MOB",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MOB",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_OMS",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_OPP",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OPP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_PEN",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_REH",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "REH",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_SAK",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_SAP",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_SER",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SER",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_SIK",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SIK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_STO",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_SUP",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_SYK",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_SYM",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYM",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_TRK",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_TRY",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRY",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_UFO",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "UFO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_VEN",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "VEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_YRA",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "SVAR_IK_MOT_YRK",
+    "decode": "Svar ikke mottatt",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "TPS_PEN",
+    "decode": "Personhendelse",
+    "frist": 7,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "TREKKFORESPOR_OKO",
+    "decode": "Trekkforespørsel",
+    "frist": 6,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "TREKK_STO",
+    "decode": "Trekk",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "TREKK_TRK",
+    "decode": "Trekk",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "TVU_FOR_PEN",
+    "decode": "Tvungen forvaltning",
+    "frist": 2,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": 1409522400000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "TVU_FOR_UFO",
+    "decode": "Tvungen forvaltning",
+    "frist": 2,
+    "orgEnhetId": "4819",
+    "fagomrade": "UFO",
+    "fromDate": 1409522400000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "UTB_STO",
+    "decode": "Utbetaling",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "UT_JFR_PEN",
+    "decode": "Journalføring utgående",
+    "frist": 1,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "UT_JFR_UFO",
+    "decode": "Journalføring utgående",
+    "frist": 1,
+    "orgEnhetId": null,
+    "fagomrade": "UFO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VEIINFO_FUL",
+    "decode": "Gi veiledning og informasjon",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FUL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VTR_OKO",
+    "decode": "Vederlagstrekk",
+    "frist": 6,
+    "orgEnhetId": "4819",
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_AAP",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AAP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_AAR",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_AGR",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AGR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_BAR",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_BID",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BID",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_BIL",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_DAG",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "DAG",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_ENF",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_ERS",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ERS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_FEI",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FEI",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_FOR",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_FOS",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_FUL",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FUL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_GRA",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_GRU",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_HEL",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HEL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_HJE",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_IAR",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "IAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_IND",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "IND",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_KON",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_KTR",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KTR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_MED",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MED",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_MOB",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MOB",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_OKO",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OKO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_OMS",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_OPA",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OPA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_OPP",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OPP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_PEN",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_PER",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "PER",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_REH",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "REH",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_REK",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "REK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_SAA",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_SAK",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_SAP",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_SER",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SER",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_STO",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_SUP",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_SYK",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_TIL",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_TRK",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_TRY",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRY",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_UFO",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "UFO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_YRA",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VURD_HENV_YRK",
+    "decode": "Vurder henvendelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_AAR",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_AGR",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AGR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_BAR",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_BIL",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_ENF",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_ERS",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ERS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_FOR",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_FOS",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_FUL",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FUL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_GEN",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_GRA",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_GRU",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_HEL",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HEL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_HJE",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KON",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_AAP",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AAP",
+    "fromDate": 1316469600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_BAR",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_BIL",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_DAG",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "DAG",
+    "fromDate": 1316469600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_ENF",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_ERS",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ERS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_FOR",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_FOS",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_GEN",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_GRA",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_GRU",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_HEL",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HEL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_HJE",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_IND",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "IND",
+    "fromDate": 1316469600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_KON",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_OMS",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_PEN",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": 0,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": 1346450400000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_SAK",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_SUP",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_SYK",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYK",
+    "fromDate": 1316469600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_UFO",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "UFO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KONS_YTE_YRK",
+    "decode": "Vurder konsekvens for ytelse",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_KTR",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KTR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_MED",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MED",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_OMS",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_OPA",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OPA",
+    "fromDate": 1304892000000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_REH",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "REH",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SAA",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAA",
+    "fromDate": 1304892000000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SAK",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SER",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SER",
+    "fromDate": 1319580000000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_STO",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SUP",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_AAP",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AAP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_AGR",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "AGR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_BAR",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BAR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_BID",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BID",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_BIL",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "BIL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_DAG",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "DAG",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_ENF",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "ENF",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_FEI",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FEI",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_FOR",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_FOS",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FOS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_FUL",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "FUL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_GEN",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_GRA",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_GRU",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "GRU",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_HEL",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HEL",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_HJE",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "HJE",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_IND",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "IND",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_KOM",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KOM",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_KON",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KON",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_KTR",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "KTR",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_MED",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MED",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_MOB",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "MOB",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_OMS",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OMS",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_OPP",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "OPP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_PEN",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "PEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_REH",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "REH",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_SAK",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_SAP",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SAP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_SER",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SER",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_SIK",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SIK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_STO",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "STO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_SUP",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SUP",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_SYK",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_SYM",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYM",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_TRK",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_TRY",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRY",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_UFO",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "UFO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_VEN",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "VEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_YRA",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRA",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SVAR_YRK",
+    "decode": "Vurder svar",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_SYK",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "SYK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_TRK",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_TRY",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "TRY",
+    "fromDate": 1300575600000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_UFO",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "UFO",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_VEN",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "VEN",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "VUR_YRK",
+    "decode": "Vurder dokument",
+    "frist": null,
+    "orgEnhetId": null,
+    "fagomrade": "YRK",
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "valid": true
+  }
+]

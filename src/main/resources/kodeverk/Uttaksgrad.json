@@ -1,0 +1,58 @@
+[
+  {
+    "decode": "0 %",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_0",
+    "codeAsString": "0"
+  },
+  {
+    "decode": "100 %",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_100",
+    "codeAsString": "100"
+  },
+  {
+    "decode": "20 %",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_20",
+    "codeAsString": "20"
+  },
+  {
+    "decode": "40 %",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_40",
+    "codeAsString": "40"
+  },
+  {
+    "decode": "50 %",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_50",
+    "codeAsString": "50"
+  },
+  {
+    "decode": "60 %",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_60",
+    "codeAsString": "60"
+  },
+  {
+    "decode": "80 %",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_80",
+    "codeAsString": "80"
+  }
+]

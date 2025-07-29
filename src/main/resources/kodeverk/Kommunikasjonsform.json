@@ -1,0 +1,18 @@
+[
+  {
+    "decode": "Elektronisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ELEK",
+    "codeAsString": "ELEK"
+  },
+  {
+    "decode": "Vanlig post",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PAPR",
+    "codeAsString": "PAPR"
+  }
+]

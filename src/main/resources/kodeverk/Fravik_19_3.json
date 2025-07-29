@@ -1,0 +1,74 @@
+[
+  {
+    "decode": "§ 19-3 Kode 0",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_19_3_KODE_0",
+    "codeAsString": "19_3_KODE_0"
+  },
+  {
+    "decode": "§ 19-3 Kode 1",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_19_3_KODE_1",
+    "codeAsString": "19_3_KODE_1"
+  },
+  {
+    "decode": "§ 19-3 Kode 2",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_19_3_KODE_2",
+    "codeAsString": "19_3_KODE_2"
+  },
+  {
+    "decode": "§ 19-3 Kode 3",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_19_3_KODE_3",
+    "codeAsString": "19_3_KODE_3"
+  },
+  {
+    "decode": "§ 19-3 Kode 4",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_19_3_KODE_4",
+    "codeAsString": "19_3_KODE_4"
+  },
+  {
+    "decode": "§ 19-3 Kode 5",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_19_3_KODE_5",
+    "codeAsString": "19_3_KODE_5"
+  },
+  {
+    "decode": "§ 19-3 Kode 6",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_19_3_KODE_6",
+    "codeAsString": "19_3_KODE_6"
+  },
+  {
+    "decode": "§ 19-3 Kode 7",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_19_3_KODE_7",
+    "codeAsString": "19_3_KODE_7"
+  },
+  {
+    "decode": "§ 19-3 Kode 8",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_19_3_KODE_8",
+    "codeAsString": "19_3_KODE_8"
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "decode": "Barn",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BARN",
+    "grunnlagsrolle": {
+      "decode": "Barn",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "BARN",
+      "sortering": 1,
+      "codeAsString": "BARN"
+    },
+    "codeAsString": "BARN"
+  },
+  {
+    "decode": "Ektefelle",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKTE",
+    "grunnlagsrolle": {
+      "decode": "Ektefelle",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "EKTEF",
+      "sortering": 2,
+      "codeAsString": "EKTEF"
+    },
+    "codeAsString": "EKTE"
+  },
+  {
+    "decode": "Far",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FARA",
+    "grunnlagsrolle": {
+      "decode": "Far",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "FAR",
+      "sortering": 3,
+      "codeAsString": "FAR"
+    },
+    "codeAsString": "FARA"
+  },
+  {
+    "decode": "Fosterbarn",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FOBA",
+    "grunnlagsrolle": {
+      "decode": "Fosterbarn",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "FBARN",
+      "sortering": 4,
+      "codeAsString": "FBARN"
+    },
+    "codeAsString": "FOBA"
+  },
+  {
+    "decode": "Fosterfar",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FOFA",
+    "grunnlagsrolle": null,
+    "codeAsString": "FOFA"
+  },
+  {
+    "decode": "Fostermor",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FOMA",
+    "grunnlagsrolle": null,
+    "codeAsString": "FOMA"
+  },
+  {
+    "decode": "Medmor",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MEDMOR",
+    "grunnlagsrolle": {
+      "decode": "Medmor",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MEDMOR",
+      "sortering": 16,
+      "codeAsString": "MEDMOR"
+    },
+    "codeAsString": "MEDMOR"
+  },
+  {
+    "decode": "Mor",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MORA",
+    "grunnlagsrolle": {
+      "decode": "Mor",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "MOR",
+      "sortering": 5,
+      "codeAsString": "MOR"
+    },
+    "codeAsString": "MORA"
+  },
+  {
+    "decode": "Registrert partner",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REPA",
+    "grunnlagsrolle": {
+      "decode": "Partner",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "PARTNER",
+      "sortering": 6,
+      "codeAsString": "PARTNER"
+    },
+    "codeAsString": "REPA"
+  },
+  {
+    "decode": "Samboer (Utvidelse i Bussen)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAMB",
+    "grunnlagsrolle": {
+      "decode": "Samboer",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "SAMBO",
+      "sortering": 7,
+      "codeAsString": "SAMBO"
+    },
+    "codeAsString": "SAMB"
+  },
+  {
+    "decode": "Søsken (Utvidelse i Bussen)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SOSK",
+    "grunnlagsrolle": {
+      "decode": "Søsken",
+      "valid": true,
+      "fromDate": -2209078800000,
+      "toDate": null,
+      "code": "SOSKEN",
+      "sortering": 8,
+      "codeAsString": "SOSKEN"
+    },
+    "codeAsString": "SOSK"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "decode": "Avsluttet kravgrunnlag",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AVSL",
+    "codeAsString": "AVSL"
+  },
+  {
+    "decode": "Kravgrunnlag ferdigbehandlet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BEHA",
+    "codeAsString": "BEHA"
+  },
+  {
+    "decode": "Endret kravgrunnlag",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ENDR",
+    "codeAsString": "ENDR"
+  },
+  {
+    "decode": "Manuell behandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MANU",
+    "codeAsString": "MANU"
+  },
+  {
+    "decode": "Nytt kravgrunnlag",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NY",
+    "codeAsString": "NY"
+  },
+  {
+    "decode": "Kravgrunnlag sperret",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SPER",
+    "codeAsString": "SPER"
+  }
+]

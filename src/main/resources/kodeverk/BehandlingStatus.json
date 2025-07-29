@@ -1,0 +1,50 @@
+[
+  {
+    "decode": "Raden er ikke lenger aktuell for behandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AVVIST",
+    "codeAsString": "AVVIST"
+  },
+  {
+    "decode": "Raden er ferdig behandlet uten feil",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BEHANDLET",
+    "codeAsString": "BEHANDLET"
+  },
+  {
+    "decode": "Raden er forsøkt behandlet, men behandling feilet under ett av stegene. Endringene er ikke tilbakestilt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DELVIS",
+    "codeAsString": "DELVIS"
+  },
+  {
+    "decode": "Raden er forsøkt behandlet, men behandling feilet, og endringene er tilbakestilt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FEILET",
+    "codeAsString": "FEILET"
+  },
+  {
+    "decode": "Raden er ikke behandlet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UBEHANDLET",
+    "codeAsString": "UBEHANDLET"
+  },
+  {
+    "decode": "Raden er under behandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UNDER_BEHANDLING",
+    "codeAsString": "UNDER_BEHANDLING"
+  }
+]

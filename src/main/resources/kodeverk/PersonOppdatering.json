@@ -1,0 +1,218 @@
+[
+  {
+    "decode": "adresseEndring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AE",
+    "codeAsString": "AE"
+  },
+  {
+    "decode": "adresseEndringPostNor",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AEPN",
+    "codeAsString": "AEPN"
+  },
+  {
+    "decode": "adresseEndringPostUtl",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AEPU",
+    "codeAsString": "AEPU"
+  },
+  {
+    "decode": "adresseEndringTilNor",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AETN",
+    "codeAsString": "AETN"
+  },
+  {
+    "decode": "adresseEndringUtlAdr",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AEUA",
+    "codeAsString": "AEUA"
+  },
+  {
+    "decode": "tildelingEndringDnr",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DNRENDR",
+    "codeAsString": "DNRENDR"
+  },
+  {
+    "decode": "linkingDnrDnr",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FNODD",
+    "codeAsString": "FNODD"
+  },
+  {
+    "decode": "linkingDnrFnr",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FNODF",
+    "codeAsString": "FNODF"
+  },
+  {
+    "decode": "linkingFnrFnr",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FNOFF",
+    "codeAsString": "FNOFF"
+  },
+  {
+    "decode": "tildelingFnr",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FNR",
+    "codeAsString": "FNR"
+  },
+  {
+    "decode": "annullertTilgang",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FNRAN",
+    "codeAsString": "FNRAN"
+  },
+  {
+    "decode": "fodselsMelding",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FODMEL",
+    "codeAsString": "FODMEL"
+  },
+  {
+    "decode": "annullertFodselsMelding",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FODMELAN",
+    "codeAsString": "FODMELAN"
+  },
+  {
+    "decode": "annullertDodsMelding",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ODADM",
+    "codeAsString": "ODADM"
+  },
+  {
+    "decode": "dodsMelding",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ODDM",
+    "codeAsString": "ODDM"
+  },
+  {
+    "decode": "relasjoner",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REL",
+    "codeAsString": "REL"
+  },
+  {
+    "decode": "annullertSamboerskap",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAMAN",
+    "codeAsString": "SAMAN"
+  },
+  {
+    "decode": "samboerEndring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAMEND",
+    "codeAsString": "SAMEND"
+  },
+  {
+    "decode": "sivilstandsEndring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SIVE",
+    "codeAsString": "SIVE"
+  },
+  {
+    "decode": "umyndiggjoring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UMYN",
+    "codeAsString": "UMYN"
+  },
+  {
+    "decode": "annullertInnvandring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTLANINNV",
+    "codeAsString": "UTLANINNV"
+  },
+  {
+    "decode": "annullertUtvandring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTLANUTV",
+    "codeAsString": "UTLANUTV"
+  },
+  {
+    "decode": "arbeidsTillatelse",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTLARBTIL",
+    "codeAsString": "UTLARBTIL"
+  },
+  {
+    "decode": "innvandring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTLINNV",
+    "codeAsString": "UTLINNV"
+  },
+  {
+    "decode": "oppholdsTillatelse",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTLOPPH",
+    "codeAsString": "UTLOPPH"
+  },
+  {
+    "decode": "statsborgerskap",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTLSBS",
+    "codeAsString": "UTLSBS"
+  },
+  {
+    "decode": "utvandring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTLUTV",
+    "codeAsString": "UTLUTV"
+  }
+]

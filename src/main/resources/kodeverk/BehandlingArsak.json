@@ -1,0 +1,170 @@
+[
+  {
+    "decode": "Avslutt ytelse brukere med hovedytelse barnepensjon som blir 18 år om 3 måneder",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN001_01",
+    "codeAsString": "BPEN001_01"
+  },
+  {
+    "decode": "Avslutt ytelse brukere med barnetillegg for barn som blir 18 år eller ektefelletillegg for ektefelle/samboer/partner som blir 67 år",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN001_02",
+    "codeAsString": "BPEN001_02"
+  },
+  {
+    "decode": "Konverter ytelse brukere med AFP, familiepleier, gjenlevende og 100% uføre som blir 67 år",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN002_01",
+    "codeAsString": "BPEN002_01"
+  },
+  {
+    "decode": "Avslutt ytelse brukere med statlig AFP som blir 65 om 3 mnd.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN003_01",
+    "codeAsString": "BPEN003_01"
+  },
+  {
+    "decode": "Omregn ytelse brukere med alderspensjon som fyller 70 år og 1 måned",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN004_01",
+    "codeAsString": "BPEN004_01"
+  },
+  {
+    "decode": "Omregn ytelse brukere med alder/uføre/AFP, med ektefelletillegg for en person som blir 60 år og 1 måned",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN004_02",
+    "codeAsString": "BPEN004_02"
+  },
+  {
+    "decode": "Omregn ytelse unge uføre som blir 20 år",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN004_03",
+    "codeAsString": "BPEN004_03"
+  },
+  {
+    "decode": "Distribuere oppfølgingsbrev for vedtak om omsorgspoeng",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN011_01",
+    "codeAsString": "BPEN011_01"
+  },
+  {
+    "decode": "Omregn ytelse brukere med AFP og inntektsendring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN015_01",
+    "codeAsString": "BPEN015_01"
+  },
+  {
+    "decode": "Omregn ytelse brukere over 70 med alderspensjon og opptjeningsendring før 70",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN015_02",
+    "codeAsString": "BPEN015_02"
+  },
+  {
+    "decode": "Omregn ytelse brukere under 70 med alderspensjon og opptjeningsendring før 67",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN015_03",
+    "codeAsString": "BPEN015_03"
+  },
+  {
+    "decode": "Omregn ytelse brukere med uførepensjon og opptjeningsendring før siste uføretidspunkt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN015_04",
+    "codeAsString": "BPEN015_04"
+  },
+  {
+    "decode": "Omregn ytelse brukere med rolle avdød i løpende gjenlevendepensjoner og opptjeningsendring før dødstidspunkt for avdøde",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN015_05",
+    "codeAsString": "BPEN015_05"
+  },
+  {
+    "decode": "Omregn ytelse brukere med rolle avdød i løpende alder- eller uførepensjon med gjenlevenderett og opptjeningsendring for avdøde før dødstidspunkt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN015_06",
+    "codeAsString": "BPEN015_06"
+  },
+  {
+    "decode": "Omregn ytelse brukere med rolle mor eller far i barnepensjonssaker og opptjeningsendring før dødstidspunkt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN015_07",
+    "codeAsString": "BPEN015_07"
+  },
+  {
+    "decode": "Send orienteringsbrev til brukere uten ytelser som blir 67 år eller 70 år",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN028_01",
+    "codeAsString": "BPEN028_01"
+  },
+  {
+    "decode": "Send orienteringsbrev til brukere som blir 67 år som har ytelse av type AFP, Gjenlevende eller Familiepleier",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN028_02",
+    "codeAsString": "BPEN028_02"
+  },
+  {
+    "decode": "Importer hjelpestønadsvedtak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN031_01",
+    "codeAsString": "BPEN031_01"
+  },
+  {
+    "decode": "Lage leveattestoppgaver",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN037_01",
+    "codeAsString": "BPEN037_01"
+  },
+  {
+    "decode": "Alle innslag i Iverks_Konv-tabellen som har opphort_vedtak=false",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN042_01",
+    "codeAsString": "BPEN042_01"
+  },
+  {
+    "decode": "Kompletterer opptjening på konverterte krav",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BPEN053_01",
+    "codeAsString": "BPEN053_01"
+  }
+]

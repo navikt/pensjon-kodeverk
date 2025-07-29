@@ -1,0 +1,626 @@
+[
+  {
+    "decode": "AFP etteroppgjør",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AFP_EO",
+    "codeAsString": "AFP_EO"
+  },
+  {
+    "decode": "Anke",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKE",
+    "codeAsString": "ANKE"
+  },
+  {
+    "decode": "Ankebehandling avsluttet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKEBEH_AVSLUTTET",
+    "codeAsString": "ANKEBEH_AVSLUTTET"
+  },
+  {
+    "decode": "Ankebehandling i Trygderetten avsluttet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKE_I_TR_AVSLUTTET",
+    "codeAsString": "ANKE_I_TR_AVSLUTTET"
+  },
+  {
+    "decode": "Ankebehandling i Trygderetten opprettet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKE_I_TR_OPPRETTET",
+    "codeAsString": "ANKE_I_TR_OPPRETTET"
+  },
+  {
+    "decode": "Anke opprettet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANKE_OPPRETTET",
+    "codeAsString": "ANKE_OPPRETTET"
+  },
+  {
+    "decode": "Annulering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANNULERING",
+    "codeAsString": "ANNULERING"
+  },
+  {
+    "decode": "Automatisk omregnet i forbindelse med overgang til uføretrygd",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AUTO_OMR_UP_TIL_UT",
+    "codeAsString": "AUTO_OMR_UP_TIL_UT"
+  },
+  {
+    "decode": "Ytelse opphøres pga migrering til ny saksbehandlingsløsning.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BARNEPENSJON_OPPHOR",
+    "codeAsString": "BARNEPENSJON_OPPHOR"
+  },
+  {
+    "decode": "Bruker døde året etter etteroppgjørsåret eller senere.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DOD_ETTER_EOARET_UT",
+    "codeAsString": "DOD_ETTER_EOARET_UT"
+  },
+  {
+    "decode": "Bruker døde i etteroppgjørsåret.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DOD_I_EOARET_UT",
+    "codeAsString": "DOD_I_EOARET_UT"
+  },
+  {
+    "decode": "Eksport",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKSPORT",
+    "codeAsString": "EKSPORT"
+  },
+  {
+    "decode": "Endret bankkontonummer/utbetalingsform",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ENDR_UTBET",
+    "codeAsString": "ENDR_UTBET"
+  },
+  {
+    "decode": "Endring uttaksgrad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ENDR_UTTAKSGRAD",
+    "codeAsString": "ENDR_UTTAKSGRAD"
+  },
+  {
+    "decode": "Annen forelder døde i etteroppgjørsåret.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EPS_DOD_I_EOARET_UT",
+    "codeAsString": "EPS_DOD_I_EOARET_UT"
+  },
+  {
+    "decode": "Erstatning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ERSTATNING",
+    "codeAsString": "ERSTATNING"
+  },
+  {
+    "decode": "Avviket mellom utbetalt uføretrygd og etteroppgjørsberegningen er innenfor toleransegrensen for etterbetaling.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETTERBET_TOLGR_UTEO",
+    "codeAsString": "ETTERBET_TOLGR_UTEO"
+  },
+  {
+    "decode": "Ettergivelse av gjeld",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ETTERGIV_GJELD",
+    "codeAsString": "ETTERGIV_GJELD"
+  },
+  {
+    "decode": "Dekning faste utgifter inst.opphold",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAS_UTG_IO",
+    "codeAsString": "FAS_UTG_IO"
+  },
+  {
+    "decode": "Feilregistrert vurderingskrav i forbindelse med opprettelse av løpende etteropppgjørskrav.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FEILREG_EO_UT",
+    "codeAsString": "FEILREG_EO_UT"
+  },
+  {
+    "decode": "Kravet er feilregistrert ifm overgang til uføretrygd",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FEILREG_KONV_UT",
+    "codeAsString": "FEILREG_KONV_UT"
+  },
+  {
+    "decode": "Feilregistrert vurderingskrav i forbindelse med at etteropppgjøret skal kjøres på nytt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FEILREG_REKJOR_EO_UT",
+    "codeAsString": "FEILREG_REKJOR_EO_UT"
+  },
+  {
+    "decode": "Feilutbetaling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FEILUTBT",
+    "codeAsString": "FEILUTBT"
+  },
+  {
+    "decode": "Førstegangsbehandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORSTEG_BH",
+    "codeAsString": "FORSTEG_BH"
+  },
+  {
+    "decode": "Førstegangsbehandling bosatt utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_BO_UTL",
+    "codeAsString": "F_BH_BO_UTL"
+  },
+  {
+    "decode": "Førstegangsbehandling kun utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_KUN_UTL",
+    "codeAsString": "F_BH_KUN_UTL"
+  },
+  {
+    "decode": "Førstegangsbehandling Norge/utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "F_BH_MED_UTL",
+    "codeAsString": "F_BH_MED_UTL"
+  },
+  {
+    "decode": "Gjenlevenderettighet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GJ_RETT",
+    "codeAsString": "GJ_RETT"
+  },
+  {
+    "decode": "Godskrivning omsorgspoeng",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GOD_OMSGSP",
+    "codeAsString": "GOD_OMSGSP"
+  },
+  {
+    "decode": "G-omregning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1293836400000,
+    "code": "GOMR",
+    "codeAsString": "GOMR"
+  },
+  {
+    "decode": "Faktoromregnet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "GOMRFAKT",
+    "codeAsString": "GOMRFAKT"
+  },
+  {
+    "decode": "Hjelpeberegning ved overgang til uføretrygd",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HJLPBER_OVERG_UT",
+    "codeAsString": "HJLPBER_OVERG_UT"
+  },
+  {
+    "decode": "Hovedytelse opphørt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "HOVED_OPPHORT",
+    "codeAsString": "HOVED_OPPHORT"
+  },
+  {
+    "decode": "Uføretrygden er ikke avkortet mot inntekt.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "IKKE_AVKORT_UTEO",
+    "codeAsString": "IKKE_AVKORT_UTEO"
+  },
+  {
+    "decode": "Det er ikke avvik mellom utbetalt uføretrygd og etteroppgjørsberegningen.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "IKKE_AVVIK_UTEO",
+    "codeAsString": "IKKE_AVVIK_UTEO"
+  },
+  {
+    "decode": "Infobrev (auto) om forventet årlig arbeidsinntekt er sendt til bruker og er basert på opplysninger fra A-ordningen.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INFOBREV_SENDES_UT",
+    "codeAsString": "INFOBREV_SENDES_UT"
+  },
+  {
+    "decode": "Inntektsendring",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNT_E",
+    "codeAsString": "INNT_E"
+  },
+  {
+    "decode": "Inntektskontroll",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNT_KTRL",
+    "codeAsString": "INNT_KTRL"
+  },
+  {
+    "decode": "Siste revurdering ble internkontrollert og maskinelt ferdig behandlet.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTERNKONTROLL",
+    "codeAsString": "INTERNKONTROLL"
+  },
+  {
+    "decode": "Klage",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KLAGE",
+    "codeAsString": "KLAGE"
+  },
+  {
+    "decode": "Kontroll 3-17 a",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONTROLL_3_17_A",
+    "codeAsString": "KONTROLL_3_17_A"
+  },
+  {
+    "decode": "Aldersomregning",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONVERTERING",
+    "codeAsString": "KONVERTERING"
+  },
+  {
+    "decode": "Konvertert fra Infotrygd/DSF",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KONVERTERT",
+    "codeAsString": "KONVERTERT"
+  },
+  {
+    "decode": "Mellombehandling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MELLOMBH",
+    "codeAsString": "MELLOMBH"
+  },
+  {
+    "decode": "Mottatt utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MOTTATT_UTLAND",
+    "codeAsString": "MOTTATT_UTLAND"
+  },
+  {
+    "decode": "Merskatt tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MTK",
+    "codeAsString": "MTK"
+  },
+  {
+    "decode": "Omgjøring av feilutbetaling",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMGJ_FEILUTBT",
+    "codeAsString": "OMGJ_FEILUTBT"
+  },
+  {
+    "decode": "Omgjøring av tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMGJ_TILBAKE",
+    "codeAsString": "OMGJ_TILBAKE"
+  },
+  {
+    "decode": "Automatisk omregnet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMREGNET",
+    "codeAsString": "OMREGNET"
+  },
+  {
+    "decode": "Automatisk omregnet til uføretrygd",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMREGNET_TIL_UT",
+    "codeAsString": "OMREGNET_TIL_UT"
+  },
+  {
+    "decode": "Omregnet ved faktoromregning til uføretrygd",
+    "valid": false,
+    "fromDate": -2208992400000,
+    "toDate": null,
+    "code": "OMR_FAK_UT",
+    "codeAsString": "OMR_FAK_UT"
+  },
+  {
+    "decode": "Overført sak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OVERFORT_SAK",
+    "codeAsString": "OVERFORT_SAK"
+  },
+  {
+    "decode": "Overføring omsorgspoeng",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OVERF_OMSGSP",
+    "codeAsString": "OVERF_OMSGSP"
+  },
+  {
+    "decode": "Automatisk reberegning ved aldersovergang",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REBEREGNET",
+    "codeAsString": "REBEREGNET"
+  },
+  {
+    "decode": "Reberegnet som følge av avhengighet til annen sak",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REBER_ANNEN_SAK",
+    "codeAsString": "REBER_ANNEN_SAK"
+  },
+  {
+    "decode": "Regulering av pensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REGULERING",
+    "codeAsString": "REGULERING"
+  },
+  {
+    "decode": "Pensjon reguleres med faktor",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REGULERINGFAKT",
+    "codeAsString": "REGULERINGFAKT"
+  },
+  {
+    "decode": "Revurdering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "REVURD",
+    "codeAsString": "REVURD"
+  },
+  {
+    "decode": "Saksomkostninger",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAK_OMKOST",
+    "codeAsString": "SAK_OMKOST"
+  },
+  {
+    "decode": "Sak opprettet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAK_OPPRETTET",
+    "codeAsString": "SAK_OPPRETTET"
+  },
+  {
+    "decode": "Samordningsmelding sendt hvis bruker har offentlig tjenestepensjon",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SENDT_SAM_MELD",
+    "codeAsString": "SENDT_SAM_MELD"
+  },
+  {
+    "decode": "Sendt utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SENDT_UTLAND",
+    "codeAsString": "SENDT_UTLAND"
+  },
+  {
+    "decode": "Sluttbehandling kun utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SLUTTBEH_KUN_UTL",
+    "codeAsString": "SLUTTBEH_KUN_UTL"
+  },
+  {
+    "decode": "Sluttbehandling utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SLUTT_BH_UTL",
+    "codeAsString": "SLUTT_BH_UTL"
+  },
+  {
+    "decode": "Søknad om økning av uføregrad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SOK_OKN_UG",
+    "codeAsString": "SOK_OKN_UG"
+  },
+  {
+    "decode": "Søknad om reduksjon av uføregrad",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SOK_RED_UG",
+    "codeAsString": "SOK_RED_UG"
+  },
+  {
+    "decode": "Søknad om ung ufør",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SOK_UU",
+    "codeAsString": "SOK_UU"
+  },
+  {
+    "decode": "Søknad om yrkesskade",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SOK_YS",
+    "codeAsString": "SOK_YS"
+  },
+  {
+    "decode": "Tilbakekreving",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TILBAKEKR",
+    "codeAsString": "TILBAKEKR"
+  },
+  {
+    "decode": "Avviket mellom utbetalt uføretrygd og etteroppgjørsberegningen er innenfor toleransegrensen for tilbakekreving.",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TILBAKEKR_TOLGR_UTEO",
+    "codeAsString": "TILBAKEKR_TOLGR_UTEO"
+  },
+  {
+    "decode": "Tilleggsytelse opphørt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "TILLEGG_OPPHORT",
+    "codeAsString": "TILLEGG_OPPHORT"
+  },
+  {
+    "decode": "Utsendelse til avtaleland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTSEND_AVTALELAND",
+    "codeAsString": "UTSEND_AVTALELAND"
+  },
+  {
+    "decode": "Etteroppgjør",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_EO",
+    "codeAsString": "UT_EO"
+  },
+  {
+    "decode": "Vurdering av etteroppgjør",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UT_VURDERING_EO",
+    "codeAsString": "UT_VURDERING_EO"
+  },
+  {
+    "decode": "Vedtak fattet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VEDTAK_FATTET",
+    "codeAsString": "VEDTAK_FATTET"
+  },
+  {
+    "decode": "Vedtak reaktivert",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VEDTAK_REAK",
+    "codeAsString": "VEDTAK_REAK"
+  },
+  {
+    "decode": "Vedtak stoppet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VEDTAK_STOPPET",
+    "codeAsString": "VEDTAK_STOPPET"
+  },
+  {
+    "decode": "Vurdert for omregning ved tilvekst i opptjening",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VURDERT_OMREGNING",
+    "codeAsString": "VURDERT_OMREGNING"
+  }
+]

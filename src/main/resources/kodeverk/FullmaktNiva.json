@@ -1,0 +1,58 @@
+[
+  {
+    "decode": "Begrenset",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BEGRENSET",
+    "codeAsString": "BEGRENSET"
+  },
+  {
+    "decode": "Fullstendig",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FULLSTENDIG",
+    "codeAsString": "FULLSTENDIG"
+  },
+  {
+    "decode": "Kommune",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KOMMUNE",
+    "codeAsString": "KOMMUNE"
+  },
+  {
+    "decode": "Kommuneadministrator",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "KOMMUNEADM",
+    "codeAsString": "KOMMUNEADM"
+  },
+  {
+    "decode": "Samhandleradministrator",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAMHANDADM",
+    "codeAsString": "SAMHANDADM"
+  },
+  {
+    "decode": "Samordningspliktig",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAMORDPLIK",
+    "codeAsString": "SAMORDPLIK"
+  },
+  {
+    "decode": "Superadministrator",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SUPERADM",
+    "codeAsString": "SUPERADM"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "decode": "Minimum IFU fastsatt til sats for enslig",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MINIMUM_IFU_ENSLIG",
+    "codeAsString": "MINIMUM_IFU_ENSLIG"
+  },
+  {
+    "decode": "Minimum IFU fastsatt til sats for gift",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MINIMUM_IFU_GIFT",
+    "codeAsString": "MINIMUM_IFU_GIFT"
+  },
+  {
+    "decode": "Minimum IFU fastsatt til sats for ung ufør",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MINIMUM_IFU_UNGUFOR",
+    "codeAsString": "MINIMUM_IFU_UNGUFOR"
+  }
+]

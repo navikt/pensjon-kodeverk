@@ -1,0 +1,82 @@
+[
+  {
+    "decode": "Arbeidsledighet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ARBLED",
+    "codeAsString": "ARBLED"
+  },
+  {
+    "decode": "Inntekt etter pensjonering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTEP",
+    "codeAsString": "INTEP"
+  },
+  {
+    "decode": "Inntekt frem til pensjonering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INTFP",
+    "codeAsString": "INTFP"
+  },
+  {
+    "decode": "Ubetalt omsorgsarbeide",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OMSORG",
+    "codeAsString": "OMSORG"
+  },
+  {
+    "decode": "Pensjoneringstidspunkt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PDATO",
+    "codeAsString": "PDATO"
+  },
+  {
+    "decode": "Sivilstand",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SVSTD",
+    "codeAsString": "SVSTD"
+  },
+  {
+    "decode": "Sykdom",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SYKDOM",
+    "codeAsString": "SYKDOM"
+  },
+  {
+    "decode": "Uførhet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UFOR",
+    "codeAsString": "UFOR"
+  },
+  {
+    "decode": "Flytting til utlandet etter pensjonering",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTLFLYTT",
+    "codeAsString": "UTLFLYTT"
+  },
+  {
+    "decode": "Opphold eller arbeid utenlands",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTLJOBB",
+    "codeAsString": "UTLJOBB"
+  }
+]

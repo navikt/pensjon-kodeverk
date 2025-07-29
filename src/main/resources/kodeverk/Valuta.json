@@ -1,0 +1,479 @@
+[
+  {
+    "decode": "Emiratene",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "1",
+    "code": "AED",
+    "codeAsString": "AED"
+  },
+  {
+    "decode": "Australske dollar",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "2",
+    "code": "AUD",
+    "codeAsString": "AUD"
+  },
+  {
+    "decode": "Bahrain dinarer",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "3",
+    "code": "BHD",
+    "codeAsString": "BHD"
+  },
+  {
+    "decode": "Kanadiske dollar",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "4",
+    "code": "CAD",
+    "codeAsString": "CAD"
+  },
+  {
+    "decode": "Sveitsiske franc",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "5",
+    "code": "CHF",
+    "codeAsString": "CHF"
+  },
+  {
+    "decode": "Kina",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "6",
+    "code": "CNY",
+    "codeAsString": "CNY"
+  },
+  {
+    "decode": "Kypros",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "7",
+    "code": "CYP",
+    "codeAsString": "CYP"
+  },
+  {
+    "decode": "Tjekkia",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "8",
+    "code": "CZK",
+    "codeAsString": "CZK"
+  },
+  {
+    "decode": "Danske kroner",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "9",
+    "code": "DKK",
+    "codeAsString": "DKK"
+  },
+  {
+    "decode": "Algerie Dinarer",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "10",
+    "code": "DZD",
+    "codeAsString": "DZD"
+  },
+  {
+    "decode": "Estland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "11",
+    "code": "EEK",
+    "codeAsString": "EEK"
+  },
+  {
+    "decode": "Euro",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "12",
+    "code": "EUR",
+    "codeAsString": "EUR"
+  },
+  {
+    "decode": "Britiske pund",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "13",
+    "code": "GBP",
+    "codeAsString": "GBP"
+  },
+  {
+    "decode": "Guyana",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "14",
+    "code": "GYD",
+    "codeAsString": "GYD"
+  },
+  {
+    "decode": "Hong Kong Dollar",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "15",
+    "code": "HKD",
+    "codeAsString": "HKD"
+  },
+  {
+    "decode": "Ungarn",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "16",
+    "code": "HUF",
+    "codeAsString": "HUF"
+  },
+  {
+    "decode": "Indonesia",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "17",
+    "code": "IDR",
+    "codeAsString": "IDR"
+  },
+  {
+    "decode": "Israel",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "18",
+    "code": "ILS",
+    "codeAsString": "ILS"
+  },
+  {
+    "decode": "Indiske Rupi",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "19",
+    "code": "INR",
+    "codeAsString": "INR"
+  },
+  {
+    "decode": "Islandske kroner",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "20",
+    "code": "ISK",
+    "codeAsString": "ISK"
+  },
+  {
+    "decode": "Japanske Yen",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "21",
+    "code": "JPY",
+    "codeAsString": "JPY"
+  },
+  {
+    "decode": "Kenya",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "22",
+    "code": "KES",
+    "codeAsString": "KES"
+  },
+  {
+    "decode": "Sør-Korea",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "23",
+    "code": "KRW",
+    "codeAsString": "KRW"
+  },
+  {
+    "decode": "Kuwait",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "24",
+    "code": "KWD",
+    "codeAsString": "KWD"
+  },
+  {
+    "decode": "Sri Lanka",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "25",
+    "code": "LKR",
+    "codeAsString": "LKR"
+  },
+  {
+    "decode": "Litauen",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "26",
+    "code": "LTL",
+    "codeAsString": "LTL"
+  },
+  {
+    "decode": "Latvia",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "27",
+    "code": "LVL",
+    "codeAsString": "LVL"
+  },
+  {
+    "decode": "Marokko",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "28",
+    "code": "MAD",
+    "codeAsString": "MAD"
+  },
+  {
+    "decode": "Malta",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "29",
+    "code": "MTL",
+    "codeAsString": "MTL"
+  },
+  {
+    "decode": "Mexico",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "30",
+    "code": "MXN",
+    "codeAsString": "MXN"
+  },
+  {
+    "decode": "Malaysia Ringgit",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "31",
+    "code": "MYR",
+    "codeAsString": "MYR"
+  },
+  {
+    "decode": "Norske kroner",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "32",
+    "code": "NOK",
+    "codeAsString": "NOK"
+  },
+  {
+    "decode": "New Zealand dollar",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "33",
+    "code": "NZD",
+    "codeAsString": "NZD"
+  },
+  {
+    "decode": "Filippinene",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "34",
+    "code": "PHP",
+    "codeAsString": "PHP"
+  },
+  {
+    "decode": "Pakistanske Roupies",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "35",
+    "code": "PKR",
+    "codeAsString": "PKR"
+  },
+  {
+    "decode": "Polen",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "36",
+    "code": "PLN",
+    "codeAsString": "PLN"
+  },
+  {
+    "decode": "Qatar",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "37",
+    "code": "QAR",
+    "codeAsString": "QAR"
+  },
+  {
+    "decode": "Russland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "38",
+    "code": "RUB",
+    "codeAsString": "RUB"
+  },
+  {
+    "decode": "Saudi Arabia",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "39",
+    "code": "SAR",
+    "codeAsString": "SAR"
+  },
+  {
+    "decode": "Sudan dinar",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "40",
+    "code": "SDD",
+    "codeAsString": "SDD"
+  },
+  {
+    "decode": "Svenske kroner",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "41",
+    "code": "SEK",
+    "codeAsString": "SEK"
+  },
+  {
+    "decode": "Singapore dollar",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "42",
+    "code": "SGD",
+    "codeAsString": "SGD"
+  },
+  {
+    "decode": "Slovakia",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "43",
+    "code": "SKK",
+    "codeAsString": "SKK"
+  },
+  {
+    "decode": "Thailandske baht",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "44",
+    "code": "THB",
+    "codeAsString": "THB"
+  },
+  {
+    "decode": "Tunis",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "45",
+    "code": "TND",
+    "codeAsString": "TND"
+  },
+  {
+    "decode": "Tyrkia",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "46",
+    "code": "TRY",
+    "codeAsString": "TRY"
+  },
+  {
+    "decode": "Taiwan",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "47",
+    "code": "TWD",
+    "codeAsString": "TWD"
+  },
+  {
+    "decode": "Tanzania",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "48",
+    "code": "TZS",
+    "codeAsString": "TZS"
+  },
+  {
+    "decode": "Amerikanske dollar",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "49",
+    "code": "USD",
+    "codeAsString": "USD"
+  },
+  {
+    "decode": "Benin,BurkinaFaso,IvoryCoast,Mali,Niger,Senega",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "51",
+    "code": "XOF",
+    "codeAsString": "XOF"
+  },
+  {
+    "decode": "Sør-Afrikanse rand",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "52",
+    "code": "ZAR",
+    "codeAsString": "ZAR"
+  },
+  {
+    "decode": "Sør-Afrikanske rand",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "53",
+    "code": "ZRA",
+    "codeAsString": "ZRA"
+  },
+  {
+    "decode": "Zimbabwe",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "id": "54",
+    "code": "ZWD",
+    "codeAsString": "ZWD"
+  }
+]

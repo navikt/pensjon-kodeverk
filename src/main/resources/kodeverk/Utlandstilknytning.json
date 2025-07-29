@@ -1,0 +1,26 @@
+[
+  {
+    "decode": "Nasjonal",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "NASJONAL",
+    "codeAsString": "NASJONAL"
+  },
+  {
+    "decode": "Bosatt utland",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTLAND",
+    "codeAsString": "UTLAND"
+  },
+  {
+    "decode": "Utlandstilsnitt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UTLANDSTILSNITT",
+    "codeAsString": "UTLANDSTILSNITT"
+  }
+]

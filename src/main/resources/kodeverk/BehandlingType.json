@@ -1,0 +1,26 @@
+[
+  {
+    "decode": "Automatisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AUTO",
+    "codeAsString": "AUTO"
+  },
+  {
+    "decode": "Del-automatisk",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "DEL_AUTO",
+    "codeAsString": "DEL_AUTO"
+  },
+  {
+    "decode": "Manuell",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MAN",
+    "codeAsString": "MAN"
+  }
+]

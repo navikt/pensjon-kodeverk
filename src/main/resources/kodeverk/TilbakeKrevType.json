@@ -1,0 +1,110 @@
+[
+  {
+    "decode": "§ 22-15 5. ledd",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_22_x_15",
+    "naviKode": "T",
+    "codeAsString": "22-15"
+  },
+  {
+    "decode": "§ 22-15 1. ledd, 1. punktum",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_22_x_15_x_1_x_1",
+    "naviKode": "T",
+    "codeAsString": "22-15-1-1"
+  },
+  {
+    "decode": "§ 22-15 1. ledd, 2. punktum",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1230678000000,
+    "code": "P_22_x_15_x_1_x_2",
+    "naviKode": "T",
+    "codeAsString": "22-15-1-2"
+  },
+  {
+    "decode": "§ 22-15 1. ledd, 2. punktum (forsett)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_22_x_15_x_1_x_2f",
+    "naviKode": "T",
+    "codeAsString": "22-15-1-2f"
+  },
+  {
+    "decode": "§ 22-15 1. ledd, 2. punktum (uaktsomt)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_22_x_15_x_1_x_2u",
+    "naviKode": "T",
+    "codeAsString": "22-15-1-2u"
+  },
+  {
+    "decode": "§ 22-15 1. ledd, 3. punktum",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": 1230678000000,
+    "code": "P_22_x_15_x_1_x_3",
+    "naviKode": "T",
+    "codeAsString": "22-15-1-3"
+  },
+  {
+    "decode": "§ 22-15 6. ledd",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_22_x_15_x_6",
+    "naviKode": null,
+    "codeAsString": "22-15-6"
+  },
+  {
+    "decode": "§ 22-16",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_22_x_16",
+    "naviKode": "TA",
+    "codeAsString": "22-16"
+  },
+  {
+    "decode": "§ 22-17a",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P_22_x_17a",
+    "naviKode": "T",
+    "codeAsString": "22-17a"
+  },
+  {
+    "decode": "AFP-etteroppgjør",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AFP",
+    "naviKode": "A",
+    "codeAsString": "AFP"
+  },
+  {
+    "decode": "Annet",
+    "valid": false,
+    "fromDate": -2209078800000,
+    "toDate": 1201734000000,
+    "code": "ANNET",
+    "naviKode": null,
+    "codeAsString": "ANNET"
+  },
+  {
+    "decode": "Ulovfestet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ULOVFESTET",
+    "naviKode": "C",
+    "codeAsString": "ULOVFESTET"
+  }
+]

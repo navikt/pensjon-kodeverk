@@ -1,0 +1,182 @@
+[
+  {
+    "decode": "2103",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ENHET_DISKRESJON",
+    "enhetsnavn": "NAV Viken",
+    "codeAsString": "ENHET_DISKRESJON"
+  },
+  {
+    "decode": "4819",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ENHET_OPPDRAGSKALL",
+    "enhetsnavn": "NAV Økonomi Pensjon",
+    "codeAsString": "ENHET_OPPDRAGSKALL"
+  },
+  {
+    "decode": "2910",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAG_DRIFT_UTVIKLING",
+    "enhetsnavn": "NAV Drift og Utvikling - Fag, drift og utvikling",
+    "codeAsString": "FAG_DRIFT_UTVIKLING"
+  },
+  {
+    "decode": "0044",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORELDERENHET_FORVALTNING",
+    "enhetsnavn": "Forvaltning",
+    "codeAsString": "FORELDERENHET_FORVALTNING"
+  },
+  {
+    "decode": "0042",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FORELDERENHET_KLAGE_ANKE",
+    "enhetsnavn": "NAV Klageinstans",
+    "codeAsString": "FORELDERENHET_KLAGE_ANKE"
+  },
+  {
+    "decode": "4560",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "INNTEKTSKONTROLL",
+    "enhetsnavn": "NAV Registerkontroll Vågå",
+    "codeAsString": "INNTEKTSKONTROLL"
+  },
+  {
+    "decode": "4815",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OPPDRAGSENHET_KONVENSJON",
+    "enhetsnavn": "Nav Familie- og Pensjonsytelser Ålesund",
+    "codeAsString": "OPPDRAGSENHET_KONVENSJON"
+  },
+  {
+    "decode": "4803",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OPPDRAG_DISKRESJON_SPESIAL",
+    "enhetsnavn": "NAV Familie- og pensjonsytelser Oslo 2",
+    "codeAsString": "OPPDRAG_DISKRESJON_SPESIAL"
+  },
+  {
+    "decode": "4403",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OPPDRAG_UFORETRYGD_UTLAND",
+    "enhetsnavn": "NAV Arbeid og ytelser Oslo",
+    "codeAsString": "OPPDRAG_UFORETRYGD_UTLAND"
+  },
+  {
+    "decode": "4403",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OPPDRAG_UFORETRYGD_UTLAND_TILSNITT",
+    "enhetsnavn": "NAV Arbeid og ytelser Oslo",
+    "codeAsString": "OPPDRAG_UFORETRYGD_UTLAND_TILSNITT"
+  },
+  {
+    "decode": "4803",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OPPDRAG_UTLAND_SPESIAL",
+    "enhetsnavn": "NAV Familie- og pensjonsytelser Oslo 2",
+    "codeAsString": "OPPDRAG_UTLAND_SPESIAL"
+  },
+  {
+    "decode": "4118",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OPPGAVE_DISKRESJON",
+    "enhetsnavn": "NAV Kontaktsenter Nordland",
+    "codeAsString": "OPPGAVE_DISKRESJON"
+  },
+  {
+    "decode": "4151",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SERVICE_SENTER",
+    "enhetsnavn": "NAV Servicesenter",
+    "codeAsString": "SERVICE_SENTER"
+  },
+  {
+    "decode": "4400",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "STYRING_ARBEID_YTELSER",
+    "enhetsnavn": "NAV Arbeid og ytelser styringsenhet",
+    "codeAsString": "STYRING_ARBEID_YTELSER"
+  },
+  {
+    "decode": "4800",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "STYRING_FAMILIE_PENSJON",
+    "enhetsnavn": "NAV Familie- og pensjonsytelser styringsenhet",
+    "codeAsString": "STYRING_FAMILIE_PENSJON"
+  },
+  {
+    "decode": "4475",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UFORETRYGD_UTLAND",
+    "enhetsnavn": "NAY Uføretrygd bosatt Utland",
+    "codeAsString": "UFORETRYGD_UTLAND"
+  },
+  {
+    "decode": "4476",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "UFORETRYGD_UTLAND_TILSNITT",
+    "enhetsnavn": "NAY Uføretrygd med utlandstilsnitt",
+    "codeAsString": "UFORETRYGD_UTLAND_TILSNITT"
+  },
+  {
+    "decode": "0003",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VIRTUELL_DISKRESJON_SPESIAL",
+    "enhetsnavn": "NAV Pensjon Viken",
+    "codeAsString": "VIRTUELL_DISKRESJON_SPESIAL"
+  },
+  {
+    "decode": "4862",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VIRTUELL_KONVENSJON",
+    "enhetsnavn": "NAV Familie- og pensjonsytelser utland Ålesund",
+    "codeAsString": "VIRTUELL_KONVENSJON"
+  },
+  {
+    "decode": "0001",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "VIRTUELL_UTLANDSPESIAL",
+    "enhetsnavn": "NAV Pensjon Utland",
+    "codeAsString": "VIRTUELL_UTLANDSPESIAL"
+  }
+]

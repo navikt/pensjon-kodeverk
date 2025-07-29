@@ -1,0 +1,58 @@
+[
+  {
+    "decode": "AVREGNING FRA KONTOFØRER",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "A",
+    "codeAsString": "A"
+  },
+  {
+    "decode": "ETTEROPPGJØR",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "E",
+    "codeAsString": "E"
+  },
+  {
+    "decode": "KORREKSJONER (MEMORIALPOSTERINGER I INFOTRYGD)",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "K",
+    "codeAsString": "K"
+  },
+  {
+    "decode": "MOTBILAG",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "M",
+    "codeAsString": "M"
+  },
+  {
+    "decode": "MANUELL KORRIGERINGSPOSTERING",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "P",
+    "codeAsString": "P"
+  },
+  {
+    "decode": "RETURFØRING VIA RETURFØRINGSRUTINEN I FORSYSTEMET",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "R",
+    "codeAsString": "R"
+  },
+  {
+    "decode": "UTBETALING",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U",
+    "codeAsString": "U"
+  }
+]

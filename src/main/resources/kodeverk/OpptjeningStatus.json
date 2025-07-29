@@ -1,0 +1,18 @@
+[
+  {
+    "decode": "Gyldig",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "G",
+    "codeAsString": "G"
+  },
+  {
+    "decode": "Ugyldig",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "U",
+    "codeAsString": "U"
+  }
+]

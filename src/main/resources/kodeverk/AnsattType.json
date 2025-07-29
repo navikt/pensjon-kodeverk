@@ -1,0 +1,26 @@
+[
+  {
+    "decode": "Annet",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ANNET",
+    "codeAsString": "ANNET"
+  },
+  {
+    "decode": "Offentlig ansatt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "OFFENTLIG",
+    "codeAsString": "OFFENTLIG"
+  },
+  {
+    "decode": "Privat ansatt",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PRIVAT",
+    "codeAsString": "PRIVAT"
+  }
+]

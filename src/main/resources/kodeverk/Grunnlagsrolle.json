@@ -1,0 +1,146 @@
+[
+  {
+    "decode": "Avdødes barn",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ABARN",
+    "sortering": 10,
+    "codeAsString": "ABARN"
+  },
+  {
+    "decode": "Avdødes ektefelle",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AEKTEF",
+    "sortering": 11,
+    "codeAsString": "AEKTEF"
+  },
+  {
+    "decode": "Avdødes fosterbarn",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AFBARN",
+    "sortering": 12,
+    "codeAsString": "AFBARN"
+  },
+  {
+    "decode": "Avdødes partner",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "APARTNER",
+    "sortering": 13,
+    "codeAsString": "APARTNER"
+  },
+  {
+    "decode": "Avdødes samboer",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "ASAMBO",
+    "sortering": 14,
+    "codeAsString": "ASAMBO"
+  },
+  {
+    "decode": "Avdød",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "AVDOD",
+    "sortering": 9,
+    "codeAsString": "AVDOD"
+  },
+  {
+    "decode": "Barn",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "BARN",
+    "sortering": 1,
+    "codeAsString": "BARN"
+  },
+  {
+    "decode": "Ektefelle",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "EKTEF",
+    "sortering": 2,
+    "codeAsString": "EKTEF"
+  },
+  {
+    "decode": "Far",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FAR",
+    "sortering": 3,
+    "codeAsString": "FAR"
+  },
+  {
+    "decode": "Fosterbarn",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "FBARN",
+    "sortering": 4,
+    "codeAsString": "FBARN"
+  },
+  {
+    "decode": "Medmor",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MEDMOR",
+    "sortering": 16,
+    "codeAsString": "MEDMOR"
+  },
+  {
+    "decode": "Mor",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "MOR",
+    "sortering": 5,
+    "codeAsString": "MOR"
+  },
+  {
+    "decode": "Partner",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "PARTNER",
+    "sortering": 6,
+    "codeAsString": "PARTNER"
+  },
+  {
+    "decode": "Samboer",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SAMBO",
+    "sortering": 7,
+    "codeAsString": "SAMBO"
+  },
+  {
+    "decode": "Bruker",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SOKER",
+    "sortering": 15,
+    "codeAsString": "SOKER"
+  },
+  {
+    "decode": "Søsken",
+    "valid": true,
+    "fromDate": -2209078800000,
+    "toDate": null,
+    "code": "SOSKEN",
+    "sortering": 8,
+    "codeAsString": "SOSKEN"
+  }
+]
