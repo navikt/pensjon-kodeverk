@@ -6,6 +6,8 @@ metadata:
   name: pensjon-kodeverk
   namespace: teampensjon
 spec:
+  image: {{ image }}
+  port: 8080
   accessPolicy:
     inbound:
       rules:
