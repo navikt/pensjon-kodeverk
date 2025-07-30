@@ -22,6 +22,14 @@ jobs:
         uses: "nais/what-changed@main"
         with:
           files: .nais/nais-dev.yaml
+      - name: Set up JDK
+        uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 21
+
+      - name: Build with Maven
+        run: mvn clean package -DskipTests
       - name: Build and push image and SBOM to OCI registry
         if: steps.changed-files.outputs.changed != 'only-inputs'
         uses: nais/docker-build-push@v0
