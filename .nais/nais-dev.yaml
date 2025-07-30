@@ -6,6 +6,7 @@ metadata:
   name: pensjon-kodeverk
   namespace: teampensjon
 spec:
+  port: 8080
   accessPolicy:
     inbound:
       rules:
@@ -24,9 +25,6 @@ spec:
   azure:
     application:
       allowAllUsers: true
-      claims:
-        groups:
-          - id: 00000000-0000-0000-0000-000000000000
       enabled: true
       tenant: nav.no
   ingresses:
