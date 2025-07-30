@@ -4,24 +4,24 @@ on:
   push:
     branches:
       - main
-      - sandbox
+      - sandbox   # TODO: Fjern deploy av sandbox
+
 jobs:
-  build_and_deploy:
-    name: Build, push and deploy
+  build:
+    name: Build and push image
     runs-on: ubuntu-latest
     permissions:
       contents: read
       id-token: write
       actions: read
+    outputs:
+      image: ${{ steps.docker-build-push.outputs.image }}
+      telemetry: ${{ steps.docker-build-push.outputs.telemetry }}
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetch all history for what-changed action
-      - name: Determine what to do
-        id: changed-files
-        uses: "nais/what-changed@main"
-        with:
-          files: .nais/nais-dev.yaml
+          fetch-depth: 0
+
       - name: Set up JDK
         uses: actions/setup-java@v4
         with:
@@ -30,16 +30,41 @@ jobs:
 
       - name: Build with Maven
         run: mvn clean package -DskipTests
+
       - name: Build and push image and SBOM to OCI registry
-        if: steps.changed-files.outputs.changed != 'only-inputs'
         uses: nais/docker-build-push@v0
         id: docker-build-push
         with:
           team: teampensjon
-      - name: Deploy to Nais
+
+  deploy-dev:
+    name: Deploy to dev
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Deploy to dev
         uses: nais/deploy/actions/deploy@v2
         env:
           CLUSTER: dev-gcp
           RESOURCE: .nais/nais-dev.yaml
-          WORKLOAD_IMAGE: ${{ steps.docker-build-push.outputs.image }}
-          TELEMETRY: ${{ steps.docker-build-push.outputs.telemetry }}
+          WORKLOAD_IMAGE: ${{ needs.build.outputs.image }}
+          TELEMETRY: ${{ needs.build.outputs.telemetry }}
+
+#  deploy-prod:                   # TODO: Kommenter inn, når applikasjoner er klar for å prodsettes
+#    name: Deploy to prod
+#      id-token: write
+#    runs-on: ubuntu-latest
+#    permissions:
+#      id-token: write
+#    steps:
+#      - uses: actions/checkout@v4
+#      - name: Deploy to prod
+#        uses: nais/deploy/actions/deploy@v2
+#        env:
+#          CLUSTER: prod-gcp
+#          RESOURCE: .nais/nais-prod.yaml
+#          WORKLOAD_IMAGE: ${{ needs.build.outputs.image }}
+#          TELEMETRY: ${{ needs.build.outputs.telemetry }}
