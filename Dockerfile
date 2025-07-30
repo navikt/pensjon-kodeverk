@@ -1,19 +1,10 @@
 FROM eclipse-temurin:21-jre
 
-RUN apt-get update && apt-get install -y \
-  dumb-init \
-  && rm -rf /var/lib/apt/lists/*
-
 WORKDIR /app
+
+COPY target/*.jar app.jar
 
 ENV LOGGING_CONFIG=classpath:logback-nais.xml
 ENV TZ="Europe/Oslo"
 
-COPY java-opts.sh .
-
-RUN chmod +x java-opts.sh
-
-COPY target/*.jar app.jar
-
-ENTRYPOINT ["/usr/bin/dumb-init", "--"]
-CMD ["bash", "-c", "source ./java-opts.sh && exec java ${DEFAULT_JVM_OPTS} ${JAVA_OPTS} -jar app.jar ${RUNTIME_OPTS} $@"]
+CMD ["java", "-jar", "app.jar"]
