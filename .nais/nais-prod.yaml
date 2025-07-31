@@ -6,12 +6,7 @@ metadata:
   name: pensjon-kodeverk
   namespace: pensjondeployer
 spec:
-  accessPolicy:
-    inbound:
-      rules:
-        - application: pensjon-pen
-          cluster: prod-fss
-          namespace: pensjondeployer
+  port: 8080
   azure:
     application:
       allowAllUsers: true
