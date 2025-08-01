@@ -7,19 +7,19 @@ metadata:
   namespace: teampensjon
 spec:
   port: 8080
-#  accessPolicy:
-#    inbound:
-#      rules:
-#        - application: pensjon-pen-q2
-#          cluster: dev-fss
-#          namespace: pensjon-q2
-#        - application: pensjon-psak-q2
-#          cluster: dev-fss
-#          namespace: pensjon-q2
-#  azure:
-#    application:
-#      allowAllUsers: true
-#      enabled: true
-#      tenant: trygdeetaten.no
+  accessPolicy:
+    inbound:
+      rules: # TODO: Gi tilgang til alle applikasjoner framfor å gi spesifikk tilgang til hver applikasjon
+        - application: pensjon-pen-q2
+          cluster: dev-fss
+          namespace: pensjon-q2
+        - application: pensjon-psak-q2
+          cluster: dev-fss
+          namespace: pensjon-q2
+  azure:
+    application:
+      allowAllUsers: true
+      enabled: true
+      tenant: trygdeetaten.no
   ingresses:
     - https://pensjon-kodeverk.intern.dev.nav.no
