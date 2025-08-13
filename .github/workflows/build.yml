@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - main
-      - sandbox   # TODO: Fjern deploy av sandbox
 
 jobs:
   build:
@@ -53,18 +52,18 @@ jobs:
           WORKLOAD_IMAGE: ${{ needs.build.outputs.image }}
           TELEMETRY: ${{ needs.build.outputs.telemetry }}
 
-#  deploy-prod:                   # TODO: Kommenter inn, når applikasjoner er klar for å prodsettes
-#    name: Deploy to prod
-#      id-token: write
-#    runs-on: ubuntu-latest
-#    permissions:
-#      id-token: write
-#    steps:
-#      - uses: actions/checkout@v5
-#      - name: Deploy to prod
-#        uses: nais/deploy/actions/deploy@v2
-#        env:
-#          CLUSTER: prod-gcp
-#          RESOURCE: .nais/nais-prod.yaml
-#          WORKLOAD_IMAGE: ${{ needs.build.outputs.image }}
-#          TELEMETRY: ${{ needs.build.outputs.telemetry }}
+  deploy-prod:
+    name: Deploy to prod
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      id-token: write
+    steps:
+      - uses: actions/checkout@v5
+      - name: Deploy to prod
+        uses: nais/deploy/actions/deploy@v2
+        env:
+          CLUSTER: prod-gcp
+          RESOURCE: .nais/nais-prod.yaml
+          WORKLOAD_IMAGE: ${{ needs.build.outputs.image }}
+          TELEMETRY: ${{ needs.build.outputs.telemetry }}
