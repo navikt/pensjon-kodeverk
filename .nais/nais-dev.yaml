@@ -7,6 +7,33 @@ metadata:
   namespace: teampensjon
 spec:
   port: 8080
+  accessPolicy:
+    inbound:
+      rules:
+        - application: pensjon-pen-q0
+          cluster: dev-fss
+          namespace: pensjon-q0
+        - application: pensjon-pen-q1
+          cluster: dev-fss
+          namespace: pensjon-q1
+        - application: pensjon-pen-q2
+          cluster: dev-fss
+          namespace: pensjon-q2
+        - application: pensjon-pen-q5
+          cluster: dev-fss
+          namespace: pensjon-q5
+        - application: pensjon-psak-q0
+          cluster: dev-fss
+          namespace: pensjon-q0
+        - application: pensjon-psak-q1
+          cluster: dev-fss
+          namespace: pensjon-q1
+        - application: pensjon-psak-q2
+          cluster: dev-fss
+          namespace: pensjon-q2
+        - application: pensjon-psak-q5
+          cluster: dev-fss
+          namespace: pensjon-q5
   azure:
     application:
       allowAllUsers: true
