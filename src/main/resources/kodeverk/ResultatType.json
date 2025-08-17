@@ -2,7 +2,7 @@
   {
     "decode": "AFP",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP",
     "skjermbildeId": "BES581",
@@ -11,7 +11,7 @@
   {
     "decode": "AFP i privat sektor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP_PRIVAT",
     "skjermbildeId": "BES583",
@@ -20,7 +20,7 @@
   {
     "decode": "Alderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP",
     "skjermbildeId": "BES570",
@@ -29,7 +29,7 @@
   {
     "decode": "Alderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP2011",
     "skjermbildeId": "BES561",
@@ -38,7 +38,7 @@
   {
     "decode": "Alderspensjon med gjenlevenderett",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP2011_GJP",
     "skjermbildeId": "BES561",
@@ -47,7 +47,7 @@
   {
     "decode": "Alderspensjon med gjenlevenderett",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP2011_GJP_UP",
     "skjermbildeId": "BES561",
@@ -56,7 +56,7 @@
   {
     "decode": "Alderspensjon med gjenlevenderett",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP2011_GJP_UP_YP",
     "skjermbildeId": "BES561",
@@ -65,7 +65,7 @@
   {
     "decode": "Alderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP2016",
     "skjermbildeId": "BES566",
@@ -74,7 +74,7 @@
   {
     "decode": "Alderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP2025",
     "skjermbildeId": "BES567",
@@ -83,7 +83,7 @@
   {
     "decode": "Alderspensjon med gjenlevenderett",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP_GJP",
     "skjermbildeId": "BES570",
@@ -92,7 +92,7 @@
   {
     "decode": "Alderspensjon med gjenlevenderett",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP_GJP_UP",
     "skjermbildeId": "BES570",
@@ -101,7 +101,7 @@
   {
     "decode": "Alderspensjon med gjenlevenderett",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP_GJP_UP_YP",
     "skjermbildeId": "BES570",
@@ -110,7 +110,7 @@
   {
     "decode": "Barnepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BP1",
     "skjermbildeId": "BES574",
@@ -119,7 +119,7 @@
   {
     "decode": "Barnepensjon med avdødes uføreopptjening",
     "valid": false,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BP1_UP",
     "skjermbildeId": "BES574",
@@ -128,7 +128,7 @@
   {
     "decode": "Barnepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BP2",
     "skjermbildeId": "BES572",
@@ -137,7 +137,7 @@
   {
     "decode": "Barnepensjon med avdødes uføreopptjening",
     "valid": false,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BP2_UP",
     "skjermbildeId": "BES572",
@@ -146,7 +146,7 @@
   {
     "decode": "Familiepleierytelse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAMP",
     "skjermbildeId": "BES578",
@@ -155,7 +155,7 @@
   {
     "decode": "Gammel yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GAM_YRK",
     "skjermbildeId": "BES569",
@@ -164,7 +164,7 @@
   {
     "decode": "Gjenlevendeytelse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GJP",
     "skjermbildeId": "BES572",
@@ -173,7 +173,7 @@
   {
     "decode": "Gjenlevendeytelse etter far",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GJP_FAR",
     "skjermbildeId": "BES572",
@@ -182,7 +182,7 @@
   {
     "decode": "Gjenlevendeytelse etter mor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GJP_MOR",
     "skjermbildeId": "BES572",
@@ -191,7 +191,7 @@
   {
     "decode": "Gjenlevendepensjon med avdødes uføreopptjening",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GJP_UP",
     "skjermbildeId": "BES572",
@@ -200,7 +200,7 @@
   {
     "decode": "Gjenlevendeytelse med avdødes uføreopptjening",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GJP_UP_YP",
     "skjermbildeId": "BES572",
@@ -209,7 +209,7 @@
   {
     "decode": "Gjenlevenderett",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GJR",
     "skjermbildeId": "BES572",
@@ -218,7 +218,7 @@
   {
     "decode": "Konvertert AFP",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_AFP",
     "skjermbildeId": "BES581",
@@ -227,7 +227,7 @@
   {
     "decode": "Konvertert alderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_ALDER",
     "skjermbildeId": "BES570",
@@ -236,7 +236,7 @@
   {
     "decode": "Konvertert barnepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_BARNEP1",
     "skjermbildeId": "BES574",
@@ -245,7 +245,7 @@
   {
     "decode": "Konvertert barnepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_BARNEP2",
     "skjermbildeId": "BES572",
@@ -254,7 +254,7 @@
   {
     "decode": "Konvertert familiepleierytelse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_FAM_PLEIE",
     "skjermbildeId": "BES578",
@@ -263,7 +263,7 @@
   {
     "decode": "Konvertert gammel yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_GAM_YRK",
     "skjermbildeId": "BES569",
@@ -272,7 +272,7 @@
   {
     "decode": "Konvertert gjenlevendeytelse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_GJENL",
     "skjermbildeId": "BES572",
@@ -281,7 +281,7 @@
   {
     "decode": "Konvertert krigspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_KRIG",
     "skjermbildeId": "BES569",
@@ -290,7 +290,7 @@
   {
     "decode": "Konvertert uførepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_UFORE",
     "skjermbildeId": "BES571",
@@ -299,7 +299,7 @@
   {
     "decode": "Krigspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KP",
     "skjermbildeId": "BES569",
@@ -308,7 +308,7 @@
   {
     "decode": "Uførepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UP",
     "skjermbildeId": "BES571",
@@ -317,7 +317,7 @@
   {
     "decode": "Uførepensjon med gjenlevenderett",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UP_GJP",
     "skjermbildeId": "BES571",
@@ -326,7 +326,7 @@
   {
     "decode": "Uførepensjon med gjenlevenderett",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UP_GJP_UP",
     "skjermbildeId": "BES571",
@@ -335,7 +335,7 @@
   {
     "decode": "Uførepensjon med gjenlevenderett",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UP_GJP_UP_YP",
     "skjermbildeId": "BES571",
@@ -344,7 +344,7 @@
   {
     "decode": "Uførepensjon med yrkesskadefordeler",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UP_YP",
     "skjermbildeId": "BES571",
@@ -353,7 +353,7 @@
   {
     "decode": "Uføretrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT",
     "skjermbildeId": "BES585",
@@ -362,7 +362,7 @@
   {
     "decode": "Uføretrygd med gjenlevendetillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_GJT",
     "skjermbildeId": "BES585",
@@ -371,7 +371,7 @@
   {
     "decode": "Uføretrygd med yrkesskadefordeler",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_YT",
     "skjermbildeId": "BES585",
@@ -380,7 +380,7 @@
   {
     "decode": "Yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "YP",
     "skjermbildeId": "BES577",
@@ -389,7 +389,7 @@
   {
     "decode": "Yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "YT",
     "skjermbildeId": "BES585",

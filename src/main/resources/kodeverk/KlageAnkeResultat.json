@@ -2,7 +2,7 @@
   {
     "decode": "Avvist",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AVVIST",
     "codeAsString": "AVVIST"
@@ -10,7 +10,7 @@
   {
     "decode": "Delvis omgjøre",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DEL_OMG",
     "codeAsString": "DEL_OMG"
@@ -18,7 +18,7 @@
   {
     "decode": "Omgjøre",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMG",
     "codeAsString": "OMG"
@@ -26,7 +26,7 @@
   {
     "decode": "Opphevet og hjemvist",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPH_HVIST",
     "codeAsString": "OPPH_HVIST"
@@ -34,7 +34,7 @@
   {
     "decode": "Stadfestet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STADFST",
     "codeAsString": "STADFST"
@@ -42,7 +42,7 @@
   {
     "decode": "Ugunst",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UGUNST",
     "codeAsString": "UGUNST"

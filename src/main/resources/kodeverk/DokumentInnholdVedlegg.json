@@ -2,7 +2,7 @@
   {
     "decode": "Adresse/bank",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ADR_BANK",
     "dokType": "I",
@@ -11,7 +11,7 @@
   {
     "decode": "AFP-vedtak fellesordninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP_VED",
     "dokType": "I",
@@ -20,7 +20,7 @@
   {
     "decode": "Anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANKE",
     "dokType": "I",
@@ -29,7 +29,7 @@
   {
     "decode": "Anmodning om dokumentinnsyn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANMOD_DOK_INNS",
     "dokType": "I",
@@ -38,7 +38,7 @@
   {
     "decode": "Begjæring om gjenopptak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BEGJ_GJENOPPT",
     "dokType": "I",
@@ -47,7 +47,7 @@
   {
     "decode": "Begjæring om omgjøring",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BEGJ_OMGJOR",
     "dokType": "I",
@@ -56,7 +56,7 @@
   {
     "decode": "Bekreftelse på utdanning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BEKREFT_UTDANNING",
     "dokType": null,
@@ -65,7 +65,7 @@
   {
     "decode": "Botid/fartstid",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BO_FART",
     "dokType": "I",
@@ -74,7 +74,7 @@
   {
     "decode": "Detaljert EØS-legeerklæring",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DETALJ_EOS_LEGERKL",
     "dokType": "I",
@@ -83,7 +83,7 @@
   {
     "decode": "Dødsfall",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DODSFALL",
     "dokType": "I",
@@ -92,7 +92,7 @@
   {
     "decode": "Dokumentasjon fra andre land",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DOK_ANDRE_LAND",
     "dokType": "I",
@@ -101,7 +101,7 @@
   {
     "decode": "Dokumentoversikt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DOK_OVERSIKT",
     "dokType": null,
@@ -110,7 +110,7 @@
   {
     "decode": "D-nummer",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "D_NUM",
     "dokType": "I",
@@ -119,7 +119,7 @@
   {
     "decode": "Egenerklæring omsorgspoeng",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EGENERKL_OMS",
     "dokType": "I",
@@ -128,7 +128,7 @@
   {
     "decode": "Etteroppgjør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTEROPPGJOR",
     "dokType": "I",
@@ -137,7 +137,7 @@
   {
     "decode": "E-blankett",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "E_BLANK",
     "dokType": null,
@@ -146,7 +146,7 @@
   {
     "decode": "Fagforeningstrekk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAGFOR_TREKK",
     "dokType": "I",
@@ -155,7 +155,7 @@
   {
     "decode": "Fødsel",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FODSEL",
     "dokType": "I",
@@ -164,8 +164,8 @@
   {
     "decode": "Fødsel/sivilstand/død",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1664488800000,
+    "fromDate": "1899-12-31",
+    "toDate": "2022-09-30",
     "code": "FOD_SIV_DO",
     "dokType": "I",
     "codeAsString": "FOD_SIV_DO"
@@ -173,7 +173,7 @@
   {
     "decode": "Foreløpig anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORELOP_ANKE",
     "dokType": "I",
@@ -182,7 +182,7 @@
   {
     "decode": "Forespørsel",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORESP",
     "dokType": "I",
@@ -191,7 +191,7 @@
   {
     "decode": "Forespørsel til avtaleland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORESP_AVT_LAND",
     "dokType": "I",
@@ -200,7 +200,7 @@
   {
     "decode": "Forhåndsfastsetting",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORH_FASTS",
     "dokType": "I",
@@ -209,7 +209,7 @@
   {
     "decode": "Forvaltning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORVALTNING",
     "dokType": "I",
@@ -218,7 +218,7 @@
   {
     "decode": "Forespørsel fra namsmannen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FS_NAM",
     "dokType": "I",
@@ -227,7 +227,7 @@
   {
     "decode": "Fullmakt/verge",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FULL_VER",
     "dokType": "I",
@@ -236,7 +236,7 @@
   {
     "decode": "Frivillig skattetrekk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FVS",
     "dokType": "I",
@@ -245,8 +245,8 @@
   {
     "decode": "Forhåndsligning",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1664488800000,
+    "fromDate": "1899-12-31",
+    "toDate": "2022-09-30",
     "code": "F_LIGNING",
     "dokType": "I",
     "codeAsString": "F_LIGNING"
@@ -254,7 +254,7 @@
   {
     "decode": "Generell",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GENERELL",
     "dokType": "I",
@@ -263,7 +263,7 @@
   {
     "decode": "Helseopplysninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HELSE_OPPL",
     "dokType": "I",
@@ -272,7 +272,7 @@
   {
     "decode": "Husleietrekk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HUSL_TREKK",
     "dokType": "I",
@@ -281,7 +281,7 @@
   {
     "decode": "Inntekt/arbeid",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNT_ARB",
     "dokType": "I",
@@ -290,7 +290,7 @@
   {
     "decode": "Inntektsopplysninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNT_OPPL",
     "dokType": "I",
@@ -299,7 +299,7 @@
   {
     "decode": "Institusjonsopphold",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INST_OPPH",
     "dokType": "I",
@@ -308,7 +308,7 @@
   {
     "decode": "Klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAGE",
     "dokType": "I",
@@ -317,17 +317,17 @@
   {
     "decode": "Klage/anke",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1675240905000,
+    "fromDate": "1899-12-31",
+    "toDate": "2023-01-30",
     "code": "KLAG_ANK",
     "dokType": "I",
     "codeAsString": "KLAG_ANK"
   },
   {
-    "decode": "Klage/anke-vedtak",
+    "decode": "Klage/Anke Vedtak",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1675240905000,
+    "fromDate": "1899-12-31",
+    "toDate": "2022-01-29",
     "code": "KLAG_ANK_V",
     "dokType": "I",
     "codeAsString": "KLAG_ANK_V"
@@ -335,7 +335,7 @@
   {
     "decode": "Kopi fra saksmappen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KOPI_FRA_SAKSMAPPEN",
     "dokType": null,
@@ -344,7 +344,7 @@
   {
     "decode": "Kravblankett",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KRAV_BL",
     "dokType": null,
@@ -353,8 +353,8 @@
   {
     "decode": "Krav om forlengelse av hvilende rett til uførepensjon i fem nye år",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1664488800000,
+    "fromDate": "1899-12-31",
+    "toDate": "2022-09-30",
     "code": "KRAV_FORL_UFOREP",
     "dokType": "I",
     "codeAsString": "KRAV_FORL_UFOREP"
@@ -362,7 +362,7 @@
   {
     "decode": "Krav om forsørgingstillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KRAV_FT",
     "dokType": "I",
@@ -371,7 +371,7 @@
   {
     "decode": "Krav om gjennopptak/omgjøring",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KRA_GJENNOPPTAK_OMGJ",
     "dokType": null,
@@ -380,7 +380,7 @@
   {
     "decode": "Leveattest",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LEVEATT",
     "dokType": "I",
@@ -389,7 +389,7 @@
   {
     "decode": "Lønns- og trekkoppgave",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LTO",
     "dokType": "I",
@@ -398,7 +398,7 @@
   {
     "decode": "Medisinske opplysninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MED_OPPL",
     "dokType": "I",
@@ -407,7 +407,7 @@
   {
     "decode": "Merknader i ankesak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MERKNAD_ANKE",
     "dokType": null,
@@ -416,7 +416,7 @@
   {
     "decode": "Oppheving av ankesak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPHEV_ANKESAK",
     "dokType": null,
@@ -425,7 +425,7 @@
   {
     "decode": "Oversatte dokument",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OVERSATT_DOK",
     "dokType": "I",
@@ -434,7 +434,7 @@
   {
     "decode": "Oversettelse av dokumenter",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OVERSETTELSE_AV_DOK",
     "dokType": null,
@@ -443,7 +443,7 @@
   {
     "decode": "P1 Samlet melding om pensjonsvedtak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P1_SAML_MELD_PV",
     "dokType": null,
@@ -452,7 +452,7 @@
   {
     "decode": "Kreditortrekk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PALEGG",
     "dokType": "I",
@@ -461,7 +461,7 @@
   {
     "decode": "Prosesskriv til Trygderetten",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PRSKRIV_TRYGDERETT",
     "dokType": null,
@@ -470,7 +470,7 @@
   {
     "decode": "Purring",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PURRING",
     "dokType": "I",
@@ -479,7 +479,7 @@
   {
     "decode": "Refusjonskrav pensjonskasse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REF_PEN",
     "dokType": "I",
@@ -488,7 +488,7 @@
   {
     "decode": "Refusjonskrav sosialkontor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REF_SOS",
     "dokType": "I",
@@ -497,7 +497,7 @@
   {
     "decode": "Refusjonskrav utenlandsk myndighet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REF_UTL_M",
     "dokType": "I",
@@ -506,8 +506,8 @@
   {
     "decode": "Registreringsblankett uføre",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1327273200000,
+    "fromDate": "1899-12-31",
+    "toDate": "2012-01-23",
     "code": "REGBL_UFORE",
     "dokType": "I",
     "codeAsString": "REGBL_UFORE"
@@ -515,7 +515,7 @@
   {
     "decode": "Regnskap",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REGNSKAP",
     "dokType": "I",
@@ -524,7 +524,7 @@
   {
     "decode": "Rettsavgjørelse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "RETTSAVGJORELSE",
     "dokType": null,
@@ -533,7 +533,7 @@
   {
     "decode": "Søknad om saksomkostninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAKSOMKOSTNINGER",
     "dokType": null,
@@ -542,7 +542,7 @@
   {
     "decode": "Samordningsmelding",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAMORD",
     "dokType": "I",
@@ -551,7 +551,7 @@
   {
     "decode": "SED",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SED",
     "dokType": null,
@@ -560,7 +560,7 @@
   {
     "decode": "Serviceberegning av folketrygdberegnet AFP",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SERVBER_FTBER_AFP",
     "dokType": "U",
@@ -569,7 +569,7 @@
   {
     "decode": "Sivilstand",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SIVILSTAND",
     "dokType": "I",
@@ -578,7 +578,7 @@
   {
     "decode": "Skatteopplysninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SKATTOPP",
     "dokType": "I",
@@ -587,7 +587,7 @@
   {
     "decode": "Søknad om dekning av faste utgifter under opphold i institusjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOKN_DEKN_FAST_UTG",
     "dokType": "I",
@@ -596,7 +596,7 @@
   {
     "decode": "Søknad om endring av inntektsnivå før/etter uførhet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOK_ENDR_INNT",
     "dokType": "I",
@@ -605,7 +605,7 @@
   {
     "decode": "Stevning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STEVNING",
     "dokType": null,
@@ -614,7 +614,7 @@
   {
     "decode": "Stopp/endring trekk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STOPP_ENDR_TREKK",
     "dokType": "I",
@@ -623,7 +623,7 @@
   {
     "decode": "Tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILBAKEK",
     "dokType": "I",
@@ -632,7 +632,7 @@
   {
     "decode": "Tilleggsopplysninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILLEGGOPP",
     "dokType": "I",
@@ -641,7 +641,7 @@
   {
     "decode": "Tilsvar til inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILSV_INNTEKT",
     "dokType": "I",
@@ -650,7 +650,7 @@
   {
     "decode": "Til uttalelse fra Trygderetten",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TIL_U_F_TRYGDERETT",
     "dokType": null,
@@ -659,7 +659,7 @@
   {
     "decode": "TP-ordning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TP_ORDNING",
     "dokType": "I",
@@ -668,7 +668,7 @@
   {
     "decode": "Trekker anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TREKKER_ANKE",
     "dokType": null,
@@ -677,7 +677,7 @@
   {
     "decode": "Trekker klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TREKKER_KLAGE",
     "dokType": null,
@@ -686,7 +686,7 @@
   {
     "decode": "Trekkopplysninger (andre)",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TREKKOPP",
     "dokType": "I",
@@ -695,7 +695,7 @@
   {
     "decode": "Tvungen forvaltning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TVUNGEN_FORV",
     "dokType": "I",
@@ -704,7 +704,7 @@
   {
     "decode": "Ukjent",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UKJENT",
     "dokType": "I",
@@ -713,7 +713,7 @@
   {
     "decode": "Undersøkelse (henv. fra Sivilombudsmannen)",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UNDERSOKELSE",
     "dokType": null,
@@ -722,7 +722,7 @@
   {
     "decode": "Utbetaling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTBET",
     "dokType": "I",
@@ -731,7 +731,7 @@
   {
     "decode": "Utfyllende anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTFYLL_ANKE",
     "dokType": "I",
@@ -740,7 +740,7 @@
   {
     "decode": "Uttalelse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTTALELSE",
     "dokType": "I",
@@ -749,7 +749,7 @@
   {
     "decode": "Uttalelse i klagesak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTTAL_KLAGE",
     "dokType": "I",
@@ -758,7 +758,7 @@
   {
     "decode": "Uttalelse til varsel",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTTAL_VARSEL",
     "dokType": "I",
@@ -767,7 +767,7 @@
   {
     "decode": "Vederlagstrekk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VEDERLAGT",
     "dokType": "I",

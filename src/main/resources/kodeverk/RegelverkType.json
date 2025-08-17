@@ -2,7 +2,7 @@
   {
     "decode": "AP kap 19 tom 2010",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "G_REG",
     "codeAsString": "G_REG"
@@ -10,7 +10,7 @@
   {
     "decode": "AP kap. 19 og kap. 20",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "N_REG_G_N_OPPTJ",
     "codeAsString": "N_REG_G_N_OPPTJ"
@@ -18,7 +18,7 @@
   {
     "decode": "AP kap 19 fom 2011",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "N_REG_G_OPPTJ",
     "codeAsString": "N_REG_G_OPPTJ"
@@ -26,7 +26,7 @@
   {
     "decode": "AP kap. 20",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "N_REG_N_OPPTJ",
     "codeAsString": "N_REG_N_OPPTJ"

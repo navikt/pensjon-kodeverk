@@ -2,7 +2,7 @@
   {
     "decode": "Opptjeningsavgiver",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPTJ_AVGIVER",
     "codeAsString": "OPPTJ_AVGIVER"
@@ -10,7 +10,7 @@
   {
     "decode": "Opptjeningsmottaker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPTJ_MOTTAKER",
     "codeAsString": "OPPTJ_MOTTAKER"
@@ -18,7 +18,7 @@
   {
     "decode": "Søker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOKER",
     "codeAsString": "SOKER"
@@ -26,7 +26,7 @@
   {
     "decode": "Tilstøtende",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILST",
     "codeAsString": "TILST"

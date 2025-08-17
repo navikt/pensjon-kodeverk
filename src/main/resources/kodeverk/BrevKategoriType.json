@@ -2,7 +2,7 @@
   {
     "decode": "Brev med skjema",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_MED_SKJEMA",
     "prioritet": 2,
@@ -11,7 +11,7 @@
   {
     "decode": "Informasjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INFORMASJON",
     "prioritet": 3,
@@ -20,7 +20,7 @@
   {
     "decode": "Innhente opplysninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNHENTE_OPPL",
     "prioritet": 4,
@@ -29,7 +29,7 @@
   {
     "decode": "Notat",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NOTAT",
     "prioritet": 1,
@@ -38,7 +38,7 @@
   {
     "decode": "Øvrig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OVRIG",
     "prioritet": 100,
@@ -47,7 +47,7 @@
   {
     "decode": "Varsel",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VARSEL",
     "prioritet": 5,
@@ -56,7 +56,7 @@
   {
     "decode": "Vedtak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VEDTAK",
     "prioritet": 6,

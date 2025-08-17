@@ -2,7 +2,7 @@
   {
     "decode": "Bestem ny forventet inntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BEREGN_FORINT",
     "codeAsString": "BEREGN_FORINT"
@@ -10,7 +10,7 @@
   {
     "decode": "Beregn IFU",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BEREGN_IFU",
     "codeAsString": "BEREGN_IFU"
@@ -18,7 +18,7 @@
   {
     "decode": "Beregn UFG",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BEREGN_UFG",
     "codeAsString": "BEREGN_UFG"
@@ -26,7 +26,7 @@
   {
     "decode": "Fastsett UFG",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FASTSETT_UFG",
     "codeAsString": "FASTSETT_UFG"
@@ -34,7 +34,7 @@
   {
     "decode": "Konverter IFU",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONVERTER_IFU",
     "codeAsString": "KONVERTER_IFU"

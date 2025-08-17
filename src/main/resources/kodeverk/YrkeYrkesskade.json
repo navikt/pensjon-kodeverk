@@ -2,7 +2,7 @@
   {
     "decode": "Arbeidstaker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ARB",
     "codeAsString": "ARB"
@@ -10,7 +10,7 @@
   {
     "decode": "Elev/student",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EL",
     "codeAsString": "EL"
@@ -18,7 +18,7 @@
   {
     "decode": "Elev uten yrkesutdanning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EL_UTEN_YRK",
     "codeAsString": "EL_UTEN_YRK"
@@ -26,7 +26,7 @@
   {
     "decode": "Fisker/fangstmann",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FISK",
     "codeAsString": "FISK"
@@ -34,7 +34,7 @@
   {
     "decode": "Militærperson",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MIL",
     "codeAsString": "MIL"
@@ -42,7 +42,7 @@
   {
     "decode": "Selvstendig næringsdrivende",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SELV_NAER",
     "codeAsString": "SELV_NAER"
@@ -50,7 +50,7 @@
   {
     "decode": "Ungdom med lav inntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UNG",
     "codeAsString": "UNG"

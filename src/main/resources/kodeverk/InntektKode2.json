@@ -2,7 +2,7 @@
   {
     "decode": "Inntekt kunne ikke beregnes - I1 = 2,3,9",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INT_IKKE_BER",
     "codeAsString": "INT_IKKE_BER"
@@ -10,7 +10,7 @@
   {
     "decode": "Inntekt med friinntekt, gamle regler - virk før 2004",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INT_M_FRI_GML_REGL",
     "codeAsString": "INT_M_FRI_GML_REGL"
@@ -18,7 +18,7 @@
   {
     "decode": "Inntekt uten friinntekt, gamle regler - virk før 2004",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INT_U_FRI_GML_REGL",
     "codeAsString": "INT_U_FRI_GML_REGL"
@@ -26,7 +26,7 @@
   {
     "decode": "Inntekt = Oppjustert inntekt etter uførhet med friinntekt med tak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPJ_INNT_M_FRI_M_TK",
     "codeAsString": "OPPJ_INNT_M_FRI_M_TK"
@@ -34,7 +34,7 @@
   {
     "decode": "Inntekt = Oppjustert inntekt etter uførhet med friinntekt uten tak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPJ_INNT_M_FRI_U_TK",
     "codeAsString": "OPPJ_INNT_M_FRI_U_TK"
@@ -42,7 +42,7 @@
   {
     "decode": "Inntekt = Oppjustert inntekt etter uførhet uten friinntekt med tak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPJ_INNT_U_FRI_M_TK",
     "codeAsString": "OPPJ_INNT_U_FRI_M_TK"
@@ -50,7 +50,7 @@
   {
     "decode": "Inntekt = Oppjustert inntekt etter uførhet uten friinntekt uten tak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPJ_INNT_U_FRI_U_TK",
     "codeAsString": "OPPJ_INNT_U_FRI_U_TK"

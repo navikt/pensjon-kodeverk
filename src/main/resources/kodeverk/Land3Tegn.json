@@ -2,8 +2,8 @@
   {
     "decode": "Spanske Omr. Afrika",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 946681200000,
+    "fromDate": "1899-12-31",
+    "toDate": "2000-01-01",
     "id": "243",
     "code": "P_349",
     "landNr": 349,
@@ -12,8 +12,8 @@
   {
     "decode": "Sikkim",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 946681200000,
+    "fromDate": "1899-12-31",
+    "toDate": "2000-01-01",
     "id": "244",
     "code": "P_546",
     "landNr": 546,
@@ -22,8 +22,8 @@
   {
     "decode": "Yemen",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 946681200000,
+    "fromDate": "1899-12-31",
+    "toDate": "2000-01-01",
     "id": "245",
     "code": "P_556",
     "landNr": 556,
@@ -32,8 +32,8 @@
   {
     "decode": "Panamakanalsonen",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 946681200000,
+    "fromDate": "1899-12-31",
+    "toDate": "2000-01-01",
     "id": "246",
     "code": "P_669",
     "landNr": 669,
@@ -42,7 +42,7 @@
   {
     "decode": "Uoppgitt/Ukjent",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "65",
     "code": "P_UnkUnkUnk",
@@ -52,7 +52,7 @@
   {
     "decode": "Aruba",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "1",
     "code": "ABW",
@@ -62,7 +62,7 @@
   {
     "decode": "Afghanistan",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "2",
     "code": "AFG",
@@ -72,7 +72,7 @@
   {
     "decode": "Angola",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "3",
     "code": "AGO",
@@ -82,7 +82,7 @@
   {
     "decode": "Anguilla",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "4",
     "code": "AIA",
@@ -92,7 +92,7 @@
   {
     "decode": "Åland",
     "valid": true,
-    "fromDate": 1473890400000,
+    "fromDate": "2016-09-15",
     "toDate": null,
     "id": "264",
     "code": "ALA",
@@ -102,7 +102,7 @@
   {
     "decode": "Albania",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "5",
     "code": "ALB",
@@ -112,7 +112,7 @@
   {
     "decode": "Andorra",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "6",
     "code": "AND",
@@ -122,7 +122,7 @@
   {
     "decode": "De Nederlandske Antillene",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "7",
     "code": "ANT",
@@ -132,7 +132,7 @@
   {
     "decode": "De Forente Arabiske Emirater",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "8",
     "code": "ARE",
@@ -142,7 +142,7 @@
   {
     "decode": "Argentina",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "9",
     "code": "ARG",
@@ -152,7 +152,7 @@
   {
     "decode": "Armenia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "10",
     "code": "ARM",
@@ -162,7 +162,7 @@
   {
     "decode": "Am. Samoa",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "11",
     "code": "ASM",
@@ -172,7 +172,7 @@
   {
     "decode": "Antarktis",
     "valid": true,
-    "fromDate": 1473890400000,
+    "fromDate": "2016-09-15",
     "toDate": null,
     "id": "266",
     "code": "ATA",
@@ -182,8 +182,8 @@
   {
     "decode": "Franske Antiller",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 946681200000,
+    "fromDate": "1899-12-31",
+    "toDate": "2000-01-01",
     "id": "12",
     "code": "ATF",
     "landNr": 628,
@@ -192,7 +192,7 @@
   {
     "decode": "De franske territoriene i sør",
     "valid": true,
-    "fromDate": 1473890400000,
+    "fromDate": "2016-09-15",
     "toDate": null,
     "id": "265",
     "code": "ATF",
@@ -202,7 +202,7 @@
   {
     "decode": "Antigua Og Barbuda",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "13",
     "code": "ATG",
@@ -212,7 +212,7 @@
   {
     "decode": "Australia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "14",
     "code": "AUS",
@@ -222,7 +222,7 @@
   {
     "decode": "Østerrike",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "15",
     "code": "AUT",
@@ -232,7 +232,7 @@
   {
     "decode": "Aserbajdsjan",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "16",
     "code": "AZE",
@@ -242,7 +242,7 @@
   {
     "decode": "Burundi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "17",
     "code": "BDI",
@@ -252,7 +252,7 @@
   {
     "decode": "Belgia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "18",
     "code": "BEL",
@@ -262,7 +262,7 @@
   {
     "decode": "Benin",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "19",
     "code": "BEN",
@@ -272,7 +272,7 @@
   {
     "decode": "Bonaire, Sint Eustatius og Saba",
     "valid": true,
-    "fromDate": 1473890400000,
+    "fromDate": "2016-09-15",
     "toDate": null,
     "id": "254",
     "code": "BES",
@@ -282,7 +282,7 @@
   {
     "decode": "Burkina Faso",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "20",
     "code": "BFA",
@@ -292,7 +292,7 @@
   {
     "decode": "Bangladesh",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "21",
     "code": "BGD",
@@ -302,7 +302,7 @@
   {
     "decode": "Bulgaria",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "22",
     "code": "BGR",
@@ -312,7 +312,7 @@
   {
     "decode": "Bahrain",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "23",
     "code": "BHR",
@@ -322,7 +322,7 @@
   {
     "decode": "Bahamas",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "24",
     "code": "BHS",
@@ -332,7 +332,7 @@
   {
     "decode": "Bosnia-Hercegovina",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "25",
     "code": "BIH",
@@ -342,7 +342,7 @@
   {
     "decode": "Saint Barthelemy",
     "valid": true,
-    "fromDate": 1473890400000,
+    "fromDate": "2016-09-15",
     "toDate": null,
     "id": "261",
     "code": "BLM",
@@ -352,7 +352,7 @@
   {
     "decode": "Belarus",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "26",
     "code": "BLR",
@@ -362,7 +362,7 @@
   {
     "decode": "Belize",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "27",
     "code": "BLZ",
@@ -372,7 +372,7 @@
   {
     "decode": "Bermuda",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "28",
     "code": "BMU",
@@ -382,7 +382,7 @@
   {
     "decode": "Bolivia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "29",
     "code": "BOL",
@@ -392,7 +392,7 @@
   {
     "decode": "Brasil",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "30",
     "code": "BRA",
@@ -402,7 +402,7 @@
   {
     "decode": "Barbados",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "31",
     "code": "BRB",
@@ -412,7 +412,7 @@
   {
     "decode": "Brunei",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "32",
     "code": "BRN",
@@ -422,7 +422,7 @@
   {
     "decode": "Bhutan",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "33",
     "code": "BTN",
@@ -432,7 +432,7 @@
   {
     "decode": "Bouvetøya",
     "valid": true,
-    "fromDate": 1473890400000,
+    "fromDate": "2016-09-15",
     "toDate": null,
     "id": "259",
     "code": "BVT",
@@ -442,7 +442,7 @@
   {
     "decode": "Botswana",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "34",
     "code": "BWA",
@@ -452,7 +452,7 @@
   {
     "decode": "Den Sentralafrikanske Republikk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "35",
     "code": "CAF",
@@ -462,7 +462,7 @@
   {
     "decode": "Canada",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "36",
     "code": "CAN",
@@ -472,7 +472,7 @@
   {
     "decode": "Kokosøyene (Keelingøyene)",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "37",
     "code": "CCK",
@@ -482,7 +482,7 @@
   {
     "decode": "Sveits",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "38",
     "code": "CHE",
@@ -492,7 +492,7 @@
   {
     "decode": "Chile",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "39",
     "code": "CHL",
@@ -502,7 +502,7 @@
   {
     "decode": "Kina",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "40",
     "code": "CHN",
@@ -512,7 +512,7 @@
   {
     "decode": "Elfenbenskysten",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "41",
     "code": "CIV",
@@ -522,7 +522,7 @@
   {
     "decode": "Kamerun",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "42",
     "code": "CMR",
@@ -532,7 +532,7 @@
   {
     "decode": "Kongo",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "43",
     "code": "COD",
@@ -542,7 +542,7 @@
   {
     "decode": "Kongo-Brazzaville",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "44",
     "code": "COG",
@@ -552,7 +552,7 @@
   {
     "decode": "Cookøyene",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "45",
     "code": "COK",
@@ -562,7 +562,7 @@
   {
     "decode": "Colombia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "46",
     "code": "COL",
@@ -572,7 +572,7 @@
   {
     "decode": "Komorene",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "47",
     "code": "COM",
@@ -582,7 +582,7 @@
   {
     "decode": "Kapp Verde",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "48",
     "code": "CPV",
@@ -592,7 +592,7 @@
   {
     "decode": "Costa Rica",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "49",
     "code": "CRI",
@@ -602,8 +602,8 @@
   {
     "decode": "Tsjekkoslovakia",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 946681200000,
+    "fromDate": "1899-12-31",
+    "toDate": "2000-01-01",
     "id": "50",
     "code": "CSK",
     "landNr": 142,
@@ -612,7 +612,7 @@
   {
     "decode": "Cuba",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "51",
     "code": "CUB",
@@ -622,7 +622,7 @@
   {
     "decode": "Curacao",
     "valid": true,
-    "fromDate": 1473890400000,
+    "fromDate": "2016-09-15",
     "toDate": null,
     "id": "256",
     "code": "CUW",
@@ -632,7 +632,7 @@
   {
     "decode": "Christmasøya",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "52",
     "code": "CXR",
@@ -642,7 +642,7 @@
   {
     "decode": "Caymanøyene",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "53",
     "code": "CYM",
@@ -652,7 +652,7 @@
   {
     "decode": "Kypros",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "54",
     "code": "CYP",
@@ -662,8 +662,8 @@
   {
     "decode": "Den Tsjekkiske Rep.",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1209506400000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-04-30",
     "id": "55",
     "code": "CZE",
     "landNr": 158,
@@ -672,7 +672,7 @@
   {
     "decode": "Tsjekkia",
     "valid": true,
-    "fromDate": 1209592800000,
+    "fromDate": "2008-05-01",
     "toDate": null,
     "id": "247",
     "code": "CZE",
@@ -682,8 +682,8 @@
   {
     "decode": "Tyskland (Øst)",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 946681200000,
+    "fromDate": "1899-12-31",
+    "toDate": "2000-01-01",
     "id": "56",
     "code": "DDR",
     "landNr": 151,
@@ -692,7 +692,7 @@
   {
     "decode": "Tyskland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "57",
     "code": "DEU",
@@ -702,7 +702,7 @@
   {
     "decode": "Djibouti",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "58",
     "code": "DJI",
@@ -712,7 +712,7 @@
   {
     "decode": "Dominica",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "59",
     "code": "DMA",
@@ -722,7 +722,7 @@
   {
     "decode": "Danmark",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "60",
     "code": "DNK",
@@ -732,7 +732,7 @@
   {
     "decode": "Den Dominikanske Republikk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "61",
     "code": "DOM",
@@ -742,7 +742,7 @@
   {
     "decode": "Algerie",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "62",
     "code": "DZA",
@@ -752,7 +752,7 @@
   {
     "decode": "Ecuador",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "63",
     "code": "ECU",
@@ -762,7 +762,7 @@
   {
     "decode": "Egypt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "64",
     "code": "EGY",
@@ -772,7 +772,7 @@
   {
     "decode": "Eritrea",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "67",
     "code": "ERI",
@@ -782,7 +782,7 @@
   {
     "decode": "Vest-Sahara",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "68",
     "code": "ESH",
@@ -792,7 +792,7 @@
   {
     "decode": "Spania",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "69",
     "code": "ESP",
@@ -802,7 +802,7 @@
   {
     "decode": "Estland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "70",
     "code": "EST",
@@ -812,7 +812,7 @@
   {
     "decode": "Etiopia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "71",
     "code": "ETH",
@@ -822,7 +822,7 @@
   {
     "decode": "Finland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "72",
     "code": "FIN",
@@ -832,7 +832,7 @@
   {
     "decode": "Fiji",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "73",
     "code": "FJI",
@@ -842,7 +842,7 @@
   {
     "decode": "Falklandsøyene",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "74",
     "code": "FLK",
@@ -852,7 +852,7 @@
   {
     "decode": "Frankrike",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "75",
     "code": "FRA",
@@ -862,7 +862,7 @@
   {
     "decode": "Færøyene",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "76",
     "code": "FRO",
@@ -872,7 +872,7 @@
   {
     "decode": "Mikronesiaføderasjonen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "77",
     "code": "FSM",
@@ -882,7 +882,7 @@
   {
     "decode": "Gabon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "78",
     "code": "GAB",
@@ -892,7 +892,7 @@
   {
     "decode": "Storbritannia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "79",
     "code": "GBR",
@@ -902,7 +902,7 @@
   {
     "decode": "Georgia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "80",
     "code": "GEO",
@@ -912,7 +912,7 @@
   {
     "decode": "Guernsey",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "250",
     "code": "GGY",
@@ -922,7 +922,7 @@
   {
     "decode": "Ghana",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "81",
     "code": "GHA",
@@ -932,7 +932,7 @@
   {
     "decode": "Gibraltar",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "82",
     "code": "GIB",
@@ -942,7 +942,7 @@
   {
     "decode": "Guinea",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "83",
     "code": "GIN",
@@ -952,7 +952,7 @@
   {
     "decode": "Guadeloupe",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "84",
     "code": "GLP",
@@ -962,7 +962,7 @@
   {
     "decode": "Gambia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "85",
     "code": "GMB",
@@ -972,7 +972,7 @@
   {
     "decode": "Guinea-Bissau",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "86",
     "code": "GNB",
@@ -982,7 +982,7 @@
   {
     "decode": "Ekvatorial-Guinea",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "87",
     "code": "GNQ",
@@ -992,7 +992,7 @@
   {
     "decode": "Hellas",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "88",
     "code": "GRC",
@@ -1002,7 +1002,7 @@
   {
     "decode": "Grenada",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "89",
     "code": "GRD",
@@ -1012,7 +1012,7 @@
   {
     "decode": "Grønland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "90",
     "code": "GRL",
@@ -1022,7 +1022,7 @@
   {
     "decode": "Guatemala",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "91",
     "code": "GTM",
@@ -1032,7 +1032,7 @@
   {
     "decode": "Fransk Guyana",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "92",
     "code": "GUF",
@@ -1042,7 +1042,7 @@
   {
     "decode": "Guam",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "93",
     "code": "GUM",
@@ -1052,7 +1052,7 @@
   {
     "decode": "Guyana",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "94",
     "code": "GUY",
@@ -1062,7 +1062,7 @@
   {
     "decode": "Hongkong",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "95",
     "code": "HKG",
@@ -1072,7 +1072,7 @@
   {
     "decode": "Heard- og McDonaldøyene",
     "valid": true,
-    "fromDate": 1473890400000,
+    "fromDate": "2016-09-15",
     "toDate": null,
     "id": "257",
     "code": "HMD",
@@ -1082,7 +1082,7 @@
   {
     "decode": "Honduras",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "96",
     "code": "HND",
@@ -1092,7 +1092,7 @@
   {
     "decode": "Kroatia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "97",
     "code": "HRV",
@@ -1102,7 +1102,7 @@
   {
     "decode": "Haiti",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "98",
     "code": "HTI",
@@ -1112,7 +1112,7 @@
   {
     "decode": "Ungarn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "99",
     "code": "HUN",
@@ -1122,7 +1122,7 @@
   {
     "decode": "Indonesia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "100",
     "code": "IDN",
@@ -1132,7 +1132,7 @@
   {
     "decode": "Isle of Man",
     "valid": true,
-    "fromDate": 1473890400000,
+    "fromDate": "2016-09-15",
     "toDate": null,
     "id": "258",
     "code": "IMN",
@@ -1142,7 +1142,7 @@
   {
     "decode": "India",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "101",
     "code": "IND",
@@ -1152,7 +1152,7 @@
   {
     "decode": "Det britiske territoriet i Indiahavet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "102",
     "code": "IOT",
@@ -1162,7 +1162,7 @@
   {
     "decode": "Irland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "103",
     "code": "IRL",
@@ -1172,7 +1172,7 @@
   {
     "decode": "Iran",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "104",
     "code": "IRN",
@@ -1182,7 +1182,7 @@
   {
     "decode": "Irak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "105",
     "code": "IRQ",
@@ -1192,7 +1192,7 @@
   {
     "decode": "Island",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "106",
     "code": "ISL",
@@ -1202,7 +1202,7 @@
   {
     "decode": "Israel",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "107",
     "code": "ISR",
@@ -1212,7 +1212,7 @@
   {
     "decode": "Italia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "108",
     "code": "ITA",
@@ -1222,7 +1222,7 @@
   {
     "decode": "Jamaica",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "109",
     "code": "JAM",
@@ -1232,7 +1232,7 @@
   {
     "decode": "Jersey",
     "valid": true,
-    "fromDate": 1473890400000,
+    "fromDate": "2016-09-15",
     "toDate": null,
     "id": "260",
     "code": "JEY",
@@ -1242,7 +1242,7 @@
   {
     "decode": "Jordan",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "110",
     "code": "JOR",
@@ -1252,7 +1252,7 @@
   {
     "decode": "Japan",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "111",
     "code": "JPN",
@@ -1262,7 +1262,7 @@
   {
     "decode": "Kasakhstan",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "112",
     "code": "KAZ",
@@ -1272,7 +1272,7 @@
   {
     "decode": "Kenya",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "113",
     "code": "KEN",
@@ -1282,7 +1282,7 @@
   {
     "decode": "Kirgisistan",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "114",
     "code": "KGZ",
@@ -1292,7 +1292,7 @@
   {
     "decode": "Kambodsja",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "115",
     "code": "KHM",
@@ -1302,7 +1302,7 @@
   {
     "decode": "Kiribati",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "116",
     "code": "KIR",
@@ -1312,7 +1312,7 @@
   {
     "decode": "Saint Kitts og Nevis",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "117",
     "code": "KNA",
@@ -1322,7 +1322,7 @@
   {
     "decode": "Sør-Korea",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "118",
     "code": "KOR",
@@ -1332,7 +1332,7 @@
   {
     "decode": "Kuwait",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "119",
     "code": "KWT",
@@ -1342,7 +1342,7 @@
   {
     "decode": "Laos",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "120",
     "code": "LAO",
@@ -1352,7 +1352,7 @@
   {
     "decode": "Libanon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "121",
     "code": "LBN",
@@ -1362,7 +1362,7 @@
   {
     "decode": "Liberia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "122",
     "code": "LBR",
@@ -1372,7 +1372,7 @@
   {
     "decode": "Libya",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "123",
     "code": "LBY",
@@ -1382,7 +1382,7 @@
   {
     "decode": "Saint Lucia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "124",
     "code": "LCA",
@@ -1392,7 +1392,7 @@
   {
     "decode": "Liechtenstein",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "125",
     "code": "LIE",
@@ -1402,7 +1402,7 @@
   {
     "decode": "Sri Lanka",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "126",
     "code": "LKA",
@@ -1412,7 +1412,7 @@
   {
     "decode": "Lesotho",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "127",
     "code": "LSO",
@@ -1422,7 +1422,7 @@
   {
     "decode": "Litauen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "128",
     "code": "LTU",
@@ -1432,7 +1432,7 @@
   {
     "decode": "Luxembourg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "129",
     "code": "LUX",
@@ -1442,7 +1442,7 @@
   {
     "decode": "Latvia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "130",
     "code": "LVA",
@@ -1452,7 +1452,7 @@
   {
     "decode": "Macao",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "131",
     "code": "MAC",
@@ -1462,7 +1462,7 @@
   {
     "decode": "Saint Martin",
     "valid": true,
-    "fromDate": 1473890400000,
+    "fromDate": "2016-09-15",
     "toDate": null,
     "id": "262",
     "code": "MAF",
@@ -1472,7 +1472,7 @@
   {
     "decode": "Marokko",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "132",
     "code": "MAR",
@@ -1482,7 +1482,7 @@
   {
     "decode": "Monaco",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "133",
     "code": "MCO",
@@ -1492,7 +1492,7 @@
   {
     "decode": "Moldova",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "134",
     "code": "MDA",
@@ -1502,7 +1502,7 @@
   {
     "decode": "Madagaskar",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "135",
     "code": "MDG",
@@ -1512,7 +1512,7 @@
   {
     "decode": "Maldivene",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "136",
     "code": "MDV",
@@ -1522,7 +1522,7 @@
   {
     "decode": "Mexico",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "137",
     "code": "MEX",
@@ -1532,7 +1532,7 @@
   {
     "decode": "Marshalløyene",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "138",
     "code": "MHL",
@@ -1542,7 +1542,7 @@
   {
     "decode": "Nord-Makedonia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "139",
     "code": "MKD",
@@ -1552,7 +1552,7 @@
   {
     "decode": "Mali",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "140",
     "code": "MLI",
@@ -1562,7 +1562,7 @@
   {
     "decode": "Malta",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "141",
     "code": "MLT",
@@ -1572,7 +1572,7 @@
   {
     "decode": "Myanmar (Burma)",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "142",
     "code": "MMR",
@@ -1582,7 +1582,7 @@
   {
     "decode": "Montenegro",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "249",
     "code": "MNE",
@@ -1592,7 +1592,7 @@
   {
     "decode": "Mongolia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "143",
     "code": "MNG",
@@ -1602,7 +1602,7 @@
   {
     "decode": "Nord-Marianene",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "144",
     "code": "MNP",
@@ -1612,7 +1612,7 @@
   {
     "decode": "Mosambik",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "145",
     "code": "MOZ",
@@ -1622,7 +1622,7 @@
   {
     "decode": "Mauritania",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "146",
     "code": "MRT",
@@ -1632,7 +1632,7 @@
   {
     "decode": "Montserrat",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "147",
     "code": "MSR",
@@ -1642,7 +1642,7 @@
   {
     "decode": "Martinique",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "148",
     "code": "MTQ",
@@ -1652,7 +1652,7 @@
   {
     "decode": "Mauritius",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "149",
     "code": "MUS",
@@ -1662,7 +1662,7 @@
   {
     "decode": "Malawi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "150",
     "code": "MWI",
@@ -1672,7 +1672,7 @@
   {
     "decode": "Malaysia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "151",
     "code": "MYS",
@@ -1682,7 +1682,7 @@
   {
     "decode": "Mayotte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "152",
     "code": "MYT",
@@ -1692,7 +1692,7 @@
   {
     "decode": "Namibia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "153",
     "code": "NAM",
@@ -1702,7 +1702,7 @@
   {
     "decode": "Ny-Caledonia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "154",
     "code": "NCL",
@@ -1712,7 +1712,7 @@
   {
     "decode": "Niger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "155",
     "code": "NER",
@@ -1722,7 +1722,7 @@
   {
     "decode": "Norfolkøya",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "156",
     "code": "NFK",
@@ -1732,7 +1732,7 @@
   {
     "decode": "Nigeria",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "157",
     "code": "NGA",
@@ -1742,7 +1742,7 @@
   {
     "decode": "Nicaragua",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "158",
     "code": "NIC",
@@ -1752,7 +1752,7 @@
   {
     "decode": "Niue",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "159",
     "code": "NIU",
@@ -1762,7 +1762,7 @@
   {
     "decode": "Nederland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "160",
     "code": "NLD",
@@ -1772,7 +1772,7 @@
   {
     "decode": "Norge",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "161",
     "code": "NOR",
@@ -1782,7 +1782,7 @@
   {
     "decode": "Nepal",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "162",
     "code": "NPL",
@@ -1792,7 +1792,7 @@
   {
     "decode": "Nauru",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "163",
     "code": "NRU",
@@ -1802,7 +1802,7 @@
   {
     "decode": "New Zealand",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "164",
     "code": "NZL",
@@ -1812,7 +1812,7 @@
   {
     "decode": "Oman",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "165",
     "code": "OMN",
@@ -1822,7 +1822,7 @@
   {
     "decode": "Pakistan",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "166",
     "code": "PAK",
@@ -1832,7 +1832,7 @@
   {
     "decode": "Panama",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "167",
     "code": "PAN",
@@ -1842,7 +1842,7 @@
   {
     "decode": "Pitcairn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "168",
     "code": "PCN",
@@ -1852,7 +1852,7 @@
   {
     "decode": "Peru",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "169",
     "code": "PER",
@@ -1862,7 +1862,7 @@
   {
     "decode": "Filippinene",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "170",
     "code": "PHL",
@@ -1872,7 +1872,7 @@
   {
     "decode": "Palau",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "171",
     "code": "PLW",
@@ -1882,7 +1882,7 @@
   {
     "decode": "Papua Ny-Guinea",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "172",
     "code": "PNG",
@@ -1892,7 +1892,7 @@
   {
     "decode": "Polen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "173",
     "code": "POL",
@@ -1902,7 +1902,7 @@
   {
     "decode": "Puerto Rico",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "174",
     "code": "PRI",
@@ -1912,7 +1912,7 @@
   {
     "decode": "Nord-Korea",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "175",
     "code": "PRK",
@@ -1922,7 +1922,7 @@
   {
     "decode": "Portugal",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "176",
     "code": "PRT",
@@ -1932,7 +1932,7 @@
   {
     "decode": "Paraguay",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "177",
     "code": "PRY",
@@ -1942,7 +1942,7 @@
   {
     "decode": "Palestina",
     "valid": true,
-    "fromDate": 1067814000000,
+    "fromDate": "2003-11-03",
     "toDate": null,
     "id": "66",
     "code": "PSE",
@@ -1952,7 +1952,7 @@
   {
     "decode": "Fransk Polynesia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "178",
     "code": "PYF",
@@ -1962,7 +1962,7 @@
   {
     "decode": "Qatar",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "179",
     "code": "QAT",
@@ -1972,7 +1972,7 @@
   {
     "decode": "Quebec",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "253",
     "code": "QEB",
@@ -1982,8 +1982,8 @@
   {
     "decode": "Le Port",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1473804000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2016-09-14",
     "id": "180",
     "code": "REU",
     "landNr": 323,
@@ -1992,7 +1992,7 @@
   {
     "decode": "Reunion",
     "valid": true,
-    "fromDate": 1473890400000,
+    "fromDate": "2016-09-15",
     "toDate": null,
     "id": "268",
     "code": "REU",
@@ -2002,7 +2002,7 @@
   {
     "decode": "Romania",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "181",
     "code": "ROU",
@@ -2012,7 +2012,7 @@
   {
     "decode": "Russland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "182",
     "code": "RUS",
@@ -2022,7 +2022,7 @@
   {
     "decode": "Rwanda",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "183",
     "code": "RWA",
@@ -2032,7 +2032,7 @@
   {
     "decode": "Saudi-Arabia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "184",
     "code": "SAU",
@@ -2042,8 +2042,8 @@
   {
     "decode": "Serbia Og Montenegro",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1149285600000,
+    "fromDate": "1899-12-31",
+    "toDate": "2006-06-03",
     "id": "185",
     "code": "SCG",
     "landNr": 125,
@@ -2052,7 +2052,7 @@
   {
     "decode": "Sudan",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "186",
     "code": "SDN",
@@ -2062,7 +2062,7 @@
   {
     "decode": "Senegal",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "187",
     "code": "SEN",
@@ -2072,7 +2072,7 @@
   {
     "decode": "Singapore",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "188",
     "code": "SGP",
@@ -2082,7 +2082,7 @@
   {
     "decode": "Sør-Georgia og Sør-Sandwichøyene",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "269",
     "code": "SGS",
@@ -2092,7 +2092,7 @@
   {
     "decode": "Sankt Helena, Ascension og Tristan da Cunha",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "189",
     "code": "SHN",
@@ -2102,8 +2102,8 @@
   {
     "decode": "Svalbard Og Jan Mayen",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1473804000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2016-09-14",
     "id": "190",
     "code": "SJM",
     "landNr": 744,
@@ -2112,7 +2112,7 @@
   {
     "decode": "Svalbard og Jan Mayen",
     "valid": true,
-    "fromDate": 1473890400000,
+    "fromDate": "2016-09-15",
     "toDate": null,
     "id": "267",
     "code": "SJM",
@@ -2122,7 +2122,7 @@
   {
     "decode": "Salomonøyene",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "191",
     "code": "SLB",
@@ -2132,7 +2132,7 @@
   {
     "decode": "Sierra Leone",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "192",
     "code": "SLE",
@@ -2142,7 +2142,7 @@
   {
     "decode": "El Salvador",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "193",
     "code": "SLV",
@@ -2152,7 +2152,7 @@
   {
     "decode": "San Marino",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "194",
     "code": "SMR",
@@ -2162,7 +2162,7 @@
   {
     "decode": "Somalia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "195",
     "code": "SOM",
@@ -2172,7 +2172,7 @@
   {
     "decode": "Saint-Pierre og Miquelon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "196",
     "code": "SPM",
@@ -2182,7 +2182,7 @@
   {
     "decode": "Serbia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "248",
     "code": "SRB",
@@ -2192,7 +2192,7 @@
   {
     "decode": "Sør-Sudan",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "252",
     "code": "SSD",
@@ -2202,7 +2202,7 @@
   {
     "decode": "Sao Tome Og Principe",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "197",
     "code": "STP",
@@ -2212,8 +2212,8 @@
   {
     "decode": "Sovjetunionen",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 946681200000,
+    "fromDate": "1899-12-31",
+    "toDate": "2000-01-01",
     "id": "198",
     "code": "SUN",
     "landNr": 135,
@@ -2222,7 +2222,7 @@
   {
     "decode": "Suriname",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "199",
     "code": "SUR",
@@ -2232,7 +2232,7 @@
   {
     "decode": "Slovakia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "200",
     "code": "SVK",
@@ -2242,7 +2242,7 @@
   {
     "decode": "Slovenia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "201",
     "code": "SVN",
@@ -2252,7 +2252,7 @@
   {
     "decode": "Sverige",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "202",
     "code": "SWE",
@@ -2262,7 +2262,7 @@
   {
     "decode": "Eswatini",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "203",
     "code": "SWZ",
@@ -2272,7 +2272,7 @@
   {
     "decode": "Sint Maarten",
     "valid": true,
-    "fromDate": 1473890400000,
+    "fromDate": "2016-09-15",
     "toDate": null,
     "id": "263",
     "code": "SXM",
@@ -2282,7 +2282,7 @@
   {
     "decode": "Seychellene",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "204",
     "code": "SYC",
@@ -2292,7 +2292,7 @@
   {
     "decode": "Syria",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "205",
     "code": "SYR",
@@ -2302,7 +2302,7 @@
   {
     "decode": "Turks- og Caicosøyene",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "206",
     "code": "TCA",
@@ -2312,7 +2312,7 @@
   {
     "decode": "Tchad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "207",
     "code": "TCD",
@@ -2322,7 +2322,7 @@
   {
     "decode": "Togo",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "208",
     "code": "TGO",
@@ -2332,7 +2332,7 @@
   {
     "decode": "Thailand",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "209",
     "code": "THA",
@@ -2342,7 +2342,7 @@
   {
     "decode": "Tadsjikistan",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "210",
     "code": "TJK",
@@ -2352,7 +2352,7 @@
   {
     "decode": "Tokelau",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "211",
     "code": "TKL",
@@ -2362,7 +2362,7 @@
   {
     "decode": "Turkmenistan",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "212",
     "code": "TKM",
@@ -2372,7 +2372,7 @@
   {
     "decode": "Øst-Timor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "213",
     "code": "TLS",
@@ -2382,7 +2382,7 @@
   {
     "decode": "Tonga",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "214",
     "code": "TON",
@@ -2392,7 +2392,7 @@
   {
     "decode": "Trinidad Og Tobago",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "215",
     "code": "TTO",
@@ -2402,7 +2402,7 @@
   {
     "decode": "Tunisia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "216",
     "code": "TUN",
@@ -2412,7 +2412,7 @@
   {
     "decode": "Tyrkia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "217",
     "code": "TUR",
@@ -2422,7 +2422,7 @@
   {
     "decode": "Tuvalu",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "218",
     "code": "TUV",
@@ -2432,7 +2432,7 @@
   {
     "decode": "Taiwan",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "219",
     "code": "TWN",
@@ -2442,7 +2442,7 @@
   {
     "decode": "Tanzania",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "220",
     "code": "TZA",
@@ -2452,7 +2452,7 @@
   {
     "decode": "Uganda",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "221",
     "code": "UGA",
@@ -2462,7 +2462,7 @@
   {
     "decode": "Ukraina",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "222",
     "code": "UKR",
@@ -2472,7 +2472,7 @@
   {
     "decode": "Usas ytre småøyer",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "223",
     "code": "UMI",
@@ -2482,7 +2482,7 @@
   {
     "decode": "Uruguay",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "224",
     "code": "URY",
@@ -2492,7 +2492,7 @@
   {
     "decode": "USA",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "225",
     "code": "USA",
@@ -2502,7 +2502,7 @@
   {
     "decode": "Usbekistan",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "226",
     "code": "UZB",
@@ -2512,7 +2512,7 @@
   {
     "decode": "Vatikanstaten",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "227",
     "code": "VAT",
@@ -2522,7 +2522,7 @@
   {
     "decode": "Saint Vincent og Grenadinene",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "228",
     "code": "VCT",
@@ -2532,7 +2532,7 @@
   {
     "decode": "Venezuela",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "229",
     "code": "VEN",
@@ -2542,7 +2542,7 @@
   {
     "decode": "De britiske Jomfruøyer",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "230",
     "code": "VGB",
@@ -2552,7 +2552,7 @@
   {
     "decode": "De amerikanske Jomfruøyer",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "231",
     "code": "VIR",
@@ -2562,7 +2562,7 @@
   {
     "decode": "Vietnam",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "232",
     "code": "VNM",
@@ -2572,7 +2572,7 @@
   {
     "decode": "Vanuatu",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "233",
     "code": "VUT",
@@ -2582,8 +2582,8 @@
   {
     "decode": "Wakøya",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 946681200000,
+    "fromDate": "1899-12-31",
+    "toDate": "2000-01-01",
     "id": "234",
     "code": "WAK",
     "landNr": 831,
@@ -2592,7 +2592,7 @@
   {
     "decode": "Wallis og Futuna",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "235",
     "code": "WLF",
@@ -2602,7 +2602,7 @@
   {
     "decode": "Samoa",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "236",
     "code": "WSM",
@@ -2612,7 +2612,7 @@
   {
     "decode": "Uoppgitt/Ukjent",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "270",
     "code": "XUK",
@@ -2622,7 +2622,7 @@
   {
     "decode": "Kosovo",
     "valid": true,
-    "fromDate": 1203202800000,
+    "fromDate": "2008-02-17",
     "toDate": null,
     "id": "251",
     "code": "XXK",
@@ -2632,7 +2632,7 @@
   {
     "decode": "Statløs",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "237",
     "code": "XXX",
@@ -2642,7 +2642,7 @@
   {
     "decode": "Yemen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "238",
     "code": "YEM",
@@ -2652,8 +2652,8 @@
   {
     "decode": "Jugoslavia",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1070146800000,
+    "fromDate": "1899-12-31",
+    "toDate": "2003-11-30",
     "id": "239",
     "code": "YUG",
     "landNr": 125,
@@ -2662,7 +2662,7 @@
   {
     "decode": "Sør-Afrika",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "240",
     "code": "ZAF",
@@ -2672,7 +2672,7 @@
   {
     "decode": "Zambia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "241",
     "code": "ZMB",
@@ -2682,7 +2682,7 @@
   {
     "decode": "Zimbabwe",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "242",
     "code": "ZWE",

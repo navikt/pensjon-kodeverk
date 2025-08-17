@@ -2,7 +2,7 @@
   {
     "decode": "Avbrutt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "A",
     "forkortelse": "Avbrutt",
@@ -11,7 +11,7 @@
   {
     "decode": "Under arbeid",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "D",
     "forkortelse": "UArbeid",
@@ -20,7 +20,7 @@
   {
     "decode": "Ekspedert",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "E",
     "forkortelse": "Ekspedert",
@@ -29,7 +29,7 @@
   {
     "decode": "Ferdig og klar for lokal print",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FL",
     "forkortelse": "LokalP",
@@ -38,7 +38,7 @@
   {
     "decode": "Ferdig og klar for sentral print",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FS",
     "forkortelse": "SentralP",
@@ -47,7 +47,7 @@
   {
     "decode": "Journalført",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "J",
     "forkortelse": "Journalført",
@@ -56,7 +56,7 @@
   {
     "decode": "Midlertidig journalført",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "M",
     "forkortelse": "Mid Journ",
@@ -65,7 +65,7 @@
   {
     "decode": "Mottatt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MO",
     "forkortelse": "Mottatt",
@@ -74,7 +74,7 @@
   {
     "decode": "Opplasting dokument",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OD",
     "forkortelse": "Opplasting dokument",
@@ -83,7 +83,7 @@
   {
     "decode": "Reservert",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "R",
     "forkortelse": "Reservert",
@@ -92,7 +92,7 @@
   {
     "decode": "Utgår før tilknytning til sak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "U",
     "forkortelse": "Utgår",

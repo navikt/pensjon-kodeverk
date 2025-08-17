@@ -2,7 +2,7 @@
   {
     "decode": "Januar",
     "valid": true,
-    "fromDate": -62135773200000,
+    "fromDate": "0001-01-01",
     "toDate": null,
     "code": "P_1",
     "codeAsString": "1"
@@ -10,7 +10,7 @@
   {
     "decode": "Oktober",
     "valid": true,
-    "fromDate": -62135773200000,
+    "fromDate": "0001-01-01",
     "toDate": null,
     "code": "P_10",
     "codeAsString": "10"
@@ -18,7 +18,7 @@
   {
     "decode": "November",
     "valid": true,
-    "fromDate": -62135773200000,
+    "fromDate": "0001-01-01",
     "toDate": null,
     "code": "P_11",
     "codeAsString": "11"
@@ -26,7 +26,7 @@
   {
     "decode": "Desember",
     "valid": true,
-    "fromDate": -62135773200000,
+    "fromDate": "0001-01-01",
     "toDate": null,
     "code": "P_12",
     "codeAsString": "12"
@@ -34,7 +34,7 @@
   {
     "decode": "Februar",
     "valid": true,
-    "fromDate": -62135773200000,
+    "fromDate": "0001-01-01",
     "toDate": null,
     "code": "P_2",
     "codeAsString": "2"
@@ -42,7 +42,7 @@
   {
     "decode": "Mars",
     "valid": true,
-    "fromDate": -62135773200000,
+    "fromDate": "0001-01-01",
     "toDate": null,
     "code": "P_3",
     "codeAsString": "3"
@@ -50,7 +50,7 @@
   {
     "decode": "April",
     "valid": true,
-    "fromDate": -62135773200000,
+    "fromDate": "0001-01-01",
     "toDate": null,
     "code": "P_4",
     "codeAsString": "4"
@@ -58,7 +58,7 @@
   {
     "decode": "Mai",
     "valid": true,
-    "fromDate": -62135773200000,
+    "fromDate": "0001-01-01",
     "toDate": null,
     "code": "P_5",
     "codeAsString": "5"
@@ -66,7 +66,7 @@
   {
     "decode": "Juni",
     "valid": true,
-    "fromDate": -62135773200000,
+    "fromDate": "0001-01-01",
     "toDate": null,
     "code": "P_6",
     "codeAsString": "6"
@@ -74,7 +74,7 @@
   {
     "decode": "Juli",
     "valid": true,
-    "fromDate": -62135773200000,
+    "fromDate": "0001-01-01",
     "toDate": null,
     "code": "P_7",
     "codeAsString": "7"
@@ -82,7 +82,7 @@
   {
     "decode": "August",
     "valid": true,
-    "fromDate": -62135773200000,
+    "fromDate": "0001-01-01",
     "toDate": null,
     "code": "P_8",
     "codeAsString": "8"
@@ -90,7 +90,7 @@
   {
     "decode": "September",
     "valid": true,
-    "fromDate": -62135773200000,
+    "fromDate": "0001-01-01",
     "toDate": null,
     "code": "P_9",
     "codeAsString": "9"

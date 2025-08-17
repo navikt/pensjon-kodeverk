@@ -2,7 +2,7 @@
   {
     "decode": "Afar",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "1",
     "code": "AAR",
@@ -11,7 +11,7 @@
   {
     "decode": "Abkhasisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "2",
     "code": "ABK",
@@ -20,7 +20,7 @@
   {
     "decode": "Afrikaans",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "4",
     "code": "AFR",
@@ -29,7 +29,7 @@
   {
     "decode": "Akan",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "5",
     "code": "AKA",
@@ -38,7 +38,7 @@
   {
     "decode": "Amharisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "6",
     "code": "AMH",
@@ -47,7 +47,7 @@
   {
     "decode": "Arabisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "8",
     "code": "ARA",
@@ -56,7 +56,7 @@
   {
     "decode": "Aragonesisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "7",
     "code": "ARG",
@@ -65,7 +65,7 @@
   {
     "decode": "Assamesisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "9",
     "code": "ASM",
@@ -74,7 +74,7 @@
   {
     "decode": "Avar",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "10",
     "code": "AVA",
@@ -83,7 +83,7 @@
   {
     "decode": "Avestisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "3",
     "code": "AVE",
@@ -92,7 +92,7 @@
   {
     "decode": "Aymara",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "11",
     "code": "AYM",
@@ -101,7 +101,7 @@
   {
     "decode": "Aserbajdsjansk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "12",
     "code": "AZE",
@@ -110,7 +110,7 @@
   {
     "decode": "Basjkirsk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "13",
     "code": "BAK",
@@ -119,7 +119,7 @@
   {
     "decode": "Bambara",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "18",
     "code": "BAM",
@@ -128,7 +128,7 @@
   {
     "decode": "Hviterussisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "14",
     "code": "BEL",
@@ -137,7 +137,7 @@
   {
     "decode": "Bengali",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "19",
     "code": "BEN",
@@ -146,7 +146,7 @@
   {
     "decode": "Bihari",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "16",
     "code": "BIH",
@@ -155,7 +155,7 @@
   {
     "decode": "Bislama",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "17",
     "code": "BIS",
@@ -164,7 +164,7 @@
   {
     "decode": "Tibetansk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "20",
     "code": "BOD",
@@ -173,7 +173,7 @@
   {
     "decode": "Bosnisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "22",
     "code": "BOS",
@@ -182,7 +182,7 @@
   {
     "decode": "Bretonsk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "21",
     "code": "BRE",
@@ -191,7 +191,7 @@
   {
     "decode": "Bulgarsk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "15",
     "code": "BUL",
@@ -200,7 +200,7 @@
   {
     "decode": "Katalansk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "23",
     "code": "CAT",
@@ -209,7 +209,7 @@
   {
     "decode": "Tsjekkisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "28",
     "code": "CES",
@@ -218,7 +218,7 @@
   {
     "decode": "Chamorro",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "25",
     "code": "CHA",
@@ -227,7 +227,7 @@
   {
     "decode": "Tsjetsjensk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "24",
     "code": "CHE",
@@ -236,7 +236,7 @@
   {
     "decode": "Gammelslavisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "29",
     "code": "CHU",
@@ -245,7 +245,7 @@
   {
     "decode": "Tsjuvansk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "30",
     "code": "CHV",
@@ -254,7 +254,7 @@
   {
     "decode": "Kornisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "90",
     "code": "COR",
@@ -263,7 +263,7 @@
   {
     "decode": "Korsikansk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "26",
     "code": "COS",
@@ -272,7 +272,7 @@
   {
     "decode": "Cree",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "27",
     "code": "CRE",
@@ -281,7 +281,7 @@
   {
     "decode": "Walisisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "31",
     "code": "CYM",
@@ -290,7 +290,7 @@
   {
     "decode": "Dansk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "32",
     "code": "DAN",
@@ -299,7 +299,7 @@
   {
     "decode": "Tysk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "33",
     "code": "DEU",
@@ -308,7 +308,7 @@
   {
     "decode": "Divehi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "34",
     "code": "DIV",
@@ -317,7 +317,7 @@
   {
     "decode": "Dzongkha",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "35",
     "code": "DZO",
@@ -326,7 +326,7 @@
   {
     "decode": "Gresk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "37",
     "code": "ELL",
@@ -335,7 +335,7 @@
   {
     "decode": "Engelsk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "38",
     "code": "ENG",
@@ -344,7 +344,7 @@
   {
     "decode": "Esperanto",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "39",
     "code": "EPO",
@@ -353,7 +353,7 @@
   {
     "decode": "Estisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "41",
     "code": "EST",
@@ -362,7 +362,7 @@
   {
     "decode": "Baskisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "42",
     "code": "EUS",
@@ -371,7 +371,7 @@
   {
     "decode": "Ewe",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "36",
     "code": "EWE",
@@ -380,7 +380,7 @@
   {
     "decode": "Færøysk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "47",
     "code": "FAO",
@@ -389,7 +389,7 @@
   {
     "decode": "Farsi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "43",
     "code": "FAS",
@@ -398,7 +398,7 @@
   {
     "decode": "Fijisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "46",
     "code": "FIJ",
@@ -407,7 +407,7 @@
   {
     "decode": "Finsk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "45",
     "code": "FIN",
@@ -416,7 +416,7 @@
   {
     "decode": "Fransk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "48",
     "code": "FRA",
@@ -425,7 +425,7 @@
   {
     "decode": "Frisisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "49",
     "code": "FRY",
@@ -434,7 +434,7 @@
   {
     "decode": "Fulfulde",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "44",
     "code": "FUL",
@@ -443,7 +443,7 @@
   {
     "decode": "Skotsk gælisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "51",
     "code": "GLA",
@@ -452,7 +452,7 @@
   {
     "decode": "Irsk gælisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "50",
     "code": "GLE",
@@ -461,7 +461,7 @@
   {
     "decode": "Galisisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "52",
     "code": "GLG",
@@ -470,7 +470,7 @@
   {
     "decode": "Manx",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "55",
     "code": "GLV",
@@ -479,7 +479,7 @@
   {
     "decode": "Guaraní",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "53",
     "code": "GRN",
@@ -488,7 +488,7 @@
   {
     "decode": "Gujarati",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "54",
     "code": "GUJ",
@@ -497,7 +497,7 @@
   {
     "decode": "Haitisk kreolsk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "61",
     "code": "HAT",
@@ -506,7 +506,7 @@
   {
     "decode": "Hausa",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "56",
     "code": "HAU",
@@ -515,7 +515,7 @@
   {
     "decode": "Hebraisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "57",
     "code": "HEB",
@@ -524,7 +524,7 @@
   {
     "decode": "Herero",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "64",
     "code": "HER",
@@ -533,7 +533,7 @@
   {
     "decode": "Hindi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "58",
     "code": "HIN",
@@ -542,7 +542,7 @@
   {
     "decode": "Hiri motu",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "59",
     "code": "HMO",
@@ -551,7 +551,7 @@
   {
     "decode": "Kroatisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "60",
     "code": "HRV",
@@ -560,7 +560,7 @@
   {
     "decode": "Ungarsk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "62",
     "code": "HUN",
@@ -569,7 +569,7 @@
   {
     "decode": "Armensk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "63",
     "code": "HYE",
@@ -578,7 +578,7 @@
   {
     "decode": "Ibo",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "68",
     "code": "IBO",
@@ -587,7 +587,7 @@
   {
     "decode": "Ido",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "71",
     "code": "IDO",
@@ -596,7 +596,7 @@
   {
     "decode": "Yi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "69",
     "code": "III",
@@ -605,7 +605,7 @@
   {
     "decode": "Inuittisk språk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "74",
     "code": "IKU",
@@ -614,7 +614,7 @@
   {
     "decode": "Interlingue",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "67",
     "code": "ILE",
@@ -623,7 +623,7 @@
   {
     "decode": "Interlingua (International Auxiliary Language Association)",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "65",
     "code": "INA",
@@ -632,7 +632,7 @@
   {
     "decode": "Indonesisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "66",
     "code": "IND",
@@ -641,7 +641,7 @@
   {
     "decode": "Inupiak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "70",
     "code": "IPK",
@@ -650,7 +650,7 @@
   {
     "decode": "Islandsk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "72",
     "code": "ISL",
@@ -659,7 +659,7 @@
   {
     "decode": "Italiensk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "73",
     "code": "ITA",
@@ -668,7 +668,7 @@
   {
     "decode": "Javanesisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "76",
     "code": "JAV",
@@ -677,7 +677,7 @@
   {
     "decode": "Japansk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "75",
     "code": "JPN",
@@ -686,7 +686,7 @@
   {
     "decode": "Kalaallisut",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "82",
     "code": "KAL",
@@ -695,7 +695,7 @@
   {
     "decode": "Kannada",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "84",
     "code": "KAN",
@@ -704,7 +704,7 @@
   {
     "decode": "Kashmir",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "87",
     "code": "KAS",
@@ -713,7 +713,7 @@
   {
     "decode": "Georgisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "77",
     "code": "KAT",
@@ -722,7 +722,7 @@
   {
     "decode": "Kanuri",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "86",
     "code": "KAU",
@@ -731,7 +731,7 @@
   {
     "decode": "Kasakhisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "81",
     "code": "KAZ",
@@ -740,7 +740,7 @@
   {
     "decode": "Khmer",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "83",
     "code": "KHM",
@@ -749,7 +749,7 @@
   {
     "decode": "Kikuyu",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "79",
     "code": "KIK",
@@ -758,7 +758,7 @@
   {
     "decode": "Kinyarwanda",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "138",
     "code": "KIN",
@@ -767,7 +767,7 @@
   {
     "decode": "Kirghiz",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "91",
     "code": "KIR",
@@ -776,7 +776,7 @@
   {
     "decode": "Komi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "89",
     "code": "KOM",
@@ -785,7 +785,7 @@
   {
     "decode": "KiKongo",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "78",
     "code": "KON",
@@ -794,7 +794,7 @@
   {
     "decode": "Koreansk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "85",
     "code": "KOR",
@@ -803,7 +803,7 @@
   {
     "decode": "Kuanyama",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "80",
     "code": "KUA",
@@ -812,7 +812,7 @@
   {
     "decode": "Kurdisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "88",
     "code": "KUR",
@@ -821,7 +821,7 @@
   {
     "decode": "Lao",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "97",
     "code": "LAO",
@@ -830,7 +830,7 @@
   {
     "decode": "Latin",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "92",
     "code": "LAT",
@@ -839,7 +839,7 @@
   {
     "decode": "Latvisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "100",
     "code": "LAV",
@@ -848,7 +848,7 @@
   {
     "decode": "Limburgish",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "95",
     "code": "LIM",
@@ -857,7 +857,7 @@
   {
     "decode": "Lingala",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "96",
     "code": "LIN",
@@ -866,7 +866,7 @@
   {
     "decode": "Litauisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "98",
     "code": "LIT",
@@ -875,7 +875,7 @@
   {
     "decode": "Luxembourgisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "93",
     "code": "LTZ",
@@ -884,7 +884,7 @@
   {
     "decode": "Luba-Katanga",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "99",
     "code": "LUB",
@@ -893,7 +893,7 @@
   {
     "decode": "Ganda",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "94",
     "code": "LUG",
@@ -902,7 +902,7 @@
   {
     "decode": "Marshallesisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "102",
     "code": "MAH",
@@ -911,7 +911,7 @@
   {
     "decode": "Malayalam",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "105",
     "code": "MAL",
@@ -920,7 +920,7 @@
   {
     "decode": "Marathi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "108",
     "code": "MAR",
@@ -929,7 +929,7 @@
   {
     "decode": "Makedonsk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "104",
     "code": "MKD",
@@ -938,7 +938,7 @@
   {
     "decode": "Malagasy",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "101",
     "code": "MLG",
@@ -947,7 +947,7 @@
   {
     "decode": "Maltesisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "110",
     "code": "MLT",
@@ -956,7 +956,7 @@
   {
     "decode": "Moldavisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "107",
     "code": "MOL",
@@ -965,7 +965,7 @@
   {
     "decode": "Mongolsk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "106",
     "code": "MON",
@@ -974,7 +974,7 @@
   {
     "decode": "Maori",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "103",
     "code": "MRI",
@@ -983,7 +983,7 @@
   {
     "decode": "Malay",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "109",
     "code": "MSA",
@@ -992,7 +992,7 @@
   {
     "decode": "Burmesisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "111",
     "code": "MYA",
@@ -1001,7 +1001,7 @@
   {
     "decode": "Naurisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "112",
     "code": "NAU",
@@ -1010,7 +1010,7 @@
   {
     "decode": "Navajo",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "121",
     "code": "NAV",
@@ -1019,7 +1019,7 @@
   {
     "decode": "Sør-ndebele",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "120",
     "code": "NBL",
@@ -1028,7 +1028,7 @@
   {
     "decode": "Nord-ndebele",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "114",
     "code": "NDE",
@@ -1037,7 +1037,7 @@
   {
     "decode": "Ndonga",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "116",
     "code": "NDO",
@@ -1046,7 +1046,7 @@
   {
     "decode": "Nepali",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "115",
     "code": "NEP",
@@ -1055,7 +1055,7 @@
   {
     "decode": "Nederlandsk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "117",
     "code": "NLD",
@@ -1064,7 +1064,7 @@
   {
     "decode": "Nynorsk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "118",
     "code": "NNO",
@@ -1073,7 +1073,7 @@
   {
     "decode": "Bokmål",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "113",
     "code": "NOB",
@@ -1082,7 +1082,7 @@
   {
     "decode": "Norsk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "119",
     "code": "NOR",
@@ -1091,7 +1091,7 @@
   {
     "decode": "Chichewa",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "122",
     "code": "NYA",
@@ -1100,7 +1100,7 @@
   {
     "decode": "Oksitansk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "123",
     "code": "OCI",
@@ -1109,7 +1109,7 @@
   {
     "decode": "Ojibwa",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "124",
     "code": "OJI",
@@ -1118,7 +1118,7 @@
   {
     "decode": "Oriya",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "126",
     "code": "ORI",
@@ -1127,7 +1127,7 @@
   {
     "decode": "Oromo",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "125",
     "code": "ORM",
@@ -1136,7 +1136,7 @@
   {
     "decode": "Ossetisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "127",
     "code": "OSS",
@@ -1145,7 +1145,7 @@
   {
     "decode": "Punjabi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "128",
     "code": "PAN",
@@ -1154,7 +1154,7 @@
   {
     "decode": "Pali",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "129",
     "code": "PLI",
@@ -1163,7 +1163,7 @@
   {
     "decode": "Polsk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "130",
     "code": "POL",
@@ -1172,7 +1172,7 @@
   {
     "decode": "Portugisisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "132",
     "code": "POR",
@@ -1181,7 +1181,7 @@
   {
     "decode": "Pashto",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "131",
     "code": "PUS",
@@ -1190,7 +1190,7 @@
   {
     "decode": "Quechua",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "133",
     "code": "QUE",
@@ -1199,7 +1199,7 @@
   {
     "decode": "Retoromansk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "134",
     "code": "ROH",
@@ -1208,7 +1208,7 @@
   {
     "decode": "Rumensk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "136",
     "code": "RON",
@@ -1217,7 +1217,7 @@
   {
     "decode": "Kirundi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "135",
     "code": "RUN",
@@ -1226,7 +1226,7 @@
   {
     "decode": "Russisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "137",
     "code": "RUS",
@@ -1235,7 +1235,7 @@
   {
     "decode": "Sango",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "143",
     "code": "SAG",
@@ -1244,7 +1244,7 @@
   {
     "decode": "Sanskrit",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "139",
     "code": "SAN",
@@ -1253,7 +1253,7 @@
   {
     "decode": "Sinhala",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "144",
     "code": "SIN",
@@ -1262,7 +1262,7 @@
   {
     "decode": "Slovakisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "145",
     "code": "SLK",
@@ -1271,7 +1271,7 @@
   {
     "decode": "Slovensk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "146",
     "code": "SLV",
@@ -1280,7 +1280,7 @@
   {
     "decode": "Nordsamisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "142",
     "code": "SME",
@@ -1289,7 +1289,7 @@
   {
     "decode": "Samoansk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "147",
     "code": "SMO",
@@ -1298,7 +1298,7 @@
   {
     "decode": "Shona",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "148",
     "code": "SNA",
@@ -1307,7 +1307,7 @@
   {
     "decode": "Sindhi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "141",
     "code": "SND",
@@ -1316,7 +1316,7 @@
   {
     "decode": "Somalisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "149",
     "code": "SOM",
@@ -1325,7 +1325,7 @@
   {
     "decode": "Sesotho",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "153",
     "code": "SOT",
@@ -1334,7 +1334,7 @@
   {
     "decode": "Spansk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "40",
     "code": "SPA",
@@ -1343,7 +1343,7 @@
   {
     "decode": "Albansk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "150",
     "code": "SQI",
@@ -1352,7 +1352,7 @@
   {
     "decode": "Sardinsk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "140",
     "code": "SRD",
@@ -1361,7 +1361,7 @@
   {
     "decode": "Serbisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "151",
     "code": "SRP",
@@ -1370,7 +1370,7 @@
   {
     "decode": "Swati",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "152",
     "code": "SSW",
@@ -1379,7 +1379,7 @@
   {
     "decode": "Sundanesisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "154",
     "code": "SUN",
@@ -1388,7 +1388,7 @@
   {
     "decode": "Swahili",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "156",
     "code": "SWA",
@@ -1397,7 +1397,7 @@
   {
     "decode": "Svensk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "155",
     "code": "SWE",
@@ -1406,7 +1406,7 @@
   {
     "decode": "Tahitisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "170",
     "code": "TAH",
@@ -1415,7 +1415,7 @@
   {
     "decode": "Tamilsk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "157",
     "code": "TAM",
@@ -1424,7 +1424,7 @@
   {
     "decode": "Tatarsk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "168",
     "code": "TAT",
@@ -1433,7 +1433,7 @@
   {
     "decode": "Telugu",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "158",
     "code": "TEL",
@@ -1442,7 +1442,7 @@
   {
     "decode": "Tadsjikisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "159",
     "code": "TGK",
@@ -1451,7 +1451,7 @@
   {
     "decode": "Tagalog",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "163",
     "code": "TGL",
@@ -1460,7 +1460,7 @@
   {
     "decode": "Thai",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "160",
     "code": "THA",
@@ -1469,7 +1469,7 @@
   {
     "decode": "Tigrinya",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "161",
     "code": "TIR",
@@ -1478,7 +1478,7 @@
   {
     "decode": "Tonganesisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "165",
     "code": "TON",
@@ -1487,7 +1487,7 @@
   {
     "decode": "Tswana",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "164",
     "code": "TSN",
@@ -1496,7 +1496,7 @@
   {
     "decode": "Tsonga",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "167",
     "code": "TSO",
@@ -1505,7 +1505,7 @@
   {
     "decode": "Turkmensk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "162",
     "code": "TUK",
@@ -1514,7 +1514,7 @@
   {
     "decode": "Tyrkisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "166",
     "code": "TUR",
@@ -1523,7 +1523,7 @@
   {
     "decode": "Twi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "169",
     "code": "TWI",
@@ -1532,7 +1532,7 @@
   {
     "decode": "Uighur",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "171",
     "code": "UIG",
@@ -1541,7 +1541,7 @@
   {
     "decode": "Ukrainsk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "172",
     "code": "UKR",
@@ -1550,7 +1550,7 @@
   {
     "decode": "Urdu",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "173",
     "code": "URD",
@@ -1559,7 +1559,7 @@
   {
     "decode": "Usbekisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "174",
     "code": "UZB",
@@ -1568,7 +1568,7 @@
   {
     "decode": "Venda",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "175",
     "code": "VEN",
@@ -1577,7 +1577,7 @@
   {
     "decode": "Vietnamesisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "176",
     "code": "VIE",
@@ -1586,7 +1586,7 @@
   {
     "decode": "Volapük",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "177",
     "code": "VOL",
@@ -1595,7 +1595,7 @@
   {
     "decode": "Vallonsk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "178",
     "code": "WLN",
@@ -1604,7 +1604,7 @@
   {
     "decode": "Wolof",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "179",
     "code": "WOL",
@@ -1613,7 +1613,7 @@
   {
     "decode": "Xhosa",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "180",
     "code": "XHO",
@@ -1622,7 +1622,7 @@
   {
     "decode": "Yiddisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "181",
     "code": "YID",
@@ -1631,7 +1631,7 @@
   {
     "decode": "Yoruba",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "182",
     "code": "YOR",
@@ -1640,7 +1640,7 @@
   {
     "decode": "Zhuang",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "183",
     "code": "ZHA",
@@ -1649,7 +1649,7 @@
   {
     "decode": "Kinesisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "184",
     "code": "ZHO",

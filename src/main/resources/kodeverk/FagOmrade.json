@@ -2,7 +2,7 @@
   {
     "decode": "Arbeidsavklaringspenger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AAP",
     "ansvarsomrade": false,
@@ -11,7 +11,7 @@
   {
     "decode": "AA-registeret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AAR",
     "ansvarsomrade": false,
@@ -20,7 +20,7 @@
   {
     "decode": "Ajourhold - Grunnopplysninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AGR",
     "ansvarsomrade": false,
@@ -29,7 +29,7 @@
   {
     "decode": "Arena",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ARE",
     "ansvarsomrade": false,
@@ -38,7 +38,7 @@
   {
     "decode": "07 - Barnetrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BAR",
     "ansvarsomrade": false,
@@ -47,7 +47,7 @@
   {
     "decode": "04 - Bidrag",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BID",
     "ansvarsomrade": false,
@@ -56,7 +56,7 @@
   {
     "decode": "05 - Bidrag innkreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BII",
     "ansvarsomrade": false,
@@ -65,7 +65,7 @@
   {
     "decode": "07 - Bil",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BIL",
     "ansvarsomrade": false,
@@ -74,7 +74,7 @@
   {
     "decode": "07 - Dagpenger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DAG",
     "ansvarsomrade": false,
@@ -83,7 +83,7 @@
   {
     "decode": "07 - Enslig forsørger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENF",
     "ansvarsomrade": false,
@@ -92,7 +92,7 @@
   {
     "decode": "07 - Erstatning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ERS",
     "ansvarsomrade": false,
@@ -101,7 +101,7 @@
   {
     "decode": "Feilutbetaling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FEI",
     "ansvarsomrade": false,
@@ -110,7 +110,7 @@
   {
     "decode": "07 - Foreldre- og svangerskapspenger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FOR",
     "ansvarsomrade": false,
@@ -119,7 +119,7 @@
   {
     "decode": "07 - Forsikring",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FOS",
     "ansvarsomrade": false,
@@ -128,8 +128,8 @@
   {
     "decode": "GOSYS",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1326754800000,
+    "fromDate": "1899-12-31",
+    "toDate": "2012-01-17",
     "code": "FS22",
     "ansvarsomrade": false,
     "codeAsString": "FS22"
@@ -137,7 +137,7 @@
   {
     "decode": "Fullmakt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FUL",
     "ansvarsomrade": false,
@@ -146,7 +146,7 @@
   {
     "decode": "Generell",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GEN",
     "ansvarsomrade": false,
@@ -155,7 +155,7 @@
   {
     "decode": "07 - Gravferdsstønad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GRA",
     "ansvarsomrade": false,
@@ -164,7 +164,7 @@
   {
     "decode": "07 - Grunn- og hjelpestønad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GRU",
     "ansvarsomrade": false,
@@ -173,7 +173,7 @@
   {
     "decode": "Helsetjenester og ort. Hjelpemidler",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HEL",
     "ansvarsomrade": false,
@@ -182,7 +182,7 @@
   {
     "decode": "07 - Hjelpemidler",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HJE",
     "ansvarsomrade": false,
@@ -191,7 +191,7 @@
   {
     "decode": "Inkluderende Arbeidsliv",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IAR",
     "ansvarsomrade": false,
@@ -200,7 +200,7 @@
   {
     "decode": "07 - Individstønad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IND",
     "ansvarsomrade": false,
@@ -209,7 +209,7 @@
   {
     "decode": "Klage/Anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLA",
     "ansvarsomrade": false,
@@ -218,7 +218,7 @@
   {
     "decode": "Kontakt nav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KNA",
     "ansvarsomrade": false,
@@ -227,7 +227,7 @@
   {
     "decode": "Kommunale tjenester",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KOM",
     "ansvarsomrade": false,
@@ -236,7 +236,7 @@
   {
     "decode": "07 - Kontantstøtte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KON",
     "ansvarsomrade": false,
@@ -245,7 +245,7 @@
   {
     "decode": "Kontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KTR",
     "ansvarsomrade": false,
@@ -254,7 +254,7 @@
   {
     "decode": "Medlemskap",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MED",
     "ansvarsomrade": false,
@@ -263,7 +263,7 @@
   {
     "decode": "07 - Mob.stønad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MOB",
     "ansvarsomrade": false,
@@ -272,7 +272,7 @@
   {
     "decode": "03 - Skanning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MOT",
     "ansvarsomrade": true,
@@ -281,7 +281,7 @@
   {
     "decode": "02 - Økonomi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OKO",
     "ansvarsomrade": true,
@@ -290,7 +290,7 @@
   {
     "decode": "07 - Omsorgs-, Pleie- og opplæringspenger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMS",
     "ansvarsomrade": false,
@@ -299,7 +299,7 @@
   {
     "decode": "Oppfølging - Arbeidsgiver",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPA",
     "ansvarsomrade": false,
@@ -308,7 +308,7 @@
   {
     "decode": "07 - Oppfølging",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPP",
     "ansvarsomrade": false,
@@ -317,7 +317,7 @@
   {
     "decode": "06 - Øvrig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OVR",
     "ansvarsomrade": true,
@@ -326,7 +326,7 @@
   {
     "decode": "01 - Pensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PEN",
     "ansvarsomrade": true,
@@ -335,7 +335,7 @@
   {
     "decode": "Permittering og masseoppsigelser",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PER",
     "ansvarsomrade": false,
@@ -344,7 +344,7 @@
   {
     "decode": "07 - Rehabilitering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REH",
     "ansvarsomrade": false,
@@ -353,7 +353,7 @@
   {
     "decode": "Rekruttering og Stilling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REK",
     "ansvarsomrade": false,
@@ -362,7 +362,7 @@
   {
     "decode": "Sanksjon - Arbeidsgiver",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAA",
     "ansvarsomrade": false,
@@ -371,7 +371,7 @@
   {
     "decode": "07 - Saksomkostning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAK",
     "ansvarsomrade": false,
@@ -380,7 +380,7 @@
   {
     "decode": "Sanksjon - Person",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAP",
     "ansvarsomrade": false,
@@ -389,7 +389,7 @@
   {
     "decode": "Serviceklager",
     "valid": true,
-    "fromDate": 1319580000000,
+    "fromDate": "2011-10-26",
     "toDate": null,
     "code": "SER",
     "ansvarsomrade": false,
@@ -398,7 +398,7 @@
   {
     "decode": "Sikkerhetstiltak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SIK",
     "ansvarsomrade": false,
@@ -407,7 +407,7 @@
   {
     "decode": "07 - Stønadsregnskap",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STO",
     "ansvarsomrade": false,
@@ -416,7 +416,7 @@
   {
     "decode": "07 - Supplerende stønad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SUP",
     "ansvarsomrade": false,
@@ -425,7 +425,7 @@
   {
     "decode": "07 - Sykepenger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SYK",
     "ansvarsomrade": false,
@@ -434,7 +434,7 @@
   {
     "decode": "Sykemelding",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SYM",
     "ansvarsomrade": false,
@@ -443,7 +443,7 @@
   {
     "decode": "Tiltak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TIL",
     "ansvarsomrade": false,
@@ -452,7 +452,7 @@
   {
     "decode": "Trekk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TRK",
     "ansvarsomrade": false,
@@ -461,7 +461,7 @@
   {
     "decode": "Trygdeavgift",
     "valid": true,
-    "fromDate": 1296255600000,
+    "fromDate": "2011-01-29",
     "toDate": null,
     "code": "TRY",
     "ansvarsomrade": false,
@@ -470,7 +470,7 @@
   {
     "decode": "07 - Uføretrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UFO",
     "ansvarsomrade": true,
@@ -479,7 +479,7 @@
   {
     "decode": "Ukjent",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UKJ",
     "ansvarsomrade": false,
@@ -488,7 +488,7 @@
   {
     "decode": "07 - Ventelønn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VEN",
     "ansvarsomrade": false,
@@ -497,7 +497,7 @@
   {
     "decode": "07 - Yrkesrettet attføring",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "YRA",
     "ansvarsomrade": false,
@@ -506,7 +506,7 @@
   {
     "decode": "07 - Yrkesskade / Menerstatning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "YRK",
     "ansvarsomrade": false,

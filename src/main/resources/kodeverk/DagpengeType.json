@@ -2,7 +2,7 @@
   {
     "decode": "Dagpenger for ordinære dagpengemottakere",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DP",
     "codeAsString": "DP"
@@ -10,7 +10,7 @@
   {
     "decode": "Dagpenger for fiskere og fangstmenn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DP_FF",
     "codeAsString": "DP_FF"

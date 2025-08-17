@@ -2,7 +2,7 @@
   {
     "decode": "Ikke utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IKKE_UTL",
     "codeAsString": "IKKE_UTL"
@@ -10,7 +10,7 @@
   {
     "decode": "Mottatt svar fra utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MOTTATT_SVAR_UTL",
     "codeAsString": "MOTTATT_SVAR_UTL"
@@ -18,7 +18,7 @@
   {
     "decode": "Sendt utland, ferdigbehandlet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SENDT_UTL_FERDIG",
     "codeAsString": "SENDT_UTL_FERDIG"
@@ -26,7 +26,7 @@
   {
     "decode": "Sendt utland, forventer svar",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SENDT_UTL_VENTER",
     "codeAsString": "SENDT_UTL_VENTER"
@@ -34,7 +34,7 @@
   {
     "decode": "Videreført kravlinje fra utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VIDEREFORT_UTL",
     "codeAsString": "VIDEREFORT_UTL"

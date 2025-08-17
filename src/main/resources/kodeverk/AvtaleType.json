@@ -2,7 +2,7 @@
   {
     "decode": "Australia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AUS",
     "codeAsString": "AUS"
@@ -10,7 +10,7 @@
   {
     "decode": "Østerrike",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AUT",
     "codeAsString": "AUT"
@@ -18,7 +18,7 @@
   {
     "decode": "Bosnia-Hercegovina",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BIH",
     "codeAsString": "BIH"
@@ -26,7 +26,7 @@
   {
     "decode": "Canada",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "CAN",
     "codeAsString": "CAN"
@@ -34,7 +34,7 @@
   {
     "decode": "Sveits",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "CHE",
     "codeAsString": "CHE"
@@ -42,7 +42,7 @@
   {
     "decode": "Chile",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "CHL",
     "codeAsString": "CHL"
@@ -50,7 +50,7 @@
   {
     "decode": "Eøs-Avtalen/Nordisk Konvensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EOS_NOR",
     "codeAsString": "EOS_NOR"
@@ -58,7 +58,7 @@
   {
     "decode": "Frankrike",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FRA",
     "codeAsString": "FRA"
@@ -66,7 +66,7 @@
   {
     "decode": "Storbritannia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GBR",
     "codeAsString": "GBR"
@@ -74,7 +74,7 @@
   {
     "decode": "Kroatia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HRV",
     "codeAsString": "HRV"
@@ -82,7 +82,7 @@
   {
     "decode": "India",
     "valid": true,
-    "fromDate": 1420066800000,
+    "fromDate": "2015-01-01",
     "toDate": null,
     "code": "IND",
     "codeAsString": "IND"
@@ -90,7 +90,7 @@
   {
     "decode": "Israel",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ISR",
     "codeAsString": "ISR"
@@ -98,7 +98,7 @@
   {
     "decode": "Italia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ITA",
     "codeAsString": "ITA"
@@ -106,7 +106,7 @@
   {
     "decode": "KONVENSJON fra DSF",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONVENSJON_DSF",
     "codeAsString": "KONVENSJON_DSF"
@@ -114,7 +114,7 @@
   {
     "decode": "Sør-Korea",
     "valid": true,
-    "fromDate": 1420066800000,
+    "fromDate": "2015-01-01",
     "toDate": null,
     "code": "KOR",
     "codeAsString": "KOR"
@@ -122,7 +122,7 @@
   {
     "decode": "Luxembourg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LUX",
     "codeAsString": "LUX"
@@ -130,7 +130,7 @@
   {
     "decode": "Montenegro",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MNE",
     "codeAsString": "MNE"
@@ -138,7 +138,7 @@
   {
     "decode": "Nederland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NLD",
     "codeAsString": "NLD"
@@ -146,7 +146,7 @@
   {
     "decode": "Nordisk Konvensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NOR_KONV",
     "codeAsString": "NOR_KONV"
@@ -154,7 +154,7 @@
   {
     "decode": "Portugal",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PRT",
     "codeAsString": "PRT"
@@ -162,7 +162,7 @@
   {
     "decode": "Quebec",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "QEB",
     "codeAsString": "QEB"
@@ -170,7 +170,7 @@
   {
     "decode": "Serbia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SRB",
     "codeAsString": "SRB"
@@ -178,7 +178,7 @@
   {
     "decode": "Slovenia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SVN",
     "codeAsString": "SVN"
@@ -186,7 +186,7 @@
   {
     "decode": "Tyrkia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TUR",
     "codeAsString": "TUR"
@@ -194,7 +194,7 @@
   {
     "decode": "USA",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "USA",
     "codeAsString": "USA"
@@ -202,7 +202,7 @@
   {
     "decode": "Jugoslavia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "YUG",
     "codeAsString": "YUG"

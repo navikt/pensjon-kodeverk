@@ -2,7 +2,7 @@
   {
     "decode": "Kategori for aldersovergang",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AO_KATEGORI",
     "verdi": "Enum",
@@ -11,7 +11,7 @@
   {
     "decode": "Grunnlagsåret for godskriving av omsorgsopptjening",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AR_INNV_OMSORGSPOENG",
     "verdi": "Number",
@@ -20,7 +20,7 @@
   {
     "decode": "Tolk string som PenPerson id på avdød",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AVDOD_PID",
     "verdi": "PID",
@@ -29,7 +29,7 @@
   {
     "decode": "Verdi er PenPerson id på barn som ble omregnet (overført) til særkullsbarn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BT_OMR_SB_PID",
     "verdi": "PID",
@@ -38,7 +38,7 @@
   {
     "decode": "Verdi er PenPerson id på barn som bruker var tidligere innvilget barnetillegg for særkullsbarn for, og barnetillegget ikke er opphørt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BT_TDL_SB_PID",
     "verdi": "PID",
@@ -47,7 +47,7 @@
   {
     "decode": "Gjenlevendes ektefelletillegg har opphørt pga dodsfall",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ET_OPPH_EPS_DOD",
     "verdi": "Boolean",
@@ -56,7 +56,7 @@
   {
     "decode": "Alder på gjenlevende siste dag i måned for dødsfall",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GJENL_ALDER",
     "verdi": "Number",
@@ -65,7 +65,7 @@
   {
     "decode": "SANN dersom gjenlevende har registrert barn under 18 år",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GJENL_BARN_U18",
     "verdi": "Boolean",
@@ -74,7 +74,7 @@
   {
     "decode": "Kontekst av brevbestilling, for eksempel omregning av ytelse.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONTEKST_TYPE",
     "verdi": "String",
@@ -83,7 +83,7 @@
   {
     "decode": "Oppgitt sivilstand til avdød på dødstidspunkt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SIVILS_AVDOD",
     "verdi": "String",
@@ -92,7 +92,7 @@
   {
     "decode": "Hvilken ytelse har før aldersovergang ved fylte 67 år.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "YTELSE_FOR_AO",
     "verdi": "Enum",

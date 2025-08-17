@@ -2,259 +2,280 @@
   {
     "code": "AS36",
     "decode": "Journal og arkiv for fagsaker",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "AS41",
     "decode": "WEB klient til alt-tknr",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "AS42",
     "decode": "NAV sin WEB klient",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "AT05",
     "decode": "Pensjonsfaglig kjernekomponent",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "AT06",
     "decode": "Pensjonsfaglig saksbehandling",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "AT07",
     "decode": "Pensjonsregler og satser",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "BD03",
     "decode": "Brukerprofil(eksterne)",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "BD06",
     "decode": "MODIA",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "BI00",
     "decode": "BIDRAGSSYSTEMET",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "DOLY",
+    "decode": "Kun i test - Dolly",
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "DSF",
     "decode": "Det sentrale folkeregisteret",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "FREG",
-    "decode": "Det Moderniserte Folkeregisteret",
-    "fromDate": -2209078800000,
+    "decode": "FREG",
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "FS10",
     "decode": "FS10",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "FS22",
     "decode": "Gosys",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "FU04",
     "decode": "E500",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "HELS",
-    "decode": "Helsedirektoratet",
-    "fromDate": -2209078800000,
+    "decode": "HELS",
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "IT00",
     "decode": "Meldinger fra infotrygd",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "IU12",
     "decode": "Pensjonsfaglig selvbetjening",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "IU13",
     "decode": "Samordning",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "KART",
     "decode": "Kartverket",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "NAV",
-    "decode": "Ny Abeids- og Velferdsforvaltning",
-    "fromDate": -2209078800000,
+    "decode": "NAV",
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "PBIS",
     "decode": "Bisys",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "PDL",
     "decode": "Persondataløsningen",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "PGOS",
     "decode": "Gosys",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "PINF",
     "decode": "Infotrygd",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "PMOD",
     "decode": "Modia",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "PNAV",
     "decode": "nav.no",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "PP01",
     "decode": "Pensjon",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "PPES",
     "decode": "Pesys",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "SFE",
     "decode": "System for Folkereg.Endringer",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "SKAT",
-    "decode": "Skattedirektoratet",
-    "fromDate": -2209078800000,
+    "decode": "SKAT",
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "SKD",
     "decode": "Skattedirektoratet",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "STAT",
-    "decode": "Slått sammen med KART - Kartverket",
-    "fromDate": -2209078800000,
+    "decode": "STAT",
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "STFV",
     "decode": "Statsforvalteren",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "TNOR",
+    "decode": "Kun i test - Tenorpopulasjonen",
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "TPSF",
-    "decode": "TPS Forvaltning",
-    "fromDate": -2209078800000,
+    "decode": "TPS Forvalteren - Dolly",
+    "fromDate": "2019-03-01",
+    "toDate": null,
+    "valid": true
+  },
+  {
+    "code": "TPSK",
+    "decode": "Konvertering innternt i TPS",
+    "fromDate": "2019-03-01",
     "toDate": null,
     "valid": true
   },
   {
     "code": "UKJENT",
     "decode": "Ukjent",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "UTLE",
-    "decode": "Utlendingsdirektoratet",
-    "fromDate": -2209078800000,
+    "decode": "UTLE",
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
   {
     "code": "XM01",
     "decode": "IBM Enterprise Service Bus",
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   }

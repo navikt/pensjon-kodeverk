@@ -2,7 +2,7 @@
   {
     "decode": "Ok",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OK",
     "codeAsString": "OK"
@@ -10,7 +10,7 @@
   {
     "decode": "Ok prosess",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OK_PROSESS",
     "codeAsString": "OK_PROSESS"

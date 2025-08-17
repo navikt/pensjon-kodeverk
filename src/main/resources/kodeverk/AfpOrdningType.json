@@ -2,7 +2,7 @@
   {
     "decode": "AFP - Kommunalsektor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFPKOM",
     "erOffentlig": true,
@@ -11,7 +11,7 @@
   {
     "decode": "AFP - Stat",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFPSTAT",
     "erOffentlig": true,
@@ -20,7 +20,7 @@
   {
     "decode": "Finansnæringen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FINANS",
     "erOffentlig": false,
@@ -29,8 +29,8 @@
   {
     "decode": "Konvertert privat",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "code": "KONV_K",
     "erOffentlig": false,
     "codeAsString": "KONV_K"
@@ -38,8 +38,8 @@
   {
     "decode": "Konvertert offentlig",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "code": "KONV_O",
     "erOffentlig": true,
     "codeAsString": "KONV_O"
@@ -47,7 +47,7 @@
   {
     "decode": "LO/NHO - ordningen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LONHO",
     "erOffentlig": false,
@@ -56,7 +56,7 @@
   {
     "decode": "Spekter",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NAVO",
     "erOffentlig": false,

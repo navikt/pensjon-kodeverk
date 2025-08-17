@@ -2,7 +2,7 @@
   {
     "decode": "Australia pro rata",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AUSTRALIA",
     "codeAsString": "AUSTRALIA"
@@ -10,7 +10,7 @@
   {
     "decode": "Canada pro rata",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "CANADA",
     "codeAsString": "CANADA"
@@ -18,7 +18,7 @@
   {
     "decode": "Chile pro rata",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "CHILE",
     "codeAsString": "CHILE"
@@ -26,7 +26,7 @@
   {
     "decode": "EØS pro rata",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EOS",
     "codeAsString": "EOS"
@@ -34,7 +34,7 @@
   {
     "decode": "Folketrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FOLKETRYGD",
     "codeAsString": "FOLKETRYGD"
@@ -42,7 +42,7 @@
   {
     "decode": "India pro rata",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INDIA",
     "codeAsString": "INDIA"
@@ -50,7 +50,7 @@
   {
     "decode": "Israel pro rata",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ISRAEL",
     "codeAsString": "ISRAEL"
@@ -58,7 +58,7 @@
   {
     "decode": "Nordisk konvensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NORDISK",
     "codeAsString": "NORDISK"
@@ -66,7 +66,7 @@
   {
     "decode": "Bilateral avtale",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PRORATA",
     "codeAsString": "PRORATA"
@@ -74,7 +74,7 @@
   {
     "decode": "Sør-Korea pro rata",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOR_KOREA",
     "codeAsString": "SOR_KOREA"
@@ -82,7 +82,7 @@
   {
     "decode": "Sveits pro rata",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SVEITS",
     "codeAsString": "SVEITS"
@@ -90,7 +90,7 @@
   {
     "decode": "USA pro rata",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "USA",
     "codeAsString": "USA"

@@ -2,7 +2,7 @@
   {
     "decode": "Applikasjonsbruker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "APPBRK",
     "codeAsString": "APPBRK"
@@ -10,7 +10,7 @@
   {
     "decode": "Avgiftsystemet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AVGSYS",
     "codeAsString": "AVGSYS"
@@ -18,7 +18,7 @@
   {
     "decode": "E-500",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "E500",
     "codeAsString": "E500"
@@ -26,7 +26,7 @@
   {
     "decode": "Gosys",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FS22",
     "codeAsString": "FS22"
@@ -34,7 +34,7 @@
   {
     "decode": "Infotrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INFOTR",
     "codeAsString": "INFOTR"
@@ -42,7 +42,7 @@
   {
     "decode": "Pensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PP01",
     "codeAsString": "PP01"

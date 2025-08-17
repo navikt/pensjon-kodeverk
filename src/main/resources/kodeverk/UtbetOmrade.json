@@ -2,7 +2,7 @@
   {
     "decode": "Enslig forsørger - Overgangsstønad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "E1",
     "codeAsString": "E1"
@@ -10,7 +10,7 @@
   {
     "decode": "Ny overgangsstønad, manuell postering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "E5",
     "codeAsString": "E5"
@@ -18,7 +18,7 @@
   {
     "decode": "Ny overgangsstønad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EN",
     "codeAsString": "EN"
@@ -26,7 +26,7 @@
   {
     "decode": "Familiepleier Virkemidler",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FM",
     "codeAsString": "FM"
@@ -34,7 +34,7 @@
   {
     "decode": "Familiepleier Virkemidler",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FV",
     "codeAsString": "FV"
@@ -42,7 +42,7 @@
   {
     "decode": "Gjenlevendepensjon Virkemidler",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GV",
     "codeAsString": "GV"
@@ -50,7 +50,7 @@
   {
     "decode": "Avtalefestet pensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "M3",
     "codeAsString": "M3"
@@ -58,7 +58,7 @@
   {
     "decode": "Pensjonstrygden for sjømenn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "M4",
     "codeAsString": "M4"
@@ -66,7 +66,7 @@
   {
     "decode": "Kommunal tilleggspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "M5",
     "codeAsString": "M5"
@@ -74,7 +74,7 @@
   {
     "decode": "Statens pensjonskasse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "M6",
     "codeAsString": "M6"
@@ -82,7 +82,7 @@
   {
     "decode": "Nødutbetaling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "M7",
     "codeAsString": "M7"
@@ -90,7 +90,7 @@
   {
     "decode": "Andre utbetalinger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "M8",
     "codeAsString": "M8"
@@ -98,7 +98,7 @@
   {
     "decode": "Alderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MA",
     "codeAsString": "MA"
@@ -106,7 +106,7 @@
   {
     "decode": "Barnepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MB",
     "codeAsString": "MB"
@@ -114,7 +114,7 @@
   {
     "decode": "Diverse utbetalinger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MD",
     "codeAsString": "MD"
@@ -122,7 +122,7 @@
   {
     "decode": "Tidligere familiepleierpensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MF",
     "codeAsString": "MF"
@@ -130,7 +130,7 @@
   {
     "decode": "Gjenlevendepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MG",
     "codeAsString": "MG"
@@ -138,7 +138,7 @@
   {
     "decode": "Krigspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MK",
     "codeAsString": "MK"
@@ -146,7 +146,7 @@
   {
     "decode": "Uførepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MU",
     "codeAsString": "MU"
@@ -154,7 +154,7 @@
   {
     "decode": "Gammel yrkesskadepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MY",
     "codeAsString": "MY"
@@ -162,7 +162,7 @@
   {
     "decode": "Enslig forsørgerpensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P0",
     "codeAsString": "P0"
@@ -170,7 +170,7 @@
   {
     "decode": "Gjenlevendepensjon yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P1",
     "codeAsString": "P1"
@@ -178,7 +178,7 @@
   {
     "decode": "Gammel yrkesskadepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P2",
     "codeAsString": "P2"
@@ -186,7 +186,7 @@
   {
     "decode": "Avtalefestet pensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P3",
     "codeAsString": "P3"
@@ -194,7 +194,7 @@
   {
     "decode": "Pensjonstrygden for sjømenn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P4",
     "codeAsString": "P4"
@@ -202,7 +202,7 @@
   {
     "decode": "Kommunal tilleggspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P5",
     "codeAsString": "P5"
@@ -210,7 +210,7 @@
   {
     "decode": "Statens pensjonskasse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P6",
     "codeAsString": "P6"
@@ -218,7 +218,7 @@
   {
     "decode": "AFP Privat",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P7",
     "codeAsString": "P7"
@@ -226,7 +226,7 @@
   {
     "decode": "Alderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PA",
     "codeAsString": "PA"
@@ -234,7 +234,7 @@
   {
     "decode": "Barnepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PB",
     "codeAsString": "PB"
@@ -242,7 +242,7 @@
   {
     "decode": "Pensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PE",
     "codeAsString": "PE"
@@ -250,7 +250,7 @@
   {
     "decode": "Tidligere familiepleierpensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PF",
     "codeAsString": "PF"
@@ -258,7 +258,7 @@
   {
     "decode": "Gjenlevendepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PG",
     "codeAsString": "PG"
@@ -266,7 +266,7 @@
   {
     "decode": "Krigspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PK",
     "codeAsString": "PK"
@@ -274,7 +274,7 @@
   {
     "decode": "Uførepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PU",
     "codeAsString": "PU"
@@ -282,7 +282,7 @@
   {
     "decode": "Uførepensjon yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PY",
     "codeAsString": "PY"
@@ -290,7 +290,7 @@
   {
     "decode": "Uførepensjon fra SPK",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "U3",
     "codeAsString": "U3"
@@ -298,7 +298,7 @@
   {
     "decode": "Uførepensjon fra SPK, manuell postering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "U4",
     "codeAsString": "U4"
@@ -306,7 +306,7 @@
   {
     "decode": "Manuell postering Uføretrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UM",
     "codeAsString": "UM"
@@ -314,7 +314,7 @@
   {
     "decode": "Nødutbetaling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UN",
     "codeAsString": "UN"
@@ -322,7 +322,7 @@
   {
     "decode": "Uføretrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT",
     "codeAsString": "UT"
@@ -330,7 +330,7 @@
   {
     "decode": "Gjenlevendepensjon Virkemidler",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VM",
     "codeAsString": "VM"

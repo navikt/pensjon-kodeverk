@@ -2,7 +2,7 @@
   {
     "decode": "Ingen tak BT etter 01.07.2022",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INGEN_TAK_JULI2022",
     "codeAsString": "INGEN_TAK_JULI2022"
@@ -10,7 +10,7 @@
   {
     "decode": "Nye regler fra 1.1.2016",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NYE_REGLER_2016",
     "codeAsString": "NYE_REGLER_2016"
@@ -18,7 +18,7 @@
   {
     "decode": "Overgangsregler 1.1.2016 - 31.12.2018",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OVERGANGSREGLER_2016",
     "codeAsString": "OVERGANGSREGLER_2016"

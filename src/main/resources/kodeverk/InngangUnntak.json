@@ -2,7 +2,7 @@
   {
     "decode": "Død i Norge før fylte 26 år",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DOD26_ALDER",
     "sakType": "ALDER",
@@ -11,7 +11,7 @@
   {
     "decode": "Død i Norge før fylte 26 år",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DOD26_BARNEP",
     "sakType": "BARNEP",
@@ -20,7 +20,7 @@
   {
     "decode": "Død i Norge før fylte 26 år",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DOD26_GJENLEV",
     "sakType": "GJENLEV",
@@ -29,7 +29,7 @@
   {
     "decode": "Død i Norge før fylte 26 år",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DOD26_UFOREP",
     "sakType": "UFOREP",
@@ -38,7 +38,7 @@
   {
     "decode": "Flyktning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FLYKT_ALDER",
     "sakType": "ALDER",
@@ -47,7 +47,7 @@
   {
     "decode": "Flyktning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FLYKT_BARNEP",
     "sakType": "BARNEP",
@@ -56,7 +56,7 @@
   {
     "decode": "Flyktning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FLYKT_GJENLEV",
     "sakType": "GJENLEV",
@@ -65,7 +65,7 @@
   {
     "decode": "Flyktning (uførekrav før 01.01.2021)",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FLYKT_UFOREP",
     "sakType": "UFOREP",
@@ -74,7 +74,7 @@
   {
     "decode": "Halv minstepensjon §17-3 sjuende ledd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HALV_MINPEN_ALDER",
     "sakType": "ALDER",
@@ -83,7 +83,7 @@
   {
     "decode": "Halv minstepensjon §18-2 sjuende ledd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HALV_MINPEN_BARNEP",
     "sakType": "BARNEP",
@@ -92,7 +92,7 @@
   {
     "decode": "Halv minstepensjon §17-3 sjuende ledd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HALV_MINPEN_GJENLEV",
     "sakType": "GJENLEV",
@@ -101,7 +101,7 @@
   {
     "decode": "Halv minstepensjon §12-2 fjerde ledd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HALV_MINPEN_UFOREP",
     "sakType": "UFOREP",
@@ -110,7 +110,7 @@
   {
     "decode": "Opptjent halv minsteytelse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HALV_MINPEN_UFP_UT",
     "sakType": "UFOREP",
@@ -119,7 +119,7 @@
   {
     "decode": "Mindre enn 5 år i utlandet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MINDRE5AR_BARNEP",
     "sakType": "BARNEP",
@@ -128,7 +128,7 @@
   {
     "decode": "Mindre enn 5 år i utlandet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MINDRE5AR_GJENLEV",
     "sakType": "GJENLEV",
@@ -137,7 +137,7 @@
   {
     "decode": "Mindre enn 5 år uten medlemskap",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MINDRE5AR_UFOREP",
     "sakType": "UFOREP",
@@ -146,7 +146,7 @@
   {
     "decode": "Ufør i Norge før fylte 26 år",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UFOR25_ALDER",
     "sakType": "ALDER",
@@ -155,7 +155,7 @@
   {
     "decode": "Ufør før 26 år og da medlem i Norge",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UFOR25_UFOREP",
     "sakType": "UFOREP",
@@ -164,7 +164,7 @@
   {
     "decode": "Yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "YRKESSKADE_ALDER",
     "sakType": "ALDER",
@@ -173,7 +173,7 @@
   {
     "decode": "Yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "YRKESSKADE_BARNEP",
     "sakType": "BARNEP",
@@ -182,7 +182,7 @@
   {
     "decode": "Yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "YRKESSKADE_GJENLEV",
     "sakType": "GJENLEV",
@@ -191,7 +191,7 @@
   {
     "decode": "Yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "YRKESSKADE_UFOREP",
     "sakType": "UFOREP",

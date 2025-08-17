@@ -2,7 +2,7 @@
   {
     "decode": "62",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_62",
     "codeAsString": "62"
@@ -10,7 +10,7 @@
   {
     "decode": "63",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_63",
     "codeAsString": "63"
@@ -18,7 +18,7 @@
   {
     "decode": "64",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_64",
     "codeAsString": "64"
@@ -26,7 +26,7 @@
   {
     "decode": "65",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_65",
     "codeAsString": "65"
@@ -34,7 +34,7 @@
   {
     "decode": "66",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_66",
     "codeAsString": "66"
@@ -42,7 +42,7 @@
   {
     "decode": "67",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_67",
     "codeAsString": "67"
@@ -50,7 +50,7 @@
   {
     "decode": "68",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_68",
     "codeAsString": "68"
@@ -58,7 +58,7 @@
   {
     "decode": "69",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_69",
     "codeAsString": "69"
@@ -66,7 +66,7 @@
   {
     "decode": "70",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_70",
     "codeAsString": "70"
@@ -74,7 +74,7 @@
   {
     "decode": "71",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_71",
     "codeAsString": "71"
@@ -82,7 +82,7 @@
   {
     "decode": "72",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_72",
     "codeAsString": "72"
@@ -90,7 +90,7 @@
   {
     "decode": "73",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_73",
     "codeAsString": "73"
@@ -98,7 +98,7 @@
   {
     "decode": "74",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_74",
     "codeAsString": "74"
@@ -106,7 +106,7 @@
   {
     "decode": "75",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_75",
     "codeAsString": "75"
@@ -114,7 +114,7 @@
   {
     "decode": "Livsvarig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LIVSVARIG",
     "codeAsString": "LIVSVARIG"

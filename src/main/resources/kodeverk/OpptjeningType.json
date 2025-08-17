@@ -2,7 +2,7 @@
   {
     "decode": "Omsorg for barn over 6 år med hjelpestønad sats 3 eller 4",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OBO6H",
     "codeAsString": "OBO6H"
@@ -10,7 +10,7 @@
   {
     "decode": "Omsorg for barn over 7 år med hjelpestønad sats 3 eller 4",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OBO7H",
     "codeAsString": "OBO7H"
@@ -18,7 +18,7 @@
   {
     "decode": "Omsorg for barn under 6 år",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OBU6",
     "codeAsString": "OBU6"
@@ -26,7 +26,7 @@
   {
     "decode": "Omsorg for barn under 7 år",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OBU7",
     "codeAsString": "OBU7"
@@ -34,7 +34,7 @@
   {
     "decode": "Omsorg for syke/funksjonshemmede/eldre",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OSFE",
     "codeAsString": "OSFE"
@@ -42,7 +42,7 @@
   {
     "decode": "Pensjonsgivende inntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PPI",
     "codeAsString": "PPI"

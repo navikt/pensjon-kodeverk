@@ -2,7 +2,7 @@
   {
     "decode": "Alle kontekster",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ALLTID",
     "codeAsString": "ALLTID"
@@ -10,7 +10,7 @@
   {
     "decode": "Sakskontekst",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAK",
     "codeAsString": "SAK"
@@ -18,7 +18,7 @@
   {
     "decode": "Vedtakskontekst",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VEDTAK",
     "codeAsString": "VEDTAK"

@@ -2,7 +2,7 @@
   {
     "decode": "Applikasjonsbruker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "APPBRK",
     "codeAsString": "APPBRK"
@@ -10,7 +10,7 @@
   {
     "decode": "Infotrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INFOTRYGD",
     "codeAsString": "INFOTRYGD"
@@ -18,7 +18,7 @@
   {
     "decode": "Pensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PP01",
     "codeAsString": "PP01"
@@ -26,7 +26,7 @@
   {
     "decode": "Selvbetjening",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SELV",
     "codeAsString": "SELV"
@@ -34,7 +34,7 @@
   {
     "decode": "TP-leverandør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TPLEV",
     "codeAsString": "TPLEV"

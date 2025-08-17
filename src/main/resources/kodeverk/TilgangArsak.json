@@ -2,7 +2,7 @@
   {
     "decode": "Anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANKE",
     "maksMndTilgang": 12,
@@ -11,7 +11,7 @@
   {
     "decode": "Diskresjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DISKRESJON",
     "maksMndTilgang": 3,
@@ -20,7 +20,7 @@
   {
     "decode": "Egen ansatt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EGEN_ANSATT",
     "maksMndTilgang": 3,
@@ -29,7 +29,7 @@
   {
     "decode": "Erstatning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ERST",
     "maksMndTilgang": 3,
@@ -38,7 +38,7 @@
   {
     "decode": "Ettergivelse av gjeld",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERG",
     "maksMndTilgang": 3,
@@ -47,7 +47,7 @@
   {
     "decode": "Feilutbetaling/Tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FEILUTBETALING",
     "maksMndTilgang": 3,
@@ -56,7 +56,7 @@
   {
     "decode": "Flytting",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FLYTTING",
     "maksMndTilgang": 3,
@@ -65,7 +65,7 @@
   {
     "decode": "Inhabilitet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INHABIL",
     "maksMndTilgang": 3,
@@ -74,7 +74,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNT",
     "maksMndTilgang": 3,
@@ -83,7 +83,7 @@
   {
     "decode": "Klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAGE",
     "maksMndTilgang": 12,
@@ -92,7 +92,7 @@
   {
     "decode": "Koordinere saker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KOORD",
     "maksMndTilgang": 3,
@@ -101,7 +101,7 @@
   {
     "decode": "Overført til NNP",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NNP",
     "maksMndTilgang": 3,
@@ -110,7 +110,7 @@
   {
     "decode": "Nyopprettet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NYOPP",
     "maksMndTilgang": 3,
@@ -119,7 +119,7 @@
   {
     "decode": "Saksomkostninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMKOST",
     "maksMndTilgang": 3,
@@ -128,7 +128,7 @@
   {
     "decode": "Opphørt egen ansatt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPHORT_EGEN_ANSATT",
     "maksMndTilgang": 3,
@@ -137,7 +137,7 @@
   {
     "decode": "Overført fra Nav Ny pensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OVERFORT_NNP",
     "maksMndTilgang": 3,
@@ -146,7 +146,7 @@
   {
     "decode": "Utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTLAND",
     "maksMndTilgang": 3,

@@ -2,7 +2,7 @@
   {
     "decode": "Ikke oppfylt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IKKE_OPPFYLT",
     "position": 2,
@@ -11,7 +11,7 @@
   {
     "decode": "Ikke vurdert",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IKKE_VURDERT",
     "position": 0,
@@ -20,7 +20,7 @@
   {
     "decode": "Oppfylt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPFYLT",
     "position": 1,

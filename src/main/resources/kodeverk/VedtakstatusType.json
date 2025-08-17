@@ -2,7 +2,7 @@
   {
     "decode": "Attestert",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ATT",
     "codeAsString": "ATT"
@@ -10,7 +10,7 @@
   {
     "decode": "Avbrutt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AVBR",
     "codeAsString": "AVBR"
@@ -18,7 +18,7 @@
   {
     "decode": "Avventer oppdragskvittering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AVV_OS_KVITT",
     "codeAsString": "AVV_OS_KVITT"
@@ -26,7 +26,7 @@
   {
     "decode": "Fastsettes",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FASTS",
     "codeAsString": "FASTS"
@@ -34,7 +34,7 @@
   {
     "decode": "Iverksatt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IVERKS",
     "codeAsString": "IVERKS"
@@ -42,7 +42,7 @@
   {
     "decode": "Reaktiviseres",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REAK",
     "codeAsString": "REAK"
@@ -50,7 +50,7 @@
   {
     "decode": "Samordnet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAMORDN",
     "codeAsString": "SAMORDN"
@@ -58,7 +58,7 @@
   {
     "decode": "Stoppes",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STOPPES",
     "codeAsString": "STOPPES"
@@ -66,7 +66,7 @@
   {
     "decode": "Stoppet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STOPPET",
     "codeAsString": "STOPPET"
@@ -74,7 +74,7 @@
   {
     "decode": "Til attestering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TIL_ATT",
     "codeAsString": "TIL_ATT"
@@ -82,7 +82,7 @@
   {
     "decode": "Til iverksettelse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TIL_IVERKS",
     "codeAsString": "TIL_IVERKS"
@@ -90,7 +90,7 @@
   {
     "decode": "Til samordning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TIL_SAMORDN",
     "codeAsString": "TIL_SAMORDN"

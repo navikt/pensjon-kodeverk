@@ -2,7 +2,7 @@
   {
     "decode": "AFP etteroppgjør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP_EO",
     "codeAsString": "AFP_EO"
@@ -10,7 +10,7 @@
   {
     "decode": "Alle",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ALLE",
     "codeAsString": "ALLE"
@@ -18,7 +18,7 @@
   {
     "decode": "Anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANKE",
     "codeAsString": "ANKE"
@@ -26,7 +26,7 @@
   {
     "decode": "Eksport",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EKSPORT",
     "codeAsString": "EKSPORT"
@@ -34,7 +34,7 @@
   {
     "decode": "Endring uttaksgrad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UTTAKSGRAD",
     "codeAsString": "ENDR_UTTAKSGRAD"
@@ -42,7 +42,7 @@
   {
     "decode": "Erstatning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ERSTATNING",
     "codeAsString": "ERSTATNING"
@@ -50,7 +50,7 @@
   {
     "decode": "Ettergivelse av gjeld",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERGIV_GJELD",
     "codeAsString": "ETTERGIV_GJELD"
@@ -58,7 +58,7 @@
   {
     "decode": "Dekning faste utgifter inst.opphold",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAS_UTG_IO",
     "codeAsString": "FAS_UTG_IO"
@@ -66,7 +66,7 @@
   {
     "decode": "Førstegangsbehandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORSTEG_BH",
     "codeAsString": "FORSTEG_BH"
@@ -74,7 +74,7 @@
   {
     "decode": "Førstegangsbehandling bosatt utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_BO_UTL",
     "codeAsString": "F_BH_BO_UTL"
@@ -82,7 +82,7 @@
   {
     "decode": "Førstegangsbehandling kun utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_KUN_UTL",
     "codeAsString": "F_BH_KUN_UTL"
@@ -90,7 +90,7 @@
   {
     "decode": "Førstegangsbehandling Norge/utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_MED_UTL",
     "codeAsString": "F_BH_MED_UTL"
@@ -98,7 +98,7 @@
   {
     "decode": "Gjenlevenderettighet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GJ_RETT",
     "codeAsString": "GJ_RETT"
@@ -106,7 +106,7 @@
   {
     "decode": "Godskriving omsorgsopptjening",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GOD_OMSGSP",
     "codeAsString": "GOD_OMSGSP"
@@ -114,7 +114,7 @@
   {
     "decode": "G-omregning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GOMR",
     "codeAsString": "GOMR"
@@ -122,7 +122,7 @@
   {
     "decode": "Inntektsendring",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNT_E",
     "codeAsString": "INNT_E"
@@ -130,7 +130,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNT_KTRL",
     "codeAsString": "INNT_KTRL"
@@ -138,7 +138,7 @@
   {
     "decode": "Klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAGE",
     "codeAsString": "KLAGE"
@@ -146,7 +146,7 @@
   {
     "decode": "Kontroll 3-17 a",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONTROLL_3_17_A",
     "codeAsString": "KONTROLL_3_17_A"
@@ -154,7 +154,7 @@
   {
     "decode": "Konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONVERTERING",
     "codeAsString": "KONVERTERING"
@@ -162,7 +162,7 @@
   {
     "decode": "Minimalt konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONVERTERING_MIN",
     "codeAsString": "KONVERTERING_MIN"
@@ -170,7 +170,7 @@
   {
     "decode": "Konvertering - Avvik ved G-omr",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_AVVIK_G_BATCH",
     "codeAsString": "KONV_AVVIK_G_BATCH"
@@ -178,7 +178,7 @@
   {
     "decode": "Mellombehandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MELLOMBH",
     "codeAsString": "MELLOMBH"
@@ -186,7 +186,7 @@
   {
     "decode": "Merskatt tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MTK",
     "codeAsString": "MTK"
@@ -194,7 +194,7 @@
   {
     "decode": "Omgjøring av tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMGJ_TILBAKE",
     "codeAsString": "OMGJ_TILBAKE"
@@ -202,7 +202,7 @@
   {
     "decode": "Overføring omsorgsopptjening",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OVERF_OMSGSP",
     "codeAsString": "OVERF_OMSGSP"
@@ -210,7 +210,7 @@
   {
     "decode": "Regulering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REGULERING",
     "codeAsString": "REGULERING"
@@ -218,7 +218,7 @@
   {
     "decode": "Revurdering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REVURD",
     "codeAsString": "REVURD"
@@ -226,7 +226,7 @@
   {
     "decode": "Saksomkostninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAK_OMKOST",
     "codeAsString": "SAK_OMKOST"
@@ -234,7 +234,7 @@
   {
     "decode": "Sluttbehandling kun utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SLUTTBEH_KUN_UTL",
     "codeAsString": "SLUTTBEH_KUN_UTL"
@@ -242,7 +242,7 @@
   {
     "decode": "Sluttbehandling Norge/utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SLUTT_BH_UTL",
     "codeAsString": "SLUTT_BH_UTL"
@@ -250,7 +250,7 @@
   {
     "decode": "Søknad om refusjon av uføregrad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOK_RED_UG",
     "codeAsString": "SOK_RED_UG"
@@ -258,7 +258,7 @@
   {
     "decode": "Søknad om yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOK_US",
     "codeAsString": "SOK_US"
@@ -266,7 +266,7 @@
   {
     "decode": "Søknad om ung ufør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOK_UU",
     "codeAsString": "SOK_UU"
@@ -274,7 +274,7 @@
   {
     "decode": "Tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILBAKEKR",
     "codeAsString": "TILBAKEKR"
@@ -282,7 +282,7 @@
   {
     "decode": "Utsendelse til avtaleland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTSEND_AVTALELAND",
     "codeAsString": "UTSEND_AVTALELAND"
@@ -290,7 +290,7 @@
   {
     "decode": "Etteroppgjør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_EO",
     "codeAsString": "UT_EO"
@@ -298,7 +298,7 @@
   {
     "decode": "Vurdering av etteroppgjør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_VURDERING_EO",
     "codeAsString": "UT_VURDERING_EO"

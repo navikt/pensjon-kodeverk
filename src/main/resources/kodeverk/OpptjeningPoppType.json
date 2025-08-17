@@ -2,7 +2,7 @@
   {
     "decode": "Antatt inntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AI",
     "codeAsString": "AI"
@@ -10,7 +10,7 @@
   {
     "decode": "Diplomatinntekt - Jord/Skog/Fisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DIP_JSF",
     "codeAsString": "DIP_JSF"
@@ -18,7 +18,7 @@
   {
     "decode": "Diplomatinntekt - Lønn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DIP_LON",
     "codeAsString": "DIP_LON"
@@ -26,7 +26,7 @@
   {
     "decode": "Diplomatinntekt - Selvstendig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DIP_SEL",
     "codeAsString": "DIP_SEL"
@@ -34,7 +34,7 @@
   {
     "decode": "Dagpengeopptjening",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DP",
     "codeAsString": "DP"
@@ -42,7 +42,7 @@
   {
     "decode": "Dagpengeopptjening for fiskere og fangstmenn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DP_FF",
     "codeAsString": "DP_FF"
@@ -50,7 +50,7 @@
   {
     "decode": "Fastland - Lønnsinntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FL_PGI_LOENN",
     "codeAsString": "FL_PGI_LOENN"
@@ -58,7 +58,7 @@
   {
     "decode": "Fastland - Lønnsinntekt - Bare pensjonsdel",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FL_PGI_LOENN_PD",
     "codeAsString": "FL_PGI_LOENN_PD"
@@ -66,7 +66,7 @@
   {
     "decode": "Fastland - Næringsinntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FL_PGI_NAERING",
     "codeAsString": "FL_PGI_NAERING"
@@ -74,7 +74,7 @@
   {
     "decode": "Fastland - Næringsinntekt - Fiske, fangst eller familiebarnehage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FL_PGI_NAERING_FFF",
     "codeAsString": "FL_PGI_NAERING_FFF"
@@ -82,7 +82,7 @@
   {
     "decode": "Innenlandsinntekt - Jord/Skog/Fisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INN_JSF",
     "codeAsString": "INN_JSF"
@@ -90,7 +90,7 @@
   {
     "decode": "Innenlandsinntekt - Lønn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INN_LON",
     "codeAsString": "INN_LON"
@@ -98,7 +98,7 @@
   {
     "decode": "Innenlandsinntekt - Selvstendig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INN_SEL",
     "codeAsString": "INN_SEL"
@@ -106,7 +106,7 @@
   {
     "decode": "Kildeskatt - Lønnsinntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KSL_PGI_LOENN",
     "codeAsString": "KSL_PGI_LOENN"
@@ -114,7 +114,7 @@
   {
     "decode": "Kildeskatt - Lønnsinntekt - Bare pensjonsdel",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KSL_PGI_LOENN_PD",
     "codeAsString": "KSL_PGI_LOENN_PD"
@@ -122,7 +122,7 @@
   {
     "decode": "Kildeskatt - Næringsinntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KSL_PGI_NAERING",
     "codeAsString": "KSL_PGI_NAERING"
@@ -130,7 +130,7 @@
   {
     "decode": "Kildeskatt - Næringsinntekt - Fiske, fangst eller familiebarnehage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KSL_PGI_NAERING_FFF",
     "codeAsString": "KSL_PGI_NAERING_FFF"
@@ -138,7 +138,7 @@
   {
     "decode": "Militær førstegangstjeneste",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MIL",
     "codeAsString": "MIL"
@@ -146,7 +146,7 @@
   {
     "decode": "Omsorg for barn over 6 år med hjelpestønad sats 3 eller 4",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OBO6H",
     "codeAsString": "OBO6H"
@@ -154,7 +154,7 @@
   {
     "decode": "Omsorg for barn over 7 år med hjelpestønad sats 3 eller 4",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OBO7H",
     "codeAsString": "OBO7H"
@@ -162,7 +162,7 @@
   {
     "decode": "Omsorg for barn under 6 år",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OBU6",
     "codeAsString": "OBU6"
@@ -170,7 +170,7 @@
   {
     "decode": "Omsorg for barn under 7 år",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OBU7",
     "codeAsString": "OBU7"
@@ -178,7 +178,7 @@
   {
     "decode": "Omsorg for syke/funksjonshemmede/eldre",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OSFE",
     "codeAsString": "OSFE"
@@ -186,7 +186,7 @@
   {
     "decode": "PGI innland fastsatt av NAV",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PGI_NAV",
     "codeAsString": "PGI_NAV"
@@ -194,7 +194,7 @@
   {
     "decode": "Pensjonsgivende inntekt 1966 - Konv",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PI66",
     "codeAsString": "PI66"
@@ -202,7 +202,7 @@
   {
     "decode": "Pensjonspoeng for pensjonsgivende inntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PPI",
     "codeAsString": "PPI"
@@ -210,7 +210,7 @@
   {
     "decode": "Reduksjonsinntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "RED_INT",
     "codeAsString": "RED_INT"
@@ -218,7 +218,7 @@
   {
     "decode": "Sivil førstegangstjeneste",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SIV",
     "codeAsString": "SIV"
@@ -226,7 +226,7 @@
   {
     "decode": "Sjøinntekt - Jord/Skog/Fisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SJO_JSF",
     "codeAsString": "SJO_JSF"
@@ -234,7 +234,7 @@
   {
     "decode": "Sjøinntekt - Lønn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SJO_LON",
     "codeAsString": "SJO_LON"
@@ -242,7 +242,7 @@
   {
     "decode": "Sjøinntekt - Selvstendig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SJO_SEL",
     "codeAsString": "SJO_SEL"
@@ -250,7 +250,7 @@
   {
     "decode": "Sum pensjonsgivende inntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SUM_PI",
     "codeAsString": "SUM_PI"
@@ -258,7 +258,7 @@
   {
     "decode": "Svalbardinntekt - Jord/Skog/Fisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SVA_JSF",
     "codeAsString": "SVA_JSF"
@@ -266,7 +266,7 @@
   {
     "decode": "Svalbardinntekt - Lønn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SVA_LON",
     "codeAsString": "SVA_LON"
@@ -274,7 +274,7 @@
   {
     "decode": "Svalbard - Lønnsinntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SVA_PGI_LOENN",
     "codeAsString": "SVA_PGI_LOENN"
@@ -282,7 +282,7 @@
   {
     "decode": "Svalbard - Lønnsinntekt - Bare pensjonsdel",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SVA_PGI_LOENN_PD",
     "codeAsString": "SVA_PGI_LOENN_PD"
@@ -290,7 +290,7 @@
   {
     "decode": "Svalbard - Næringsinntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SVA_PGI_NAERING",
     "codeAsString": "SVA_PGI_NAERING"
@@ -298,7 +298,7 @@
   {
     "decode": "Svalbard - Næringsinntekt - Fiske, fangst eller familiebarnehage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SVA_PGI_NAERING_FFF",
     "codeAsString": "SVA_PGI_NAERING_FFF"
@@ -306,7 +306,7 @@
   {
     "decode": "Svalbardinntekt - Selvstendig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SVA_SEL",
     "codeAsString": "SVA_SEL"
@@ -314,7 +314,7 @@
   {
     "decode": "Uføreopptjening",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UFORE",
     "codeAsString": "UFORE"
@@ -322,7 +322,7 @@
   {
     "decode": "Utenlandsinntekt - Jord/Skog/Fisk",
     "valid": false,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTE_JSF",
     "codeAsString": "UTE_JSF"
@@ -330,7 +330,7 @@
   {
     "decode": "Utenlandsinntekt - Lønn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTE_LON",
     "codeAsString": "UTE_LON"
@@ -338,7 +338,7 @@
   {
     "decode": "Utenlandsinntekt - Selvstendig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTE_SEL",
     "codeAsString": "UTE_SEL"

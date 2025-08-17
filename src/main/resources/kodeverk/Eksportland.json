@@ -2,7 +2,7 @@
   {
     "decode": "Australia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AUS",
     "codeAsString": "AUS"
@@ -10,7 +10,7 @@
   {
     "decode": "Østerrike",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AUT",
     "codeAsString": "AUT"
@@ -18,7 +18,7 @@
   {
     "decode": "Belgia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BEL",
     "codeAsString": "BEL"
@@ -26,7 +26,7 @@
   {
     "decode": "Bulgaria",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BGR",
     "codeAsString": "BGR"
@@ -34,7 +34,7 @@
   {
     "decode": "Bosnia-Hercegovina",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BIH",
     "codeAsString": "BIH"
@@ -42,7 +42,7 @@
   {
     "decode": "Bosatt Utenfor EØS",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BUE",
     "codeAsString": "BUE"
@@ -50,7 +50,7 @@
   {
     "decode": "Canada",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "CAN",
     "codeAsString": "CAN"
@@ -58,7 +58,7 @@
   {
     "decode": "Sveits",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "CHE",
     "codeAsString": "CHE"
@@ -66,7 +66,7 @@
   {
     "decode": "Chile",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "CHL",
     "codeAsString": "CHL"
@@ -74,7 +74,7 @@
   {
     "decode": "Kypros",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "CYP",
     "codeAsString": "CYP"
@@ -82,7 +82,7 @@
   {
     "decode": "Den Tsjekkiske Rep.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "CZE",
     "codeAsString": "CZE"
@@ -90,7 +90,7 @@
   {
     "decode": "Tyskland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DEU",
     "codeAsString": "DEU"
@@ -98,7 +98,7 @@
   {
     "decode": "Danmark",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DNK",
     "codeAsString": "DNK"
@@ -106,7 +106,7 @@
   {
     "decode": "Spania",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ESP",
     "codeAsString": "ESP"
@@ -114,7 +114,7 @@
   {
     "decode": "Estland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EST",
     "codeAsString": "EST"
@@ -122,7 +122,7 @@
   {
     "decode": "Finland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FIN",
     "codeAsString": "FIN"
@@ -130,7 +130,7 @@
   {
     "decode": "Frankrike",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FRA",
     "codeAsString": "FRA"
@@ -138,7 +138,7 @@
   {
     "decode": "Færøyene",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FRO",
     "codeAsString": "FRO"
@@ -146,7 +146,7 @@
   {
     "decode": "Storbritannia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GBR",
     "codeAsString": "GBR"
@@ -154,7 +154,7 @@
   {
     "decode": "Storbritannia Gernsey",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GGY",
     "codeAsString": "GGY"
@@ -162,7 +162,7 @@
   {
     "decode": "Frankrike Guadeloupe",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GLP",
     "codeAsString": "GLP"
@@ -170,7 +170,7 @@
   {
     "decode": "Hellas",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GRC",
     "codeAsString": "GRC"
@@ -178,7 +178,7 @@
   {
     "decode": "Grønland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GRL",
     "codeAsString": "GRL"
@@ -186,7 +186,7 @@
   {
     "decode": "Frankrike Fransk Guyana",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GUF",
     "codeAsString": "GUF"
@@ -194,7 +194,7 @@
   {
     "decode": "Kroatia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HRV",
     "codeAsString": "HRV"
@@ -202,7 +202,7 @@
   {
     "decode": "Ungarn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HUN",
     "codeAsString": "HUN"
@@ -210,7 +210,7 @@
   {
     "decode": "Storbritannia Isle Of Man",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IMN",
     "codeAsString": "IMN"
@@ -218,7 +218,7 @@
   {
     "decode": "India",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IND",
     "codeAsString": "IND"
@@ -226,7 +226,7 @@
   {
     "decode": "Irland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IRL",
     "codeAsString": "IRL"
@@ -234,7 +234,7 @@
   {
     "decode": "Island",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ISL",
     "codeAsString": "ISL"
@@ -242,7 +242,7 @@
   {
     "decode": "Israel",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ISR",
     "codeAsString": "ISR"
@@ -250,7 +250,7 @@
   {
     "decode": "Italia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ITA",
     "codeAsString": "ITA"
@@ -258,7 +258,7 @@
   {
     "decode": "Storbritannia Jersy",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "JEY",
     "codeAsString": "JEY"
@@ -266,7 +266,7 @@
   {
     "decode": "Sør-Korea",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KOR",
     "codeAsString": "KOR"
@@ -274,7 +274,7 @@
   {
     "decode": "Liechtenstein",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LIE",
     "codeAsString": "LIE"
@@ -282,7 +282,7 @@
   {
     "decode": "Litauen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LTU",
     "codeAsString": "LTU"
@@ -290,7 +290,7 @@
   {
     "decode": "Luxembourg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LUX",
     "codeAsString": "LUX"
@@ -298,7 +298,7 @@
   {
     "decode": "Latvia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LVA",
     "codeAsString": "LVA"
@@ -306,7 +306,7 @@
   {
     "decode": "Malta",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MLT",
     "codeAsString": "MLT"
@@ -314,7 +314,7 @@
   {
     "decode": "Montenegro",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MNE",
     "codeAsString": "MNE"
@@ -322,7 +322,7 @@
   {
     "decode": "Frankrike Martinique",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MTQ",
     "codeAsString": "MTQ"
@@ -330,7 +330,7 @@
   {
     "decode": "Nederland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NLD",
     "codeAsString": "NLD"
@@ -338,7 +338,7 @@
   {
     "decode": "Norge",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NOR",
     "codeAsString": "NOR"
@@ -346,7 +346,7 @@
   {
     "decode": "Polen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "POL",
     "codeAsString": "POL"
@@ -354,7 +354,7 @@
   {
     "decode": "Portugal",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PRT",
     "codeAsString": "PRT"
@@ -362,7 +362,7 @@
   {
     "decode": "Quebec",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "QEB",
     "codeAsString": "QEB"
@@ -370,7 +370,7 @@
   {
     "decode": "Frankrike Reunion",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REU",
     "codeAsString": "REU"
@@ -378,7 +378,7 @@
   {
     "decode": "Romania",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ROU",
     "codeAsString": "ROU"
@@ -386,7 +386,7 @@
   {
     "decode": "Serbia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SRB",
     "codeAsString": "SRB"
@@ -394,7 +394,7 @@
   {
     "decode": "Slovakia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SVK",
     "codeAsString": "SVK"
@@ -402,7 +402,7 @@
   {
     "decode": "Slovenia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SVN",
     "codeAsString": "SVN"
@@ -410,7 +410,7 @@
   {
     "decode": "Sverige",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SWE",
     "codeAsString": "SWE"
@@ -418,7 +418,7 @@
   {
     "decode": "Tyrkia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TUR",
     "codeAsString": "TUR"
@@ -426,7 +426,7 @@
   {
     "decode": "USA",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "USA",
     "codeAsString": "USA"

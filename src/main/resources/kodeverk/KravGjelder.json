@@ -2,13 +2,13 @@
   {
     "decode": "AFP etteroppgjør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP_EO",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -19,13 +19,13 @@
   {
     "decode": "Anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANKE",
     "kravGjGrp": {
       "decode": "Ankekrav er angitt",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "ANKE",
       "codeAsString": "ANKE"
@@ -36,13 +36,13 @@
   {
     "decode": "Eksport",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EKSPORT",
     "kravGjGrp": {
       "decode": "Utenlandskrav er angitt",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "UTLAND",
       "codeAsString": "UTLAND"
@@ -53,13 +53,13 @@
   {
     "decode": "Endring uttaksgrad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UTTAKSGRAD",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -70,13 +70,13 @@
   {
     "decode": "Erstatning",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1645436580000,
+    "fromDate": "1899-12-31",
+    "toDate": "2022-02-15",
     "code": "ERSTATNING",
     "kravGjGrp": {
       "decode": "Klagekrav er angitt",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "KLAGE",
       "codeAsString": "KLAGE"
@@ -87,13 +87,13 @@
   {
     "decode": "Ettergivelse av gjeld",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERGIV_GJELD",
     "kravGjGrp": {
       "decode": "Klagekrav er angitt",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "KLAGE",
       "codeAsString": "KLAGE"
@@ -104,13 +104,13 @@
   {
     "decode": "Dekning faste utgifter inst.opphold",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "code": "FAS_UTG_IO",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -121,13 +121,13 @@
   {
     "decode": "Førstegangsbehandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORSTEG_BH",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -138,13 +138,13 @@
   {
     "decode": "Førstegangsbehandling bosatt utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_BO_UTL",
     "kravGjGrp": {
       "decode": "Utenlandskrav er angitt",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "UTLAND",
       "codeAsString": "UTLAND"
@@ -155,13 +155,13 @@
   {
     "decode": "Førstegangsbehandling kun utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_KUN_UTL",
     "kravGjGrp": {
       "decode": "Utenlandskrav er angitt",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "UTLAND",
       "codeAsString": "UTLAND"
@@ -172,13 +172,13 @@
   {
     "decode": "Førstegangsbehandling Norge/utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_MED_UTL",
     "kravGjGrp": {
       "decode": "Utenlandskrav er angitt",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "UTLAND",
       "codeAsString": "UTLAND"
@@ -189,13 +189,13 @@
   {
     "decode": "Gjenlevenderettighet",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "code": "GJ_RETT",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -206,13 +206,13 @@
   {
     "decode": "Godskriving omsorgsopptjening",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GOD_OMSGSP",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -223,13 +223,13 @@
   {
     "decode": "G-omregning",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1293836400000,
+    "fromDate": "1899-12-31",
+    "toDate": "2011-01-01",
     "code": "GOMR",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -240,13 +240,13 @@
   {
     "decode": "Hjelpeberegning ved overgang til uføretrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HJLPBER_OVERG_UT",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -257,13 +257,13 @@
   {
     "decode": "Inntektsendring",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNT_E",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -274,13 +274,13 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNT_KTRL",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -291,13 +291,13 @@
   {
     "decode": "Klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAGE",
     "kravGjGrp": {
       "decode": "Klagekrav er angitt",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "KLAGE",
       "codeAsString": "KLAGE"
@@ -308,13 +308,13 @@
   {
     "decode": "Kontroll 3-17 a",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONTROLL_3_17_A",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -325,13 +325,13 @@
   {
     "decode": "Konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "code": "KONVERTERING",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -342,13 +342,13 @@
   {
     "decode": "Minimalt konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "code": "KONVERTERING_MIN",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -359,13 +359,13 @@
   {
     "decode": "Konvertering - Avvik ved G-omr",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_AVVIK_G_BATCH",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -376,13 +376,13 @@
   {
     "decode": "Mellombehandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MELLOMBH",
     "kravGjGrp": {
       "decode": "Utenlandskrav er angitt",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "UTLAND",
       "codeAsString": "UTLAND"
@@ -393,13 +393,13 @@
   {
     "decode": "Merskatt tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "code": "MTK",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -410,13 +410,13 @@
   {
     "decode": "Omgjøring av tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMGJ_TILBAKE",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -427,13 +427,13 @@
   {
     "decode": "Overføring omsorgsopptjening",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OVERF_OMSGSP",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -444,13 +444,13 @@
   {
     "decode": "Regulering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REGULERING",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -461,13 +461,13 @@
   {
     "decode": "Revurdering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REVURD",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -478,13 +478,13 @@
   {
     "decode": "Saksomkostninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAK_OMKOST",
     "kravGjGrp": {
       "decode": "Klagekrav er angitt",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "KLAGE",
       "codeAsString": "KLAGE"
@@ -495,13 +495,13 @@
   {
     "decode": "Sluttbehandling kun utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SLUTTBEH_KUN_UTL",
     "kravGjGrp": {
       "decode": "Utenlandskrav er angitt",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "UTLAND",
       "codeAsString": "UTLAND"
@@ -512,13 +512,13 @@
   {
     "decode": "Sluttbehandling Norge/utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SLUTT_BH_UTL",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -529,13 +529,13 @@
   {
     "decode": "Søknad om økning av uføregrad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOK_OKN_UG",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -546,13 +546,13 @@
   {
     "decode": "Søknad om reduksjon av uføregrad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOK_RED_UG",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -563,13 +563,13 @@
   {
     "decode": "Søknad om ung ufør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOK_UU",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -580,13 +580,13 @@
   {
     "decode": "Søknad om yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOK_YS",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -597,13 +597,13 @@
   {
     "decode": "Tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILBAKEKR",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -614,13 +614,13 @@
   {
     "decode": "Utsendelse til avtaleland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTSEND_AVTALELAND",
     "kravGjGrp": {
       "decode": "Utenlandskrav er angitt",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "UTLAND",
       "codeAsString": "UTLAND"
@@ -631,13 +631,13 @@
   {
     "decode": "Uføretrygd etteroppgjør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_EO",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"
@@ -648,13 +648,13 @@
   {
     "decode": "Uføretrygd vurdering av etteroppgjør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_VURDERING_EO",
     "kravGjGrp": {
       "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "OVRIGE_KRAV",
       "codeAsString": "OVRIGE_KRAV"

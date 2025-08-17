@@ -2,7 +2,7 @@
   {
     "decode": "AFP",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP",
     "hovedKravLinje": true,
@@ -11,7 +11,7 @@
   {
     "decode": "AFP Privat",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP_PRIVAT",
     "hovedKravLinje": true,
@@ -20,7 +20,7 @@
   {
     "decode": "Anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANKE",
     "hovedKravLinje": true,
@@ -29,7 +29,7 @@
   {
     "decode": "Alderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP",
     "hovedKravLinje": true,
@@ -38,7 +38,7 @@
   {
     "decode": "Barnepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BP",
     "hovedKravLinje": true,
@@ -47,7 +47,7 @@
   {
     "decode": "Barnetillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BT",
     "hovedKravLinje": false,
@@ -56,7 +56,7 @@
   {
     "decode": "AFP-etteroppgjør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EO",
     "hovedKravLinje": true,
@@ -65,7 +65,7 @@
   {
     "decode": "Erstatning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ERSTATNING",
     "hovedKravLinje": true,
@@ -74,7 +74,7 @@
   {
     "decode": "Ektefelletillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ET",
     "hovedKravLinje": false,
@@ -83,7 +83,7 @@
   {
     "decode": "Ettergivelse av gjeld",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERGIV_GJELD",
     "hovedKravLinje": true,
@@ -92,7 +92,7 @@
   {
     "decode": "Dekning faste utgifter inst.opphold",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAST_UTG_INST",
     "hovedKravLinje": false,
@@ -101,7 +101,7 @@
   {
     "decode": "Familiepleierytelse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FP",
     "hovedKravLinje": true,
@@ -110,7 +110,7 @@
   {
     "decode": "Gjenlevendeytelse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GJP",
     "hovedKravLinje": true,
@@ -119,7 +119,7 @@
   {
     "decode": "Gjenlevenderettighet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GJR",
     "hovedKravLinje": false,
@@ -128,7 +128,7 @@
   {
     "decode": "Gammel yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GY",
     "hovedKravLinje": true,
@@ -137,7 +137,7 @@
   {
     "decode": "Hjelpeløshetsbidrag",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HJBIDRAG",
     "hovedKravLinje": false,
@@ -146,7 +146,7 @@
   {
     "decode": "Tillegg til hjelp i huset",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HJELP_HUS",
     "hovedKravLinje": false,
@@ -155,7 +155,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IK",
     "hovedKravLinje": true,
@@ -164,7 +164,7 @@
   {
     "decode": "Klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAGE",
     "hovedKravLinje": true,
@@ -173,7 +173,7 @@
   {
     "decode": "Krigspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KP",
     "hovedKravLinje": true,
@@ -182,8 +182,8 @@
   {
     "decode": "Merskatt tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "code": "MTK",
     "hovedKravLinje": true,
     "codeAsString": "MTK"
@@ -191,7 +191,7 @@
   {
     "decode": "Godskriving omsorgspoeng",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OG",
     "hovedKravLinje": true,
@@ -200,7 +200,7 @@
   {
     "decode": "Overføring omsorgspoeng",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OO",
     "hovedKravLinje": true,
@@ -209,7 +209,7 @@
   {
     "decode": "Omgjøring av tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OTK",
     "hovedKravLinje": true,
@@ -218,7 +218,7 @@
   {
     "decode": "Saksomkostninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAK_OMKOST",
     "hovedKravLinje": true,
@@ -227,7 +227,7 @@
   {
     "decode": "Tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TK",
     "hovedKravLinje": true,
@@ -236,7 +236,7 @@
   {
     "decode": "Uførepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UP",
     "hovedKravLinje": true,
@@ -245,7 +245,7 @@
   {
     "decode": "Uføretrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT",
     "hovedKravLinje": true,
@@ -254,7 +254,7 @@
   {
     "decode": "Gjenlevendetillegg til uføretrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_GJT",
     "hovedKravLinje": false,

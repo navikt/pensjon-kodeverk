@@ -2,7 +2,7 @@
   {
     "decode": "Et eller flere vilkårsvedtak har fått resultat 'Avslag'",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AVSL_VILK",
     "codeAsString": "AVSL_VILK"
@@ -10,7 +10,7 @@
   {
     "decode": "BRUK_YT_ENDR_TL_MN",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BRUK_YT_ENDR_TL_MN",
     "codeAsString": "BRUK_YT_ENDR_TL_MN"
@@ -18,7 +18,7 @@
   {
     "decode": "Validering av vilkårsvedtak feilet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FEIL_VALIDERING_VILK",
     "codeAsString": "FEIL_VALIDERING_VILK"
@@ -26,7 +26,7 @@
   {
     "decode": "Grunnlaget er ikke tilstrekkelig for vilkårsprøving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GRNL_KONTROLL_FEIL",
     "codeAsString": "GRNL_KONTROLL_FEIL"
@@ -34,7 +34,7 @@
   {
     "decode": "Hvilende gjenlevenderett er ikke innvilget pga endring i sivilstand",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HVILENDE_AVSL_SIVIL",
     "codeAsString": "HVILENDE_AVSL_SIVIL"
@@ -42,7 +42,7 @@
   {
     "decode": "Hvilende gjenlevenderett er innvilget",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HVILENDE_GJENLEVENDE",
     "codeAsString": "HVILENDE_GJENLEVENDE"
@@ -50,7 +50,7 @@
   {
     "decode": "KRAV_IKKE_OK",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KRAV_IKKE_OK",
     "codeAsString": "KRAV_IKKE_OK"
@@ -58,7 +58,7 @@
   {
     "decode": "Teknisk feil i kravbehandlingen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TEKNISK_FEIL",
     "codeAsString": "TEKNISK_FEIL"
@@ -66,7 +66,7 @@
   {
     "decode": "TILST_YT_ENDR_TL_MN",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILST_YT_ENDR_TL_MN",
     "codeAsString": "TILST_YT_ENDR_TL_MN"

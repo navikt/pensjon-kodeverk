@@ -2,7 +2,7 @@
   {
     "decode": "Dagpenger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DAGPENGER",
     "codeAsString": "DAGPENGER"
@@ -10,7 +10,7 @@
   {
     "decode": "Førstegangstjeneste",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORST_TJENESTE",
     "codeAsString": "FORST_TJENESTE"
@@ -18,7 +18,7 @@
   {
     "decode": "Inntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNTEKT",
     "codeAsString": "INNTEKT"
@@ -26,7 +26,7 @@
   {
     "decode": "Omsorg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMSORG",
     "codeAsString": "OMSORG"

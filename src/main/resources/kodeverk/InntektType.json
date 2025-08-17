@@ -2,7 +2,7 @@
   {
     "decode": "Antatt inntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AI",
     "kanRegistreres": false,
@@ -15,7 +15,7 @@
   {
     "decode": "Pensjonsgivende inntekt (Ligning)",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ARBLIGN",
     "kanRegistreres": false,
@@ -28,7 +28,7 @@
   {
     "decode": "Arbeidsinntekt (Lønn og trekk)",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ARBLTO",
     "kanRegistreres": false,
@@ -41,7 +41,7 @@
   {
     "decode": "Kapitalinntekt - bidrag SA",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_BI_x_KAP",
     "kanRegistreres": false,
@@ -54,7 +54,7 @@
   {
     "decode": "Ligningsinntekt (selvangivelse) - bidrag SA",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_BI_x_LIGN",
     "kanRegistreres": false,
@@ -67,7 +67,7 @@
   {
     "decode": "Ligningsinntekt (lønn og trekk) - bidrag LT",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_BI_x_LTR",
     "kanRegistreres": false,
@@ -80,7 +80,7 @@
   {
     "decode": "Forventet bidrag o.l",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FBI",
     "kanRegistreres": true,
@@ -93,7 +93,7 @@
   {
     "decode": "Forventet kapitalinntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FKI",
     "kanRegistreres": true,
@@ -106,7 +106,7 @@
   {
     "decode": "Forventet andre pensjoner og ytelser",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORINTAND",
     "kanRegistreres": true,
@@ -119,7 +119,7 @@
   {
     "decode": "Forventet arbeidsinntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORINTARB",
     "kanRegistreres": true,
@@ -132,7 +132,7 @@
   {
     "decode": "Forventet næringsinntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORINTNAE",
     "kanRegistreres": true,
@@ -145,7 +145,7 @@
   {
     "decode": "Forventet utenlandsinntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORINTUTL",
     "kanRegistreres": true,
@@ -158,7 +158,7 @@
   {
     "decode": "Forventet pensjon fra utlandet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORPENUTL",
     "kanRegistreres": true,
@@ -171,7 +171,7 @@
   {
     "decode": "Forventet pensjonsgivende inntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FPI",
     "kanRegistreres": true,
@@ -184,7 +184,7 @@
   {
     "decode": "Hypotetisk forventet arbeidsinntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HYPF",
     "kanRegistreres": true,
@@ -197,7 +197,7 @@
   {
     "decode": "Hypotetisk forventet arbeidsinntekt 2G",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HYPF2G",
     "kanRegistreres": true,
@@ -210,7 +210,7 @@
   {
     "decode": "Inntekt til fradrag",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IKKE_RED",
     "kanRegistreres": true,
@@ -223,7 +223,7 @@
   {
     "decode": "Inntekt Mnd Før Uttak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IMFU",
     "kanRegistreres": true,
@@ -236,7 +236,7 @@
   {
     "decode": "Kapitalinntekt (ligning)",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KAP",
     "kanRegistreres": false,
@@ -249,7 +249,7 @@
   {
     "decode": "Pensjonsgivende inntekt (lønn og trekk)",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_PE_x_PGILT",
     "kanRegistreres": false,
@@ -262,7 +262,7 @@
   {
     "decode": "Stønadsinntekt inkludert fødsels- og sykepenger (lønn og trekk)",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_PE_x_SILT",
     "kanRegistreres": false,
@@ -275,7 +275,7 @@
   {
     "decode": "Pensjonsinntekt fra folketrygden",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PENF",
     "kanRegistreres": false,
@@ -288,7 +288,7 @@
   {
     "decode": "Pensjonsinntekt (ikke folketrygd)",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PENSKD",
     "kanRegistreres": false,
@@ -301,7 +301,7 @@
   {
     "decode": "Forventet pensjonsinntekt (ikke folketrygd)",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PENT",
     "kanRegistreres": true,
@@ -314,7 +314,7 @@
   {
     "decode": "Forventet pensjonsinntekt (utland)",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PENTU",
     "kanRegistreres": true,
@@ -327,7 +327,7 @@
   {
     "decode": "Foreløpig pensjonsgivende inntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PGI",
     "kanRegistreres": true,
@@ -340,7 +340,7 @@
   {
     "decode": "Innrapporterte andre pensjoner og ytelser",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "RAP_AND",
     "kanRegistreres": false,
@@ -353,7 +353,7 @@
   {
     "decode": "Innrapportert arbeidsinntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "RAP_ARB",
     "kanRegistreres": true,
@@ -366,7 +366,7 @@
   {
     "decode": "Innrapportert næringsinntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "RAP_NAR",
     "kanRegistreres": true,
@@ -379,7 +379,7 @@
   {
     "decode": "Sum av forventet arbeids-, kapital- og pensjonsinntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SFAKPI",
     "kanRegistreres": true,
@@ -392,7 +392,7 @@
   {
     "decode": "Ukjent inntektstype fra inntektsregisteret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UKJENT",
     "kanRegistreres": false,
@@ -405,7 +405,7 @@
   {
     "decode": "Uføretrygd og evt. barnetillegg",
     "valid": true,
-    "fromDate": 1701385200000,
+    "fromDate": "2023-10-01",
     "toDate": null,
     "code": "UT_BT",
     "kanRegistreres": true,

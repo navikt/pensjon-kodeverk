@@ -2,7 +2,7 @@
   {
     "decode": "AFP",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP",
     "frist": 30,
@@ -11,7 +11,7 @@
   {
     "decode": "AFP Privat",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP_PRIVAT",
     "frist": 60,
@@ -20,7 +20,7 @@
   {
     "decode": "Alderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ALDER",
     "frist": 30,
@@ -29,7 +29,7 @@
   {
     "decode": "Barnepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BARNEP",
     "frist": 30,
@@ -38,7 +38,7 @@
   {
     "decode": "Familiepleierytelse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAM_PL",
     "frist": 30,
@@ -47,7 +47,7 @@
   {
     "decode": "Gammel yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GAM_YRK",
     "frist": 30,
@@ -56,7 +56,7 @@
   {
     "decode": "Generell",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GENRL",
     "frist": null,
@@ -65,7 +65,7 @@
   {
     "decode": "Gjenlevendeytelse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GJENLEV",
     "frist": 30,
@@ -74,7 +74,7 @@
   {
     "decode": "Grunnblanketter",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GRBL",
     "frist": null,
@@ -83,7 +83,7 @@
   {
     "decode": "Krigspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KRIGSP",
     "frist": 30,
@@ -92,7 +92,7 @@
   {
     "decode": "Omsorgsopptjening",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMSORG",
     "frist": 30,
@@ -101,7 +101,7 @@
   {
     "decode": "Uføretrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UFOREP",
     "frist": 14,

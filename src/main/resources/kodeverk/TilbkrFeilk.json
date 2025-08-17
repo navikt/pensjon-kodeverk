@@ -2,15 +2,15 @@
   {
     "decode": "0528900",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "code": "P_0528900",
     "codeAsString": "0528900"
   },
   {
     "decode": "0630997",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_0630997",
     "codeAsString": "0630997"

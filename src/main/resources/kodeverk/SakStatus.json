@@ -2,7 +2,7 @@
   {
     "decode": "Avsluttet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AVSLUTTET",
     "codeAsString": "AVSLUTTET"
@@ -10,7 +10,7 @@
   {
     "decode": "Løpende",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LOPENDE",
     "codeAsString": "LOPENDE"
@@ -18,7 +18,7 @@
   {
     "decode": "Opprettet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPRETTET",
     "codeAsString": "OPPRETTET"
@@ -26,7 +26,7 @@
   {
     "decode": "Til behandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TIL_BEHANDLING",
     "codeAsString": "TIL_BEHANDLING"

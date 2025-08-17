@@ -2,7 +2,7 @@
   {
     "decode": "Høy",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HOY",
     "codeAsString": "HOY"
@@ -10,7 +10,7 @@
   {
     "decode": "Høy, enslig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HOY_ENSLIG",
     "codeAsString": "HOY_ENSLIG"
@@ -18,7 +18,7 @@
   {
     "decode": "Lav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LAV",
     "codeAsString": "LAV"
@@ -26,7 +26,7 @@
   {
     "decode": "Ordinær",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ORDINAER",
     "codeAsString": "ORDINAER"
@@ -34,7 +34,7 @@
   {
     "decode": "Særskilt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAERSKILT",
     "codeAsString": "SAERSKILT"

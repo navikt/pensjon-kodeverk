@@ -2,7 +2,7 @@
   {
     "decode": "Etterbetaling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERBET",
     "codeAsString": "ETTERBET"
@@ -10,7 +10,7 @@
   {
     "decode": "Innenfor toleransegrense for etterbetaling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERBET_TOLGR",
     "codeAsString": "ETTERBET_TOLGR"
@@ -18,7 +18,7 @@
   {
     "decode": "Ingen endring",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IKKE_AVVIK",
     "codeAsString": "IKKE_AVVIK"
@@ -26,7 +26,7 @@
   {
     "decode": "Tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILBAKEKR",
     "codeAsString": "TILBAKEKR"
@@ -34,7 +34,7 @@
   {
     "decode": "Innenfor toleransegrense for tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILBAKEKR_TOLGR",
     "codeAsString": "TILBAKEKR_TOLGR"

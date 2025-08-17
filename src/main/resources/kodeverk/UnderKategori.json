@@ -4,7 +4,7 @@
     "decode": "AEV Mangler",
     "fagomrade": "UFO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -13,7 +13,7 @@
     "decode": "AFP",
     "fagomrade": "PEN",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -22,7 +22,7 @@
     "decode": "AFP",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -31,7 +31,7 @@
     "decode": "AFP Privat",
     "fagomrade": "PEN",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -40,7 +40,7 @@
     "decode": "AFP Privat",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -49,7 +49,7 @@
     "decode": "Aktivitetshjelpemidler",
     "fagomrade": "KNA",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -58,7 +58,7 @@
     "decode": "Alderspensjon",
     "fagomrade": "PEN",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -67,7 +67,7 @@
     "decode": "Alderspensjon - Bosatt utland",
     "fagomrade": "PEN",
     "visesPsak": false,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -76,7 +76,7 @@
     "decode": "Alderspensjon - Nasjonal",
     "fagomrade": "PEN",
     "visesPsak": false,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -85,7 +85,7 @@
     "decode": "Alderspensjon",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -94,7 +94,7 @@
     "decode": "Alderspensjon - Utlandstilsnitt",
     "fagomrade": "PEN",
     "visesPsak": false,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -103,7 +103,7 @@
     "decode": "Andre sosiale tjenester",
     "fagomrade": "KNA",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -112,7 +112,7 @@
     "decode": "Arbeid",
     "fagomrade": "KNA",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -121,7 +121,7 @@
     "decode": "Arbeidstilsynsmelding",
     "fagomrade": "YRK",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -130,7 +130,7 @@
     "decode": "Attføringslån",
     "fagomrade": "STO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -139,7 +139,7 @@
     "decode": "Barnepensjon",
     "fagomrade": "PEN",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -148,7 +148,7 @@
     "decode": "Barnepensjon - Bosatt utland",
     "fagomrade": "PEN",
     "visesPsak": false,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -157,7 +157,7 @@
     "decode": "Barnepensjon - Nasjonal",
     "fagomrade": "PEN",
     "visesPsak": false,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -166,7 +166,7 @@
     "decode": "Barnepensjon",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -175,7 +175,7 @@
     "decode": "Barnepensjon - Utlandstilsnitt",
     "fagomrade": "PEN",
     "visesPsak": false,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -184,7 +184,7 @@
     "decode": "Barnetilsyn",
     "fagomrade": "ENF",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -193,7 +193,7 @@
     "decode": "Barnetrygd",
     "fagomrade": "STO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -202,7 +202,7 @@
     "decode": "Barns Sykdom",
     "fagomrade": "STO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -211,7 +211,7 @@
     "decode": "Bidrag",
     "fagomrade": "STO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -220,7 +220,7 @@
     "decode": "Bilutstyr",
     "fagomrade": "BIL",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -229,7 +229,7 @@
     "decode": "Bil",
     "fagomrade": "BIL",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -238,7 +238,7 @@
     "decode": "Bil",
     "fagomrade": "KNA",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -247,7 +247,7 @@
     "decode": "Bil",
     "fagomrade": "STO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -256,7 +256,7 @@
     "decode": "Dialog ang. AEV",
     "fagomrade": "UFO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -265,7 +265,7 @@
     "decode": "Dialog om oppfølgingsvedtaket",
     "fagomrade": "UFO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -274,7 +274,7 @@
     "decode": "Engangsstønad",
     "fagomrade": "FOR",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -283,7 +283,7 @@
     "decode": "Enslig forsørger",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -292,7 +292,7 @@
     "decode": "EØS",
     "fagomrade": "BAR",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -301,7 +301,7 @@
     "decode": "Erstatninger",
     "fagomrade": "STO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -310,7 +310,7 @@
     "decode": "Familiepleierpensjon",
     "fagomrade": "ARE",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -319,7 +319,7 @@
     "decode": "Familiepleier",
     "fagomrade": "PEN",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -328,7 +328,7 @@
     "decode": "Familiepleier",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -337,7 +337,7 @@
     "decode": "Familie",
     "fagomrade": "KNA",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -346,7 +346,7 @@
     "decode": "Foreldrepenger",
     "fagomrade": "FOR",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -355,7 +355,7 @@
     "decode": "Foreldrepenger",
     "fagomrade": "STO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -364,7 +364,7 @@
     "decode": "Forsikring",
     "fagomrade": "STO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -373,7 +373,7 @@
     "decode": "Frivillig yrkesskadeforsikring",
     "fagomrade": "FOS",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -382,7 +382,7 @@
     "decode": "Gammel yrkesskade",
     "fagomrade": "PEN",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -391,7 +391,7 @@
     "decode": "Gammel yrkesskade",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -400,7 +400,7 @@
     "decode": "Gjenlevendepensjon",
     "fagomrade": "ARE",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -409,7 +409,7 @@
     "decode": "Gjenlevende ektefelle",
     "fagomrade": "PEN",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -418,7 +418,7 @@
     "decode": "Gjenlevende ektefelle",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -427,7 +427,7 @@
     "decode": "Gjenlevende ektefelle - Bosatt utland",
     "fagomrade": "PEN",
     "visesPsak": false,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -436,7 +436,7 @@
     "decode": "Gjenlevende ektefelle - Nasjonal",
     "fagomrade": "PEN",
     "visesPsak": false,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -445,7 +445,7 @@
     "decode": "Gjenlevende ektefelle - Utlandstilsnitt",
     "fagomrade": "PEN",
     "visesPsak": false,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -454,7 +454,7 @@
     "decode": "Gravferdsstønad",
     "fagomrade": "STO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -463,7 +463,7 @@
     "decode": "Grunnstønad",
     "fagomrade": "GRU",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -472,7 +472,7 @@
     "decode": "Grunn-og hjelpestønad",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -481,7 +481,7 @@
     "decode": "HELFO",
     "fagomrade": "STO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -490,7 +490,7 @@
     "decode": "Hjelpemidler",
     "fagomrade": "STO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -499,7 +499,7 @@
     "decode": "Hjelpestønad",
     "fagomrade": "GRU",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -508,7 +508,7 @@
     "decode": "Hjelpemidler",
     "fagomrade": "KNA",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -517,8 +517,8 @@
     "decode": "Informasjon",
     "fagomrade": "BAR",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -526,8 +526,8 @@
     "decode": "Informasjon",
     "fagomrade": "BIL",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -535,8 +535,8 @@
     "decode": "Informasjon",
     "fagomrade": "ENF",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -544,8 +544,8 @@
     "decode": "Informasjon",
     "fagomrade": "FOR",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -553,8 +553,8 @@
     "decode": "Informasjon",
     "fagomrade": "FOS",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -562,8 +562,8 @@
     "decode": "Informasjon",
     "fagomrade": "GRA",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -571,8 +571,8 @@
     "decode": "Informasjon",
     "fagomrade": "GRU",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -580,8 +580,8 @@
     "decode": "Informasjon",
     "fagomrade": "HJE",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -589,8 +589,8 @@
     "decode": "Informasjon",
     "fagomrade": "KON",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -598,8 +598,8 @@
     "decode": "Informasjon",
     "fagomrade": "OMS",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -607,8 +607,8 @@
     "decode": "Informasjon",
     "fagomrade": "SUP",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -616,8 +616,8 @@
     "decode": "Informasjon",
     "fagomrade": "YRK",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -625,7 +625,7 @@
     "decode": "INNT",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -634,7 +634,7 @@
     "decode": "Kjøreopplæring",
     "fagomrade": "BIL",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -643,7 +643,7 @@
     "decode": "Kontantstøtte",
     "fagomrade": "STO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -652,7 +652,7 @@
     "decode": "Krigspensjon",
     "fagomrade": "PEN",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -661,7 +661,7 @@
     "decode": "Krigspensjon",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -670,7 +670,7 @@
     "decode": "Menerstatning",
     "fagomrade": "YRK",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -679,7 +679,7 @@
     "decode": "Økonomisk sosialhjelp",
     "fagomrade": "KNA",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -688,7 +688,7 @@
     "decode": "Oslo kommune ytelse",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -697,7 +697,7 @@
     "decode": "Omsorgspenger",
     "fagomrade": "OMS",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -706,7 +706,7 @@
     "decode": "Omsorgspoeng",
     "fagomrade": "PEN",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -715,7 +715,7 @@
     "decode": "Oppfølgingsvedtak mangler",
     "fagomrade": "UFO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -724,7 +724,7 @@
     "decode": "Opplæringspenger",
     "fagomrade": "OMS",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -733,7 +733,7 @@
     "decode": "Ordinær",
     "fagomrade": "BAR",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -742,7 +742,7 @@
     "decode": "Ortopediske hjelpemidler",
     "fagomrade": "KNA",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -751,7 +751,7 @@
     "decode": "Overgangsstønad",
     "fagomrade": "ENF",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -760,7 +760,7 @@
     "decode": "Øvrig",
     "fagomrade": "KNA",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -769,7 +769,7 @@
     "decode": "PEN",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -778,7 +778,7 @@
     "decode": "PENPOST",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -787,7 +787,7 @@
     "decode": "Pensjon",
     "fagomrade": "KNA",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -796,7 +796,7 @@
     "decode": "Pleiepenger institusjon",
     "fagomrade": "OMS",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -805,7 +805,7 @@
     "decode": "Pleiepenger pårørende",
     "fagomrade": "OMS",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -814,7 +814,7 @@
     "decode": "Pleiepenger sykt barn",
     "fagomrade": "OMS",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -823,7 +823,7 @@
     "decode": "Pensjonstrygd sjømenn",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -832,7 +832,7 @@
     "decode": "Saksomkostninger",
     "fagomrade": "STO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -841,7 +841,7 @@
     "decode": "SAMMUTB",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -850,7 +850,7 @@
     "decode": "Selvstendig næringsdrivende",
     "fagomrade": "FOS",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -859,7 +859,7 @@
     "decode": "Skademelding",
     "fagomrade": "YRK",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -868,7 +868,7 @@
     "decode": "Små bedrifter",
     "fagomrade": "FOS",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -877,7 +877,7 @@
     "decode": "SPK ytelse",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -886,7 +886,7 @@
     "decode": "Supplerende stønad",
     "fagomrade": "STO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -895,7 +895,7 @@
     "decode": "Svangerskapspenger",
     "fagomrade": "FOR",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -904,7 +904,7 @@
     "decode": "Sykepenger",
     "fagomrade": "STO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -913,7 +913,7 @@
     "decode": "TB",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -922,7 +922,7 @@
     "decode": "TBBT",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -931,8 +931,8 @@
     "decode": "Tidsbegrenset uførestønad",
     "fagomrade": "STO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -940,8 +940,8 @@
     "decode": "Tidsbegrenset uførestønad",
     "fagomrade": "UFO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -949,7 +949,7 @@
     "decode": "Tilskudd Flytting",
     "fagomrade": "ENF",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -958,7 +958,7 @@
     "decode": "Uføretrygd",
     "fagomrade": "PEN",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -967,7 +967,7 @@
     "decode": "Uføretrygd - Bosatt utland",
     "fagomrade": "PEN",
     "visesPsak": false,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -976,7 +976,7 @@
     "decode": "Uføretrygd - Nasjonal",
     "fagomrade": "PEN",
     "visesPsak": false,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -985,7 +985,7 @@
     "decode": "Uføretrygd",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -994,7 +994,7 @@
     "decode": "Uføretrygd - Utlandstilsnitt",
     "fagomrade": "PEN",
     "visesPsak": false,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -1003,7 +1003,7 @@
     "decode": "Uføretrygd",
     "fagomrade": "UFO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -1012,7 +1012,7 @@
     "decode": "Uføretrygd",
     "fagomrade": "KNA",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -1021,7 +1021,7 @@
     "decode": "URKLUTB",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -1030,8 +1030,8 @@
     "decode": "Utbetaling",
     "fagomrade": "BAR",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1039,8 +1039,8 @@
     "decode": "Utbetaling",
     "fagomrade": "BIL",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1048,8 +1048,8 @@
     "decode": "Utbetaling",
     "fagomrade": "ENF",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1057,8 +1057,8 @@
     "decode": "Utbetaling",
     "fagomrade": "FOR",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1066,8 +1066,8 @@
     "decode": "Utbetaling",
     "fagomrade": "FOS",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1075,8 +1075,8 @@
     "decode": "Utbetaling",
     "fagomrade": "GRA",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1084,8 +1084,8 @@
     "decode": "Utbetaling",
     "fagomrade": "GRU",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1093,8 +1093,8 @@
     "decode": "Utbetaling",
     "fagomrade": "KON",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1102,8 +1102,8 @@
     "decode": "Utbetaling",
     "fagomrade": "OMS",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1111,8 +1111,8 @@
     "decode": "Utbetaling",
     "fagomrade": "SUP",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1120,8 +1120,8 @@
     "decode": "Utbetaling",
     "fagomrade": "YRK",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1129,7 +1129,7 @@
     "decode": "Utdanningstønad",
     "fagomrade": "ENF",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -1138,7 +1138,7 @@
     "decode": "UTPOST",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -1147,7 +1147,7 @@
     "decode": "Utvidet",
     "fagomrade": "BAR",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -1156,8 +1156,8 @@
     "decode": "Vedtak",
     "fagomrade": "BAR",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1165,8 +1165,8 @@
     "decode": "Vedtak",
     "fagomrade": "BIL",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1174,8 +1174,8 @@
     "decode": "Vedtak",
     "fagomrade": "ENF",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1183,8 +1183,8 @@
     "decode": "Vedtak",
     "fagomrade": "FOR",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1192,8 +1192,8 @@
     "decode": "Vedtak",
     "fagomrade": "FOS",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1201,8 +1201,8 @@
     "decode": "Vedtak",
     "fagomrade": "GRA",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1210,8 +1210,8 @@
     "decode": "Vedtak",
     "fagomrade": "GRU",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1219,8 +1219,8 @@
     "decode": "Vedtak",
     "fagomrade": "HJE",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1228,8 +1228,8 @@
     "decode": "Vedtak",
     "fagomrade": "KON",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1237,8 +1237,8 @@
     "decode": "Vedtak",
     "fagomrade": "OMS",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1246,8 +1246,8 @@
     "decode": "Vedtak",
     "fagomrade": "SUP",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1255,8 +1255,8 @@
     "decode": "Vedtak",
     "fagomrade": "YRK",
     "visesPsak": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "valid": true
   },
   {
@@ -1264,7 +1264,7 @@
     "decode": "Yrkesskade",
     "fagomrade": "STO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
@@ -1273,7 +1273,7 @@
     "decode": "Yrkesskade",
     "fagomrade": "OKO",
     "visesPsak": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   }

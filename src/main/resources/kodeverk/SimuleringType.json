@@ -2,7 +2,7 @@
   {
     "decode": "AFP",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP",
     "codeAsString": "AFP"
@@ -10,7 +10,7 @@
   {
     "decode": "AFP i offentlig sektor etterfulgt av alderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP_ETTERF_ALDER",
     "codeAsString": "AFP_ETTERF_ALDER"
@@ -18,7 +18,7 @@
   {
     "decode": "AFP - vedtak om fremtidig pensjonspoeng",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP_FPP",
     "codeAsString": "AFP_FPP"
@@ -26,7 +26,7 @@
   {
     "decode": "Alderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ALDER",
     "codeAsString": "ALDER"
@@ -34,15 +34,15 @@
   {
     "decode": "Alderspensjon",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1304200800000,
+    "fromDate": "1899-12-31",
+    "toDate": "2011-05-01",
     "code": "ALDER_KAP_20",
     "codeAsString": "ALDER_KAP_20"
   },
   {
     "decode": "Alderspensjon med AFP i privat sektor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ALDER_M_AFP_PRIVAT",
     "codeAsString": "ALDER_M_AFP_PRIVAT"
@@ -50,7 +50,7 @@
   {
     "decode": "Alderspensjon med gjenlevenderettigheter",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ALDER_M_GJEN",
     "codeAsString": "ALDER_M_GJEN"
@@ -58,7 +58,7 @@
   {
     "decode": "Barnepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BARN",
     "codeAsString": "BARN"
@@ -66,7 +66,7 @@
   {
     "decode": "Endring av alderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_ALDER",
     "codeAsString": "ENDR_ALDER"
@@ -74,7 +74,7 @@
   {
     "decode": "Endring av alderspensjon med gjenlevenderettigheter",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_ALDER_M_GJEN",
     "codeAsString": "ENDR_ALDER_M_GJEN"
@@ -82,7 +82,7 @@
   {
     "decode": "Endring av alderspensjon med AFP i privat sektor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_AP_M_AFP_PRIVAT",
     "codeAsString": "ENDR_AP_M_AFP_PRIVAT"
@@ -90,7 +90,7 @@
   {
     "decode": "Gjenlevendepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GJENLEVENDE",
     "codeAsString": "GJENLEVENDE"

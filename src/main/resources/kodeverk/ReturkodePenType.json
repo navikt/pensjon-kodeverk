@@ -2,7 +2,7 @@
   {
     "decode": "BRUK_YT_ENDR_TL_MN",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BRUK_YT_ENDR_TL_MN",
     "codeAsString": "BRUK_YT_ENDR_TL_MN"
@@ -10,7 +10,7 @@
   {
     "decode": "KRAV_IKKE_OK",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KRAV_IKKE_OK",
     "codeAsString": "KRAV_IKKE_OK"
@@ -18,7 +18,7 @@
   {
     "decode": "TILST_YT_ENDR_TL_MN",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILST_YT_ENDR_TL_MN",
     "codeAsString": "TILST_YT_ENDR_TL_MN"

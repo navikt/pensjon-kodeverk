@@ -2,7 +2,7 @@
   {
     "decode": "Aa-reg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AA",
     "codeAsString": "AA"
@@ -10,7 +10,7 @@
   {
     "decode": "Applikasjonsbruker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "APPBRK",
     "codeAsString": "APPBRK"
@@ -18,7 +18,7 @@
   {
     "decode": "Medlemskapsregister",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MDL",
     "codeAsString": "MDL"
@@ -26,7 +26,7 @@
   {
     "decode": "PEN",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PEN",
     "codeAsString": "PEN"
@@ -34,7 +34,7 @@
   {
     "decode": "Opptjening",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "POPP",
     "codeAsString": "POPP"
@@ -42,7 +42,7 @@
   {
     "decode": "Pensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PP01",
     "codeAsString": "PP01"
@@ -50,7 +50,7 @@
   {
     "decode": "TPS",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TPS",
     "codeAsString": "TPS"

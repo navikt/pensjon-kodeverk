@@ -2,7 +2,7 @@
   {
     "decode": "Delvis tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DELVIS_TILBAKEKREV",
     "codeAsString": "DELVIS_TILBAKEKREV"
@@ -10,15 +10,15 @@
   {
     "decode": "Feilregistrert",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1285884000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2010-10-01",
     "code": "FEILREGISTRERT",
     "codeAsString": "FEILREGISTRERT"
   },
   {
     "decode": "Foreldet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORELDET",
     "codeAsString": "FORELDET"
@@ -26,7 +26,7 @@
   {
     "decode": "Full tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FULL_TILBAKEKREV",
     "codeAsString": "FULL_TILBAKEKREV"
@@ -34,7 +34,7 @@
   {
     "decode": "Ingen tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INGEN_TILBAKEKREV",
     "codeAsString": "INGEN_TILBAKEKREV"

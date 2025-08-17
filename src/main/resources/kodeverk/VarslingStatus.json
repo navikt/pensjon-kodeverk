@@ -2,7 +2,7 @@
   {
     "decode": "Har ikke TP",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HAR_IKKE_TP",
     "codeAsString": "HAR_IKKE_TP"
@@ -10,7 +10,7 @@
   {
     "decode": "Har TP",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HAR_TP",
     "codeAsString": "HAR_TP"
@@ -18,7 +18,7 @@
   {
     "decode": "Skal varsles",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SKAL_VARSLES",
     "codeAsString": "SKAL_VARSLES"
@@ -26,7 +26,7 @@
   {
     "decode": "Varslet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VARSLET",
     "codeAsString": "VARSLET"
@@ -34,7 +34,7 @@
   {
     "decode": "Varslet elektronisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VARSLET_ELEK",
     "codeAsString": "VARSLET_ELEK"
@@ -42,7 +42,7 @@
   {
     "decode": "Varslet elektronisk fil",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VARSLET_ELEK_FIL",
     "codeAsString": "VARSLET_ELEK_FIL"
@@ -50,7 +50,7 @@
   {
     "decode": "Varslet fil",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VARSLET_FIL",
     "codeAsString": "VARSLET_FIL"
@@ -58,7 +58,7 @@
   {
     "decode": "Varsle MNT",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VARSLE_MNT",
     "codeAsString": "VARSLE_MNT"

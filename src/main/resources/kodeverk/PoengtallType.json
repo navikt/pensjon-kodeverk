@@ -2,7 +2,7 @@
   {
     "decode": "Framtidig pensjonspoengtall",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FPP",
     "codeAsString": "FPP"
@@ -10,7 +10,7 @@
   {
     "decode": "Omsorg for barn under 6 år",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "G",
     "codeAsString": "G"
@@ -18,7 +18,7 @@
   {
     "decode": "Omsorg for barn over 6 år (ufør)",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "H",
     "codeAsString": "H"
@@ -26,7 +26,7 @@
   {
     "decode": "Inntekt før uttak av AFP",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IFUT",
     "codeAsString": "IFUT"
@@ -34,7 +34,7 @@
   {
     "decode": "Omsorgspoeng små barn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "J",
     "codeAsString": "J"
@@ -42,7 +42,7 @@
   {
     "decode": "Omsorgspoeng  forhøyet hjelpestønad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "K",
     "codeAsString": "K"
@@ -50,7 +50,7 @@
   {
     "decode": "Omsorgspoeng for pleie av eldre syke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "L",
     "codeAsString": "L"
@@ -58,7 +58,7 @@
   {
     "decode": "Ordinært poengtall",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PI",
     "codeAsString": "PI"

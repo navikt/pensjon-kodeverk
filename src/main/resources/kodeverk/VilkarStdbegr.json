@@ -2,7 +2,7 @@
   {
     "decode": "Ikke dokumentert alvorlig og varig sykdom før fylte 26 år.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_13_1_I_1",
     "decodeLong": "Bruker var under 26 år på uføretidspunktet og det er dokumentert at sykdom eller skade er hovedårsak til den varige nedsatte inntektsevnen. Det kan likevel ikke innvilges rettighet som ung ufør fordi det ikke er dokumentert at bruker hadde alvorlig og varig sykdom før fylte 26 år.",
@@ -11,7 +11,7 @@
   {
     "decode": "Bruker var over 26 år på uføretidspunktet.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_13_1_I_2",
     "decodeLong": "Bruker var over 26 år på uføretidspunktet og kan derfor ikke innvilges rettighet som ung ufør.",
@@ -20,7 +20,7 @@
   {
     "decode": "Søknad fremsatt etter fylte 36 år.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_13_1_I_3",
     "decodeLong": "Bruker har arbeidet i mer enn 50 prosent stilling over en lengre periode etter fylte 26 år. Søknaden om uføretrygd ble fremsatt etter fylte 36 år. Det kan derfor ikke innvilges rettighet som ung ufør.",
@@ -29,7 +29,7 @@
   {
     "decode": "Bruker ble alvorlig og varig syk før fylte 26 år.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_13_1_O_1",
     "decodeLong": "Bruker ble alvorlig og varig syk før fylte 26 år.",
@@ -38,7 +38,7 @@
   {
     "decode": "Skadetidspunktet fastsettes til den 1. i måneden da den godkjente yrkesskaden eller yrkessykdommen inntraff.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_17_1_1",
     "decodeLong": "Skadetidspunktet fastsettes til den 1. i måneden da den godkjente yrkesskaden eller yrkessykdommen inntraff.",
@@ -47,7 +47,7 @@
   {
     "decode": "Bruker har ikke godkjent yrkesskade eller yrkessykdom.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_17_1_I_1",
     "decodeLong": "Bruker har ikke godkjent yrkesskade eller yrkessykdom.",
@@ -56,7 +56,7 @@
   {
     "decode": "Brukers godkjente yrkesskade eller yrkessykdom er ikke årsak til den nedsatte inntektsevnen.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_17_1_I_2",
     "decodeLong": "Brukers godkjente yrkesskade eller yrkessykdom er ikke årsak til den nedsatte inntektsevnen.",
@@ -65,7 +65,7 @@
   {
     "decode": "Bruker er innvilget uføretrygd der hele uførheten skyldes godkjent yrkesskade eller yrkessykdom.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_17_1_O_1",
     "decodeLong": "Bruker er innvilget uføretrygd der hele uførheten skyldes godkjent yrkesskade eller yrkessykdom.",
@@ -74,7 +74,7 @@
   {
     "decode": "Bruker er innvilget uføretrygd der deler av uførheten skyldes godkjent yrkesskade eller yrkessykdom.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_17_1_O_2",
     "decodeLong": "Bruker er innvilget uføretrygd der deler av uførheten skyldes godkjent yrkesskade eller yrkessykdom.",
@@ -83,7 +83,7 @@
   {
     "decode": "Bruker er innvilget uføretrygd med yrkesskade, men den økte uførheten skyldes ikke godkjent yrkesskade eller yrkessykdom.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_17_1_O_3",
     "decodeLong": "Bruker er tidligere innvilget uføretrygd med yrkesskade, men den økte uførheten skyldes ikke godkjent yrkesskade eller yrkessykdom. Bruker beholder tidligere innvilget yrkesskade.",
@@ -92,7 +92,7 @@
   {
     "decode": "Yrkesskaden eller yrkessykdommen er årsak til hele uførheten.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_17_2_1",
     "decodeLong": "Hele uføretrygden innvilges etter særreglene for yrkesskade eller yrkessykdom fordi yrkesskaden eller yrkessykdommen er årsaken til den nedsatte inntektsevnen.",
@@ -101,7 +101,7 @@
   {
     "decode": "Mer enn 70 prosent av uførheten skyldes yrkesskade eller yrkessykdom.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_17_2_2",
     "decodeLong": "Hele uføretrygden innvilges etter særreglene for yrkesskade eller yrkessykdom fordi uførheten som skyldes yrkesskade eller yrkessykdom er mer enn 70 prosent.",
@@ -110,7 +110,7 @@
   {
     "decode": "Yrkesskaden eller yrkessykdommen er årsak til deler av uførheten.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_17_2_3",
     "decodeLong": "Deler av uføretrygden innvilges etter særreglene for yrkesskade eller yrkessykdom fordi også andre sykdommer utenom yrkesskaden eller yrkessykdommen har betydning for den nedsatte inntektsevnen.",
@@ -119,7 +119,7 @@
   {
     "decode": "Yrkesskaden eller yrkessykdommen er årsak til deler av den økte uførheten.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_17_2_4",
     "decodeLong": "Deler av uføretrygden er tidligere innvilget etter særreglene for yrkesskade eller yrkessykdom. Yrkesskaden eller yrkessykdommen er delvis årsak til den økte uførheten. Den tidligere yrkesskadegraden vil derfor endres.",
@@ -128,7 +128,7 @@
   {
     "decode": "Yrkesskaden eller yrkessykdommen er ikke årsak til den økte uførheten.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_17_2_5",
     "decodeLong": "Deler av uføretrygden er tidligere innvilget etter særreglene for yrkesskade eller yrkessykdom. Yrkesskaden eller yrkessykdommen er ikke årsak til den økte uførheten. Årsaken til den økte uførheten skyldes annen sykdom enn yrkesskaden.",
@@ -137,7 +137,7 @@
   {
     "decode": "Inntekt på skadetidspunktet fastsettes til den inntekt bruker hadde på skadetidspunktet.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_17_3_1",
     "decodeLong": "Inntekt på skadetidspunktet fastsettes til den inntekt bruker hadde på skadetidspunktet.",
@@ -146,7 +146,7 @@
   {
     "decode": "Ved økt uføregrad fastsettes inntekt på skadetidspunktet til den inntekt bruker ville hatt dersom han på forhånd ikke hadde vært delvis arbeidsufør på skadetidspunktet.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_17_3_2",
     "decodeLong": "Uføretrygden er tidligere innvilget uten yrkesskadefordeler. Ved økt uføregrad fastsettes inntekt på skadetidspunktet til den inntekt bruker ville hatt dersom han på forhånd ikke hadde vært delvis arbeidsufør på skadetidspunktet.",
@@ -155,7 +155,7 @@
   {
     "decode": "Bruker har ikke vært medlem tre siste år før uføretidspunktet.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_2_1_I_1",
     "decodeLong": "Bruker har ikke vært medlem av folketrygden de tre siste årene før uføretidspunktet og omfattes ikke av unntaksreglene. Vilkåret om forutgående medlemskap er ikke oppfylt.",
@@ -164,7 +164,7 @@
   {
     "decode": "Bruker har ikke vært bosatt eller arbeidet i utlandet.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_2_1_O_1",
     "decodeLong": "Bruker har ikke vært bosatt eller arbeidet i utlandet og oppfyller vilkåret om forutgående medlemskap.",
@@ -173,7 +173,7 @@
   {
     "decode": "Bruker er flyktning.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_2_1_O_2",
     "decodeLong": "Bruker er innvilget flyktningstatus fra Utlendingsdirektoratet og oppfyller derfor vilkåret om medlemskap i folketrygden.",
@@ -182,7 +182,7 @@
   {
     "decode": "Bruker er innvilget uføretrygd etter særbestemmelsene for yrkesskade eller yrkessykdom.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_2_1_O_3",
     "decodeLong": "Bruker er innvilget uføretrygd etter særbestemmelser for yrkesskade eller yrkessykdom og oppfyller derfor vilkåret om medlemskap i folketrygden.",
@@ -191,7 +191,7 @@
   {
     "decode": "Bruker var medlem på uføretidspunktet.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_2_1_O_4",
     "decodeLong": "Bruker har vært medlem i folketrygden i minst ett år før kravtidspunktet og var i tillegg medlem på uføretidspunktet og ble ufør før fylte 26 år.",
@@ -200,7 +200,7 @@
   {
     "decode": "Bruker har vært medlem fra fylte 16 år og frem til uføretidspunktet.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_2_1_O_5",
     "decodeLong": "Bruker har vært medlem i folketrygden i minst ett år før kravtidspunktet oghar i tillegg vært medlem i folketrygden fra fylte 16 år og fram til uføretidspunktet, med unntak av maksimum fem år.",
@@ -209,7 +209,7 @@
   {
     "decode": "Bruker har tjent opp rett til minst halvparten av full minsteytelse.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_2_1_O_6",
     "decodeLong": "Bruker var medlem i folketrygden på uføretidspunktet og har tjent opp rett til minst halvparten av full minsteytelse for uføretrygd. Bruker har derfor rett til en uføretrygd beregnet på grunnlag av den faktiske norske trygdetiden sin fra fylte 16 år og fram til uføretidspunktet.",
@@ -218,7 +218,7 @@
   {
     "decode": "Bruker er ikke bosatt i Norge.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_3_1_I_1",
     "decodeLong": "Bruker er ikke bosatt i Norge og oppfyller ikke vilkåret om fortsatt medlemskap i folketrygden.",
@@ -227,7 +227,7 @@
   {
     "decode": "Bruker er bosatt i Norge.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_3_1_O_1",
     "decodeLong": "Bruker er bosatt i Norge og oppfyller vilkåret om fortsatt medlemskap i folketrygden.",
@@ -236,7 +236,7 @@
   {
     "decode": "Bruker er ikke mellom 18 og 67 år.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_4_1_I_1",
     "decodeLong": "Bruker er ikke mellom 18 og 67 år og aldersvilkåret er ikke oppfylt.",
@@ -245,7 +245,7 @@
   {
     "decode": "Bruker omfattes ikke av unntaksreglene.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_4_1_I_2",
     "decodeLong": "Bruker er mellom 62 og 67 år og har ikke hatt pensjonsgivende inntekt på minst folketrygdens grunnbeløp i året før uføretidspunktet eller minst tre ganger folketrygdens grunnbeløp i løpet av de tre siste årene før uføretidspunktet. Bruker omfattes ikke av unntaksreglene og kan ikke innvilges uføretrygd.",
@@ -254,7 +254,7 @@
   {
     "decode": "Bruker er mellom 18 og 62 år og aldersvilkåret er oppfylt.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_4_1_O_1",
     "decodeLong": "Bruker er mellom 18 og 62 år og aldersvilkåret er oppfylt.",
@@ -263,7 +263,7 @@
   {
     "decode": "Bruker er mellom 62 og 67 år, og har hatt en pensjonsgivende inntekt på minst folketrygdens grunnbeløp i året før uføretidspunktet.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_4_1_O_2",
     "decodeLong": "Bruker er mellom 62 og 67 år, og har hatt en pensjonsgivende inntekt på minst folketrygdens grunnbeløp i året før uføretidspunktet.",
@@ -272,7 +272,7 @@
   {
     "decode": "Bruker er mellom 62 og 67 år og har hatt en pensjonsgivende inntekt på minst 3 ganger folketrygdens grunnbeløp i løpet av de tre siste årene før uføretidspunktet.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_4_1_O_3",
     "decodeLong": "Bruker er mellom 62 og 67 år og har hatt en pensjonsgivende inntekt på minst 3 ganger folketrygdens grunnbeløp i løpet av de tre siste årene før uføretidspunktet.",
@@ -281,7 +281,7 @@
   {
     "decode": "Bruker mottar ikke ytelser som gjenlevende ektefelle etter kapittel 17 på nivå med minste pensjonsnivå etter § 19-8.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_4_1_O_4",
     "decodeLong": "Bruker mottar ikke ytelser som gjenlevende ektefelle etter kapittel 17 på nivå med minste pensjonsnivå etter § 19-8.",
@@ -290,7 +290,7 @@
   {
     "decode": "Bruker mottar ikke garantipensjon etter § 20-9 beregnet med full trygdetid.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_4_1_O_5",
     "decodeLong": "Bruker mottar ikke garantipensjon etter § 20-9 beregnet med full trygdetid.",
@@ -299,7 +299,7 @@
   {
     "decode": "Bruker har ikke rett til uttak av hel alderspensjon etter kapitlene 19 og 20.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_4_1_O_6",
     "decodeLong": "Bruker har ikke rett til uttak av hel alderspensjon etter kapitlene 19 og 20.",
@@ -308,7 +308,7 @@
   {
     "decode": "Bruker har ikke gjennomført all hensiktsmessig behandling.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_5_1_I_1",
     "decodeLong": "Bruker har ikke gjennomført all hensiktsmessig behandling. Det er sannsynlig at bruker etter videre behandling vil kunne få bedret sin inntektsevne og gjennomføre arbeidsrettede tiltak.",
@@ -317,7 +317,7 @@
   {
     "decode": "Bruker er fortsatt i behandling som kan medføre bedring.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_5_1_I_2",
     "decodeLong": "Bruker er i behandling og det er forventet en bedring av helsetilstanden. Det er sannsynlig at bruker etter videre behandling vil kunne få bedret sin inntektsevne og gjennomføre arbeidsrettede tiltak.",
@@ -326,7 +326,7 @@
   {
     "decode": "NAV har etter anmodning ikke mottatt nødvendige opplysninger for å vurdere vilkåret.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_5_1_I_3",
     "decodeLong": "NAV har etter anmodning ikke mottatt nødvendige opplysninger for å vurdere vilkåret.",
@@ -335,7 +335,7 @@
   {
     "decode": "Bruker har gjennomført hensiktsmessig behandling.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_5_1_O_1",
     "decodeLong": "Bruker har gjennomført hensiktsmessig behandling.",
@@ -344,7 +344,7 @@
   {
     "decode": "Behandling er ikke hensiktsmessig fordi det ikke foreligger sykdom i henhold til §12-6.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_5_1_O_2",
     "decodeLong": "Behandling er ikke hensiktsmessig fordi det ikke foreligger sykdom i henhold til §12-6.",
@@ -353,7 +353,7 @@
   {
     "decode": "Bruker har ikke gjennomført arbeidsrettede tiltak.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_5_2_I_1",
     "decodeLong": "Bruker har ikke gjennomført arbeidsrettede tiltak eller forsøkt annet arbeid som NAV har vurdert som hensiktsmessig. Helsetilstanden er ikke til hinder for at arbeidsrettede tiltak kan forsøkes. Arbeidsrettede tiltak vil være hensiktsmessig for å klargjøre brukers muligheter i arbeidslivet.",
@@ -362,7 +362,7 @@
   {
     "decode": "Bruker er i arbeidsrettede tiltak.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_5_2_I_2",
     "decodeLong": "Bruker er i arbeidsrettede tiltak. Det er derfor ikke klarlagt hvilke muligheter bruker har i arbeidslivet.",
@@ -371,7 +371,7 @@
   {
     "decode": "NAV har etter anmodning ikke mottatt nødvendige opplysninger for å vurdere vilkåret.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_5_2_I_3",
     "decodeLong": "NAV har etter anmodning ikke mottatt nødvendige opplysninger for å vurdere vilkåret.",
@@ -380,7 +380,7 @@
   {
     "decode": "Bruker har gjennomført individuelle og hensiktsmessige arbeidsrettede tiltak.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_5_2_O_1",
     "decodeLong": "Bruker har gjennomført individuelle og hensiktsmessige arbeidsrettede tiltak eller det er vurdert at arbeidsrettede tiltak ikke er hensiktsmessig.",
@@ -389,7 +389,7 @@
   {
     "decode": "Arbeidsrettede tiltak er ikke hensiktsmessig fordi det ikke foreligger sykdom i henhold til §12-6.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_5_2_O_2",
     "decodeLong": "Arbeidsrettede tiltak er ikke hensiktsmessig fordi det ikke foreligger sykdom i henhold til §12-6.",
@@ -398,7 +398,7 @@
   {
     "decode": "Bruker har ikke varig sykdom, skade eller lyte.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_6_1_I_1",
     "decodeLong": "Bruker har ikke varig sykdom, skade eller lyte.",
@@ -407,7 +407,7 @@
   {
     "decode": "Sykdom er ikke hovedårsak til nedsatt inntektsevne.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_6_1_I_2",
     "decodeLong": "Det er ikke brukers varige sykdom, skade eller lyte som er hovedårsaken til den nedsatte inntektsevnen.",
@@ -416,7 +416,7 @@
   {
     "decode": "NAV har etter anmodning ikke mottatt nødvendige opplysninger for å vurdere vilkåret.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_6_1_I_3",
     "decodeLong": "NAV har etter anmodning ikke mottatt nødvendige opplysninger for å vurdere vilkåret.",
@@ -425,7 +425,7 @@
   {
     "decode": "Bruker har varig sykdom, skade eller lyte.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_6_1_O_1",
     "decodeLong": "Bruker har varig sykdom, skade eller lyte. Denne sykdommen er imidlertid ikke årsak til uførheten. Ett eller begge vilkårene i § 12-5 er ikke oppfylt og kravet skal avslås.",
@@ -434,7 +434,7 @@
   {
     "decode": "Bruker har varig sykdom som er hovedårsak til varig nedsatt inntektsevne.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_6_1_O_2",
     "decodeLong": "Bruker har varig sykdom som er hovedårsak til varig nedsatt inntektsevne og alle vilkår i § 12-5 er vurdert oppfylt. Krav om uføretrygd skal innvilges.",
@@ -443,7 +443,7 @@
   {
     "decode": "Uføretidspunktet fastsettes til det tidspunktet inntektsevnen ble varig nedsatt med minst halvparten.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_7_1_1",
     "decodeLong": "Uføretidspunktet fastsettes til det tidspunktet inntektsevnen ble varig nedsatt med minst halvparten.",
@@ -452,7 +452,7 @@
   {
     "decode": "Uføretidspunktet fastsettes til det tidspunktet inntektsevnen ble varig nedsatt med minst 40 prosent.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_7_1_2",
     "decodeLong": "Uføretidspunktet fastsettes til det tidspunktet inntektsevnen ble varig nedsatt med minst 40 prosent.",
@@ -461,7 +461,7 @@
   {
     "decode": "Uføretidspunktet fastsettes til det tidspunktet inntektsevnen ble varig nedsatt med minst 30 prosent.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_7_1_3",
     "decodeLong": "Uføretidspunktet fastsettes til det tidspunktet inntektsevnen ble varig nedsatt med minst 30 prosent.",
@@ -470,7 +470,7 @@
   {
     "decode": "Nytt uføretidspunkt fastsettes til det tidspunktet inntektsevnen ble ytterligere varig nedsatt.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_7_1_4",
     "decodeLong": "Nytt uføretidspunkt fastsettes til det tidspunktet inntektsevnen ble ytterligere varig nedsatt.",
@@ -479,7 +479,7 @@
   {
     "decode": "Inntektsevnen er ikke varig nedsatt med minst halvparten.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_7_1_I_1",
     "decodeLong": "Inntektsevnen er ikke varig nedsatt med minst halvparten.",
@@ -488,7 +488,7 @@
   {
     "decode": "Inntektsevnen er ikke ytterligere varig nedsatt.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_7_1_I_2",
     "decodeLong": "Inntektsevnen er ikke ytterligere varig nedsatt.",
@@ -497,7 +497,7 @@
   {
     "decode": "Inntektsevnen er ikke varig nedsatt med minst halvparten.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_7_2_I_1",
     "decodeLong": "Inntektsevnen er ikke varig nedsatt med minst halvparten.",
@@ -506,7 +506,7 @@
   {
     "decode": "Inntektsevnen er ikke varig nedsatt med minst 40 prosent.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_7_2_I_2",
     "decodeLong": "Inntektsevnen er ikke varig nedsatt med minst 40 prosent.",
@@ -515,7 +515,7 @@
   {
     "decode": "Inntektsevnen er ikke varig nedsatt med minst 30 prosent.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_7_2_I_3",
     "decodeLong": "Inntektsevnen er ikke varig nedsatt med minst 30 prosent.",
@@ -524,7 +524,7 @@
   {
     "decode": "Inntektsevnen er ikke ytterligere varig nedsatt.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_7_2_I_4",
     "decodeLong": "Inntektsevnen er ikke ytterligere varig nedsatt.",
@@ -533,7 +533,7 @@
   {
     "decode": "Inntektsevnen er varig nedsatt med minst halvparten",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_7_2_O_1",
     "decodeLong": "Bruker sin inntektsevne er varig nedsatt med minst 50 prosent.",
@@ -542,7 +542,7 @@
   {
     "decode": "Inntektsevnen er varig nedsatt med minst 40 prosent",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_7_2_O_2",
     "decodeLong": "Vilkåret om varig nedsatt inntektsevne er oppfylt fordi bruker mottok arbeidsavklaringspenger på kravtidspunktet. Det er derfor tilstrekkelig at inntektsevnen er nedsatt med 40 prosent.",
@@ -551,7 +551,7 @@
   {
     "decode": "Inntektsevnen er varig nedsatt med minst 30 prosent.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_7_2_O_3",
     "decodeLong": "Vilkåret om varig nedsatt inntektsevne er oppfylt fordi bruker er innvilget uføretrygd etter særbestemmelser for yrkesskade eller yrkessykdom. Det er derfor tilstrekkelig at inntektsevnen er nedsatt med minst 30 prosent.",
@@ -560,7 +560,7 @@
   {
     "decode": "Inntektsevnen er ytterligere varig nedsatt.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_7_2_O_4",
     "decodeLong": "Inntektsevnen er ytterligere varig nedsatt.",
@@ -569,7 +569,7 @@
   {
     "decode": "Inntekt etter uførhet fastsettes til null kroner fordi bruker ikke har inntekt.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_8_1_1",
     "decodeLong": "Inntekt etter uførhet fastsettes til null kroner fordi bruker ikke har inntekt.",
@@ -578,7 +578,7 @@
   {
     "decode": "Inntekt etter uførhet fastsettes til brukers videre inntekt.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_8_1_2",
     "decodeLong": "Inntekt etter uførhet fastsettes til brukers videre inntekt.",
@@ -587,7 +587,7 @@
   {
     "decode": "Inntekt etter uførhet fastsettes ut fra at bruker ikke utnytter hele sin restinntektsevne.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_8_1_3",
     "decodeLong": "Inntekt etter uførhet fastsettes ut fra at bruker ikke utnytter hele sin restinntektsevne.",
@@ -596,7 +596,7 @@
   {
     "decode": "Inntekt før uførhet fastsettes til normalinntekt før uførhet.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_8_2_1",
     "decodeLong": "Inntekt før uførhet fastsettes til normalinntekt før uførhet.",
@@ -605,7 +605,7 @@
   {
     "decode": "Inntekt før uførhet er ikke endret fordi det ikke er varig inntektsøkning.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_8_2_10",
     "decodeLong": "Inntekt før uførhet er ikke endret fordi det ikke er varig inntektsøkning.",
@@ -614,7 +614,7 @@
   {
     "decode": "Inntekt før uførhet er ikke endret fordi varig inntektsøkning gjelder økt stillingsandel.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_8_2_11",
     "decodeLong": "Inntekt før uførhet er ikke endret fordi varig inntektsøkning gjelder økt stillingsandel.",
@@ -623,7 +623,7 @@
   {
     "decode": "Inntekt før uførhet fastsettes etter stillingsandel fordi dette er til fordel for bruker.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_8_2_2",
     "decodeLong": "Inntekt før uførhet fastsettes etter stillingsandel fordi dette er til fordel for bruker.",
@@ -632,7 +632,7 @@
   {
     "decode": "Inntekt før uførhet fastsettes til minstenivå på 3,3 G fordi bruker er vurdert som gift og har hatt lav eller ingen inntekt før uførhet.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_8_2_3",
     "decodeLong": "Inntekt før uførhet fastsettes til minstenivå på 3,3 G fordi bruker er vurdert som gift og har hatt lav eller ingen inntekt før uførhet.",
@@ -641,7 +641,7 @@
   {
     "decode": "Inntekt før uførhet fastsettes til minstenivå på 4,5 ganger grunnbeløpet fordi bruker er innvilget rettighet som ung ufør.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_8_2_4",
     "decodeLong": "Inntekt før uførhet fastsettes til minstenivå på 4,5 ganger grunnbeløpet fordi bruker er innvilget rettighet som ung ufør.",
@@ -650,7 +650,7 @@
   {
     "decode": "Inntekt før uførhet fastsettes til minstenivå på 3,5 G fordi bruker er vurdert som enslig og har hatt lav eller ingen inntekt før uførhet.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_8_2_5",
     "decodeLong": "Inntekt før uførhet fastsettes til minstenivå på 3,5 G fordi bruker er vurdert som enslig og har hatt lav eller ingen inntekt før uførhet.",
@@ -659,7 +659,7 @@
   {
     "decode": "Inntekt før uførhet er endret fordi det er varig inntektsøkning i stillingsandelen.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_8_2_9",
     "decodeLong": "Inntekt før uførhet er endret fordi det er varig inntektsøkning i stillingsandelen.",
@@ -668,7 +668,7 @@
   {
     "decode": "Bruker har ikke inntekt i dag, og uføregraden er derfor fastsatt til 100 prosent.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_9_1_1",
     "decodeLong": "Bruker har ikke inntekt i dag, og uføregraden er derfor fastsatt til 100 prosent.",
@@ -677,7 +677,7 @@
   {
     "decode": "Uføregraden fastsettes ved å sammenlikne brukers inntektsmuligheter før og etter uførhet.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_9_1_2",
     "decodeLong": "Uføregraden fastsettes ved å sammenlikne brukers inntektsmuligheter før og etter uførhet.",
@@ -686,7 +686,7 @@
   {
     "decode": "Bruker har inntektsmuligheter som ikke benyttes.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_9_1_3",
     "decodeLong": "Uføregraden fastsettes ved å sammenlikne brukers inntektsmuligheter før og etter uførhet. Bruker har inntektsmuligheter som ikke utnyttes. Disse regnes med ved vurderingen av inntekt etter uførhet.",
@@ -695,7 +695,7 @@
   {
     "decode": "§ 17-10 Bruker er skilt. Ikke gift på nytt. Krav til varighet oppfylt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_17_10_1",
     "decodeLong": "§ 17-10 Bruker er skilt. Ikke gift på nytt. Krav til varighet oppfylt",
@@ -704,7 +704,7 @@
   {
     "decode": "§ 17-10 Bruker er skilt og var forsørget av bidrag",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_17_10_2",
     "decodeLong": "§ 17-10 Bruker er skilt og var forsørget av bidrag",
@@ -713,7 +713,7 @@
   {
     "decode": "§ 17-12 1.ledd c Unntak fra vilkårene i § 17-5 om ekteskapets varighet eller om barn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_17_12",
     "decodeLong": "§ 17-12 1.ledd c Unntak fra vilkårene i § 17-5 om ekteskapets varighet eller om barn",
@@ -722,7 +722,7 @@
   {
     "decode": "§ 17-5 a Bruker var gift med den avdøde i minst fem år",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_17_5_A",
     "decodeLong": "§ 17-5 a Bruker var gift med den avdøde i minst fem år",
@@ -731,7 +731,7 @@
   {
     "decode": "§ 17-5 b Bruker har eller har hatt barn med sin avdøde ektefelle",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_17_5_B",
     "decodeLong": "§ 17-5 b Bruker har eller har hatt barn med sin avdøde ektefelle",
@@ -740,7 +740,7 @@
   {
     "decode": "§ 17-5 c Bruker hadde omsorgen for avdødes barn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_17_5_C",
     "decodeLong": "§ 17-5 c Bruker hadde omsorgen for avdødes barn",
@@ -749,7 +749,7 @@
   {
     "decode": "Virkningstidspunktet settes til måneden etter at arbeidsavklaringspengene opphører.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_22_12_1_1",
     "decodeLong": "Virkningstidspunktet settes til måneden etter at arbeidsavklaringspengene opphører.",
@@ -758,7 +758,7 @@
   {
     "decode": "Virkningstidspunktet for endring er satt til måneden vilkårene er oppfylt.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_22_12_1_11",
     "decodeLong": "Virkningstidspunktet for endring er satt til måneden vilkårene er oppfylt.",
@@ -767,7 +767,7 @@
   {
     "decode": "Virkningstidspunktet for endring er satt til måneden etter den måneden vilkårene er oppfylt.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_22_12_1_12",
     "decodeLong": "Virkningstidspunktet for endring er satt til måneden etter den måneden vilkårene er oppfylt.",
@@ -776,7 +776,7 @@
   {
     "decode": "Virkningstidspunktet er satt til måneden vilkårene er oppfylt.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_22_12_1_13",
     "decodeLong": "Virkningstidspunktet er satt til måneden vilkårene er oppfylt.",
@@ -785,7 +785,7 @@
   {
     "decode": "Virkningstidspunktet er satt til måneden vilkårene ikke lenger er oppfylt.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_22_12_1_14",
     "decodeLong": "Virkningstidspunktet er satt til måneden vilkårene ikke lenger er oppfylt",
@@ -794,7 +794,7 @@
   {
     "decode": "Virkningstidspunktet er ikke satt fordi det er avslag.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_22_12_1_15",
     "decodeLong": "Virkningstidspunktet er ikke satt fordi det er avslag.",
@@ -803,7 +803,7 @@
   {
     "decode": "Virkningstidspunktet settes til måneden arbeidsavklaringspengene opphører.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_22_12_1_2",
     "decodeLong": "Virkningstidspunktet settes til måneden arbeidsavklaringspengene opphører.",
@@ -812,7 +812,7 @@
   {
     "decode": "Virkningstidspunktet settes til måneden sykepengene opphører.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_22_12_1_3",
     "decodeLong": "Virkningstidspunktet settes til måneden sykepengene opphører.",
@@ -821,7 +821,7 @@
   {
     "decode": "Virkningstidspunktet settes til måneden etter at bruker fylte 18 år.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_22_12_1_4",
     "decodeLong": "Virkningstidspunktet settes til måneden etter at bruker fylte 18 år.",
@@ -830,7 +830,7 @@
   {
     "decode": "Virkningstidspunktet settes til inntil 3 måneder forut for den måneden kravet ble fremsatt.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_22_12_1_5",
     "decodeLong": "Virkningstidspunktet settes til inntil 3 måneder forut for den måneden kravet ble fremsatt.",

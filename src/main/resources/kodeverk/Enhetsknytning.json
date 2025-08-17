@@ -2,7 +2,7 @@
   {
     "decode": "2103",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENHET_DISKRESJON",
     "enhetsnavn": "NAV Viken",
@@ -11,7 +11,7 @@
   {
     "decode": "4819",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENHET_OPPDRAGSKALL",
     "enhetsnavn": "NAV Økonomi Pensjon",
@@ -20,7 +20,7 @@
   {
     "decode": "2910",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAG_DRIFT_UTVIKLING",
     "enhetsnavn": "NAV Drift og Utvikling - Fag, drift og utvikling",
@@ -29,7 +29,7 @@
   {
     "decode": "0044",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORELDERENHET_FORVALTNING",
     "enhetsnavn": "Forvaltning",
@@ -38,7 +38,7 @@
   {
     "decode": "0042",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORELDERENHET_KLAGE_ANKE",
     "enhetsnavn": "NAV Klageinstans",
@@ -47,7 +47,7 @@
   {
     "decode": "4560",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNTEKTSKONTROLL",
     "enhetsnavn": "NAV Registerkontroll Vågå",
@@ -56,7 +56,7 @@
   {
     "decode": "4815",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPDRAGSENHET_KONVENSJON",
     "enhetsnavn": "Nav Familie- og Pensjonsytelser Ålesund",
@@ -65,7 +65,7 @@
   {
     "decode": "4803",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPDRAG_DISKRESJON_SPESIAL",
     "enhetsnavn": "NAV Familie- og pensjonsytelser Oslo 2",
@@ -74,7 +74,7 @@
   {
     "decode": "4403",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPDRAG_UFORETRYGD_UTLAND",
     "enhetsnavn": "NAV Arbeid og ytelser Oslo",
@@ -83,7 +83,7 @@
   {
     "decode": "4403",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPDRAG_UFORETRYGD_UTLAND_TILSNITT",
     "enhetsnavn": "NAV Arbeid og ytelser Oslo",
@@ -92,7 +92,7 @@
   {
     "decode": "4803",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPDRAG_UTLAND_SPESIAL",
     "enhetsnavn": "NAV Familie- og pensjonsytelser Oslo 2",
@@ -101,7 +101,7 @@
   {
     "decode": "4118",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPGAVE_DISKRESJON",
     "enhetsnavn": "NAV Kontaktsenter Nordland",
@@ -110,7 +110,7 @@
   {
     "decode": "4151",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SERVICE_SENTER",
     "enhetsnavn": "NAV Servicesenter",
@@ -119,7 +119,7 @@
   {
     "decode": "4400",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STYRING_ARBEID_YTELSER",
     "enhetsnavn": "NAV Arbeid og ytelser styringsenhet",
@@ -128,7 +128,7 @@
   {
     "decode": "4800",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STYRING_FAMILIE_PENSJON",
     "enhetsnavn": "NAV Familie- og pensjonsytelser styringsenhet",
@@ -137,7 +137,7 @@
   {
     "decode": "4475",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UFORETRYGD_UTLAND",
     "enhetsnavn": "NAY Uføretrygd bosatt Utland",
@@ -146,7 +146,7 @@
   {
     "decode": "4476",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UFORETRYGD_UTLAND_TILSNITT",
     "enhetsnavn": "NAY Uføretrygd med utlandstilsnitt",
@@ -155,7 +155,7 @@
   {
     "decode": "0003",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VIRTUELL_DISKRESJON_SPESIAL",
     "enhetsnavn": "NAV Pensjon Viken",
@@ -164,7 +164,7 @@
   {
     "decode": "4862",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VIRTUELL_KONVENSJON",
     "enhetsnavn": "NAV Familie- og pensjonsytelser utland Ålesund",
@@ -173,7 +173,7 @@
   {
     "decode": "0001",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VIRTUELL_UTLANDSPESIAL",
     "enhetsnavn": "NAV Pensjon Utland",

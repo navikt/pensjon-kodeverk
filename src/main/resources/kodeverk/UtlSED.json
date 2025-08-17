@@ -2,7 +2,7 @@
   {
     "decode": "H001 - Anmodning om informasjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "H001",
     "codeAsString": "H001"
@@ -10,7 +10,7 @@
   {
     "decode": "H002 - Svar på anmodning om informasjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "H002",
     "codeAsString": "H002"
@@ -18,31 +18,31 @@
   {
     "decode": "H010 Kunngjøring om endringer i gjeldende lovgivning",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1548889200000,
+    "fromDate": "1899-12-31",
+    "toDate": "2019-01-31",
     "code": "H010",
     "codeAsString": "H010"
   },
   {
     "decode": "H011 Anmodning om dato for endring av gjeldende lovgivning",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1548889200000,
+    "fromDate": "1899-12-31",
+    "toDate": "2019-01-31",
     "code": "H011",
     "codeAsString": "H011"
   },
   {
     "decode": "H012 Svar på anmodning om informasjon om endring av gjeldende lovgivning",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1548889200000,
+    "fromDate": "1899-12-31",
+    "toDate": "2019-01-31",
     "code": "H012",
     "codeAsString": "H012"
   },
   {
     "decode": "H020 - Krav om refusjon - administrativ kontroll/medisinsk refusjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "H020",
     "codeAsString": "H020"
@@ -50,7 +50,7 @@
   {
     "decode": "H021 - Svar på krav om refusjon - administrativ kontroll/medisinsk refusjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "H021",
     "codeAsString": "H021"
@@ -58,39 +58,39 @@
   {
     "decode": "H050 Anmodning om informasjon om inntekt - særskilte ikke-avgiftsbaserte kontantytelser",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1548889200000,
+    "fromDate": "1899-12-31",
+    "toDate": "2019-01-31",
     "code": "H050",
     "codeAsString": "H050"
   },
   {
     "decode": "H051 Svar på anmodning om informasjon om inntekt - særskilte ikke-avgiftsbaserte kontantytelser",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1548889200000,
+    "fromDate": "1899-12-31",
+    "toDate": "2019-01-31",
     "code": "H051",
     "codeAsString": "H051"
   },
   {
     "decode": "H052 Anmodning om informasjon om ansettelsesforhold/selvstendig næringsvirksomhet/bosetningsperioder - særskilte ikke-avgiftsbaserte kontantytelser",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1548889200000,
+    "fromDate": "1899-12-31",
+    "toDate": "2019-01-31",
     "code": "H052",
     "codeAsString": "H052"
   },
   {
     "decode": "H053 Svar på anmodning om informasjon om ansettelsesforhold/selvstendig næringsvirksomhet/bosetningsperioder - særskilte ikke-avgiftsbaserte kontantytelser",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1548889200000,
+    "fromDate": "1899-12-31",
+    "toDate": "2019-01-31",
     "code": "H053",
     "codeAsString": "H053"
   },
   {
     "decode": "H061 - Melding/anmodning om personnummer",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "H061",
     "codeAsString": "H061"
@@ -98,7 +98,7 @@
   {
     "decode": "H062 - Bekreftelse/svar på anmodning om personnummer",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "H062",
     "codeAsString": "H062"
@@ -106,7 +106,7 @@
   {
     "decode": "H065 - Overføring av krav/dokument/informasjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "H065",
     "codeAsString": "H065"
@@ -114,7 +114,7 @@
   {
     "decode": "H066 - Svar på overføring av krav/dokument/informasjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "H066",
     "codeAsString": "H066"
@@ -122,7 +122,7 @@
   {
     "decode": "H070 - Melding om dødsfall",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "H070",
     "codeAsString": "H070"
@@ -130,15 +130,15 @@
   {
     "decode": "H100 Meldingen tas ikke i betraktning",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1548889200000,
+    "fromDate": "1899-12-31",
+    "toDate": "2019-01-31",
     "code": "H100",
     "codeAsString": "H100"
   },
   {
     "decode": "H120 - Anmodning om medisinsk informasjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "H120",
     "codeAsString": "H120"
@@ -146,7 +146,7 @@
   {
     "decode": "H121 - Svar på anmodning om medisinsk informasjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "H121",
     "codeAsString": "H121"
@@ -154,7 +154,7 @@
   {
     "decode": "P1000 - Anmodning om perioder med foreldreansvar",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P1000",
     "codeAsString": "P1000"
@@ -162,7 +162,7 @@
   {
     "decode": "P10000 - Overføring av utfyllende opplysninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P10000",
     "codeAsString": "P10000"
@@ -170,7 +170,7 @@
   {
     "decode": "P1100 - Svar på anmodning om perioder med foreldreansvar",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P1100",
     "codeAsString": "P1100"
@@ -178,7 +178,7 @@
   {
     "decode": "P11000 - Anmodning om pensjonsbeløp",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P11000",
     "codeAsString": "P11000"
@@ -186,7 +186,7 @@
   {
     "decode": "P12000 - Informasjon om pensjonsbeløp",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P12000",
     "codeAsString": "P12000"
@@ -194,7 +194,7 @@
   {
     "decode": "P13000 - Informasjon om pensjonstillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P13000",
     "codeAsString": "P13000"
@@ -202,7 +202,7 @@
   {
     "decode": "P14000 - Endring i personlige forhold",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P14000",
     "codeAsString": "P14000"
@@ -210,7 +210,7 @@
   {
     "decode": "P15000 - Overføring av pensjonssaker til EESSI",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P15000",
     "codeAsString": "P15000"
@@ -218,7 +218,7 @@
   {
     "decode": "P2000 - Krav om alderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P2000",
     "codeAsString": "P2000"
@@ -226,7 +226,7 @@
   {
     "decode": "P2100 - Krav om ytelser til gjenlevende",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P2100",
     "codeAsString": "P2100"
@@ -234,7 +234,7 @@
   {
     "decode": "P2200 - Krav om uføretrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P2200",
     "codeAsString": "P2200"
@@ -242,7 +242,7 @@
   {
     "decode": "P3000 - Landspesifikk informasjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P3000",
     "codeAsString": "P3000"
@@ -250,7 +250,7 @@
   {
     "decode": "P4000 - Rapport om trygdehistorikk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P4000",
     "codeAsString": "P4000"
@@ -258,7 +258,7 @@
   {
     "decode": "P5000 - Opplysninger om forsikrings- og bosettingsperioder",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P5000",
     "codeAsString": "P5000"
@@ -266,7 +266,7 @@
   {
     "decode": "P6000 - Vedtak om pensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P6000",
     "codeAsString": "P6000"
@@ -274,7 +274,7 @@
   {
     "decode": "P7000 - Melding om vedtakssammendrag",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P7000",
     "codeAsString": "P7000"
@@ -282,7 +282,7 @@
   {
     "decode": "P8000 - Anmodning om tilleggsinformasjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P8000",
     "codeAsString": "P8000"
@@ -290,7 +290,7 @@
   {
     "decode": "P9000 - Svar på anmodning om tilleggsinformasjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P9000",
     "codeAsString": "P9000"
@@ -298,7 +298,7 @@
   {
     "decode": "R001 - Anmodning om motregning i etterbetalinger/løpende utbetalinger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "R001",
     "codeAsString": "R001"
@@ -306,7 +306,7 @@
   {
     "decode": "R002 - Svar på anmodning om motregning i etterbetalinger/løpende utbetalinger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "R002",
     "codeAsString": "R002"
@@ -314,7 +314,7 @@
   {
     "decode": "R003 - Beslutning om motregning i etterbetalinger/løpende utbetalinger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "R003",
     "codeAsString": "R003"
@@ -322,7 +322,7 @@
   {
     "decode": "R004 - Melding om utbetaling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "R004",
     "codeAsString": "R004"
@@ -330,7 +330,7 @@
   {
     "decode": "R005 - Anmodning om motregning i etterbetalinger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "R005",
     "codeAsString": "R005"
@@ -338,7 +338,7 @@
   {
     "decode": "R006 - Svar på anmodning om informasjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "R006",
     "codeAsString": "R006"
@@ -346,7 +346,7 @@
   {
     "decode": "X001 - Anmodning om avslutning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "X001",
     "codeAsString": "X001"
@@ -354,7 +354,7 @@
   {
     "decode": "X002 - Anmodning om gjenåpning av avsluttet sak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "X002",
     "codeAsString": "X002"
@@ -362,7 +362,7 @@
   {
     "decode": "X003 - Svar på anmodning om gjenåpning av avsluttet sak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "X003",
     "codeAsString": "X003"
@@ -370,7 +370,7 @@
   {
     "decode": "X004 - Gjenåpne saken",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "X004",
     "codeAsString": "X004"
@@ -378,7 +378,7 @@
   {
     "decode": "X005 - Legg til ny institusjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "X005",
     "codeAsString": "X005"
@@ -386,7 +386,7 @@
   {
     "decode": "X006 - Fjern institusjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "X006",
     "codeAsString": "X006"
@@ -394,7 +394,7 @@
   {
     "decode": "X007 - Videresende sak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "X007",
     "codeAsString": "X007"
@@ -402,7 +402,7 @@
   {
     "decode": "X008 - Ugyldiggjøre SED",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "X008",
     "codeAsString": "X008"
@@ -410,7 +410,7 @@
   {
     "decode": "X009 - Påminnelse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "X009",
     "codeAsString": "X009"
@@ -418,7 +418,7 @@
   {
     "decode": "X010 - Svar på påminnelse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "X010",
     "codeAsString": "X010"
@@ -426,7 +426,7 @@
   {
     "decode": "X011 - Avvis SED",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "X011",
     "codeAsString": "X011"
@@ -434,7 +434,7 @@
   {
     "decode": "X012 - Presiser innhold",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "X012",
     "codeAsString": "X012"
@@ -442,7 +442,7 @@
   {
     "decode": "X013 - Svar på anmodning om presisering av innhold",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "X013",
     "codeAsString": "X013"
@@ -450,7 +450,7 @@
   {
     "decode": "X050 - Avvikshåndtering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "X050",
     "codeAsString": "X050"
@@ -458,7 +458,7 @@
   {
     "decode": "X100 - Endring av institusjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "X100",
     "codeAsString": "X100"

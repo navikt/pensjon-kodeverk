@@ -2,7 +2,7 @@
   {
     "decode": "Befalsskole",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BEFAL",
     "codeAsString": "BEFAL"
@@ -10,7 +10,7 @@
   {
     "decode": "Normal avtjening",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NORMAL",
     "codeAsString": "NORMAL"
@@ -18,7 +18,7 @@
   {
     "decode": "Teknisk utdanning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TEKN",
     "codeAsString": "TEKN"
@@ -26,7 +26,7 @@
   {
     "decode": "Ikke oppgitt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UKJENT",
     "codeAsString": "UKJENT"

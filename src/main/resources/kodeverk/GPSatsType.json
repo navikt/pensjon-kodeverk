@@ -2,7 +2,7 @@
   {
     "decode": "Forhøyet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORHOYET",
     "codeAsString": "FORHOYET"
@@ -10,7 +10,7 @@
   {
     "decode": "Ordinær",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ORDINAER",
     "codeAsString": "ORDINAER"

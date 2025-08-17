@@ -2,7 +2,7 @@
   {
     "decode": "AA-registeret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AA",
     "codeAsString": "AA"
@@ -10,7 +10,7 @@
   {
     "decode": "Barnetrygd Systemet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BA",
     "codeAsString": "BA"
@@ -18,7 +18,7 @@
   {
     "decode": "Batch",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BATCH",
     "codeAsString": "BATCH"
@@ -26,7 +26,7 @@
   {
     "decode": "Beregnet",
     "valid": false,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BEREGNET",
     "codeAsString": "BEREGNET"
@@ -34,7 +34,7 @@
   {
     "decode": "Bruker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BRUKER",
     "codeAsString": "BRUKER"
@@ -42,7 +42,7 @@
   {
     "decode": "Brukeroppgitt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BRUKER_OPP",
     "codeAsString": "BRUKER_OPP"
@@ -50,7 +50,7 @@
   {
     "decode": "EESSI-Pensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EESSI",
     "codeAsString": "EESSI"
@@ -58,15 +58,15 @@
   {
     "decode": "G-omregning",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1293836400000,
+    "fromDate": "1899-12-31",
+    "toDate": "2011-01-01",
     "code": "GOMR",
     "codeAsString": "GOMR"
   },
   {
     "decode": "Inntektskomponenten",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IK",
     "codeAsString": "IK"
@@ -74,7 +74,7 @@
   {
     "decode": "Inntektsregister",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNT",
     "codeAsString": "INNT"
@@ -82,7 +82,7 @@
   {
     "decode": "Inntekt satt ifm. konvertering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNT_KONV",
     "codeAsString": "INNT_KONV"
@@ -90,7 +90,7 @@
   {
     "decode": "Institusjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INSTOPP",
     "codeAsString": "INSTOPP"
@@ -98,7 +98,7 @@
   {
     "decode": "Infotrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IT",
     "codeAsString": "IT"
@@ -106,7 +106,7 @@
   {
     "decode": "Konvertering DSF",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_DSF",
     "codeAsString": "KONV_DSF"
@@ -114,7 +114,7 @@
   {
     "decode": "Data er konvertert inn fra både DSF og IT",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_DSF_IT",
     "codeAsString": "KONV_DSF_IT"
@@ -122,7 +122,7 @@
   {
     "decode": "Konvertering Infotrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_IT",
     "codeAsString": "KONV_IT"
@@ -130,7 +130,7 @@
   {
     "decode": "Lønnsvekstomregn inntekter",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LVOMR",
     "codeAsString": "LVOMR"
@@ -138,7 +138,7 @@
   {
     "decode": "Medlemsunntaksregister",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MEDL",
     "codeAsString": "MEDL"
@@ -146,7 +146,7 @@
   {
     "decode": "Minste Pensjonsnivå - Omregning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MPNOMR",
     "codeAsString": "MPNOMR"
@@ -154,7 +154,7 @@
   {
     "decode": "Omsorgsopptjening",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMSORGSOPPTJENING",
     "codeAsString": "OMSORGSOPPTJENING"
@@ -162,7 +162,7 @@
   {
     "decode": "Øvrig",
     "valid": false,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OVRIG",
     "codeAsString": "OVRIG"
@@ -170,7 +170,7 @@
   {
     "decode": "PEN fellesdata",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PEN",
     "codeAsString": "PEN"
@@ -178,7 +178,7 @@
   {
     "decode": "Pensjonsopptjeningsregister",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "POPP",
     "codeAsString": "POPP"
@@ -186,7 +186,7 @@
   {
     "decode": "Prosess",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PROSESS",
     "codeAsString": "PROSESS"
@@ -194,7 +194,7 @@
   {
     "decode": "Regulering av pensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REGULERING",
     "codeAsString": "REGULERING"
@@ -202,7 +202,7 @@
   {
     "decode": "PEN",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAKSB",
     "codeAsString": "SAKSB"
@@ -210,7 +210,7 @@
   {
     "decode": "Simulering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SIMULERING",
     "codeAsString": "SIMULERING"
@@ -218,7 +218,7 @@
   {
     "decode": "Personregister",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TPS",
     "codeAsString": "TPS"

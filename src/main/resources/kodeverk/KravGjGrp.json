@@ -2,7 +2,7 @@
   {
     "decode": "Ankekrav er angitt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANKE",
     "codeAsString": "ANKE"
@@ -10,7 +10,7 @@
   {
     "decode": "Ingen kravtype er gitt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INGEN_KRAV",
     "codeAsString": "INGEN_KRAV"
@@ -18,7 +18,7 @@
   {
     "decode": "Klagekrav er angitt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAGE",
     "codeAsString": "KLAGE"
@@ -26,7 +26,7 @@
   {
     "decode": "Alle andre kravtyper som ikke er dekket av noen av de andre gruppene",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OVRIGE_KRAV",
     "codeAsString": "OVRIGE_KRAV"
@@ -34,7 +34,7 @@
   {
     "decode": "Utenlandskrav er angitt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTLAND",
     "codeAsString": "UTLAND"
