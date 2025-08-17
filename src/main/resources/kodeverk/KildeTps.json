@@ -63,13 +63,6 @@
     "valid": true
   },
   {
-    "code": "DOLY",
-    "decode": "Kun i test - Dolly",
-    "fromDate": "1899-12-31",
-    "toDate": null,
-    "valid": true
-  },
-  {
     "code": "DSF",
     "decode": "Det sentrale folkeregisteret",
     "fromDate": "1899-12-31",
@@ -78,7 +71,7 @@
   },
   {
     "code": "FREG",
-    "decode": "FREG",
+    "decode": "Det Moderniserte Folkeregisteret",
     "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
@@ -106,7 +99,7 @@
   },
   {
     "code": "HELS",
-    "decode": "HELS",
+    "decode": "Helsedirektoratet",
     "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
@@ -141,7 +134,7 @@
   },
   {
     "code": "NAV",
-    "decode": "NAV",
+    "decode": "Ny Abeids- og Velferdsforvaltning",
     "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
@@ -211,7 +204,7 @@
   },
   {
     "code": "SKAT",
-    "decode": "SKAT",
+    "decode": "Skattedirektoratet",
     "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
@@ -225,7 +218,7 @@
   },
   {
     "code": "STAT",
-    "decode": "STAT",
+    "decode": "Slått sammen med KART - Kartverket",
     "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
@@ -238,22 +231,8 @@
     "valid": true
   },
   {
-    "code": "TNOR",
-    "decode": "Kun i test - Tenorpopulasjonen",
-    "fromDate": "1899-12-31",
-    "toDate": null,
-    "valid": true
-  },
-  {
     "code": "TPSF",
-    "decode": "TPS Forvalteren - Dolly",
-    "fromDate": "2019-03-01",
-    "toDate": null,
-    "valid": true
-  },
-  {
-    "code": "TPSK",
-    "decode": "Konvertering innternt i TPS",
+    "decode": "TPS Forvaltning",
     "fromDate": "2019-03-01",
     "toDate": null,
     "valid": true
@@ -267,7 +246,7 @@
   },
   {
     "code": "UTLE",
-    "decode": "UTLE",
+    "decode": "Utlendingsdirektoratet",
     "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
