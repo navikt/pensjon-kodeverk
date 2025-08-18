@@ -34,6 +34,9 @@ spec:
         - application: pensjon-psak-q5
           cluster: dev-fss
           namespace: pensjon-q5
+        - application: azure-token-generator
+          cluster: dev-gcp
+          namespace: nais
   azure:
     application:
       allowAllUsers: true
