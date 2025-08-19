@@ -2,7 +2,7 @@
   {
     "decode": "Annen årsak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANNEN",
     "codeAsString": "ANNEN"
@@ -10,7 +10,7 @@
   {
     "decode": "Beregningsfeil",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BEREGNINGSFEIL",
     "codeAsString": "BEREGNINGSFEIL"
@@ -18,7 +18,7 @@
   {
     "decode": "Endre ytelseskomponent",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDRE_YK",
     "codeAsString": "ENDRE_YK"
@@ -26,7 +26,7 @@
   {
     "decode": "Legg til og endre ytelseskomponent",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LEGG_TIL_ENDRE_YK",
     "codeAsString": "LEGG_TIL_ENDRE_YK"
@@ -34,7 +34,7 @@
   {
     "decode": "Legg til ytelseskomponent",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LEGG_TIL_YK",
     "codeAsString": "LEGG_TIL_YK"
@@ -42,7 +42,7 @@
   {
     "decode": "Manglende systemstøtte for regelverk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MANGL_SYSSTOTTE_REGV",
     "codeAsString": "MANGL_SYSSTOTTE_REGV"
@@ -50,7 +50,7 @@
   {
     "decode": "Særtilegg skal ikke utbetales",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SERTIL_IKKE_UTB",
     "codeAsString": "SERTIL_IKKE_UTB"
@@ -58,7 +58,7 @@
   {
     "decode": "Kun tilleggspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TIL_PEN",
     "codeAsString": "TIL_PEN"
@@ -66,7 +66,7 @@
   {
     "decode": "Ytelseskomponent mangler i konverteringen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "YK_MANGL_KONV",
     "codeAsString": "YK_MANGL_KONV"

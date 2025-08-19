@@ -2,7 +2,7 @@
   {
     "decode": "AVREGNINGSRETUR-UTBET IKKE FUNNET",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AVR",
     "codeAsString": "AVR"
@@ -10,7 +10,7 @@
   {
     "decode": "UTBETALINGER TIL BANK AXEPT",
     "valid": true,
-    "fromDate": 1595368800000,
+    "fromDate": "2020-07-22",
     "toDate": null,
     "code": "BAX",
     "codeAsString": "BAX"
@@ -18,7 +18,7 @@
   {
     "decode": "UTBETALINGER TIL BANKKONTO DNB",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BK1",
     "codeAsString": "BK1"
@@ -26,7 +26,7 @@
   {
     "decode": "UTBETALINGER TIL SPAREBANK1-KONTI",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BKT",
     "codeAsString": "BKT"
@@ -34,7 +34,7 @@
   {
     "decode": "DIREKTE UTBETALINGSKORT",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DIR",
     "codeAsString": "DIR"
@@ -42,7 +42,7 @@
   {
     "decode": "INTERNE TREKK",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INT",
     "codeAsString": "INT"
@@ -50,7 +50,7 @@
   {
     "decode": "UTBETALINGER TIL ANDRE BANKER",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PBK",
     "codeAsString": "PBK"
@@ -58,7 +58,7 @@
   {
     "decode": "UTENLANDSK KONTO EU",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UEU",
     "codeAsString": "UEU"
@@ -66,7 +66,7 @@
   {
     "decode": "UTENLANDSK KONTO IKKE GEBYR",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UIG",
     "codeAsString": "UIG"
@@ -74,7 +74,7 @@
   {
     "decode": "UTLANDSSJEKK",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTD",
     "codeAsString": "UTD"
@@ -82,7 +82,7 @@
   {
     "decode": "UTBETALING TIL UTENLANDSBANKKONTO",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTK",
     "codeAsString": "UTK"

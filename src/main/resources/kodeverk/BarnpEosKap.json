@@ -2,7 +2,7 @@
   {
     "decode": "Kapittel 3",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KAP_3",
     "codeAsString": "KAP_3"
@@ -10,7 +10,7 @@
   {
     "decode": "Kapittel 8",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KAP_8",
     "codeAsString": "KAP_8"

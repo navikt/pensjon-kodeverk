@@ -2,7 +2,7 @@
   {
     "decode": "8-5-1 Tillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_8_5_1_T",
     "avhBasispRestpBeh": false,
@@ -13,7 +13,7 @@
   {
     "decode": "Arbeidsavklaringspenger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AAP",
     "avhBasispRestpBeh": false,
@@ -24,7 +24,7 @@
   {
     "decode": "AFP kompensasjonstillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP_KOMP_TILLEGG",
     "avhBasispRestpBeh": false,
@@ -35,7 +35,7 @@
   {
     "decode": "AFP kronetillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP_KRONETILLEGG",
     "avhBasispRestpBeh": false,
@@ -46,7 +46,7 @@
   {
     "decode": "AFP livsvarig del",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP_LIVSVARIG",
     "avhBasispRestpBeh": true,
@@ -57,7 +57,7 @@
   {
     "decode": "AFP tillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP_T",
     "avhBasispRestpBeh": false,
@@ -68,7 +68,7 @@
   {
     "decode": "Gjenlevendetillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP_GJT",
     "avhBasispRestpBeh": false,
@@ -79,7 +79,7 @@
   {
     "decode": "Gjenlevendetillegg kapittel 19",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP_GJT_KAP19",
     "avhBasispRestpBeh": false,
@@ -90,7 +90,7 @@
   {
     "decode": "Differanseberegning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DIFF_BER",
     "avhBasispRestpBeh": false,
@@ -101,7 +101,7 @@
   {
     "decode": "Ektefelletillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ET",
     "avhBasispRestpBeh": false,
@@ -112,7 +112,7 @@
   {
     "decode": "Familietillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAM_T",
     "avhBasispRestpBeh": false,
@@ -123,7 +123,7 @@
   {
     "decode": "Tillegg faste utgifter",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAST_UTGIFT_T",
     "avhBasispRestpBeh": false,
@@ -134,7 +134,7 @@
   {
     "decode": "Fremskrevet AFP livsvarig del",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREM_AFP_LIVSVARIG",
     "avhBasispRestpBeh": false,
@@ -145,7 +145,7 @@
   {
     "decode": "Garantipensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GAP",
     "avhBasispRestpBeh": true,
@@ -156,7 +156,7 @@
   {
     "decode": "Garantitillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GAT",
     "avhBasispRestpBeh": true,
@@ -167,7 +167,7 @@
   {
     "decode": "Grunnpensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GP",
     "avhBasispRestpBeh": true,
@@ -178,7 +178,7 @@
   {
     "decode": "Garantitillegg EØS Art 50",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GT_EOS",
     "avhBasispRestpBeh": false,
@@ -189,7 +189,7 @@
   {
     "decode": "Garantitillegg Nordisk Art 27",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GT_NORDISK",
     "avhBasispRestpBeh": false,
@@ -200,7 +200,7 @@
   {
     "decode": "Hjelpeløshetsbidrag",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HJELP_BIDRAG",
     "avhBasispRestpBeh": false,
@@ -211,7 +211,7 @@
   {
     "decode": "Tillegg til hjelp i huset",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HJELP_I_HUS",
     "avhBasispRestpBeh": false,
@@ -222,7 +222,7 @@
   {
     "decode": "Inntektspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IP",
     "avhBasispRestpBeh": true,
@@ -233,7 +233,7 @@
   {
     "decode": "Krigspensjon og gammel yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KRIG_GY",
     "avhBasispRestpBeh": false,
@@ -244,7 +244,7 @@
   {
     "decode": "Livsvarig Afp offentlig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LIVS_AFP_OFFENTLIG",
     "avhBasispRestpBeh": false,
@@ -255,7 +255,7 @@
   {
     "decode": "Mendel",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MENDEL",
     "avhBasispRestpBeh": false,
@@ -266,7 +266,7 @@
   {
     "decode": "Minstenivåtillegg individuelt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MIN_NIVA_TILL_INDV",
     "avhBasispRestpBeh": false,
@@ -277,7 +277,7 @@
   {
     "decode": "Minstenivåtillegg pensjonistpar",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MIN_NIVA_TILL_PPAR",
     "avhBasispRestpBeh": false,
@@ -288,7 +288,7 @@
   {
     "decode": "Pensjonstillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PT",
     "avhBasispRestpBeh": true,
@@ -299,7 +299,7 @@
   {
     "decode": "Skattefri grunnpensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SKATT_F_GP",
     "avhBasispRestpBeh": false,
@@ -310,7 +310,7 @@
   {
     "decode": "Skattefri uføretrygd ordinær",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SKATT_F_UT_ORDINER",
     "avhBasispRestpBeh": false,
@@ -321,7 +321,7 @@
   {
     "decode": "Skjermingstillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SKJERMT",
     "avhBasispRestpBeh": false,
@@ -332,7 +332,7 @@
   {
     "decode": "Sykepenger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SP",
     "avhBasispRestpBeh": false,
@@ -343,7 +343,7 @@
   {
     "decode": "Særtillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ST",
     "avhBasispRestpBeh": false,
@@ -354,7 +354,7 @@
   {
     "decode": "Barnetillegg fellesbarn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TFB",
     "avhBasispRestpBeh": false,
@@ -365,7 +365,7 @@
   {
     "decode": "Tilleggspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TP",
     "avhBasispRestpBeh": true,
@@ -376,7 +376,7 @@
   {
     "decode": "Barnetillegg særkullsbarn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TSB",
     "avhBasispRestpBeh": false,
@@ -387,7 +387,7 @@
   {
     "decode": "Uforetillegg til alderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UFORETILLEGG_AP",
     "avhBasispRestpBeh": false,
@@ -398,7 +398,7 @@
   {
     "decode": "Arbeidsavklaringspenger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_AAP",
     "avhBasispRestpBeh": false,
@@ -409,7 +409,7 @@
   {
     "decode": "Ektefelletillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_ET",
     "avhBasispRestpBeh": false,
@@ -420,7 +420,7 @@
   {
     "decode": "Dekning av faste utgifter inst.opph",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_FAST_UTGIFT_T",
     "avhBasispRestpBeh": false,
@@ -431,7 +431,7 @@
   {
     "decode": "Gjenlevendetillegg til uføretrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_GJT",
     "avhBasispRestpBeh": false,
@@ -442,7 +442,7 @@
   {
     "decode": "Garantitillegg Nordisk Art 27 UT",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_GT_NORDISK",
     "avhBasispRestpBeh": false,
@@ -453,7 +453,7 @@
   {
     "decode": "Uføretrygd ordinær",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_ORDINER",
     "avhBasispRestpBeh": false,
@@ -464,7 +464,7 @@
   {
     "decode": "Sykepenger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_SP",
     "avhBasispRestpBeh": false,
@@ -475,7 +475,7 @@
   {
     "decode": "Barnetillegg fellesbarn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_TFB",
     "avhBasispRestpBeh": false,
@@ -486,7 +486,7 @@
   {
     "decode": "Barnetillegg særkullsbarn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_TSB",
     "avhBasispRestpBeh": false,
@@ -497,7 +497,7 @@
   {
     "decode": "Ventetillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VT",
     "avhBasispRestpBeh": false,

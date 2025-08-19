@@ -2,7 +2,7 @@
   {
     "decode": "Ikke oversend",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANDRE",
     "codeAsString": "ANDRE"
@@ -10,7 +10,7 @@
   {
     "decode": "Oversend Kommunal landspensjonskasse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KOMMUNAL",
     "codeAsString": "KOMMUNAL"
@@ -18,7 +18,7 @@
   {
     "decode": "Oversend Statens pensjonskasse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SPK",
     "codeAsString": "SPK"

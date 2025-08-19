@@ -2,7 +2,7 @@
   {
     "decode": "Førstegangstjeneste",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FGT",
     "codeAsString": "FGT"
@@ -10,7 +10,7 @@
   {
     "decode": "Militær førstegangstjeneste",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MIL",
     "codeAsString": "MIL"
@@ -18,7 +18,7 @@
   {
     "decode": "Sivil førstegangstjeneste",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SIV",
     "codeAsString": "SIV"
@@ -26,7 +26,7 @@
   {
     "decode": "Ikke oppgitt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UKJENT",
     "codeAsString": "UKJENT"

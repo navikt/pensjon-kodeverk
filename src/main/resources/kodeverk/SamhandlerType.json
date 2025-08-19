@@ -2,7 +2,7 @@
   {
     "decode": "Ambulansearbeider",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AA",
     "kanOpprettes": false,
@@ -11,7 +11,7 @@
   {
     "decode": "Advokat / Jurist",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ADVO",
     "kanOpprettes": true,
@@ -20,7 +20,7 @@
   {
     "decode": "AFP-ordning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFPO",
     "kanOpprettes": true,
@@ -29,7 +29,7 @@
   {
     "decode": "Arbeidskontor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AK",
     "kanOpprettes": false,
@@ -38,7 +38,7 @@
   {
     "decode": "Arbeidsmarkedsinstitutt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AMI",
     "kanOpprettes": false,
@@ -47,7 +47,7 @@
   {
     "decode": "Ankenemnda for sykepenger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AN",
     "kanOpprettes": false,
@@ -56,7 +56,7 @@
   {
     "decode": "Audiopedagog",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP",
     "kanOpprettes": false,
@@ -65,7 +65,7 @@
   {
     "decode": "Apotek - privat",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "APOP",
     "kanOpprettes": false,
@@ -74,7 +74,7 @@
   {
     "decode": "Apotek - sykehus",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "APOS",
     "kanOpprettes": false,
@@ -83,7 +83,7 @@
   {
     "decode": "Arbeidstilsynet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ART",
     "kanOpprettes": false,
@@ -92,7 +92,7 @@
   {
     "decode": "Arbeidslivssenter",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ASEN",
     "kanOpprettes": true,
@@ -101,7 +101,7 @@
   {
     "decode": "Apotektekniker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AT",
     "kanOpprettes": false,
@@ -110,7 +110,7 @@
   {
     "decode": "Attføringsutvalg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ATU",
     "kanOpprettes": false,
@@ -119,7 +119,7 @@
   {
     "decode": "Audiograf",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AU",
     "kanOpprettes": false,
@@ -128,7 +128,7 @@
   {
     "decode": "Bandasjist",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BAND",
     "kanOpprettes": false,
@@ -137,7 +137,7 @@
   {
     "decode": "Begravelsesbyrå",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BB",
     "kanOpprettes": false,
@@ -146,7 +146,7 @@
   {
     "decode": "Bobestyrer",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BBE",
     "kanOpprettes": false,
@@ -155,7 +155,7 @@
   {
     "decode": "Behandler",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BEH",
     "kanOpprettes": true,
@@ -164,7 +164,7 @@
   {
     "decode": "Bidragsfogden",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BF",
     "kanOpprettes": false,
@@ -173,7 +173,7 @@
   {
     "decode": "Barnehage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BH",
     "kanOpprettes": false,
@@ -182,7 +182,7 @@
   {
     "decode": "Bedriftshelsetjeneste",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BHT",
     "kanOpprettes": false,
@@ -191,7 +191,7 @@
   {
     "decode": "Bioingeniør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BI",
     "kanOpprettes": false,
@@ -200,7 +200,7 @@
   {
     "decode": "Bilutvalget",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BU",
     "kanOpprettes": false,
@@ -209,7 +209,7 @@
   {
     "decode": "EØS-Land",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EOS",
     "kanOpprettes": true,
@@ -218,7 +218,7 @@
   {
     "decode": "Ergoterapeut",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ET",
     "kanOpprettes": true,
@@ -227,7 +227,7 @@
   {
     "decode": "Farmasøyt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FA",
     "kanOpprettes": false,
@@ -236,7 +236,7 @@
   {
     "decode": "Fiskehelsebiolog",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FB",
     "kanOpprettes": false,
@@ -245,7 +245,7 @@
   {
     "decode": "Folketrygdkontoret for utenlandssaker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FFU",
     "kanOpprettes": false,
@@ -254,7 +254,7 @@
   {
     "decode": "Fellesordningen LO/NHO",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FKL",
     "kanOpprettes": false,
@@ -263,7 +263,7 @@
   {
     "decode": "Fylkeslegen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FL",
     "kanOpprettes": true,
@@ -272,7 +272,7 @@
   {
     "decode": "Fotterapeut",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FO",
     "kanOpprettes": false,
@@ -281,7 +281,7 @@
   {
     "decode": "Forsikringsselskap",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FS",
     "kanOpprettes": true,
@@ -290,7 +290,7 @@
   {
     "decode": "Fysioterapeut",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FT",
     "kanOpprettes": true,
@@ -299,7 +299,7 @@
   {
     "decode": "Fylkestrygdekontor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FTK",
     "kanOpprettes": false,
@@ -308,7 +308,7 @@
   {
     "decode": "Fullmektig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FULL",
     "kanOpprettes": true,
@@ -317,7 +317,7 @@
   {
     "decode": "Grunn- og videregående skole",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GVS",
     "kanOpprettes": false,
@@ -326,7 +326,7 @@
   {
     "decode": "Helsesekretær",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HE",
     "kanOpprettes": false,
@@ -335,7 +335,7 @@
   {
     "decode": "Helsefagarbeider",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HF",
     "kanOpprettes": false,
@@ -344,7 +344,7 @@
   {
     "decode": "Helseforetak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HFO",
     "kanOpprettes": true,
@@ -353,7 +353,7 @@
   {
     "decode": "Hjemmesykepleien",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HJS",
     "kanOpprettes": false,
@@ -362,7 +362,7 @@
   {
     "decode": "Hjelpemiddelsentral",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HMS",
     "kanOpprettes": true,
@@ -371,7 +371,7 @@
   {
     "decode": "Hjelpepleier",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HP",
     "kanOpprettes": false,
@@ -380,7 +380,7 @@
   {
     "decode": "HPR-dummy",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HPRD",
     "kanOpprettes": false,
@@ -389,7 +389,7 @@
   {
     "decode": "Helsesøster",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HS",
     "kanOpprettes": false,
@@ -398,7 +398,7 @@
   {
     "decode": "Helsestasjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HSTA",
     "kanOpprettes": false,
@@ -407,7 +407,7 @@
   {
     "decode": "Hovedstevnevitnet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HSV",
     "kanOpprettes": false,
@@ -416,7 +416,7 @@
   {
     "decode": "Helsetjeneste forvaltning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HTF",
     "kanOpprettes": false,
@@ -425,7 +425,7 @@
   {
     "decode": "Høyskole/universitet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HU",
     "kanOpprettes": false,
@@ -434,7 +434,7 @@
   {
     "decode": "Institusjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INST",
     "kanOpprettes": true,
@@ -443,7 +443,7 @@
   {
     "decode": "Innkrevingssentralen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IS",
     "kanOpprettes": false,
@@ -452,7 +452,7 @@
   {
     "decode": "Jordmor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "JO",
     "kanOpprettes": false,
@@ -461,7 +461,7 @@
   {
     "decode": "Klage- og Ankeenhet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KA",
     "kanOpprettes": false,
@@ -470,7 +470,7 @@
   {
     "decode": "Klinisk ernæringsfysiolog",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KE",
     "kanOpprettes": false,
@@ -479,7 +479,7 @@
   {
     "decode": "Kemner",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KEMN",
     "kanOpprettes": true,
@@ -488,7 +488,7 @@
   {
     "decode": "Kiropraktor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KI",
     "kanOpprettes": true,
@@ -497,7 +497,7 @@
   {
     "decode": "Kommune",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KOMM",
     "kanOpprettes": true,
@@ -506,7 +506,7 @@
   {
     "decode": "Konvensjonsland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KON",
     "kanOpprettes": true,
@@ -515,7 +515,7 @@
   {
     "decode": "Kreditor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KRED",
     "kanOpprettes": true,
@@ -524,7 +524,7 @@
   {
     "decode": "Klageinstans reiseutgift",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KRU",
     "kanOpprettes": false,
@@ -533,7 +533,7 @@
   {
     "decode": "Sakkyndig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KYND",
     "kanOpprettes": false,
@@ -542,7 +542,7 @@
   {
     "decode": "Laboratorium - offentlig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LABO",
     "kanOpprettes": false,
@@ -551,7 +551,7 @@
   {
     "decode": "Laboratorium - privat",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LABP",
     "kanOpprettes": false,
@@ -560,7 +560,7 @@
   {
     "decode": "Lab/røntgen - privat",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LARO",
     "kanOpprettes": false,
@@ -569,7 +569,7 @@
   {
     "decode": "Landsdekkende bilsenter",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LBS",
     "kanOpprettes": false,
@@ -578,7 +578,7 @@
   {
     "decode": "Lege",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LE",
     "kanOpprettes": true,
@@ -587,7 +587,7 @@
   {
     "decode": "Bedriftslege",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LEBE",
     "kanOpprettes": false,
@@ -596,7 +596,7 @@
   {
     "decode": "Fastlege",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LEFA",
     "kanOpprettes": true,
@@ -605,7 +605,7 @@
   {
     "decode": "Kommunelege",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LEKO",
     "kanOpprettes": false,
@@ -614,7 +614,7 @@
   {
     "decode": "Rådgivende lege",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LERA",
     "kanOpprettes": true,
@@ -623,7 +623,7 @@
   {
     "decode": "Legemiddel fagkontor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LFK",
     "kanOpprettes": false,
@@ -632,7 +632,7 @@
   {
     "decode": "Leverandør helsetrygdkort",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LHK",
     "kanOpprettes": false,
@@ -641,7 +641,7 @@
   {
     "decode": "Ligningskontor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LK",
     "kanOpprettes": true,
@@ -650,7 +650,7 @@
   {
     "decode": "Leverandør Motorkjøretøy",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LM",
     "kanOpprettes": false,
@@ -659,7 +659,7 @@
   {
     "decode": "Logoped",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LOGO",
     "kanOpprettes": false,
@@ -668,7 +668,7 @@
   {
     "decode": "Løsøreregister Brønnøysund",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LRB",
     "kanOpprettes": false,
@@ -677,7 +677,7 @@
   {
     "decode": "Legesenter",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LS",
     "kanOpprettes": true,
@@ -686,7 +686,7 @@
   {
     "decode": "Manuellterapeut",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MT",
     "kanOpprettes": true,
@@ -695,7 +695,7 @@
   {
     "decode": "Namsmannen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NB",
     "kanOpprettes": true,
@@ -704,7 +704,7 @@
   {
     "decode": "Omsorgsarbeider",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OA",
     "kanOpprettes": false,
@@ -713,7 +713,7 @@
   {
     "decode": "Ortopediingeniør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OI",
     "kanOpprettes": false,
@@ -722,7 +722,7 @@
   {
     "decode": "Ombygger bil",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OM",
     "kanOpprettes": false,
@@ -731,7 +731,7 @@
   {
     "decode": "Optiker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OP",
     "kanOpprettes": false,
@@ -740,7 +740,7 @@
   {
     "decode": "Ortoptist",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OR",
     "kanOpprettes": false,
@@ -749,7 +749,7 @@
   {
     "decode": "Ortopedisk verksted",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ORVE",
     "kanOpprettes": false,
@@ -758,7 +758,7 @@
   {
     "decode": "Perfusjonist",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PE",
     "kanOpprettes": false,
@@ -767,7 +767,7 @@
   {
     "decode": "Provisorfarmasøyt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PF",
     "kanOpprettes": false,
@@ -776,7 +776,7 @@
   {
     "decode": "Poliklinikk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "POLI",
     "kanOpprettes": true,
@@ -785,7 +785,7 @@
   {
     "decode": "Psykologisk pedagogisk tjeneste",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PPT",
     "kanOpprettes": false,
@@ -794,7 +794,7 @@
   {
     "decode": "Psykolog",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PS",
     "kanOpprettes": true,
@@ -803,7 +803,7 @@
   {
     "decode": "Radiograf",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "RA",
     "kanOpprettes": false,
@@ -812,7 +812,7 @@
   {
     "decode": "Regional oppgjørsenhet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REGO",
     "kanOpprettes": false,
@@ -821,7 +821,7 @@
   {
     "decode": "Reseptarfarmasøyt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "RF",
     "kanOpprettes": false,
@@ -830,7 +830,7 @@
   {
     "decode": "Rogaland fylkestrygdekontor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "RFK",
     "kanOpprettes": false,
@@ -839,7 +839,7 @@
   {
     "decode": "Regionalt helseforetak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "RHFO",
     "kanOpprettes": false,
@@ -848,7 +848,7 @@
   {
     "decode": "Regionklagekontor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "RKK",
     "kanOpprettes": false,
@@ -857,7 +857,7 @@
   {
     "decode": "Rådgivende overlege",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ROL",
     "kanOpprettes": false,
@@ -866,7 +866,7 @@
   {
     "decode": "Røntgeninstitutt - offentlig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "RONO",
     "kanOpprettes": false,
@@ -875,7 +875,7 @@
   {
     "decode": "Røntgeninstitutt - privat",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "RONP",
     "kanOpprettes": false,
@@ -884,7 +884,7 @@
   {
     "decode": "Rådgivende tannlege",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "RT",
     "kanOpprettes": false,
@@ -893,7 +893,7 @@
   {
     "decode": "Regionstrygdekontor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "RTK",
     "kanOpprettes": false,
@@ -902,7 +902,7 @@
   {
     "decode": "Rikstrygdeverket",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "RTV",
     "kanOpprettes": false,
@@ -911,7 +911,7 @@
   {
     "decode": "Samleadressat",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAD",
     "kanOpprettes": true,
@@ -920,7 +920,7 @@
   {
     "decode": "Sentralfylkestrygdekontor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SFK",
     "kanOpprettes": false,
@@ -929,7 +929,7 @@
   {
     "decode": "Sosialkontor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SK",
     "kanOpprettes": true,
@@ -938,7 +938,7 @@
   {
     "decode": "Sykepleier",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SP",
     "kanOpprettes": false,
@@ -947,7 +947,7 @@
   {
     "decode": "Skifteretten",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SR",
     "kanOpprettes": true,
@@ -956,7 +956,7 @@
   {
     "decode": "Støttekontakt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STKO",
     "kanOpprettes": false,
@@ -965,7 +965,7 @@
   {
     "decode": "Statens utlendingsdirektorat",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SUD",
     "kanOpprettes": true,
@@ -974,7 +974,7 @@
   {
     "decode": "Sykehus",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SYKH",
     "kanOpprettes": true,
@@ -983,7 +983,7 @@
   {
     "decode": "Tjenestepensjonsordningar",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TEPE",
     "kanOpprettes": true,
@@ -992,7 +992,7 @@
   {
     "decode": "Tannhelsesekretær",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TH",
     "kanOpprettes": false,
@@ -1001,7 +1001,7 @@
   {
     "decode": "Takseringsinstanser",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TI",
     "kanOpprettes": false,
@@ -1010,7 +1010,7 @@
   {
     "decode": "Trygdekontor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TK",
     "kanOpprettes": false,
@@ -1019,7 +1019,7 @@
   {
     "decode": "Tannlege",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TL",
     "kanOpprettes": false,
@@ -1028,7 +1028,7 @@
   {
     "decode": "Tannlege offentlig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TLO",
     "kanOpprettes": false,
@@ -1037,7 +1037,7 @@
   {
     "decode": "Tolk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TOLK",
     "kanOpprettes": false,
@@ -1046,7 +1046,7 @@
   {
     "decode": "Tannpleier",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TP",
     "kanOpprettes": false,
@@ -1055,7 +1055,7 @@
   {
     "decode": "Trygderetten",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TR",
     "kanOpprettes": true,
@@ -1064,7 +1064,7 @@
   {
     "decode": "Transportør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TRAN",
     "kanOpprettes": false,
@@ -1073,7 +1073,7 @@
   {
     "decode": "Tanntekniker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TT",
     "kanOpprettes": false,
@@ -1082,7 +1082,7 @@
   {
     "decode": "Utenlandske samhandler",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTL",
     "kanOpprettes": true,
@@ -1091,7 +1091,7 @@
   {
     "decode": "Veterinær",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VE",
     "kanOpprettes": false,
@@ -1100,7 +1100,7 @@
   {
     "decode": "Virtuelt trygdekontor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VIRT",
     "kanOpprettes": false,
@@ -1109,7 +1109,7 @@
   {
     "decode": "Vernepleier",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VP",
     "kanOpprettes": false,
@@ -1118,7 +1118,7 @@
   {
     "decode": "Diverse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "X",
     "kanOpprettes": true,
@@ -1127,7 +1127,7 @@
   {
     "decode": "Yrkeshygieniker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "YH",
     "kanOpprettes": false,
@@ -1136,7 +1136,7 @@
   {
     "decode": "Yrkesmedisiner",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "YM",
     "kanOpprettes": false,

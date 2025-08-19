@@ -2,7 +2,7 @@
   {
     "decode": "Oppdatert på grunn av ny opptjening",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NY_OPPTJENING",
     "codeAsString": "NY_OPPTJENING"
@@ -10,7 +10,7 @@
   {
     "decode": "Oppdatert på grunn av regulering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REGULERING",
     "codeAsString": "REGULERING"
@@ -18,7 +18,7 @@
   {
     "decode": "Oppdatert på grunn av nytt vedtak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VEDTAK",
     "codeAsString": "VEDTAK"

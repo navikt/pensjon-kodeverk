@@ -2,7 +2,7 @@
   {
     "decode": "Grunnskole, realskole (1-9 års utdanning)",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GRUNN",
     "codeAsString": "GRUNN"
@@ -10,7 +10,7 @@
   {
     "decode": "Et år eller mer utover videregående skole/gymnas",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OVER_VIDERE",
     "codeAsString": "OVER_VIDERE"
@@ -18,15 +18,15 @@
   {
     "decode": "Ukjent",
     "valid": true,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "code": "UKJENT",
     "codeAsString": "UKJENT"
   },
   {
     "decode": "Videregående skole/gymnas (10-12 års utdanning)",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VIDERE",
     "codeAsString": "VIDERE"

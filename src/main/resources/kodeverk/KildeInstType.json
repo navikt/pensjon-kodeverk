@@ -2,7 +2,7 @@
   {
     "decode": "Altinn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AINN",
     "codeAsString": "AINN"
@@ -10,7 +10,7 @@
   {
     "decode": "Applikasjonsbruker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "APPBRK",
     "codeAsString": "APPBRK"
@@ -18,7 +18,7 @@
   {
     "decode": "Innrapportering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNRAPPORTERING",
     "codeAsString": "INNRAPPORTERING"
@@ -26,7 +26,7 @@
   {
     "decode": "Infotrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IT",
     "codeAsString": "IT"
@@ -34,7 +34,7 @@
   {
     "decode": "Kriminalomsorgen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KDI",
     "codeAsString": "KDI"
@@ -42,7 +42,7 @@
   {
     "decode": "Pensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PEN",
     "codeAsString": "PEN"
@@ -50,7 +50,7 @@
   {
     "decode": "Pensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PP01",
     "codeAsString": "PP01"

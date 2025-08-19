@@ -2,7 +2,7 @@
   {
     "decode": "AFP Privat",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP_PRIVAT",
     "codeAsString": "AFP_PRIVAT"
@@ -10,7 +10,7 @@
   {
     "decode": "Alderspensjon 2011",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ALDER",
     "codeAsString": "ALDER"
@@ -18,7 +18,7 @@
   {
     "decode": "Alderspensjon 2016",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ALDER_2016",
     "codeAsString": "ALDER_2016"
@@ -26,7 +26,7 @@
   {
     "decode": "Alderspensjon 2025",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ALDER_2025",
     "codeAsString": "ALDER_2025"
@@ -34,7 +34,7 @@
   {
     "decode": "Uføretrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT",
     "codeAsString": "UT"

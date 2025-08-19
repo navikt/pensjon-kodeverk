@@ -2,7 +2,7 @@
   {
     "decode": "Vilkårsprøvinformasjon Alderspensjon 2011",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ALDER_2011",
     "codeAsString": "ALDER_2011"
@@ -10,7 +10,7 @@
   {
     "decode": "Vilkårsprøvinformasjon Alderspensjon 2016",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ALDER_2016",
     "codeAsString": "ALDER_2016"
@@ -18,7 +18,7 @@
   {
     "decode": "Vilkårsprøvinformasjon Alderspensjon 2025",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ALDER_2025",
     "codeAsString": "ALDER_2025"

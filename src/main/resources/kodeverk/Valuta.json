@@ -2,7 +2,7 @@
   {
     "decode": "Emiratene",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "1",
     "code": "AED",
@@ -11,7 +11,7 @@
   {
     "decode": "Australske dollar",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "2",
     "code": "AUD",
@@ -20,7 +20,7 @@
   {
     "decode": "Bahrain dinarer",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "3",
     "code": "BHD",
@@ -29,7 +29,7 @@
   {
     "decode": "Kanadiske dollar",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "4",
     "code": "CAD",
@@ -38,7 +38,7 @@
   {
     "decode": "Sveitsiske franc",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "5",
     "code": "CHF",
@@ -47,7 +47,7 @@
   {
     "decode": "Kina",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "6",
     "code": "CNY",
@@ -56,7 +56,7 @@
   {
     "decode": "Kypros",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "7",
     "code": "CYP",
@@ -65,7 +65,7 @@
   {
     "decode": "Tjekkia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "8",
     "code": "CZK",
@@ -74,7 +74,7 @@
   {
     "decode": "Danske kroner",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "9",
     "code": "DKK",
@@ -83,7 +83,7 @@
   {
     "decode": "Algerie Dinarer",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "10",
     "code": "DZD",
@@ -92,7 +92,7 @@
   {
     "decode": "Estland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "11",
     "code": "EEK",
@@ -101,7 +101,7 @@
   {
     "decode": "Euro",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "12",
     "code": "EUR",
@@ -110,7 +110,7 @@
   {
     "decode": "Britiske pund",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "13",
     "code": "GBP",
@@ -119,7 +119,7 @@
   {
     "decode": "Guyana",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "14",
     "code": "GYD",
@@ -128,7 +128,7 @@
   {
     "decode": "Hong Kong Dollar",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "15",
     "code": "HKD",
@@ -137,7 +137,7 @@
   {
     "decode": "Ungarn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "16",
     "code": "HUF",
@@ -146,7 +146,7 @@
   {
     "decode": "Indonesia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "17",
     "code": "IDR",
@@ -155,7 +155,7 @@
   {
     "decode": "Israel",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "18",
     "code": "ILS",
@@ -164,7 +164,7 @@
   {
     "decode": "Indiske Rupi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "19",
     "code": "INR",
@@ -173,7 +173,7 @@
   {
     "decode": "Islandske kroner",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "20",
     "code": "ISK",
@@ -182,7 +182,7 @@
   {
     "decode": "Japanske Yen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "21",
     "code": "JPY",
@@ -191,7 +191,7 @@
   {
     "decode": "Kenya",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "22",
     "code": "KES",
@@ -200,7 +200,7 @@
   {
     "decode": "Sør-Korea",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "23",
     "code": "KRW",
@@ -209,7 +209,7 @@
   {
     "decode": "Kuwait",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "24",
     "code": "KWD",
@@ -218,7 +218,7 @@
   {
     "decode": "Sri Lanka",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "25",
     "code": "LKR",
@@ -227,7 +227,7 @@
   {
     "decode": "Litauen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "26",
     "code": "LTL",
@@ -236,7 +236,7 @@
   {
     "decode": "Latvia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "27",
     "code": "LVL",
@@ -245,7 +245,7 @@
   {
     "decode": "Marokko",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "28",
     "code": "MAD",
@@ -254,7 +254,7 @@
   {
     "decode": "Malta",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "29",
     "code": "MTL",
@@ -263,7 +263,7 @@
   {
     "decode": "Mexico",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "30",
     "code": "MXN",
@@ -272,7 +272,7 @@
   {
     "decode": "Malaysia Ringgit",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "31",
     "code": "MYR",
@@ -281,7 +281,7 @@
   {
     "decode": "Norske kroner",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "32",
     "code": "NOK",
@@ -290,7 +290,7 @@
   {
     "decode": "New Zealand dollar",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "33",
     "code": "NZD",
@@ -299,7 +299,7 @@
   {
     "decode": "Filippinene",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "34",
     "code": "PHP",
@@ -308,7 +308,7 @@
   {
     "decode": "Pakistanske Roupies",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "35",
     "code": "PKR",
@@ -317,7 +317,7 @@
   {
     "decode": "Polen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "36",
     "code": "PLN",
@@ -326,7 +326,7 @@
   {
     "decode": "Qatar",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "37",
     "code": "QAR",
@@ -335,7 +335,7 @@
   {
     "decode": "Russland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "38",
     "code": "RUB",
@@ -344,7 +344,7 @@
   {
     "decode": "Saudi Arabia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "39",
     "code": "SAR",
@@ -353,7 +353,7 @@
   {
     "decode": "Sudan dinar",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "40",
     "code": "SDD",
@@ -362,7 +362,7 @@
   {
     "decode": "Svenske kroner",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "41",
     "code": "SEK",
@@ -371,7 +371,7 @@
   {
     "decode": "Singapore dollar",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "42",
     "code": "SGD",
@@ -380,7 +380,7 @@
   {
     "decode": "Slovakia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "43",
     "code": "SKK",
@@ -389,7 +389,7 @@
   {
     "decode": "Thailandske baht",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "44",
     "code": "THB",
@@ -398,7 +398,7 @@
   {
     "decode": "Tunis",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "45",
     "code": "TND",
@@ -407,7 +407,7 @@
   {
     "decode": "Tyrkia",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "46",
     "code": "TRY",
@@ -416,7 +416,7 @@
   {
     "decode": "Taiwan",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "47",
     "code": "TWD",
@@ -425,7 +425,7 @@
   {
     "decode": "Tanzania",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "48",
     "code": "TZS",
@@ -434,7 +434,7 @@
   {
     "decode": "Amerikanske dollar",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "49",
     "code": "USD",
@@ -443,7 +443,7 @@
   {
     "decode": "Benin,BurkinaFaso,IvoryCoast,Mali,Niger,Senega",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "51",
     "code": "XOF",
@@ -452,7 +452,7 @@
   {
     "decode": "Sør-Afrikanse rand",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "52",
     "code": "ZAR",
@@ -461,7 +461,7 @@
   {
     "decode": "Sør-Afrikanske rand",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "53",
     "code": "ZRA",
@@ -470,7 +470,7 @@
   {
     "decode": "Zimbabwe",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "54",
     "code": "ZWD",

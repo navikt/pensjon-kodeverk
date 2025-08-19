@@ -2,7 +2,7 @@
   {
     "decode": "Uføre",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UFORE",
     "codeAsString": "UFORE"
@@ -10,7 +10,7 @@
   {
     "decode": "Uføre m/yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UF_M_YRKE",
     "codeAsString": "UF_M_YRKE"
@@ -18,7 +18,7 @@
   {
     "decode": "Første virkningsdato, ikke ufør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VIRK_IKKE_UFOR",
     "codeAsString": "VIRK_IKKE_UFOR"
@@ -26,7 +26,7 @@
   {
     "decode": "Yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "YRKE",
     "codeAsString": "YRKE"

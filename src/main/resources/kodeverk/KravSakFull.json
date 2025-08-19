@@ -2,7 +2,7 @@
   {
     "decode": "AFP etteroppgjør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP_EO_AFP",
     "kravGjelder": "AFP_EO",
@@ -12,7 +12,7 @@
   {
     "decode": "Anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANKE_AFP",
     "kravGjelder": "ANKE",
@@ -22,7 +22,7 @@
   {
     "decode": "Anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANKE_AFP_PRIVAT",
     "kravGjelder": "ANKE",
@@ -32,7 +32,7 @@
   {
     "decode": "Anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANKE_ALDER",
     "kravGjelder": "ANKE",
@@ -42,7 +42,7 @@
   {
     "decode": "Anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANKE_BARNEP",
     "kravGjelder": "ANKE",
@@ -52,7 +52,7 @@
   {
     "decode": "Anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANKE_FAM_PL",
     "kravGjelder": "ANKE",
@@ -62,7 +62,7 @@
   {
     "decode": "Anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANKE_GAM_YRK",
     "kravGjelder": "ANKE",
@@ -72,7 +72,7 @@
   {
     "decode": "Anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANKE_GENRL",
     "kravGjelder": "ANKE",
@@ -82,7 +82,7 @@
   {
     "decode": "Anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANKE_GJENLEV",
     "kravGjelder": "ANKE",
@@ -92,7 +92,7 @@
   {
     "decode": "Anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANKE_KRIGSP",
     "kravGjelder": "ANKE",
@@ -102,7 +102,7 @@
   {
     "decode": "Anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANKE_OMSORG",
     "kravGjelder": "ANKE",
@@ -112,7 +112,7 @@
   {
     "decode": "Anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANKE_UFOREP",
     "kravGjelder": "ANKE",
@@ -122,7 +122,7 @@
   {
     "decode": "Eksport",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EKSPORT_AFP",
     "kravGjelder": "EKSPORT",
@@ -132,7 +132,7 @@
   {
     "decode": "Eksport",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EKSPORT_ALDER",
     "kravGjelder": "EKSPORT",
@@ -142,7 +142,7 @@
   {
     "decode": "Eksport",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EKSPORT_BARNEP",
     "kravGjelder": "EKSPORT",
@@ -152,7 +152,7 @@
   {
     "decode": "Eksport",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EKSPORT_FAM_PL",
     "kravGjelder": "EKSPORT",
@@ -162,7 +162,7 @@
   {
     "decode": "Eksport",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EKSPORT_GAM_YRK",
     "kravGjelder": "EKSPORT",
@@ -172,7 +172,7 @@
   {
     "decode": "Eksport",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EKSPORT_GJENLEV",
     "kravGjelder": "EKSPORT",
@@ -182,7 +182,7 @@
   {
     "decode": "Eksport",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EKSPORT_KRIGSP",
     "kravGjelder": "EKSPORT",
@@ -192,7 +192,7 @@
   {
     "decode": "Eksport",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EKSPORT_UFOREP",
     "kravGjelder": "EKSPORT",
@@ -202,7 +202,7 @@
   {
     "decode": "Endring uttaksgrad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UTGRAD_ALDER",
     "kravGjelder": "ENDR_UTTAKSGRAD",
@@ -212,7 +212,7 @@
   {
     "decode": "Erstatning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ERSTATNING_AFP",
     "kravGjelder": "ERSTATNING",
@@ -222,7 +222,7 @@
   {
     "decode": "Erstatning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ERSTATNING_AFP_PR",
     "kravGjelder": "ERSTATNING",
@@ -232,7 +232,7 @@
   {
     "decode": "Erstatning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ERSTATNING_ALDER",
     "kravGjelder": "ERSTATNING",
@@ -242,7 +242,7 @@
   {
     "decode": "Erstatning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ERSTATNING_BARNEP",
     "kravGjelder": "ERSTATNING",
@@ -252,7 +252,7 @@
   {
     "decode": "Erstatning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ERSTATNING_FAM_PL",
     "kravGjelder": "ERSTATNING",
@@ -262,7 +262,7 @@
   {
     "decode": "Erstatning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ERSTATNING_GAM_YRK",
     "kravGjelder": "ERSTATNING",
@@ -272,7 +272,7 @@
   {
     "decode": "Erstatning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ERSTATNING_GJENLEV",
     "kravGjelder": "ERSTATNING",
@@ -282,7 +282,7 @@
   {
     "decode": "Erstatning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ERSTATNING_KRIGSP",
     "kravGjelder": "ERSTATNING",
@@ -292,7 +292,7 @@
   {
     "decode": "Erstatning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ERSTATNING_OMSORG",
     "kravGjelder": "ERSTATNING",
@@ -302,7 +302,7 @@
   {
     "decode": "Erstatning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ERSTATNING_UFOREP",
     "kravGjelder": "ERSTATNING",
@@ -312,7 +312,7 @@
   {
     "decode": "Ettergivelse av gjeld",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERGIV_GJELD_AFP",
     "kravGjelder": "ETTERGIV_GJELD",
@@ -322,7 +322,7 @@
   {
     "decode": "Ettergivelse av gjeld",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERGIV_GJELD_AFP_P",
     "kravGjelder": "ETTERGIV_GJELD",
@@ -332,7 +332,7 @@
   {
     "decode": "Ettergivelse av gjeld",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERGIV_GJELD_ALDER",
     "kravGjelder": "ETTERGIV_GJELD",
@@ -342,7 +342,7 @@
   {
     "decode": "Ettergivelse av gjeld",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERGIV_GJELD_BARNE",
     "kravGjelder": "ETTERGIV_GJELD",
@@ -352,7 +352,7 @@
   {
     "decode": "Ettergivelse av gjeld",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERGIV_GJELD_FAMPL",
     "kravGjelder": "ETTERGIV_GJELD",
@@ -362,7 +362,7 @@
   {
     "decode": "Ettergivelse av gjeld",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERGIV_GJELD_GAMYR",
     "kravGjelder": "ETTERGIV_GJELD",
@@ -372,7 +372,7 @@
   {
     "decode": "Ettergivelse av gjeld",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERGIV_GJELD_GJLEV",
     "kravGjelder": "ETTERGIV_GJELD",
@@ -382,7 +382,7 @@
   {
     "decode": "Ettergivelse av gjeld",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERGIV_GJELD_KRIGS",
     "kravGjelder": "ETTERGIV_GJELD",
@@ -392,7 +392,7 @@
   {
     "decode": "Ettergivelse av gjeld",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERGIV_GJELD_OMS",
     "kravGjelder": "ETTERGIV_GJELD",
@@ -402,7 +402,7 @@
   {
     "decode": "Ettergivelse av gjeld",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERGIV_GJELD_UFORE",
     "kravGjelder": "ETTERGIV_GJELD",
@@ -412,7 +412,7 @@
   {
     "decode": "Dekning faste utgifter inst.opphold",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAS_UTG_IO_AFP",
     "kravGjelder": "FAS_UTG_IO",
@@ -422,7 +422,7 @@
   {
     "decode": "Dekning faste utgifter inst.opphold",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAS_UTG_IO_ALDER",
     "kravGjelder": "FAS_UTG_IO",
@@ -432,7 +432,7 @@
   {
     "decode": "Dekning faste utgifter inst.opphold",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAS_UTG_IO_BARNEP",
     "kravGjelder": "FAS_UTG_IO",
@@ -442,7 +442,7 @@
   {
     "decode": "Dekning faste utgifter inst.opphold",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAS_UTG_IO_FAM_PL",
     "kravGjelder": "FAS_UTG_IO",
@@ -452,7 +452,7 @@
   {
     "decode": "Dekning faste utgifter inst.opphold",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAS_UTG_IO_GJENLEV",
     "kravGjelder": "FAS_UTG_IO",
@@ -462,7 +462,7 @@
   {
     "decode": "Dekning faste utgifter inst.opphold",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAS_UTG_IO_KRIGSP",
     "kravGjelder": "FAS_UTG_IO",
@@ -472,7 +472,7 @@
   {
     "decode": "Dekning faste utgifter inst.opphold",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAS_UTG_IO_UFOREP",
     "kravGjelder": "FAS_UTG_IO",
@@ -482,7 +482,7 @@
   {
     "decode": "Førstegangsbehandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORSTEG_BH_AFP",
     "kravGjelder": "FORSTEG_BH",
@@ -492,7 +492,7 @@
   {
     "decode": "Førstegangsbehandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORSTEG_BH_AFP_PRIV",
     "kravGjelder": "FORSTEG_BH",
@@ -502,7 +502,7 @@
   {
     "decode": "Førstegangsbehandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORSTEG_BH_ALDER",
     "kravGjelder": "FORSTEG_BH",
@@ -512,7 +512,7 @@
   {
     "decode": "Førstegangsbehandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORSTEG_BH_BARNEP",
     "kravGjelder": "FORSTEG_BH",
@@ -522,7 +522,7 @@
   {
     "decode": "Førstegangsbehandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORSTEG_BH_FAM_PL",
     "kravGjelder": "FORSTEG_BH",
@@ -532,7 +532,7 @@
   {
     "decode": "Førstegangsbehandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORSTEG_BH_GAM_YRK",
     "kravGjelder": "FORSTEG_BH",
@@ -542,7 +542,7 @@
   {
     "decode": "Førstegangsbehandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORSTEG_BH_GJENLEV",
     "kravGjelder": "FORSTEG_BH",
@@ -552,7 +552,7 @@
   {
     "decode": "Førstegangsbehandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORSTEG_BH_KRIGSP",
     "kravGjelder": "FORSTEG_BH",
@@ -562,7 +562,7 @@
   {
     "decode": "Førstegangsbehandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORSTEG_BH_UFOREP",
     "kravGjelder": "FORSTEG_BH",
@@ -572,7 +572,7 @@
   {
     "decode": "Førstegangsbehandling bosatt utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_BO_UTL_AFP",
     "kravGjelder": "F_BH_BO_UTL",
@@ -582,7 +582,7 @@
   {
     "decode": "Førstegangsbehandling bosatt utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_BO_UTL_ALDER",
     "kravGjelder": "F_BH_BO_UTL",
@@ -592,7 +592,7 @@
   {
     "decode": "Førstegangsbehandling bosatt utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_BO_UTL_BARNEP",
     "kravGjelder": "F_BH_BO_UTL",
@@ -602,7 +602,7 @@
   {
     "decode": "Førstegangsbehandling bosatt utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_BO_UTL_FAM_PL",
     "kravGjelder": "F_BH_BO_UTL",
@@ -612,7 +612,7 @@
   {
     "decode": "Førstegangsbehandling bosatt utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_BO_UTL_GAM_YRK",
     "kravGjelder": "F_BH_BO_UTL",
@@ -622,7 +622,7 @@
   {
     "decode": "Førstegangsbehandling bosatt utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_BO_UTL_GJENLEV",
     "kravGjelder": "F_BH_BO_UTL",
@@ -632,7 +632,7 @@
   {
     "decode": "Førstegangsbehandling bosatt utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_BO_UTL_KRIGSP",
     "kravGjelder": "F_BH_BO_UTL",
@@ -642,7 +642,7 @@
   {
     "decode": "Førstegangsbehandling bosatt utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_BO_UTL_UFOREP",
     "kravGjelder": "F_BH_BO_UTL",
@@ -652,7 +652,7 @@
   {
     "decode": "Førstegangsbehandling kun utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_KUN_UTL_ALDER",
     "kravGjelder": "F_BH_KUN_UTL",
@@ -662,7 +662,7 @@
   {
     "decode": "Førstegangsbehandling kun utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_KUN_UTL_BARNEP",
     "kravGjelder": "F_BH_KUN_UTL",
@@ -672,7 +672,7 @@
   {
     "decode": "Førstegangsbehandling kun utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_KUN_UTL_FAM_PL",
     "kravGjelder": "F_BH_KUN_UTL",
@@ -682,7 +682,7 @@
   {
     "decode": "Førstegangsbehandling kun utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_KUN_UTL_GJENLEV",
     "kravGjelder": "F_BH_KUN_UTL",
@@ -692,7 +692,7 @@
   {
     "decode": "Førstegangsbehandling kun utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_KUN_UTL_UFOREP",
     "kravGjelder": "F_BH_KUN_UTL",
@@ -702,7 +702,7 @@
   {
     "decode": "Førstegangsbehandling Norge/utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_MED_UTL_ALDER",
     "kravGjelder": "F_BH_MED_UTL",
@@ -712,7 +712,7 @@
   {
     "decode": "Førstegangsbehandling Norge/utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_MED_UTL_BARNEP",
     "kravGjelder": "F_BH_MED_UTL",
@@ -722,7 +722,7 @@
   {
     "decode": "Førstegangsbehandling Norge/utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_MED_UTL_FAM_PL",
     "kravGjelder": "F_BH_MED_UTL",
@@ -732,7 +732,7 @@
   {
     "decode": "Førstegangsbehandling Norge/utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_MED_UTL_GJENLEV",
     "kravGjelder": "F_BH_MED_UTL",
@@ -742,7 +742,7 @@
   {
     "decode": "Førstegangsbehandling Norge/utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "F_BH_MED_UTL_UFOREP",
     "kravGjelder": "F_BH_MED_UTL",
@@ -752,7 +752,7 @@
   {
     "decode": "Gjenlevenderettighet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GJ_RETT_ALDER",
     "kravGjelder": "GJ_RETT",
@@ -762,7 +762,7 @@
   {
     "decode": "Gjenlevenderettighet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GJ_RETT_UFOREP",
     "kravGjelder": "GJ_RETT",
@@ -772,7 +772,7 @@
   {
     "decode": "Godskrivning omsorgspoeng",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GOD_OMSGSP_OMSORG",
     "kravGjelder": "GOD_OMSGSP",
@@ -782,7 +782,7 @@
   {
     "decode": "G-omregning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GOMR_AFP",
     "kravGjelder": "GOMR",
@@ -792,7 +792,7 @@
   {
     "decode": "G-omregning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GOMR_ALDER",
     "kravGjelder": "GOMR",
@@ -802,7 +802,7 @@
   {
     "decode": "G-omregning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GOMR_BARNEP",
     "kravGjelder": "GOMR",
@@ -812,7 +812,7 @@
   {
     "decode": "G-omregning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GOMR_FAM_PL",
     "kravGjelder": "GOMR",
@@ -822,7 +822,7 @@
   {
     "decode": "G-omregning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GOMR_GAM_YRK",
     "kravGjelder": "GOMR",
@@ -832,7 +832,7 @@
   {
     "decode": "G-omregning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GOMR_GJENLEV",
     "kravGjelder": "GOMR",
@@ -842,7 +842,7 @@
   {
     "decode": "G-omregning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GOMR_KRIGSP",
     "kravGjelder": "GOMR",
@@ -852,7 +852,7 @@
   {
     "decode": "G-omregning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GOMR_UFOREP",
     "kravGjelder": "GOMR",
@@ -862,7 +862,7 @@
   {
     "decode": "Inntektsendring",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNT_E",
     "kravGjelder": "INNT_E",
@@ -872,7 +872,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNT_KTRL_AFP",
     "kravGjelder": "INNT_KTRL",
@@ -882,7 +882,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNT_KTRL_ALDER",
     "kravGjelder": "INNT_KTRL",
@@ -892,7 +892,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNT_KTRL_BARNEP",
     "kravGjelder": "INNT_KTRL",
@@ -902,7 +902,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNT_KTRL_FAM_PL",
     "kravGjelder": "INNT_KTRL",
@@ -912,7 +912,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNT_KTRL_GAM_YRK",
     "kravGjelder": "INNT_KTRL",
@@ -922,7 +922,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNT_KTRL_GJENLEV",
     "kravGjelder": "INNT_KTRL",
@@ -932,7 +932,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNT_KTRL_KRIGSP",
     "kravGjelder": "INNT_KTRL",
@@ -942,7 +942,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNT_KTRL_UFOREP",
     "kravGjelder": "INNT_KTRL",
@@ -952,7 +952,7 @@
   {
     "decode": "Klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAGE_AFP",
     "kravGjelder": "KLAGE",
@@ -962,7 +962,7 @@
   {
     "decode": "Klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAGE_AFP_PRIVAT",
     "kravGjelder": "KLAGE",
@@ -972,7 +972,7 @@
   {
     "decode": "Klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAGE_ALDER",
     "kravGjelder": "KLAGE",
@@ -982,7 +982,7 @@
   {
     "decode": "Klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAGE_BARNEP",
     "kravGjelder": "KLAGE",
@@ -992,7 +992,7 @@
   {
     "decode": "Klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAGE_FAM_PL",
     "kravGjelder": "KLAGE",
@@ -1002,7 +1002,7 @@
   {
     "decode": "Klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAGE_GAM_YRK",
     "kravGjelder": "KLAGE",
@@ -1012,7 +1012,7 @@
   {
     "decode": "Klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAGE_GENRL",
     "kravGjelder": "KLAGE",
@@ -1022,7 +1022,7 @@
   {
     "decode": "Klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAGE_GJENLEV",
     "kravGjelder": "KLAGE",
@@ -1032,7 +1032,7 @@
   {
     "decode": "Klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAGE_KRIGSP",
     "kravGjelder": "KLAGE",
@@ -1042,7 +1042,7 @@
   {
     "decode": "Klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAGE_OMSORG",
     "kravGjelder": "KLAGE",
@@ -1052,7 +1052,7 @@
   {
     "decode": "Klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAGE_UFOREP",
     "kravGjelder": "KLAGE",
@@ -1062,7 +1062,7 @@
   {
     "decode": "Kontroll 3-17 a",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONTR_317A_ALDER",
     "kravGjelder": "KONTROLL_3_17_A",
@@ -1072,7 +1072,7 @@
   {
     "decode": "Kontroll 3-17 a",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONTR_317A_GJENLEV",
     "kravGjelder": "KONTROLL_3_17_A",
@@ -1082,7 +1082,7 @@
   {
     "decode": "Kontroll 3-17 a",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONTR_317A_UFOREP",
     "kravGjelder": "KONTROLL_3_17_A",
@@ -1092,7 +1092,7 @@
   {
     "decode": "Konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONVERTERING_AFP",
     "kravGjelder": "KONVERTERING",
@@ -1102,7 +1102,7 @@
   {
     "decode": "Konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONVERTERING_ALDER",
     "kravGjelder": "KONVERTERING",
@@ -1112,7 +1112,7 @@
   {
     "decode": "Konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONVERTERING_BARNEP",
     "kravGjelder": "KONVERTERING",
@@ -1122,7 +1122,7 @@
   {
     "decode": "Konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONVERTERING_FAM_PL",
     "kravGjelder": "KONVERTERING",
@@ -1132,7 +1132,7 @@
   {
     "decode": "Konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONVERTERING_GAM_YRK",
     "kravGjelder": "KONVERTERING",
@@ -1142,7 +1142,7 @@
   {
     "decode": "Konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONVERTERING_GJENLEV",
     "kravGjelder": "KONVERTERING",
@@ -1152,7 +1152,7 @@
   {
     "decode": "Konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONVERTERING_KRIGSP",
     "kravGjelder": "KONVERTERING",
@@ -1162,7 +1162,7 @@
   {
     "decode": "Konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONVERTERING_UFOREP",
     "kravGjelder": "KONVERTERING",
@@ -1172,7 +1172,7 @@
   {
     "decode": "Minimalt konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_MIN_AFP",
     "kravGjelder": "KONVERTERING_MIN",
@@ -1182,7 +1182,7 @@
   {
     "decode": "Minimalt konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_MIN_ALDER",
     "kravGjelder": "KONVERTERING_MIN",
@@ -1192,7 +1192,7 @@
   {
     "decode": "Minimalt konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_MIN_BARNEP",
     "kravGjelder": "KONVERTERING_MIN",
@@ -1202,7 +1202,7 @@
   {
     "decode": "Minimalt konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_MIN_FAM_PL",
     "kravGjelder": "KONVERTERING_MIN",
@@ -1212,7 +1212,7 @@
   {
     "decode": "Minimalt konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_MIN_GAM_YRK",
     "kravGjelder": "KONVERTERING_MIN",
@@ -1222,7 +1222,7 @@
   {
     "decode": "Minimalt konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_MIN_GJENLEV",
     "kravGjelder": "KONVERTERING_MIN",
@@ -1232,7 +1232,7 @@
   {
     "decode": "Minimalt konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_MIN_KRIGSP",
     "kravGjelder": "KONVERTERING_MIN",
@@ -1242,7 +1242,7 @@
   {
     "decode": "Minimalt konvertert krav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV_MIN_UFOREP",
     "kravGjelder": "KONVERTERING_MIN",
@@ -1252,7 +1252,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KON_AV_G_BAT_AFP",
     "kravGjelder": "KONV_AVVIK_G_BATCH",
@@ -1262,7 +1262,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KON_AV_G_BAT_ALDER",
     "kravGjelder": "KONV_AVVIK_G_BATCH",
@@ -1272,7 +1272,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KON_AV_G_BAT_BARNEP",
     "kravGjelder": "KONV_AVVIK_G_BATCH",
@@ -1282,7 +1282,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KON_AV_G_BAT_FAM_PL",
     "kravGjelder": "KONV_AVVIK_G_BATCH",
@@ -1292,7 +1292,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KON_AV_G_BAT_GAM_YRK",
     "kravGjelder": "KONV_AVVIK_G_BATCH",
@@ -1302,7 +1302,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KON_AV_G_BAT_GJENLEV",
     "kravGjelder": "KONV_AVVIK_G_BATCH",
@@ -1312,7 +1312,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KON_AV_G_BAT_KRIGSP",
     "kravGjelder": "KONV_AVVIK_G_BATCH",
@@ -1322,7 +1322,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KON_AV_G_BAT_UFOREP",
     "kravGjelder": "KONV_AVVIK_G_BATCH",
@@ -1332,7 +1332,7 @@
   {
     "decode": "Mellombehandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MELLOMBH_ALDER",
     "kravGjelder": "MELLOMBH",
@@ -1342,7 +1342,7 @@
   {
     "decode": "Mellombehandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MELLOMBH_BARNEP",
     "kravGjelder": "MELLOMBH",
@@ -1352,7 +1352,7 @@
   {
     "decode": "Mellombehandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MELLOMBH_GJENLEV",
     "kravGjelder": "MELLOMBH",
@@ -1362,7 +1362,7 @@
   {
     "decode": "Mellombehandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MELLOMBH_UFOREP",
     "kravGjelder": "MELLOMBH",
@@ -1372,7 +1372,7 @@
   {
     "decode": "Merskatt tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MTK_AFP",
     "kravGjelder": "MTK",
@@ -1382,7 +1382,7 @@
   {
     "decode": "Merskatt tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MTK_ALDER",
     "kravGjelder": "MTK",
@@ -1392,7 +1392,7 @@
   {
     "decode": "Merskatt tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MTK_BARNEP",
     "kravGjelder": "MTK",
@@ -1402,7 +1402,7 @@
   {
     "decode": "Merskatt tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MTK_FAM_PL",
     "kravGjelder": "MTK",
@@ -1412,7 +1412,7 @@
   {
     "decode": "Merskatt tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MTK_GAM_YRK",
     "kravGjelder": "MTK",
@@ -1422,7 +1422,7 @@
   {
     "decode": "Merskatt tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MTK_GJENLEV",
     "kravGjelder": "MTK",
@@ -1432,7 +1432,7 @@
   {
     "decode": "Merskatt tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MTK_KRIGSP",
     "kravGjelder": "MTK",
@@ -1442,7 +1442,7 @@
   {
     "decode": "Merskatt tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MTK_UFOREP",
     "kravGjelder": "MTK",
@@ -1452,7 +1452,7 @@
   {
     "decode": "Omgjøring av tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMGJ_TILBAKE_AFP",
     "kravGjelder": "OMGJ_TILBAKE",
@@ -1462,7 +1462,7 @@
   {
     "decode": "Omgjøring av tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMGJ_TILBAKE_AFP_PRI",
     "kravGjelder": "OMGJ_TILBAKE",
@@ -1472,7 +1472,7 @@
   {
     "decode": "Omgjøring av tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMGJ_TILBAKE_ALDER",
     "kravGjelder": "OMGJ_TILBAKE",
@@ -1482,7 +1482,7 @@
   {
     "decode": "Omgjøring av tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMGJ_TILBAKE_BARNEP",
     "kravGjelder": "OMGJ_TILBAKE",
@@ -1492,7 +1492,7 @@
   {
     "decode": "Omgjøring av tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMGJ_TILBAKE_FAM_PL",
     "kravGjelder": "OMGJ_TILBAKE",
@@ -1502,7 +1502,7 @@
   {
     "decode": "Omgjøring av tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMGJ_TILBAKE_GAM_YRK",
     "kravGjelder": "OMGJ_TILBAKE",
@@ -1512,7 +1512,7 @@
   {
     "decode": "Omgjøring av tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMGJ_TILBAKE_GENRL",
     "kravGjelder": "OMGJ_TILBAKE",
@@ -1522,7 +1522,7 @@
   {
     "decode": "Omgjøring av tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMGJ_TILBAKE_GJENLEV",
     "kravGjelder": "OMGJ_TILBAKE",
@@ -1532,7 +1532,7 @@
   {
     "decode": "Omgjøring av tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMGJ_TILBAKE_KRIGSP",
     "kravGjelder": "OMGJ_TILBAKE",
@@ -1542,7 +1542,7 @@
   {
     "decode": "Omgjøring av tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMGJ_TILBAKE_UFOREP",
     "kravGjelder": "OMGJ_TILBAKE",
@@ -1552,7 +1552,7 @@
   {
     "decode": "Overføring omsorgspoeng",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OVERF_OMSGSP_OMSORG",
     "kravGjelder": "OVERF_OMSGSP",
@@ -1562,7 +1562,7 @@
   {
     "decode": "Regulering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REGULERING_AFP",
     "kravGjelder": "REGULERING",
@@ -1572,7 +1572,7 @@
   {
     "decode": "Regulering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REGULERING_AFP_PR",
     "kravGjelder": "REGULERING",
@@ -1582,7 +1582,7 @@
   {
     "decode": "Regulering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REGULERING_ALDER",
     "kravGjelder": "REGULERING",
@@ -1592,7 +1592,7 @@
   {
     "decode": "Regulering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REGULERING_BARNEP",
     "kravGjelder": "REGULERING",
@@ -1602,7 +1602,7 @@
   {
     "decode": "Regulering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REGULERING_FAM_PL",
     "kravGjelder": "REGULERING",
@@ -1612,7 +1612,7 @@
   {
     "decode": "Regulering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REGULERING_GAM_YRK",
     "kravGjelder": "REGULERING",
@@ -1622,7 +1622,7 @@
   {
     "decode": "Regulering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REGULERING_GJENLEV",
     "kravGjelder": "REGULERING",
@@ -1632,7 +1632,7 @@
   {
     "decode": "Regulering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REGULERING_KRIGSP",
     "kravGjelder": "REGULERING",
@@ -1642,7 +1642,7 @@
   {
     "decode": "Regulering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REGULERING_UFOREP",
     "kravGjelder": "REGULERING",
@@ -1652,7 +1652,7 @@
   {
     "decode": "Revurdering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REVURD_AFP",
     "kravGjelder": "REVURD",
@@ -1662,7 +1662,7 @@
   {
     "decode": "Revurdering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REVURD_AFP_PRIVAT",
     "kravGjelder": "REVURD",
@@ -1672,7 +1672,7 @@
   {
     "decode": "Revurdering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REVURD_ALDER",
     "kravGjelder": "REVURD",
@@ -1682,7 +1682,7 @@
   {
     "decode": "Revurdering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REVURD_BARNEP",
     "kravGjelder": "REVURD",
@@ -1692,7 +1692,7 @@
   {
     "decode": "Revurdering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REVURD_FAM_PL",
     "kravGjelder": "REVURD",
@@ -1702,7 +1702,7 @@
   {
     "decode": "Revurdering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REVURD_GAM_YRK",
     "kravGjelder": "REVURD",
@@ -1712,7 +1712,7 @@
   {
     "decode": "Revurdering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REVURD_GJENLEV",
     "kravGjelder": "REVURD",
@@ -1722,7 +1722,7 @@
   {
     "decode": "Revurdering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REVURD_KRIGSP",
     "kravGjelder": "REVURD",
@@ -1732,7 +1732,7 @@
   {
     "decode": "Revurdering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REVURD_OMSORG",
     "kravGjelder": "REVURD",
@@ -1742,7 +1742,7 @@
   {
     "decode": "Revurdering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REVURD_UFOREP",
     "kravGjelder": "REVURD",
@@ -1752,7 +1752,7 @@
   {
     "decode": "Saksomkostninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAK_OMKOST_AFP",
     "kravGjelder": "SAK_OMKOST",
@@ -1762,7 +1762,7 @@
   {
     "decode": "Saksomkostninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAK_OMKOST_AFP_PR",
     "kravGjelder": "SAK_OMKOST",
@@ -1772,7 +1772,7 @@
   {
     "decode": "Saksomkostninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAK_OMKOST_ALDER",
     "kravGjelder": "SAK_OMKOST",
@@ -1782,7 +1782,7 @@
   {
     "decode": "Saksomkostninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAK_OMKOST_BARNEP",
     "kravGjelder": "SAK_OMKOST",
@@ -1792,7 +1792,7 @@
   {
     "decode": "Saksomkostninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAK_OMKOST_FAM_PL",
     "kravGjelder": "SAK_OMKOST",
@@ -1802,7 +1802,7 @@
   {
     "decode": "Saksomkostninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAK_OMKOST_GAM_YRK",
     "kravGjelder": "SAK_OMKOST",
@@ -1812,7 +1812,7 @@
   {
     "decode": "Saksomkostninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAK_OMKOST_GJENLEV",
     "kravGjelder": "SAK_OMKOST",
@@ -1822,7 +1822,7 @@
   {
     "decode": "Saksomkostninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAK_OMKOST_KRIGSP",
     "kravGjelder": "SAK_OMKOST",
@@ -1832,7 +1832,7 @@
   {
     "decode": "Saksomkostninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAK_OMKOST_OMSORG",
     "kravGjelder": "SAK_OMKOST",
@@ -1842,7 +1842,7 @@
   {
     "decode": "Saksomkostninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAK_OMKOST_UFOREP",
     "kravGjelder": "SAK_OMKOST",
@@ -1852,7 +1852,7 @@
   {
     "decode": "Sluttbehandling kun utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SLUTTBEH_UTL_ALDER",
     "kravGjelder": "SLUTTBEH_KUN_UTL",
@@ -1862,7 +1862,7 @@
   {
     "decode": "Sluttbehandling kun utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SLUTTBEH_UTL_BARNEP",
     "kravGjelder": "SLUTTBEH_KUN_UTL",
@@ -1872,7 +1872,7 @@
   {
     "decode": "Sluttbehandling kun utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SLUTTBEH_UTL_FAM_PL",
     "kravGjelder": "SLUTTBEH_KUN_UTL",
@@ -1882,7 +1882,7 @@
   {
     "decode": "Sluttbehandling kun utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SLUTTBEH_UTL_GJENLEV",
     "kravGjelder": "SLUTTBEH_KUN_UTL",
@@ -1892,7 +1892,7 @@
   {
     "decode": "Sluttbehandling kun utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SLUTTBEH_UTL_UFOREP",
     "kravGjelder": "SLUTTBEH_KUN_UTL",
@@ -1902,7 +1902,7 @@
   {
     "decode": "Sluttbehandling Norge/utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SLUTT_BH_UTL_ALDER",
     "kravGjelder": "SLUTT_BH_UTL",
@@ -1912,7 +1912,7 @@
   {
     "decode": "Sluttbehandling Norge/utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SLUTT_BH_UTL_BARNEP",
     "kravGjelder": "SLUTT_BH_UTL",
@@ -1922,7 +1922,7 @@
   {
     "decode": "Sluttbehandling Norge/utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SLUTT_BH_UTL_FAM_PL",
     "kravGjelder": "SLUTT_BH_UTL",
@@ -1932,7 +1932,7 @@
   {
     "decode": "Sluttbehandling Norge/utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SLUTT_BH_UTL_GJENLEV",
     "kravGjelder": "SLUTT_BH_UTL",
@@ -1942,7 +1942,7 @@
   {
     "decode": "Sluttbehandling Norge/utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SLUTT_BH_UTL_UFOREP",
     "kravGjelder": "SLUTT_BH_UTL",
@@ -1952,7 +1952,7 @@
   {
     "decode": "Søknad om økning av uføregrad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOK_OKN_UG_UFOREP",
     "kravGjelder": "SOK_OKN_UG",
@@ -1962,7 +1962,7 @@
   {
     "decode": "Søknad om reduksjon av uføregrad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOK_RED_UG_UFOREP",
     "kravGjelder": "SOK_RED_UG",
@@ -1972,7 +1972,7 @@
   {
     "decode": "Søknad om ung uføre",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOK_UU",
     "kravGjelder": "SOK_UU",
@@ -1982,7 +1982,7 @@
   {
     "decode": "Søknad om yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOK_YS",
     "kravGjelder": "SOK_YS",
@@ -1992,7 +1992,7 @@
   {
     "decode": "Tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILBAKEKR_AFP",
     "kravGjelder": "TILBAKEKR",
@@ -2002,7 +2002,7 @@
   {
     "decode": "Tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILBAKEKR_AFP_PRIVAT",
     "kravGjelder": "TILBAKEKR",
@@ -2012,7 +2012,7 @@
   {
     "decode": "Tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILBAKEKR_ALDER",
     "kravGjelder": "TILBAKEKR",
@@ -2022,7 +2022,7 @@
   {
     "decode": "Tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILBAKEKR_BARNEP",
     "kravGjelder": "TILBAKEKR",
@@ -2032,7 +2032,7 @@
   {
     "decode": "Tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILBAKEKR_FAM_PL",
     "kravGjelder": "TILBAKEKR",
@@ -2042,7 +2042,7 @@
   {
     "decode": "Tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILBAKEKR_GAM_YRK",
     "kravGjelder": "TILBAKEKR",
@@ -2052,7 +2052,7 @@
   {
     "decode": "Tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILBAKEKR_GENRL",
     "kravGjelder": "TILBAKEKR",
@@ -2062,7 +2062,7 @@
   {
     "decode": "Tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILBAKEKR_GJENLEV",
     "kravGjelder": "TILBAKEKR",
@@ -2072,7 +2072,7 @@
   {
     "decode": "Tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILBAKEKR_KRIGSP",
     "kravGjelder": "TILBAKEKR",
@@ -2082,7 +2082,7 @@
   {
     "decode": "Tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILBAKEKR_UFOREP",
     "kravGjelder": "TILBAKEKR",
@@ -2092,7 +2092,7 @@
   {
     "decode": "Utsendelse til avtaleland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTSEND_AVTLAND_ALDER",
     "kravGjelder": "UTSEND_AVTALELAND",
@@ -2102,7 +2102,7 @@
   {
     "decode": "Utsendelse til avtaleland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTSEND_AVTLAND_BARNE",
     "kravGjelder": "UTSEND_AVTALELAND",
@@ -2112,7 +2112,7 @@
   {
     "decode": "Utsendelse til avtaleland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTSEND_AVTLAND_FAM",
     "kravGjelder": "UTSEND_AVTALELAND",
@@ -2122,7 +2122,7 @@
   {
     "decode": "Utsendelse til avtaleland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTSEND_AVTLAND_GJENL",
     "kravGjelder": "UTSEND_AVTALELAND",
@@ -2132,7 +2132,7 @@
   {
     "decode": "Utsendelse til avtaleland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTSEND_AVTLAND_UFORE",
     "kravGjelder": "UTSEND_AVTALELAND",
@@ -2142,7 +2142,7 @@
   {
     "decode": "Etteroppgjør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_EO",
     "kravGjelder": "UT_EO",
@@ -2152,7 +2152,7 @@
   {
     "decode": "Vurdering Etteroppgjør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_VURDERING_EO",
     "kravGjelder": "UT_VURDERING_EO",

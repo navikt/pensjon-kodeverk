@@ -2,7 +2,7 @@
   {
     "decode": "Bruker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BRUKER",
     "codeAsString": "BRUKER"
@@ -10,7 +10,7 @@
   {
     "decode": "Ikke fordelt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IKKE_FORDELT",
     "codeAsString": "IKKE_FORDELT"
@@ -18,7 +18,7 @@
   {
     "decode": "NAV",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NAV",
     "codeAsString": "NAV"
@@ -26,7 +26,7 @@
   {
     "decode": "Skylddeling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SKYLDDELING",
     "codeAsString": "SKYLDDELING"

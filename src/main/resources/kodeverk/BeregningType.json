@@ -2,7 +2,7 @@
   {
     "decode": "Detaljert beregning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BER",
     "codeAsString": "BER"
@@ -10,7 +10,7 @@
   {
     "decode": "Hjelpeberegning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HJELPEBER",
     "codeAsString": "HJELPEBER"
@@ -18,7 +18,7 @@
   {
     "decode": "Sammenstillingsberegning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAM_BER",
     "codeAsString": "SAM_BER"
@@ -26,7 +26,7 @@
   {
     "decode": "Vurderingsberegning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VUR_BER",
     "codeAsString": "VUR_BER"

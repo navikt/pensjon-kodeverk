@@ -2,7 +2,7 @@
   {
     "decode": "Elektronisk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ELEK",
     "codeAsString": "ELEK"
@@ -10,7 +10,7 @@
   {
     "decode": "Vanlig post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PAPR",
     "codeAsString": "PAPR"

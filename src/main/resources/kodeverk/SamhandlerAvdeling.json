@@ -2,7 +2,7 @@
   {
     "decode": "Audiopedagog",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AUDI",
     "codeAsString": "AUDI"
@@ -10,7 +10,7 @@
   {
     "decode": "Fastlønnstilskudd fysioterapi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAFY",
     "codeAsString": "FAFY"
@@ -18,7 +18,7 @@
   {
     "decode": "Fastlege",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FALE",
     "codeAsString": "FALE"
@@ -26,7 +26,7 @@
   {
     "decode": "Fastlønnet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FALO",
     "codeAsString": "FALO"
@@ -34,7 +34,7 @@
   {
     "decode": "Turnuslege fastlønnet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FATU",
     "codeAsString": "FATU"
@@ -42,7 +42,7 @@
   {
     "decode": "Fysioterapaut kommunal",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FYKO",
     "codeAsString": "FYKO"
@@ -50,7 +50,7 @@
   {
     "decode": "Fysioterapeut Manuellterapeut:",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FYMT",
     "codeAsString": "FYMT"
@@ -58,7 +58,7 @@
   {
     "decode": "Fysioterapeut normalpraksis:",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FYNO",
     "codeAsString": "FYNO"
@@ -66,7 +66,7 @@
   {
     "decode": "Fysioterapeut Psyk.motoriker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FYPM",
     "codeAsString": "FYPM"
@@ -74,7 +74,7 @@
   {
     "decode": "Fysioterapaut rideterapi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FYRT",
     "codeAsString": "FYRT"
@@ -82,7 +82,7 @@
   {
     "decode": "Fysioterapeut Utd. kand, man. terapeut",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FYUM",
     "codeAsString": "FYUM"
@@ -90,7 +90,7 @@
   {
     "decode": "Fysioterapeut Utd. kand, Psyk.motoriker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FYUP",
     "codeAsString": "FYUP"
@@ -98,7 +98,7 @@
   {
     "decode": "Fysioterapeut Utdanningskandidat, vanlig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FYUV",
     "codeAsString": "FYUV"
@@ -106,7 +106,7 @@
   {
     "decode": "Helsestasjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HELS",
     "codeAsString": "HELS"
@@ -114,7 +114,7 @@
   {
     "decode": "Jordmor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "JORD",
     "codeAsString": "JORD"
@@ -122,7 +122,7 @@
   {
     "decode": "Kiropraktor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KINO",
     "codeAsString": "KINO"
@@ -130,7 +130,7 @@
   {
     "decode": "Kurssentra",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KURS",
     "codeAsString": "KURS"
@@ -138,7 +138,7 @@
   {
     "decode": "Laboratorie/røntgen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LARO",
     "codeAsString": "LARO"
@@ -146,7 +146,7 @@
   {
     "decode": "Legevakt kommunal",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LEKO",
     "codeAsString": "LEKO"
@@ -154,7 +154,7 @@
   {
     "decode": "Legevakt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LEVA",
     "codeAsString": "LEVA"
@@ -162,7 +162,7 @@
   {
     "decode": "Logoped",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "LOGO",
     "codeAsString": "LOGO"
@@ -170,7 +170,7 @@
   {
     "decode": "Multidose",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MULT",
     "codeAsString": "MULT"
@@ -178,7 +178,7 @@
   {
     "decode": "Oksygenleverandør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OKSY",
     "codeAsString": "OKSY"
@@ -186,7 +186,7 @@
   {
     "decode": "Opptreningsinstitusjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPT",
     "codeAsString": "OPPT"
@@ -194,7 +194,7 @@
   {
     "decode": "Ortoptist",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ORTO",
     "codeAsString": "ORTO"
@@ -202,7 +202,7 @@
   {
     "decode": "Pasientreiser",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PASI",
     "codeAsString": "PASI"
@@ -210,7 +210,7 @@
   {
     "decode": "Psykolog",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PSNO",
     "codeAsString": "PSNO"
@@ -218,7 +218,7 @@
   {
     "decode": "Spesialist i klinisk psykologi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PSSP",
     "codeAsString": "PSSP"
@@ -226,7 +226,7 @@
   {
     "decode": "Utdanningskandidat, psykoterapi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PSUT",
     "codeAsString": "PSUT"
@@ -234,7 +234,7 @@
   {
     "decode": "Regionalt helseforetak",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "RHFO",
     "codeAsString": "RHFO"
@@ -242,7 +242,7 @@
   {
     "decode": "Spesialist barnesykdommer",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SPBA",
     "codeAsString": "SPBA"
@@ -250,7 +250,7 @@
   {
     "decode": "Spesialist",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SPES",
     "codeAsString": "SPES"
@@ -258,7 +258,7 @@
   {
     "decode": "Spesialist gynekologi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SPGY",
     "codeAsString": "SPGY"
@@ -266,7 +266,7 @@
   {
     "decode": "Spesialist hudlege",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SPHU",
     "codeAsString": "SPHU"
@@ -274,7 +274,7 @@
   {
     "decode": "Spesialist indremedisin",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SPIN",
     "codeAsString": "SPIN"
@@ -282,7 +282,7 @@
   {
     "decode": "Spesialist kirurgi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SPKI",
     "codeAsString": "SPKI"
@@ -290,7 +290,7 @@
   {
     "decode": "Spesialist øyelege",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SPOL",
     "codeAsString": "SPOL"
@@ -298,7 +298,7 @@
   {
     "decode": "Spesialist øre-nese-hals",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SPON",
     "codeAsString": "SPON"
@@ -306,7 +306,7 @@
   {
     "decode": "Spesialist psykiatri",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SPPS",
     "codeAsString": "SPPS"
@@ -314,7 +314,7 @@
   {
     "decode": "Spesialist nevrologi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SPRE",
     "codeAsString": "SPRE"
@@ -322,7 +322,7 @@
   {
     "decode": "Sykehus",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SYKE",
     "codeAsString": "SYKE"
@@ -330,7 +330,7 @@
   {
     "decode": "Tannlege fylkeskommunal kjeveortopedi",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TAFK",
     "codeAsString": "TAFK"
@@ -338,7 +338,7 @@
   {
     "decode": "Tannlege fylkeskommunal",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TAFY",
     "codeAsString": "TAFY"
@@ -346,7 +346,7 @@
   {
     "decode": "Tannlege kjeveortoped",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TAKJ",
     "codeAsString": "TAKJ"
@@ -354,7 +354,7 @@
   {
     "decode": "Tannlege",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TANN",
     "codeAsString": "TANN"
@@ -362,7 +362,7 @@
   {
     "decode": "Samordningspliktig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TPOF",
     "codeAsString": "TPOF"
@@ -370,7 +370,7 @@
   {
     "decode": "Ikke samordningspliktig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TPPR",
     "codeAsString": "TPPR"
@@ -378,7 +378,7 @@
   {
     "decode": "Tjenestepensjon utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TPUT",
     "codeAsString": "TPUT"
@@ -386,7 +386,7 @@
   {
     "decode": "Uten refusjonsrett",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "URRE",
     "codeAsString": "URRE"
@@ -394,7 +394,7 @@
   {
     "decode": "Utdanningskandidat",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTKA",
     "codeAsString": "UTKA"

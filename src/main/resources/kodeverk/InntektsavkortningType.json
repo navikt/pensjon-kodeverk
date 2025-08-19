@@ -2,7 +2,7 @@
   {
     "decode": "Inntektsavkortingsregler for etteroppgjør er benyttet for dette beregningsresultat.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTEROPPGJOR",
     "codeAsString": "ETTEROPPGJOR"
@@ -10,7 +10,7 @@
   {
     "decode": "Ordinære inntektsavkortingsregler er benyttet for dette beregningsresultat.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ORDINER",
     "codeAsString": "ORDINER"
@@ -18,7 +18,7 @@
   {
     "decode": "Inntektsavkortingsregler for etteroppgjør ved revurdering er benyttet for dette beregningsresultat.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REV_M_ETTEROPPGJOR",
     "codeAsString": "REV_M_ETTEROPPGJOR"

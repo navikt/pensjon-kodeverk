@@ -2,7 +2,7 @@
   {
     "decode": "Alderspensjon vedtak/kontroll, ftrl kap. 3 § 3-2, ftrl. kap 19, 20 og § 21-4",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ALDERSPENSJON_EPS",
     "fkFormaalType": "AlderspensjonEPS",
@@ -11,7 +11,7 @@
   {
     "decode": "Bidrag vedtak/kontroll Barnel Kap 8 §70",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BIDRAG",
     "fkFormaalType": "Bidrag",
@@ -20,7 +20,7 @@
   {
     "decode": "Bidragsforskudd vedtak/kontroll forskotteringsl § 9",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BIDRAGSFORSKUDD",
     "fkFormaalType": "Bidragsforskudd",
@@ -29,7 +29,7 @@
   {
     "decode": "Dagpenger vedtak/kontroll ftrl kap 4 § 21-4",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DAGPENGER",
     "fkFormaalType": "Dagpenger",
@@ -38,7 +38,7 @@
   {
     "decode": "Uføretrygd etteroppgjør etterbetaling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERBETALING_EO_UT",
     "fkFormaalType": "UfoereEtterbetEtteroppgj",
@@ -47,7 +47,7 @@
   {
     "decode": "Foreldrepenger vedtak/kontroll ftrl kap 14 § 21-4",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORELDREPENGER",
     "fkFormaalType": "Foreldrepenger",
@@ -56,7 +56,7 @@
   {
     "decode": "Forsikring små bedrifter vedtak/kontroll ftrl kap 8 § 21-4",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORSIKRING_SMAA_BEDRIFTER",
     "fkFormaalType": "ForsikringSmaaBedrifter",
@@ -65,7 +65,7 @@
   {
     "decode": "NAV kontroll ftrl § 21-4",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NAV_KONTROLL",
     "fkFormaalType": "NAVKontroll",
@@ -74,7 +74,7 @@
   {
     "decode": "Omsorgspenger vedtak/kontroll ftrl kap 9 § 21-4",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMSORGSPENGER",
     "fkFormaalType": "Omsorgspenger",
@@ -83,7 +83,7 @@
   {
     "decode": "Oppfostringsbidrag vedtak/kontroll forskrift om fastsetting og endring av oppfostringsbidrag etter lov om barnevern tjenester § 7",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPFOSTRINGSBIDRAG",
     "fkFormaalType": "Oppfostringsbidrag",
@@ -92,7 +92,7 @@
   {
     "decode": "Opplæringspenger vedtak/kontroll ftrl kap 9 § 21-4",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPLAERINGSPENGER",
     "fkFormaalType": "Opplaeringspenger",
@@ -101,7 +101,7 @@
   {
     "decode": "Pensjonsgivende a-inntekt ftrl kap 3 § 21-4",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PENSJONSGIVENDE_A_INNTEKT",
     "fkFormaalType": "PensjonsgivendeA-inntekt",
@@ -110,7 +110,7 @@
   {
     "decode": "Pleiepenger vedtak/kontroll ftrl kap 9 § 21-4",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PLEIEPENGER",
     "fkFormaalType": "Pleiepenger",
@@ -119,7 +119,7 @@
   {
     "decode": "Svangerskapspenger vedtak/kontroll ftrl kap 14 § 21-4",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SVANGERSKAPSPENGER",
     "fkFormaalType": "Svangerskapspenger",
@@ -128,7 +128,7 @@
   {
     "decode": "Sykepenger vedtak/kontroll ftrl kap 8 § 21-4",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SYKEPENGER",
     "fkFormaalType": "Sykepenger",
@@ -137,7 +137,7 @@
   {
     "decode": "Uføre vedtak/kontroll ftrl kap 12 § 21-4",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UFOERE",
     "fkFormaalType": "Ufoere",
@@ -146,7 +146,7 @@
   {
     "decode": "Uføretrygd vedtak/kontroll ftrl kap 12 § 21-4",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UFOERETRYGDBARNETILLEGG",
     "fkFormaalType": "Ufoeretrygdbarnetillegg",

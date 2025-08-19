@@ -2,7 +2,7 @@
   {
     "decode": "Avdød far",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AVDOD_FAR",
     "sakType": "BARNEP",
@@ -11,7 +11,7 @@
   {
     "decode": "Avdød mor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AVDOD_MOR",
     "sakType": "BARNEP",
@@ -20,7 +20,7 @@
   {
     "decode": "Barnepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BP",
     "sakType": "GAM_YRK",
@@ -29,7 +29,7 @@
   {
     "decode": "Enkepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EP",
     "sakType": "GAM_YRK",
@@ -38,7 +38,7 @@
   {
     "decode": "Foreldreløs",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORELDRELOS",
     "sakType": "BARNEP",
@@ -47,7 +47,7 @@
   {
     "decode": "Foreløpig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORELOPIG",
     "sakType": "UFOREP",
@@ -56,7 +56,7 @@
   {
     "decode": "Militær - Barnepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MIL_BARNEP",
     "sakType": "KRIGSP",
@@ -65,7 +65,7 @@
   {
     "decode": "Militær - Gjenlevendeytelse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MIL_GJENLEV",
     "sakType": "KRIGSP",
@@ -74,7 +74,7 @@
   {
     "decode": "Militær - Invalidepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MIL_INV",
     "sakType": "KRIGSP",
@@ -83,7 +83,7 @@
   {
     "decode": "NSB-pensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NSB",
     "sakType": "GAM_YRK",
@@ -92,7 +92,7 @@
   {
     "decode": "Sivil - Barnepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SIVIL_BARNEP",
     "sakType": "KRIGSP",
@@ -101,7 +101,7 @@
   {
     "decode": "Sivil - Gjenlevendeytelse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SIVIL_GJENLEV",
     "sakType": "KRIGSP",
@@ -110,7 +110,7 @@
   {
     "decode": "Sivil - Invalidepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SIVIL_INV",
     "sakType": "KRIGSP",
@@ -119,7 +119,7 @@
   {
     "decode": "Uførepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UP",
     "sakType": "GAM_YRK",
@@ -128,7 +128,7 @@
   {
     "decode": "Uføretrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VARIG",
     "sakType": "UFOREP",

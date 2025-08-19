@@ -2,7 +2,7 @@
   {
     "decode": "Avslått",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AVSLATT",
     "codeAsString": "AVSLATT"
@@ -10,7 +10,7 @@
   {
     "decode": "Feilregistrert",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FEILREG",
     "codeAsString": "FEILREG"
@@ -18,7 +18,7 @@
   {
     "decode": "Innvilget",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNVILGET",
     "codeAsString": "INNVILGET"
@@ -26,7 +26,7 @@
   {
     "decode": "Trukket",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TRUKKET",
     "codeAsString": "TRUKKET"

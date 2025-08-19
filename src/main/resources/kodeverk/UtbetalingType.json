@@ -2,7 +2,7 @@
   {
     "decode": "Norsk bankkonto",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NORKNT",
     "codeAsString": "NORKNT"
@@ -10,7 +10,7 @@
   {
     "decode": "Utbetalingskort",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTBKRT",
     "codeAsString": "UTBKRT"
@@ -18,7 +18,7 @@
   {
     "decode": "Utenlandsk bankkonto",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTLKNT",
     "codeAsString": "UTLKNT"
@@ -26,7 +26,7 @@
   {
     "decode": "Utenlandssjekk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTLSJK",
     "codeAsString": "UTLSJK"

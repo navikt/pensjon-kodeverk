@@ -2,7 +2,7 @@
   {
     "decode": "forespørsel",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORESPORSEL",
     "codeAsString": "FORESPORSEL"
@@ -10,7 +10,7 @@
   {
     "decode": "opphør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPHOR",
     "codeAsString": "OPPHOR"
@@ -18,7 +18,7 @@
   {
     "decode": "sletting",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SLETTING",
     "codeAsString": "SLETTING"
@@ -26,7 +26,7 @@
   {
     "decode": "tilgangsmelding",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILGANG",
     "codeAsString": "TILGANG"

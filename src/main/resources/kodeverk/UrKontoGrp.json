@@ -2,7 +2,7 @@
   {
     "decode": "§8-5-1-tillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_8_5_1_T",
     "prioritet": 28,
@@ -11,7 +11,7 @@
   {
     "decode": "Arbeidsavklaringspenger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AAP",
     "prioritet": 45,
@@ -20,7 +20,7 @@
   {
     "decode": "AFP Kompensasjonstillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP_KOMP_TILLEGG",
     "prioritet": 20,
@@ -29,7 +29,7 @@
   {
     "decode": "AFP kronetillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP_KRONETILLEGG",
     "prioritet": 19,
@@ -38,7 +38,7 @@
   {
     "decode": "AFP livsvarig del",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP_LIVSVARIG",
     "prioritet": 18,
@@ -47,7 +47,7 @@
   {
     "decode": "AFP-tillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP_T",
     "prioritet": 17,
@@ -56,7 +56,7 @@
   {
     "decode": "Annet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANNET",
     "prioritet": 36,
@@ -65,7 +65,7 @@
   {
     "decode": "Gjenlevendetillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP_GJT",
     "prioritet": 11,
@@ -74,7 +74,7 @@
   {
     "decode": "Gjenlevendetillegg kapittel 19",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP_GJT_KAP19",
     "prioritet": 56,
@@ -83,7 +83,7 @@
   {
     "decode": "Barnepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BARNEPENSJON",
     "prioritet": 57,
@@ -92,7 +92,7 @@
   {
     "decode": "Barnetilsyn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BARNETILSYN",
     "prioritet": 33,
@@ -101,7 +101,7 @@
   {
     "decode": "Barnetillegg (felles- og særkullsbarn)",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BT",
     "prioritet": 16,
@@ -110,7 +110,7 @@
   {
     "decode": "Ektefelletillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ET",
     "prioritet": 13,
@@ -119,7 +119,7 @@
   {
     "decode": "Familietillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAM_T",
     "prioritet": 23,
@@ -128,7 +128,7 @@
   {
     "decode": "Tillegg faste utgifter",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAST_UTGIFT_T",
     "prioritet": 22,
@@ -137,7 +137,7 @@
   {
     "decode": "Feilkonto",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FEILKONTO",
     "prioritet": 1,
@@ -146,7 +146,7 @@
   {
     "decode": "Garantipensjon",
     "valid": true,
-    "fromDate": 1443650400000,
+    "fromDate": "2015-10-01",
     "toDate": null,
     "code": "GAP",
     "prioritet": 5,
@@ -155,7 +155,7 @@
   {
     "decode": "Garantitillegg EØS/nordisk konvensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GARANTITILLEGG",
     "prioritet": 21,
@@ -164,7 +164,7 @@
   {
     "decode": "Garantitillegg",
     "valid": true,
-    "fromDate": 1443650400000,
+    "fromDate": "2015-10-01",
     "toDate": null,
     "code": "GAT",
     "prioritet": 12,
@@ -173,7 +173,7 @@
   {
     "decode": "Grunnpensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GP",
     "prioritet": 2,
@@ -182,7 +182,7 @@
   {
     "decode": "Hjelpeløshetsbidrag",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HJELP_BIDRAG",
     "prioritet": 27,
@@ -191,7 +191,7 @@
   {
     "decode": "Tillegg til hjelp i huset",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HJELP_I_HUS",
     "prioritet": 25,
@@ -200,7 +200,7 @@
   {
     "decode": "Inntektspensjon",
     "valid": true,
-    "fromDate": 1443650400000,
+    "fromDate": "2015-10-01",
     "toDate": null,
     "code": "IP",
     "prioritet": 4,
@@ -209,7 +209,7 @@
   {
     "decode": "Justeringskonto",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "JUSTERINGSKONTO",
     "prioritet": 37,
@@ -218,7 +218,7 @@
   {
     "decode": "Krigspensjon og gammel yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KRIG_GY",
     "prioritet": 24,
@@ -227,7 +227,7 @@
   {
     "decode": "Mén-del",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MENDEL",
     "prioritet": 26,
@@ -236,7 +236,7 @@
   {
     "decode": "Minstenivåtillegg individuelt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MIN_NIVA_TILL_INDV",
     "prioritet": 9,
@@ -245,7 +245,7 @@
   {
     "decode": "Minstenivåtillegg pensjonistpar",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MIN_NIVA_TILL_PPAR",
     "prioritet": 8,
@@ -254,7 +254,7 @@
   {
     "decode": "Militær skadekur",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MISK",
     "prioritet": 31,
@@ -263,7 +263,7 @@
   {
     "decode": "Pensjonstillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PT",
     "prioritet": 6,
@@ -272,7 +272,7 @@
   {
     "decode": "Sivil skadekur",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SISK",
     "prioritet": 32,
@@ -281,7 +281,7 @@
   {
     "decode": "Forskuddstrekk skatt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SKATT",
     "prioritet": 39,
@@ -290,7 +290,7 @@
   {
     "decode": "Skattefri grunnpensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SKATT_F_GP",
     "prioritet": 43,
@@ -299,7 +299,7 @@
   {
     "decode": "Forskuddstrekk skatt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SKATT_F_T",
     "prioritet": 38,
@@ -308,7 +308,7 @@
   {
     "decode": "Skattefri uføretrygd ordinær",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SKATT_F_UT_ORDINER",
     "prioritet": 46,
@@ -317,7 +317,7 @@
   {
     "decode": "Påleggstrekk skatt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SKATT_PALEGG",
     "prioritet": 40,
@@ -326,7 +326,7 @@
   {
     "decode": "Skjermingstillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SKJERMT",
     "prioritet": 42,
@@ -335,7 +335,7 @@
   {
     "decode": "Sykepenger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SP",
     "prioritet": 44,
@@ -344,7 +344,7 @@
   {
     "decode": "Særtillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ST",
     "prioritet": 7,
@@ -353,7 +353,7 @@
   {
     "decode": "Barnetillegg fellesbarn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TFB",
     "prioritet": 14,
@@ -362,7 +362,7 @@
   {
     "decode": "Tilskott til flytteutgifter",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILSKOTT_FLYTTEUTG",
     "prioritet": 35,
@@ -371,7 +371,7 @@
   {
     "decode": "Tjenestepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TJENESTEPENSJON",
     "prioritet": 30,
@@ -380,7 +380,7 @@
   {
     "decode": "Tilleggspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TP",
     "prioritet": 3,
@@ -389,7 +389,7 @@
   {
     "decode": "Trekk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TREKK",
     "prioritet": 41,
@@ -398,7 +398,7 @@
   {
     "decode": "Barnetillegg særkullsbarn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TSB",
     "prioritet": 15,
@@ -407,7 +407,7 @@
   {
     "decode": "Uforetillegg til alderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UFORETILLEGG_AP",
     "prioritet": 10,
@@ -416,7 +416,7 @@
   {
     "decode": "Utdanningsstønad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTD_STONAD",
     "prioritet": 34,
@@ -425,7 +425,7 @@
   {
     "decode": "Uføretrygd motregning AAP",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_AAP",
     "prioritet": 54,
@@ -434,7 +434,7 @@
   {
     "decode": "Uføretrygd ektefelletillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_ET",
     "prioritet": 50,
@@ -443,7 +443,7 @@
   {
     "decode": "Dekning av faste utgifter inst.opph",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_FAST_UTGIFT_T",
     "prioritet": 55,
@@ -452,7 +452,7 @@
   {
     "decode": "Uføretrygd gjenlevendetillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_GJT",
     "prioritet": 51,
@@ -461,7 +461,7 @@
   {
     "decode": "Uføretrygd garantitillegg Nordisk konvensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_GT_NORDISK",
     "prioritet": 52,
@@ -470,7 +470,7 @@
   {
     "decode": "Uføretrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_ORDINER",
     "prioritet": 47,
@@ -479,7 +479,7 @@
   {
     "decode": "Uføretrygd motregning SP",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_SP",
     "prioritet": 53,
@@ -488,7 +488,7 @@
   {
     "decode": "Uføretrygd barnetillegg felles barn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_TFB",
     "prioritet": 48,
@@ -497,7 +497,7 @@
   {
     "decode": "Uføretrygd barnetillegg særkullsbarn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_TSB",
     "prioritet": 49,
@@ -506,7 +506,7 @@
   {
     "decode": "Ventetillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VT",
     "prioritet": 29,

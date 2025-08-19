@@ -2,7 +2,7 @@
   {
     "decode": "Inntekt om bord - Rapport fra Sk.Dir.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IOBSKD",
     "codeAsString": "IOBSKD"
@@ -10,7 +10,7 @@
   {
     "decode": "Inntekt som har opphørt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IOPP",
     "codeAsString": "IOPP"
@@ -18,7 +18,7 @@
   {
     "decode": "Kombinert rapport RTV",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KRRTV",
     "codeAsString": "KRRTV"
@@ -26,7 +26,7 @@
   {
     "decode": "Norsk grensegjenger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NG",
     "codeAsString": "NG"
@@ -34,7 +34,7 @@
   {
     "decode": "Rapport fra FFU",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "RFFU",
     "codeAsString": "RFFU"
@@ -42,7 +42,7 @@
   {
     "decode": "Rapport fra RTV",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "RRTV",
     "codeAsString": "RRTV"
@@ -50,7 +50,7 @@
   {
     "decode": "Svensk grensegjenger rapportert fra RTV",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SGRTV",
     "codeAsString": "SGRTV"
@@ -58,7 +58,7 @@
   {
     "decode": "Skjønnslignet inntekt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SLI",
     "codeAsString": "SLI"

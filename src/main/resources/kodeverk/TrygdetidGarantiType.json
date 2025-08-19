@@ -2,7 +2,7 @@
   {
     "decode": "Folketrygdlovens §3-5 6. ledd er anvendt i fastsettelse av trygdetiden.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FT_3_5",
     "codeAsString": "FT_3_5"
@@ -10,7 +10,7 @@
   {
     "decode": "Folketrygdlovens §3-7 er anvendt i fastsettelse av trygdetiden.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FT_3_7",
     "codeAsString": "FT_3_7"

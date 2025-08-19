@@ -2,7 +2,7 @@
   {
     "decode": "Avslag",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AVSL",
     "codeAsString": "AVSL"
@@ -10,7 +10,7 @@
   {
     "decode": "Innvilget",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNV",
     "codeAsString": "INNV"
@@ -18,7 +18,7 @@
   {
     "decode": "Opphør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPHOR",
     "codeAsString": "OPPHOR"
@@ -26,7 +26,7 @@
   {
     "decode": "Velg resultat",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VELG",
     "codeAsString": "VELG"
@@ -34,7 +34,7 @@
   {
     "decode": "Vilkår ikke ferdig vurdert",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VETIKKE",
     "codeAsString": "VETIKKE"

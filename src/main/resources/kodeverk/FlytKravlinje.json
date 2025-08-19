@@ -2,7 +2,7 @@
   {
     "decode": "Barnetillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BARNETILLEGG_ALD",
     "sakType": "ALDER",
@@ -11,7 +11,7 @@
   {
     "decode": "Barnetillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BARNETILLEGG_GAM_YRK",
     "sakType": "GAM_YRK",
@@ -20,7 +20,7 @@
   {
     "decode": "Barnetillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BARNETILLEGG_KRG",
     "sakType": "KRIGSP",
@@ -29,7 +29,7 @@
   {
     "decode": "Barnetillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BARNETILLEGG_UFO",
     "sakType": "UFOREP",
@@ -38,7 +38,7 @@
   {
     "decode": "Ektefelletillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EKTEFELLE_TL_AFP",
     "sakType": "AFP",
@@ -47,7 +47,7 @@
   {
     "decode": "Ektefelletillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EKTEFELLE_TL_ALD",
     "sakType": "ALDER",
@@ -56,7 +56,7 @@
   {
     "decode": "Ektefelletillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EKTEFELLE_TL_UFO",
     "sakType": "UFOREP",
@@ -65,7 +65,7 @@
   {
     "decode": "Ektefelle- og barnetillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EKTE_BARNE_TIL_UFO",
     "sakType": "UFOREP",
@@ -74,7 +74,7 @@
   {
     "decode": "Ektefelle- og barnetillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EKTE_BARNE_TL_ALD",
     "sakType": "ALDER",
@@ -83,7 +83,7 @@
   {
     "decode": "Hjelpeløshetsbidrag",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HJELPELOSHET_BI",
     "sakType": "KRIGSP",
@@ -92,7 +92,7 @@
   {
     "decode": "Tillegg til hjelp i huset",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HJELP_HUSET",
     "sakType": "KRIGSP",

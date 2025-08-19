@@ -2,7 +2,7 @@
   {
     "decode": "Advokat",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ADVOKAT",
     "codeAsString": "ADVOKAT"
@@ -10,7 +10,7 @@
   {
     "decode": "Annet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANNET",
     "codeAsString": "ANNET"
@@ -18,7 +18,7 @@
   {
     "decode": "Bruker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BRUKER",
     "codeAsString": "BRUKER"
@@ -26,7 +26,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INNTKON",
     "codeAsString": "INNTKON"
@@ -34,7 +34,7 @@
   {
     "decode": "NAV (maskinelt)",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN",
     "codeAsString": "INTERN"
@@ -42,7 +42,7 @@
   {
     "decode": "Kommune",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KOMMUNE",
     "codeAsString": "KOMMUNE"
@@ -50,7 +50,7 @@
   {
     "decode": "Konvertert",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONV",
     "codeAsString": "KONV"
@@ -58,7 +58,7 @@
   {
     "decode": "NAV",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NAV",
     "codeAsString": "NAV"
@@ -66,7 +66,7 @@
   {
     "decode": "Sosialkontoret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOSIALKONTOR",
     "codeAsString": "SOSIALKONTOR"
@@ -74,7 +74,7 @@
   {
     "decode": "Tips",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TIPS",
     "codeAsString": "TIPS"
@@ -82,7 +82,7 @@
   {
     "decode": "Verge",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VERGE",
     "codeAsString": "VERGE"

@@ -2,7 +2,7 @@
   {
     "decode": "AFP etteroppgjør",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "AFP_EO",
     "manuell": true,
@@ -12,7 +12,7 @@
   {
     "decode": "Aldersovergang",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "ALDERSOVERGANG",
     "manuell": true,
@@ -22,7 +22,7 @@
   {
     "decode": "Annen årsak til saksbehandling",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "ANNEN_ARSAK",
     "manuell": true,
@@ -32,7 +32,7 @@
   {
     "decode": "Annen årsak til inntektsendring",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "ANNEN_ARSAK_END_IN",
     "manuell": true,
@@ -42,7 +42,7 @@
   {
     "decode": "Annen forelder har endret inntekt",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "ANNEN_FOR_END_IN",
     "manuell": true,
@@ -52,7 +52,7 @@
   {
     "decode": "Annet",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "ANNET",
     "manuell": true,
@@ -62,7 +62,7 @@
   {
     "decode": "Avslag",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "AVSLAG",
     "manuell": true,
@@ -72,7 +72,7 @@
   {
     "decode": "Avslag (Invalide-/eller enkepensjon)",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "AVSLAG_INVAL_ENKEP",
     "manuell": true,
@@ -82,7 +82,7 @@
   {
     "decode": "Avslag ung ufør",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "AVSLAG_UNG_UFR",
     "manuell": true,
@@ -92,7 +92,7 @@
   {
     "decode": "Avslag uføretrygd",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "AVSLAG_UT",
     "manuell": true,
@@ -102,7 +102,7 @@
   {
     "decode": "Barnetillegg",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "BARNETILLEGG",
     "manuell": true,
@@ -112,7 +112,7 @@
   {
     "decode": "Dødsfall barn",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "BARN_DOD",
     "manuell": true,
@@ -122,7 +122,7 @@
   {
     "decode": "Inntekt til barn er endret",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "BARN_ENDRET_INNTEKT",
     "manuell": true,
@@ -132,7 +132,7 @@
   {
     "decode": "Barnetilsyn/utd.stønad/flytteutg.",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "BARN_UTDS_FLYTTEUTG",
     "manuell": true,
@@ -142,7 +142,7 @@
   {
     "decode": "Begge forsørgerne har endret inntekt",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "BEGGE_FOR_END_IN",
     "manuell": true,
@@ -152,7 +152,7 @@
   {
     "decode": "Beregning",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "BEREGNING",
     "manuell": true,
@@ -162,7 +162,7 @@
   {
     "decode": "Bodd/arbeidet i avtaleland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BODD_ARB_UTL",
     "manuell": true,
@@ -172,7 +172,7 @@
   {
     "decode": "Eksport",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "EKSPORT",
     "manuell": true,
@@ -182,7 +182,7 @@
   {
     "decode": "Ektefelletillegg",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "EKTEFELLETILLEGG",
     "manuell": true,
@@ -192,7 +192,7 @@
   {
     "decode": "Inntekt til bruker er endret",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "ENDRET_INNTEKT",
     "manuell": true,
@@ -202,7 +202,7 @@
   {
     "decode": "Opptjeningsgrunnlag er endret",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "ENDRET_OPPTJENING",
     "manuell": true,
@@ -212,7 +212,7 @@
   {
     "decode": "Endring av IFU",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "ENDRING_IFU",
     "manuell": true,
@@ -222,7 +222,7 @@
   {
     "decode": "Bruker har annen sak som er endret",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "ENDR_ANNEN_SAK",
     "manuell": true,
@@ -232,7 +232,7 @@
   {
     "decode": "Inntekt til tilstøtende er endret",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "EPS_ENDRET_INNTEKT",
     "manuell": true,
@@ -242,7 +242,7 @@
   {
     "decode": "Tilstøtende har fått innvilget pensjon",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "EPS_NY_YTELSE",
     "manuell": true,
@@ -252,7 +252,7 @@
   {
     "decode": "Tilstøtende har fått innvilget uføretrygd",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "EPS_NY_YTELSE_UT",
     "manuell": true,
@@ -262,7 +262,7 @@
   {
     "decode": "Tilstøtende sin uføretrygd er opphørt",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "EPS_OPPH_YTELSE_UT",
     "manuell": true,
@@ -272,7 +272,7 @@
   {
     "decode": "Etteroppgjør",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "ETTEROPPGJOR",
     "manuell": true,
@@ -282,7 +282,7 @@
   {
     "decode": "Gjenlevenderett",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "GJENLEVENDERETT",
     "manuell": true,
@@ -292,7 +292,7 @@
   {
     "decode": "Gjenlevendetillegg",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "GJENLEVENDETILLEGG",
     "manuell": true,
@@ -302,7 +302,7 @@
   {
     "decode": "Gjenlevendetillegg skal vurderes",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "GJNL_SKAL_VURD",
     "manuell": true,
@@ -312,7 +312,7 @@
   {
     "decode": "Godskriving/overføring",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "GODSKR_OVERF",
     "manuell": true,
@@ -322,8 +322,8 @@
   {
     "decode": "G-omregning",
     "valid": true,
-    "fromDate": -2208992400000,
-    "toDate": 1293836400000,
+    "fromDate": "1900-01-01",
+    "toDate": "2011-01-01",
     "code": "GOMR",
     "manuell": true,
     "rekkefolge": 0,
@@ -332,7 +332,7 @@
   {
     "decode": "Gradsendringer",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "GRADSENDRINGER",
     "manuell": true,
@@ -342,7 +342,7 @@
   {
     "decode": "Hjemmeberegning for uføretrygd",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "HJEMMEBER_FOR_UT",
     "manuell": false,
@@ -352,7 +352,7 @@
   {
     "decode": "Hvilende stønadsrett",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "HVIL_STONADSRETT",
     "manuell": true,
@@ -362,7 +362,7 @@
   {
     "decode": "Inntektskontroll",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "INNT_KONTROLL",
     "manuell": true,
@@ -372,7 +372,7 @@
   {
     "decode": "Innvandring",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "INNVANDRET",
     "manuell": true,
@@ -382,7 +382,7 @@
   {
     "decode": "Institusjonsopphold på bruker/tilstøtende",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "INSTOPPHOLD",
     "manuell": true,
@@ -392,8 +392,8 @@
   {
     "decode": "Klage/anke",
     "valid": true,
-    "fromDate": -2208992400000,
-    "toDate": 1426287600000,
+    "fromDate": "1900-01-01",
+    "toDate": "2015-03-14",
     "code": "KLAGE_ANKE",
     "manuell": true,
     "rekkefolge": 27,
@@ -402,7 +402,7 @@
   {
     "decode": "Kontroll 3-17 a",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "KONTR_3_17",
     "manuell": true,
@@ -412,7 +412,7 @@
   {
     "decode": "Lovvalg",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "LOVVALG",
     "manuell": true,
@@ -422,7 +422,7 @@
   {
     "decode": "Medisinsk stønad",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "MEDISINSK_STONAD",
     "manuell": true,
@@ -432,7 +432,7 @@
   {
     "decode": "Medlemskap/trygdetid",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "MEDL_TRYGDETID",
     "manuell": true,
@@ -442,7 +442,7 @@
   {
     "decode": "Medlemskap/trygdetid/opptjening",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "MEDL_TRYGDETID_OPPTJ",
     "manuell": true,
@@ -452,8 +452,8 @@
   {
     "decode": "Nye opplysninger på bruker",
     "valid": false,
-    "fromDate": -2208992400000,
-    "toDate": -2206400400000,
+    "fromDate": "1900-01-01",
+    "toDate": "1900-01-31",
     "code": "NYE_OPPLYSNINGER",
     "manuell": true,
     "rekkefolge": 0,
@@ -462,7 +462,7 @@
   {
     "decode": "Ny søknad",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "NY_SOKNAD",
     "manuell": true,
@@ -472,7 +472,7 @@
   {
     "decode": "Omgjøring etter anke",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "OMGJ_ETTER_ANKE",
     "manuell": true,
@@ -482,7 +482,7 @@
   {
     "decode": "Omgjøring fvl. § 35 første ledd bokstav a",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "OMGJ_ETTER_FVL_P35_A",
     "manuell": true,
@@ -492,7 +492,7 @@
   {
     "decode": "Omgjøring fvl. § 35 første ledd bokstav b",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "OMGJ_ETTER_FVL_P35_B",
     "manuell": true,
@@ -502,7 +502,7 @@
   {
     "decode": "Omgjøring fvl. § 35 første ledd bokstav c",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "OMGJ_ETTER_FVL_P35_C",
     "manuell": true,
@@ -512,7 +512,7 @@
   {
     "decode": "Omgjøring etter klage",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "OMGJ_ETTER_KLAGE",
     "manuell": true,
@@ -522,7 +522,7 @@
   {
     "decode": "Omregning pga regelendring",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMREGNING",
     "manuell": true,
@@ -532,7 +532,7 @@
   {
     "decode": "Omregning til uføretrygd",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "OMREGN_UFORETRYGD",
     "manuell": true,
@@ -542,7 +542,7 @@
   {
     "decode": "Omregning etter feilretting",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMR_FEILRETTING",
     "manuell": true,
@@ -552,7 +552,7 @@
   {
     "decode": "Omsorg for små barn",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "OMSORG_FOR_SMA_BARN",
     "manuell": true,
@@ -562,7 +562,7 @@
   {
     "decode": "Opphør av brukers ytelse",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "OPPHOR",
     "manuell": true,
@@ -572,7 +572,7 @@
   {
     "decode": "Opphør av hjelpeløshetsbidrag",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "OPPHOR_HJELPELOS",
     "manuell": true,
@@ -582,7 +582,7 @@
   {
     "decode": "Opphør/reduksjon",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "OPPHOR_REDUKSJON",
     "manuell": true,
@@ -592,7 +592,7 @@
   {
     "decode": "Opphør/reduksjon uføregrad",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "OPPHOR_RED_UFG",
     "manuell": true,
@@ -602,7 +602,7 @@
   {
     "decode": "Opphør av tillegg til hjelp i huset",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "OPPHOR_TLG_HJELP_HUS",
     "manuell": true,
@@ -612,7 +612,7 @@
   {
     "decode": "Opplysninger fra utlandet",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "OPPL_UTLAND",
     "manuell": true,
@@ -622,7 +622,7 @@
   {
     "decode": "Opptjeningsgrunnlag",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "OPPTJENINGSGRUNNLAG",
     "manuell": true,
@@ -632,7 +632,7 @@
   {
     "decode": "Overgangsstønad",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "OVERGANGSSTONAD",
     "manuell": true,
@@ -642,7 +642,7 @@
   {
     "decode": "Overføring av omsorgsopptjening",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "OVRFR_OMSORGSPOENG",
     "manuell": true,
@@ -652,7 +652,7 @@
   {
     "decode": "Pensjonsvilkår",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "PENSJONSVILKAR",
     "manuell": true,
@@ -662,7 +662,7 @@
   {
     "decode": "Pleie eldre/syke/ funksjonshemmede",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "PLEIE_ELDR_SYK_FUNK",
     "manuell": true,
@@ -672,7 +672,7 @@
   {
     "decode": "Regulering av brukers ytelse",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "REGULERING",
     "manuell": true,
@@ -682,7 +682,7 @@
   {
     "decode": "Rekonstruksjon",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "REKONSTRUKSJON",
     "manuell": true,
@@ -692,7 +692,7 @@
   {
     "decode": "Samordning",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "SAMORDNING",
     "manuell": true,
@@ -702,7 +702,7 @@
   {
     "decode": "Sivilstandsendring",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "SIVILSTANDSENDRING",
     "manuell": true,
@@ -712,7 +712,7 @@
   {
     "decode": "Søknad om barnetillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOKNAD_BT",
     "manuell": true,
@@ -722,7 +722,7 @@
   {
     "decode": "Tidliguttak",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "TIDLIGUTTAK",
     "manuell": true,
@@ -732,7 +732,7 @@
   {
     "decode": "Tilbakekreving",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "TILBAKEKREVING",
     "manuell": true,
@@ -742,7 +742,7 @@
   {
     "decode": "Tilstøtende sin sak er endret",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "TILSTOT_ENDR_YTELSE",
     "manuell": true,
@@ -752,7 +752,7 @@
   {
     "decode": "Opphør av tilstøtendes ytelse",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "TILSTOT_OPPHORT",
     "manuell": true,
@@ -762,7 +762,7 @@
   {
     "decode": "Dødsfall tilstøtende",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "TILST_DOD",
     "manuell": true,
@@ -772,7 +772,7 @@
   {
     "decode": "Tvungen forvaltning",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "TVUNGEN_FORVALTNING",
     "manuell": true,
@@ -782,7 +782,7 @@
   {
     "decode": "Uføregrad/IFU og IEU",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "UFG_IFU_OG_IEU",
     "manuell": true,
@@ -792,7 +792,7 @@
   {
     "decode": "Uføreberegning ved garantigrad",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "UFOREBER_V_GTGRD",
     "manuell": false,
@@ -802,7 +802,7 @@
   {
     "decode": "Uføreber. ved tidl. Uføretidspunkt",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "UFOREBER_V_TIDUFT",
     "manuell": false,
@@ -812,7 +812,7 @@
   {
     "decode": "Uføretrygdovergang",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "UFOREOVERGANG",
     "manuell": true,
@@ -822,7 +822,7 @@
   {
     "decode": "Uføregrad",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "UFR_GRAD",
     "manuell": true,
@@ -832,7 +832,7 @@
   {
     "decode": "Uføre-/pensjonsgrad",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "UFR_PENSJON_GRAD",
     "manuell": true,
@@ -842,7 +842,7 @@
   {
     "decode": "Uføretidspunkt",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "UFR_TIDSPUNKT",
     "manuell": true,
@@ -852,7 +852,7 @@
   {
     "decode": "Utbetaling/avkortning",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "UTBET_AVKORT",
     "manuell": true,
@@ -862,7 +862,7 @@
   {
     "decode": "Uttaksgrad er endret eller oppdatert",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "UTTAKSGRAD",
     "manuell": true,
@@ -872,7 +872,7 @@
   {
     "decode": "Utvandring/eksport",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "UTVANDRET",
     "manuell": true,
@@ -882,7 +882,7 @@
   {
     "decode": "Etteroppgjør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_EO",
     "manuell": true,
@@ -892,7 +892,7 @@
   {
     "decode": "Omgjøring etter anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_OMGJ_ANKE_EO",
     "manuell": true,
@@ -902,7 +902,7 @@
   {
     "decode": "Omgjøring etter klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_OMGJ_KLAGE_EO",
     "manuell": true,
@@ -912,7 +912,7 @@
   {
     "decode": "Vurdering Etteroppgjør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_VURDERING_EO",
     "manuell": true,
@@ -922,7 +922,7 @@
   {
     "decode": "Vilkår",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "VILKAR",
     "manuell": true,
@@ -932,7 +932,7 @@
   {
     "decode": "Virkningstidspunkt",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "VIRK_TIDSPUNKT",
     "manuell": true,
@@ -942,7 +942,7 @@
   {
     "decode": "Forsørgingstillegg skal vurderes",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "VURDER_FORSORG",
     "manuell": true,
@@ -952,7 +952,7 @@
   {
     "decode": "Særskilt sats for forsørger skal vurderes",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "VURDER_SERSKILT_SATS",
     "manuell": true,
@@ -962,7 +962,7 @@
   {
     "decode": "Avvik i vurdert sivilstand for berørte saker",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "VURD_SIVILST",
     "manuell": false,
@@ -972,7 +972,7 @@
   {
     "decode": "Yrkesskade",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "YRKESSKADE",
     "manuell": true,
@@ -982,7 +982,7 @@
   {
     "decode": "Yrkesskade/-sykdom",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "YRK_SKADE_SYK",
     "manuell": true,

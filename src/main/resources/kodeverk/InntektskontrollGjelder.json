@@ -2,7 +2,7 @@
   {
     "decode": "Bruker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BRUKER",
     "codeAsString": "BRUKER"
@@ -10,7 +10,7 @@
   {
     "decode": "Ektefelle",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EKTE",
     "codeAsString": "EKTE"
@@ -18,7 +18,7 @@
   {
     "decode": "Forsørgede",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORS",
     "codeAsString": "FORS"

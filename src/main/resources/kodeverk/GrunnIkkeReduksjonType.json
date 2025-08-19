@@ -2,7 +2,7 @@
   {
     "decode": "Erstatning for inntektstap ved erstatningsoppgjør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ERSTATNING_INNTTAP_ERSTOPPGJ",
     "codeAsString": "ERSTATNING_INNTTAP_ERSTOPPGJ"
@@ -10,7 +10,7 @@
   {
     "decode": "Etterbetaling fra NAV",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERBETALING",
     "codeAsString": "ETTERBETALING"
@@ -18,7 +18,7 @@
   {
     "decode": "Etterslepsinntekt fra helt avsluttet aktivitet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERSLEPSINNT_AVSLT_AKT",
     "codeAsString": "ETTERSLEPSINNT_AVSLT_AKT"
@@ -26,7 +26,7 @@
   {
     "decode": "Annet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IKKE_RED_ANNET",
     "codeAsString": "IKKE_RED_ANNET"
@@ -34,7 +34,7 @@
   {
     "decode": "Opptjent etter opphør av UT",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPTJENT_ETTER_INNV_UT",
     "codeAsString": "OPPTJENT_ETTER_INNV_UT"
@@ -42,7 +42,7 @@
   {
     "decode": "Opptjent før innvilgelse UT",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPTJENT_FOR_INNV_UT",
     "codeAsString": "OPPTJENT_FOR_INNV_UT"

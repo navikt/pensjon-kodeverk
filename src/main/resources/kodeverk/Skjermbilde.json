@@ -2,7 +2,7 @@
   {
     "decode": "Registrere trygdetid",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BES546",
     "codeAsString": "BES546"
@@ -10,7 +10,7 @@
   {
     "decode": "Oppgave",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GSS103",
     "codeAsString": "GSS103"
@@ -18,7 +18,7 @@
   {
     "decode": "Registrere journapost",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GSS200",
     "codeAsString": "GSS200"
@@ -26,7 +26,7 @@
   {
     "decode": "Brukeroversikt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GSS522",
     "codeAsString": "GSS522"
@@ -34,7 +34,7 @@
   {
     "decode": "Pensjonsoversikt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PFS500",
     "codeAsString": "PFS500"
@@ -42,7 +42,7 @@
   {
     "decode": "Krav",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PFS501",
     "codeAsString": "PFS501"
@@ -50,7 +50,7 @@
   {
     "decode": "Kravkontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PFS512",
     "codeAsString": "PFS512"
@@ -58,7 +58,7 @@
   {
     "decode": "Familieforhold - Generell",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PFS541",
     "codeAsString": "PFS541"
@@ -66,7 +66,7 @@
   {
     "decode": "Utlandsopphold",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PFS547",
     "codeAsString": "PFS547"
@@ -74,7 +74,7 @@
   {
     "decode": "Inngang og eksport ",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PFS548",
     "codeAsString": "PFS548"
@@ -82,7 +82,7 @@
   {
     "decode": "Attestering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PFS581",
     "codeAsString": "PFS581"
@@ -90,7 +90,7 @@
   {
     "decode": "Iverksette",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PFS584",
     "codeAsString": "PFS584"

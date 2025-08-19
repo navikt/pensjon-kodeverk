@@ -2,7 +2,7 @@
   {
     "decode": "Enhet",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "EN",
     "codeAsString": "EN"
@@ -10,7 +10,7 @@
   {
     "decode": "Enhetsgruppe",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "ENGR",
     "codeAsString": "ENGR"
@@ -18,7 +18,7 @@
   {
     "decode": "Fylkesenhet",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "FYLKE",
     "codeAsString": "FYLKE"
@@ -26,7 +26,7 @@
   {
     "decode": "Gruppe",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "GR",
     "codeAsString": "GR"
@@ -34,7 +34,7 @@
   {
     "decode": "Spesialenhet",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "SPESEN",
     "codeAsString": "SPESEN"

@@ -2,7 +2,7 @@
   {
     "decode": "AFP-etteroppgjør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFPEO",
     "kanLope": false,
@@ -11,7 +11,7 @@
   {
     "decode": "Anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANKE",
     "kanLope": false,
@@ -20,7 +20,7 @@
   {
     "decode": "Avslag",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AVSL",
     "kanLope": false,
@@ -29,7 +29,7 @@
   {
     "decode": "Endring",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDRING",
     "kanLope": true,
@@ -38,7 +38,7 @@
   {
     "decode": "Erstatning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ERSTATNING",
     "kanLope": false,
@@ -47,7 +47,7 @@
   {
     "decode": "Ettergivelse av gjeld",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERGIV_GJELD",
     "kanLope": false,
@@ -56,7 +56,7 @@
   {
     "decode": "Førstegang",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FORGANG",
     "kanLope": true,
@@ -65,8 +65,8 @@
   {
     "decode": "Frys",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "code": "FRYS",
     "kanLope": false,
     "codeAsString": "FRYS"
@@ -74,7 +74,7 @@
   {
     "decode": "G-omregning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GOMR",
     "kanLope": true,
@@ -83,7 +83,7 @@
   {
     "decode": "Internkontroll",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERNKON",
     "kanLope": false,
@@ -92,7 +92,7 @@
   {
     "decode": "Klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAGE",
     "kanLope": false,
@@ -101,8 +101,8 @@
   {
     "decode": "Merskatt tilbakekrevning",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1230678000000,
+    "fromDate": "1899-12-31",
+    "toDate": "2008-12-31",
     "code": "MTK",
     "kanLope": false,
     "codeAsString": "MTK"
@@ -110,7 +110,7 @@
   {
     "decode": "Omgjøring av tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMGJ_TILBAKE",
     "kanLope": false,
@@ -119,7 +119,7 @@
   {
     "decode": "Opphør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPHOR",
     "kanLope": false,
@@ -128,7 +128,7 @@
   {
     "decode": "Opptjening",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPTJ",
     "kanLope": false,
@@ -137,7 +137,7 @@
   {
     "decode": "Regulering av pensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REGULERING",
     "kanLope": true,
@@ -146,7 +146,7 @@
   {
     "decode": "Saksomkostninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAK_OMKOST",
     "kanLope": false,
@@ -155,7 +155,7 @@
   {
     "decode": "Sammenstøt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAMMENSTOT",
     "kanLope": true,
@@ -164,7 +164,7 @@
   {
     "decode": "Tilbakekreving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILBAKEKR",
     "kanLope": false,
@@ -173,7 +173,7 @@
   {
     "decode": "Utsendelse til avtaleland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTSEND_AVTALELAND",
     "kanLope": false,
@@ -182,7 +182,7 @@
   {
     "decode": "Vurdering av etteroppgjør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT_VURDERING_EO",
     "kanLope": false,

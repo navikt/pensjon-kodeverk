@@ -2,7 +2,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "B",
     "codeAsString": "B"
@@ -10,7 +10,7 @@
   {
     "decode": "Elektronisk skjema",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ES",
     "codeAsString": "ES"
@@ -18,7 +18,7 @@
   {
     "decode": "E-blankett",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "E_BLANKETT",
     "codeAsString": "E_BLANKETT"
@@ -26,7 +26,7 @@
   {
     "decode": "Informasjonsbrev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IB",
     "codeAsString": "IB"
@@ -34,7 +34,7 @@
   {
     "decode": "Ikke tolkbart skjema",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "IS",
     "codeAsString": "IS"
@@ -42,7 +42,7 @@
   {
     "decode": "Konvertert fra elektronisk arkiv",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KD",
     "codeAsString": "KD"
@@ -50,7 +50,7 @@
   {
     "decode": "Konverterte data fra gammelt system",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KS",
     "codeAsString": "KS"
@@ -58,7 +58,7 @@
   {
     "decode": "Strukturert elektronisk dokument - EU/EÃS",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SED",
     "codeAsString": "SED"
@@ -66,7 +66,7 @@
   {
     "decode": "Tolkbart skjema",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TS",
     "codeAsString": "TS"
@@ -74,7 +74,7 @@
   {
     "decode": "Vedtaksbrev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VB",
     "codeAsString": "VB"

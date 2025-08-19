@@ -2,7 +2,7 @@
   {
     "decode": "Aldersovergang",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ALDERSOVERGANG",
     "codeAsString": "ALDERSOVERGANG"
@@ -10,7 +10,7 @@
   {
     "decode": "Annen årsak til saksbehandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANNEN_ARSAK",
     "codeAsString": "ANNEN_ARSAK"
@@ -18,7 +18,7 @@
   {
     "decode": "Dødsfall barn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BARN_DOD",
     "codeAsString": "BARN_DOD"
@@ -26,7 +26,7 @@
   {
     "decode": "Inntekt til barn er endret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BARN_ENDRET_INNTEKT",
     "codeAsString": "BARN_ENDRET_INNTEKT"
@@ -34,7 +34,7 @@
   {
     "decode": "Inntekt til bruker er endret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDRET_INNTEKT",
     "codeAsString": "ENDRET_INNTEKT"
@@ -42,7 +42,7 @@
   {
     "decode": "Opptjeningsgrunnlag er endret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDRET_OPPTJENING",
     "codeAsString": "ENDRET_OPPTJENING"
@@ -50,7 +50,7 @@
   {
     "decode": "Inntekt til tilstøtende er endret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EPS_ENDRET_INNTEKT",
     "codeAsString": "EPS_ENDRET_INNTEKT"
@@ -58,7 +58,7 @@
   {
     "decode": "Tilstøtende har fått innvilget pensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EPS_NY_YTELSE",
     "codeAsString": "EPS_NY_YTELSE"
@@ -66,7 +66,7 @@
   {
     "decode": "Institusjonsopphold på bruker/tilstøtende",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INSTOPPHOLD",
     "codeAsString": "INSTOPPHOLD"
@@ -74,7 +74,7 @@
   {
     "decode": "Omgjøring fvl. § 35 første ledd bokstav a",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMGJ_ETTER_FVL_P35_A",
     "codeAsString": "OMGJ_ETTER_FVL_P35_A"
@@ -82,7 +82,7 @@
   {
     "decode": "Omgjøring fvl. § 35 første ledd bokstav b",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMGJ_ETTER_FVL_P35_B",
     "codeAsString": "OMGJ_ETTER_FVL_P35_B"
@@ -90,7 +90,7 @@
   {
     "decode": "Omgjøring fvl. § 35 første ledd bokstav c",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMGJ_ETTER_FVL_P35_C",
     "codeAsString": "OMGJ_ETTER_FVL_P35_C"
@@ -98,7 +98,7 @@
   {
     "decode": "Opphør av brukers ytelse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPHOR",
     "codeAsString": "OPPHOR"
@@ -106,7 +106,7 @@
   {
     "decode": "Rekonstruksjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REKONSTRUKSJON",
     "codeAsString": "REKONSTRUKSJON"
@@ -114,7 +114,7 @@
   {
     "decode": "Revurdering § 12 - 12",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REVURDERING_12_12",
     "codeAsString": "REVURDERING_12_12"
@@ -122,7 +122,7 @@
   {
     "decode": "Sivilstandsendring",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SIVILSTANDSENDRING",
     "codeAsString": "SIVILSTANDSENDRING"
@@ -130,7 +130,7 @@
   {
     "decode": "Søknad økning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOKNAD_OKNING",
     "codeAsString": "SOKNAD_OKNING"
@@ -138,7 +138,7 @@
   {
     "decode": "Opphør av tilstøtendes ytelse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILSTOT_OPPHORT",
     "codeAsString": "TILSTOT_OPPHORT"
@@ -146,7 +146,7 @@
   {
     "decode": "Dødsfall tilstøtende",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TILST_DOD",
     "codeAsString": "TILST_DOD"
@@ -154,7 +154,7 @@
   {
     "decode": "Ung ufør",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UNG_UFOR",
     "codeAsString": "UNG_UFOR"
@@ -162,7 +162,7 @@
   {
     "decode": "Utvandring/eksport",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTVANDRET",
     "codeAsString": "UTVANDRET"
@@ -170,7 +170,7 @@
   {
     "decode": "Forsørgingstillegg skal vurderes",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VURDER_FORSORG",
     "codeAsString": "VURDER_FORSORG"
@@ -178,7 +178,7 @@
   {
     "decode": "Vurder særskilt sats",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VURDER_SERSKILT_SATS",
     "codeAsString": "VURDER_SERSKILT_SATS"
@@ -186,7 +186,7 @@
   {
     "decode": "Yrkesskade",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "YRKESSKADE",
     "codeAsString": "YRKESSKADE"

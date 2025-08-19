@@ -2,7 +2,7 @@
   {
     "decode": "Alderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP",
     "brevType": "PE_AP_02_002",
@@ -13,7 +13,7 @@
   {
     "decode": "Barnepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BP",
     "brevType": "PE_BP_02_001",
@@ -24,7 +24,7 @@
   {
     "decode": "Alderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EA",
     "brevType": "PE_AP_02_003",
@@ -35,7 +35,7 @@
   {
     "decode": "Forsørgingstillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FT",
     "brevType": "PE_FT_02_001",
@@ -46,7 +46,7 @@
   {
     "decode": "Gjenlevendepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GJP",
     "brevType": "PE_GP_02_001",
@@ -57,7 +57,7 @@
   {
     "decode": "Omsorgspoeng",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OO",
     "brevType": "PE_IY_02_101",
@@ -68,7 +68,7 @@
   {
     "decode": "Omsorgspoeng",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OP",
     "brevType": "PE_IY_02_102",

@@ -2,7 +2,7 @@
   {
     "decode": "AFP Privat",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFP_PRIVAT",
     "codeAsString": "AFP_PRIVAT"
@@ -10,7 +10,7 @@
   {
     "decode": "Aldersberegning Kapittel 19",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ALDER_BER_KAP19",
     "codeAsString": "ALDER_BER_KAP19"
@@ -18,7 +18,7 @@
   {
     "decode": "Aldersberegning Kapittel 20",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ALDER_BER_KAP20",
     "codeAsString": "ALDER_BER_KAP20"
@@ -26,7 +26,7 @@
   {
     "decode": "Uføretrygdberegning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT",
     "codeAsString": "UT"

@@ -2,7 +2,7 @@
   {
     "decode": "Tilstøtende er på institusjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EPS_INST",
     "codeAsString": "EPS_INST"
@@ -10,7 +10,7 @@
   {
     "decode": "Alders- og sykehjem",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OKNING",
     "codeAsString": "OKNING"
@@ -18,7 +18,7 @@
   {
     "decode": "Reduksjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REDUKSJON",
     "codeAsString": "REDUKSJON"
@@ -26,7 +26,7 @@
   {
     "decode": "Reduksjon fengsel",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REDUKSJON_FO",
     "codeAsString": "REDUKSJON_FO"
@@ -34,7 +34,7 @@
   {
     "decode": "Friperiode",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REDUKSJON_FRIPERIODE",
     "codeAsString": "REDUKSJON_FRIPERIODE"
@@ -42,7 +42,7 @@
   {
     "decode": "Reduksjon helseinstitusjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REDUKSJON_HS",
     "codeAsString": "REDUKSJON_HS"

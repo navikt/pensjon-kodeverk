@@ -2,7 +2,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EPST",
     "codeAsString": "EPST"
@@ -10,7 +10,7 @@
   {
     "decode": "Min side",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MISI",
     "codeAsString": "MISI"
@@ -18,7 +18,7 @@
   {
     "decode": "SMS",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SMS",
     "codeAsString": "SMS"

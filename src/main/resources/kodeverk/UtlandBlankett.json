@@ -2,7 +2,7 @@
   {
     "decode": "E 001",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "E_BLANK_001",
     "codeAsString": "E_BLANK_001"
@@ -10,7 +10,7 @@
   {
     "decode": "E 202",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "E_BLANK_202",
     "codeAsString": "E_BLANK_202"
@@ -18,7 +18,7 @@
   {
     "decode": "E 203",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "E_BLANK_203",
     "codeAsString": "E_BLANK_203"
@@ -26,7 +26,7 @@
   {
     "decode": "E 204",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "E_BLANK_204",
     "codeAsString": "E_BLANK_204"
@@ -34,7 +34,7 @@
   {
     "decode": "E 205",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "E_BLANK_205",
     "codeAsString": "E_BLANK_205"
@@ -42,7 +42,7 @@
   {
     "decode": "E 207",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "E_BLANK_207",
     "codeAsString": "E_BLANK_207"
@@ -50,7 +50,7 @@
   {
     "decode": "E 210",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "E_BLANK_210",
     "codeAsString": "E_BLANK_210"
@@ -58,7 +58,7 @@
   {
     "decode": "E 211",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "E_BLANK_211",
     "codeAsString": "E_BLANK_211"
@@ -66,7 +66,7 @@
   {
     "decode": "E 213",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "E_BLANK_213",
     "codeAsString": "E_BLANK_213"

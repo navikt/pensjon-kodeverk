@@ -2,7 +2,7 @@
   {
     "decode": "Midlertidig - Anke",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ANKE",
     "tilgangType": "MIDL",
@@ -11,7 +11,7 @@
   {
     "decode": "Permanent - Diskresjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DISKRESJON",
     "tilgangType": "PERM",
@@ -20,7 +20,7 @@
   {
     "decode": "Midlertidig - Erstatning",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ERST",
     "tilgangType": "MIDL",
@@ -29,7 +29,7 @@
   {
     "decode": "Midlertidig - Ettergivelse av gjeld",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ETTERG",
     "tilgangType": "MIDL",
@@ -38,7 +38,7 @@
   {
     "decode": "Midlertidig - Feilutbetaling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FEILUTBETALING",
     "tilgangType": "MIDL",
@@ -47,7 +47,7 @@
   {
     "decode": "Permanent - Flytting",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FLYTTING",
     "tilgangType": "PERM",
@@ -56,7 +56,7 @@
   {
     "decode": "Permanent - Inhabilitet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INHABIL",
     "tilgangType": "PERM",
@@ -65,7 +65,7 @@
   {
     "decode": "Midlertidig - Klage",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAGE",
     "tilgangType": "MIDL",
@@ -74,7 +74,7 @@
   {
     "decode": "Midlertidig - Koordinere saker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KOORD",
     "tilgangType": "MIDL",
@@ -83,7 +83,7 @@
   {
     "decode": "Permanent - Overført til Nav Ny Pensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NNP",
     "tilgangType": "PERM",
@@ -92,7 +92,7 @@
   {
     "decode": "Permanent - Nyopprettet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "NYOPP",
     "tilgangType": "PERM",
@@ -101,7 +101,7 @@
   {
     "decode": "Midlertidig - Saksomkostninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OMKOST",
     "tilgangType": "MIDL",
@@ -110,7 +110,7 @@
   {
     "decode": "Permanent - Overført fra Nav Ny Pensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OVERFORT_NNP",
     "tilgangType": "PERM",
@@ -119,7 +119,7 @@
   {
     "decode": "Permanent - Utland",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UTLAND",
     "tilgangType": "PERM",

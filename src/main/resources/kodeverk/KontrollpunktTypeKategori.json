@@ -2,7 +2,7 @@
   {
     "decode": "Informasjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INFORMASJON",
     "codeAsString": "INFORMASJON"
@@ -10,7 +10,7 @@
   {
     "decode": "Mangler og avvik",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MANGLER_OG_AVVIK",
     "codeAsString": "MANGLER_OG_AVVIK"
@@ -18,7 +18,7 @@
   {
     "decode": "Oppfølging",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OPPFOLGING",
     "codeAsString": "OPPFOLGING"

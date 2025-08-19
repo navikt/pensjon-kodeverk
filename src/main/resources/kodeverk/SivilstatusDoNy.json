@@ -2,14 +2,14 @@
   {
     "decode": "-",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "1",
     "code": "ENKE",
     "sivilstatusTypeGml": {
       "decode": "Enke/-mann",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "ENKE",
       "codeAsString": "ENKE"
@@ -19,14 +19,14 @@
   {
     "decode": "-",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "3",
     "code": "GJES",
     "sivilstatusTypeGml": {
       "decode": "Enke/-mann",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "ENKE",
       "codeAsString": "ENKE"
@@ -36,14 +36,14 @@
   {
     "decode": "-",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "4",
     "code": "GJPA",
     "sivilstatusTypeGml": {
       "decode": "Gjenlevende partner",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "GJPA",
       "codeAsString": "GJPA"
@@ -53,14 +53,14 @@
   {
     "decode": "-",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "2",
     "code": "GJSA",
     "sivilstatusTypeGml": {
       "decode": "Enke/-mann",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "ENKE",
       "codeAsString": "ENKE"
@@ -70,14 +70,14 @@
   {
     "decode": "-",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "7",
     "code": "SKIL",
     "sivilstatusTypeGml": {
       "decode": "Skilt",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "SKIL",
       "codeAsString": "SKIL"
@@ -87,14 +87,14 @@
   {
     "decode": "-",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "10",
     "code": "SKPA",
     "sivilstatusTypeGml": {
       "decode": "Skilt partner",
       "valid": true,
-      "fromDate": -2209078800000,
+      "fromDate": "1899-12-31",
       "toDate": null,
       "code": "SKPA",
       "codeAsString": "SKPA"

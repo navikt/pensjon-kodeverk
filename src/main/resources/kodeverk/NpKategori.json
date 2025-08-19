@@ -2,7 +2,7 @@
   {
     "decode": "Hybrid Kollektiv",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "5",
     "code": "hybridKollektiv",
@@ -11,7 +11,7 @@
   {
     "decode": "Innskuddsbasert Individuell",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "3",
     "code": "innskuddsbasertInviduell",
@@ -20,7 +20,7 @@
   {
     "decode": "Innskuddsbasert Kollektiv",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "4",
     "code": "innskuddsbasertKollektiv",
@@ -29,7 +29,7 @@
   {
     "decode": "Ytelsesbasert Individuell",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "1",
     "code": "ytelsesbasertInviduell",
@@ -38,7 +38,7 @@
   {
     "decode": "Ytelsesbasert Kollektiv",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "id": "2",
     "code": "ytelsesbasertKollektiv",

@@ -2,7 +2,7 @@
   {
     "decode": "Alderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP",
     "skjemanavn": "Søknad om alderspensjon",
@@ -12,7 +12,7 @@
   {
     "decode": "Digital",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "DT",
     "skjemanavn": null,
@@ -22,7 +22,7 @@
   {
     "decode": "EndreAlderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EA",
     "skjemanavn": "Søknad om endring av alderspensjon",
@@ -32,7 +32,7 @@
   {
     "decode": "Forsørgingstillegg",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FT",
     "skjemanavn": "Søknad om forsørgingstillegg",
@@ -42,7 +42,7 @@
   {
     "decode": "Omsorgspoeng",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "OO",
     "skjemanavn": "Søknad om overføring av omsorgspoeng",
@@ -52,7 +52,7 @@
   {
     "decode": "Uføretrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT",
     "skjemanavn": "Søknad om uføretrygd",

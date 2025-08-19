@@ -2,7 +2,7 @@
   {
     "decode": "Poengtillegg-kode A, bruker få hele tillegget.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "A",
     "codeAsString": "A"
@@ -10,7 +10,7 @@
   {
     "decode": "Poengtillegg-kode B, bruker og tilstøtende person deler tillegget.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "B",
     "codeAsString": "B"
@@ -18,7 +18,7 @@
   {
     "decode": "Poengtillegg-kode C, tilstøtende person får hele tillegget.",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "C",
     "codeAsString": "C"

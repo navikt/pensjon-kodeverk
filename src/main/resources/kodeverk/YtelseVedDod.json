@@ -2,7 +2,7 @@
   {
     "decode": "Alderspensjon kap.19 hel",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP2011_FULL",
     "codeAsString": "AP2011_FULL"
@@ -10,7 +10,7 @@
   {
     "decode": "Alderspensjon kap.19 gradert",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP2011_GRADERT",
     "codeAsString": "AP2011_GRADERT"
@@ -18,7 +18,7 @@
   {
     "decode": "Alderspensjon kap.3",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AP67",
     "codeAsString": "AP67"
@@ -26,7 +26,7 @@
   {
     "decode": "Nei",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INGEN",
     "codeAsString": "INGEN"
@@ -34,7 +34,7 @@
   {
     "decode": "Konvertert uføretrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KONVUT",
     "codeAsString": "KONVUT"
@@ -42,7 +42,7 @@
   {
     "decode": "Uførepensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UP",
     "codeAsString": "UP"
@@ -50,7 +50,7 @@
   {
     "decode": "Uføretrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "UT",
     "codeAsString": "UT"

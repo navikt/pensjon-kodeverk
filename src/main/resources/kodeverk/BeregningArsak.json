@@ -2,72 +2,72 @@
   {
     "decode": "Endring i grunnlag",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1285797600000,
+    "fromDate": "1899-12-31",
+    "toDate": "2010-09-30",
     "code": "ENDR_GRNL",
     "codeAsString": "ENDR_GRNL"
   },
   {
     "decode": "Endring i relasjons ytelse",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1285797600000,
+    "fromDate": "1899-12-31",
+    "toDate": "2010-09-30",
     "code": "ENDR_REL",
     "codeAsString": "ENDR_REL"
   },
   {
     "decode": "Førstegangsbehandling",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1274738400000,
+    "fromDate": "1899-12-31",
+    "toDate": "2010-05-25",
     "code": "F_BEHANDL",
     "codeAsString": "F_BEHANDL"
   },
   {
     "decode": "Gavepensjon",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1285797600000,
+    "fromDate": "1899-12-31",
+    "toDate": "2010-09-30",
     "code": "GAVEPEN",
     "codeAsString": "GAVEPEN"
   },
   {
     "decode": "G-omregning",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1285797600000,
+    "fromDate": "1899-12-31",
+    "toDate": "2010-09-30",
     "code": "G_OMREGN",
     "codeAsString": "G_OMREGN"
   },
   {
     "decode": "Manuell",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1285797600000,
+    "fromDate": "1899-12-31",
+    "toDate": "2010-09-30",
     "code": "MAN",
     "codeAsString": "MAN"
   },
   {
     "decode": "Nytt vedtak på tilstøtende person",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1274738400000,
+    "fromDate": "1899-12-31",
+    "toDate": "2010-05-25",
     "code": "NY_VEDTAK_TILSTOT",
     "codeAsString": "NY_VEDTAK_TILSTOT"
   },
   {
     "decode": "Opphør",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1274738400000,
+    "fromDate": "1899-12-31",
+    "toDate": "2010-05-25",
     "code": "OPPHOR",
     "codeAsString": "OPPHOR"
   },
   {
     "decode": "Regelendring",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1285797600000,
+    "fromDate": "1899-12-31",
+    "toDate": "2010-09-30",
     "code": "REGEL_ENDR",
     "codeAsString": "REGEL_ENDR"
   }

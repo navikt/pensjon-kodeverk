@@ -2,7 +2,7 @@
   {
     "decode": "Fremskrevet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMSKREVET",
     "codeAsString": "FREMSKREVET"
@@ -10,7 +10,7 @@
   {
     "decode": "Regulert",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "REGULERT",
     "codeAsString": "REGULERT"

@@ -2,7 +2,7 @@
   {
     "decode": "Inngående dokument",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "I",
     "codeAsString": "I"
@@ -10,7 +10,7 @@
   {
     "decode": "Notat",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "N",
     "codeAsString": "N"
@@ -18,7 +18,7 @@
   {
     "decode": "Utgående dokument",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "U",
     "codeAsString": "U"

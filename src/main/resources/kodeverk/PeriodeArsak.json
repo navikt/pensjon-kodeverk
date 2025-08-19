@@ -2,7 +2,7 @@
   {
     "decode": "Samboer 3-2 mottar omstillingsstønad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_3_2SAMBO_OMS",
     "behandlingsPeriode": false,
@@ -12,7 +12,7 @@
   {
     "decode": "Ektefelle/partner/samboer mottar uføretrygd i kalenderåret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_AAR_EPS_UT",
     "behandlingsPeriode": false,
@@ -22,7 +22,7 @@
   {
     "decode": "Aldersovergang",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_ALDERSOVERGANG",
     "behandlingsPeriode": true,
@@ -32,7 +32,7 @@
   {
     "decode": "Eksport/flytting til utlandet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_EKSPORT",
     "behandlingsPeriode": true,
@@ -42,7 +42,7 @@
   {
     "decode": "Endring i brukers eller ektefelle/partner/samboers uføretrygd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_EPS_UT_VEDTAK",
     "behandlingsPeriode": false,
@@ -52,7 +52,7 @@
   {
     "decode": "Inntektsendring",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_INNTEKT",
     "behandlingsPeriode": true,
@@ -62,7 +62,7 @@
   {
     "decode": "Innvandring",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_INNVANDRING",
     "behandlingsPeriode": true,
@@ -72,7 +72,7 @@
   {
     "decode": "Endring i informasjon om faste utgifter ved institusjonsopphold",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_INST_FASTEUTGIF",
     "behandlingsPeriode": true,
@@ -82,7 +82,7 @@
   {
     "decode": "Endring i varig alders- og sykehjemsperiode eller reduksjonsperiode",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_INST_JUSTERING",
     "behandlingsPeriode": true,
@@ -92,7 +92,7 @@
   {
     "decode": "Endring i Livsvarig Afp offentlig",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_LIV_AFP_OFF",
     "behandlingsPeriode": true,
@@ -102,7 +102,7 @@
   {
     "decode": "Godskriving av opptjening",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_OPPTJENING",
     "behandlingsPeriode": true,
@@ -112,7 +112,7 @@
   {
     "decode": "Endring i familieforhold",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_PERSONINFO",
     "behandlingsPeriode": true,
@@ -122,7 +122,7 @@
   {
     "decode": "Regel- eller satsendring",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_REGEL",
     "behandlingsPeriode": false,
@@ -132,7 +132,7 @@
   {
     "decode": "Regulering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_REGULERING",
     "behandlingsPeriode": true,
@@ -142,7 +142,7 @@
   {
     "decode": "Endring i resultat på vilkårsprøving",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_RESULTAT",
     "behandlingsPeriode": true,
@@ -152,7 +152,7 @@
   {
     "decode": "Sivilstandsendring påvirker inntekt før uførhet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_SIVILSTAND_IFU",
     "behandlingsPeriode": true,
@@ -162,7 +162,7 @@
   {
     "decode": "Endring i brukers alderspensjon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_SOKER_AP",
     "behandlingsPeriode": false,
@@ -172,7 +172,7 @@
   {
     "decode": "Godskriving av trygdetid",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_TRYGDETID",
     "behandlingsPeriode": true,
@@ -182,7 +182,7 @@
   {
     "decode": "Endring i uttaksgrad",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UTTAKSGRAD",
     "behandlingsPeriode": true,
@@ -192,7 +192,7 @@
   {
     "decode": "Bruker blir 67 år",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UT_67",
     "behandlingsPeriode": true,
@@ -202,7 +202,7 @@
   {
     "decode": "Barnet blir 18 år",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UT_BARN_18",
     "behandlingsPeriode": true,
@@ -212,7 +212,7 @@
   {
     "decode": "Barnetillegg er endret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UT_BT",
     "behandlingsPeriode": true,
@@ -222,7 +222,7 @@
   {
     "decode": "Beregningsperiode for Uføretrygd etteroppgjør arbeidsforsøk",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UT_EO_ARBFORSK",
     "behandlingsPeriode": true,
@@ -232,7 +232,7 @@
   {
     "decode": "Ektefelletillegg er endret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UT_ET",
     "behandlingsPeriode": true,
@@ -242,7 +242,7 @@
   {
     "decode": "Bruker endrer sivilstand",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UT_ET_SIVSTAND",
     "behandlingsPeriode": true,
@@ -252,7 +252,7 @@
   {
     "decode": "Fortsatt Medlemskap er endret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UT_FORTSATTMEDL",
     "behandlingsPeriode": true,
@@ -262,7 +262,7 @@
   {
     "decode": "Forutgående medlemskap er endret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UT_FORUTG_MEDL",
     "behandlingsPeriode": true,
@@ -272,7 +272,7 @@
   {
     "decode": "Gjenlevendetillegg er endret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UT_GJR",
     "behandlingsPeriode": true,
@@ -282,7 +282,7 @@
   {
     "decode": "Bruker har fått ny ektefelle, partner eller samboer 1-5",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UT_GJR_NY_EPS",
     "behandlingsPeriode": true,
@@ -292,7 +292,7 @@
   {
     "decode": "Inntekt etter uførhet er endret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UT_IEU",
     "behandlingsPeriode": true,
@@ -302,7 +302,7 @@
   {
     "decode": "Inntekt før uførhet er endret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UT_IFU",
     "behandlingsPeriode": true,
@@ -312,7 +312,7 @@
   {
     "decode": "Skadetidspunkt er endret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UT_SKADETIDSP",
     "behandlingsPeriode": true,
@@ -322,7 +322,7 @@
   {
     "decode": "Uføregrad er endret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UT_UFG",
     "behandlingsPeriode": true,
@@ -332,7 +332,7 @@
   {
     "decode": "Yrkesskade er endret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UT_YS",
     "behandlingsPeriode": true,
@@ -342,7 +342,7 @@
   {
     "decode": "Yrkesskadegrad er endret",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_UT_YS_GRAD",
     "behandlingsPeriode": true,
@@ -352,7 +352,7 @@
   {
     "decode": "Endring i vedtak på bruker eller ektefelle/partner/samboer",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ENDR_VEDTAKHISTORIKK",
     "behandlingsPeriode": false,
@@ -362,7 +362,7 @@
   {
     "decode": "Inntektsgrunnlag",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EO_INNTEKT",
     "behandlingsPeriode": false,
@@ -372,7 +372,7 @@
   {
     "decode": "Virkningstidspunkt for endringen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EO_REVURDERING",
     "behandlingsPeriode": true,

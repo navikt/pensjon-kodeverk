@@ -2,24 +2,24 @@
   {
     "decode": "Førstegangsbehandling",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1274738400000,
+    "fromDate": "1899-12-31",
+    "toDate": "2010-05-25",
     "code": "F_BEHANDL",
     "codeAsString": "F_BEHANDL"
   },
   {
     "decode": "Nytt vedtak på tilstøtende person",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1274738400000,
+    "fromDate": "1899-12-31",
+    "toDate": "2010-05-25",
     "code": "NY_VEDTAK_TILSTOT",
     "codeAsString": "NY_VEDTAK_TILSTOT"
   },
   {
     "decode": "Opphør",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1274738400000,
+    "fromDate": "1899-12-31",
+    "toDate": "2010-05-25",
     "code": "OPPHOR",
     "codeAsString": "OPPHOR"
   }

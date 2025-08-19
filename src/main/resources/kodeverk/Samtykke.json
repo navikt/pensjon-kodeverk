@@ -2,7 +2,7 @@
   {
     "decode": "Ja",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "J",
     "codeAsString": "J"
@@ -10,7 +10,7 @@
   {
     "decode": "Nei",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "N",
     "codeAsString": "N"

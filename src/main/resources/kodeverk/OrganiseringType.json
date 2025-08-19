@@ -2,7 +2,7 @@
   {
     "decode": "Er fylke eller forvaltningsenhet for",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "FYLKE",
     "codeAsString": "FYLKE"
@@ -10,7 +10,7 @@
   {
     "decode": "Er en intern gruppering i",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "GRUPPE",
     "codeAsString": "GRUPPE"
@@ -18,7 +18,7 @@
   {
     "decode": "Er Klage og anke enhet for",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "KLANKE",
     "codeAsString": "KLANKE"
@@ -26,7 +26,7 @@
   {
     "decode": "Sorteres under",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "SORTUNDER",
     "codeAsString": "SORTUNDER"
@@ -34,7 +34,7 @@
   {
     "decode": "Er spesialenhet for",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "SPESEN",
     "codeAsString": "SPESEN"

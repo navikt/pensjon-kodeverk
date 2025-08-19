@@ -2,7 +2,7 @@
   {
     "decode": "avdøde",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AVDOD",
     "codeAsString": "AVDOD"
@@ -10,7 +10,7 @@
   {
     "decode": "avdøde minsteytelse",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AVDOD_MY",
     "codeAsString": "AVDOD_MY"
@@ -18,7 +18,7 @@
   {
     "decode": "gjenlevende",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GJENLEV",
     "codeAsString": "GJENLEV"
@@ -26,7 +26,7 @@
   {
     "decode": "gjenlevende og avdøde",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "GJENLEV_AVDOD",
     "codeAsString": "GJENLEV_AVDOD"

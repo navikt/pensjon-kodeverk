@@ -2,7 +2,7 @@
   {
     "decode": "Mottatt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MOTTATT",
     "codeAsString": "MOTTATT"
@@ -10,7 +10,7 @@
   {
     "decode": "Sendt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SENDTEL",
     "codeAsString": "SENDTEL"
@@ -18,7 +18,7 @@
   {
     "decode": "Sendt i posten",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SENDTPO",
     "codeAsString": "SENDTPO"

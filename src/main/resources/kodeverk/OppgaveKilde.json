@@ -2,7 +2,7 @@
   {
     "decode": "Selvbetjening",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "P_9998",
     "codeAsString": "9998"
@@ -10,7 +10,7 @@
   {
     "decode": "Batch",
     "valid": true,
-    "fromDate": -2208992400000,
+    "fromDate": "1900-01-01",
     "toDate": null,
     "code": "P_9999",
     "codeAsString": "9999"

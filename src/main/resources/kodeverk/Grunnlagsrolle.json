@@ -2,7 +2,7 @@
   {
     "decode": "Avdødes barn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ABARN",
     "sortering": 10,
@@ -11,7 +11,7 @@
   {
     "decode": "Avdødes ektefelle",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AEKTEF",
     "sortering": 11,
@@ -20,7 +20,7 @@
   {
     "decode": "Avdødes fosterbarn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AFBARN",
     "sortering": 12,
@@ -29,7 +29,7 @@
   {
     "decode": "Avdødes partner",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "APARTNER",
     "sortering": 13,
@@ -38,7 +38,7 @@
   {
     "decode": "Avdødes samboer",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ASAMBO",
     "sortering": 14,
@@ -47,7 +47,7 @@
   {
     "decode": "Avdød",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "AVDOD",
     "sortering": 9,
@@ -56,7 +56,7 @@
   {
     "decode": "Barn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BARN",
     "sortering": 1,
@@ -65,7 +65,7 @@
   {
     "decode": "Ektefelle",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EKTEF",
     "sortering": 2,
@@ -74,7 +74,7 @@
   {
     "decode": "Far",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAR",
     "sortering": 3,
@@ -83,7 +83,7 @@
   {
     "decode": "Fosterbarn",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FBARN",
     "sortering": 4,
@@ -92,7 +92,7 @@
   {
     "decode": "Medmor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MEDMOR",
     "sortering": 16,
@@ -101,7 +101,7 @@
   {
     "decode": "Mor",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "MOR",
     "sortering": 5,
@@ -110,7 +110,7 @@
   {
     "decode": "Partner",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PARTNER",
     "sortering": 6,
@@ -119,7 +119,7 @@
   {
     "decode": "Samboer",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SAMBO",
     "sortering": 7,
@@ -128,7 +128,7 @@
   {
     "decode": "Bruker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOKER",
     "sortering": 15,
@@ -137,7 +137,7 @@
   {
     "decode": "Søsken",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SOSKEN",
     "sortering": 8,

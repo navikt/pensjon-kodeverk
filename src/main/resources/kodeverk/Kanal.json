@@ -2,7 +2,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV",
     "fagomrade": "PEN",
@@ -11,7 +11,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_AAP",
     "fagomrade": "AAP",
@@ -20,7 +20,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_BAR",
     "fagomrade": "BAR",
@@ -29,7 +29,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_BID",
     "fagomrade": "BID",
@@ -38,7 +38,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_BII",
     "fagomrade": "BII",
@@ -47,7 +47,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_BIL",
     "fagomrade": "BIL",
@@ -56,7 +56,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_DAG",
     "fagomrade": "DAG",
@@ -65,7 +65,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_ENF",
     "fagomrade": "ENF",
@@ -74,7 +74,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_ERS",
     "fagomrade": "ERS",
@@ -83,7 +83,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_FEI",
     "fagomrade": "FEI",
@@ -92,7 +92,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_FOR",
     "fagomrade": "FOR",
@@ -101,7 +101,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_FOS",
     "fagomrade": "FOS",
@@ -110,7 +110,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_FUL",
     "fagomrade": "FUL",
@@ -119,7 +119,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_GRA",
     "fagomrade": "GRA",
@@ -128,7 +128,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_GRU",
     "fagomrade": "GRU",
@@ -137,7 +137,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_HEL",
     "fagomrade": "HEL",
@@ -146,7 +146,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_HJE",
     "fagomrade": "HJE",
@@ -155,7 +155,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_IND",
     "fagomrade": "IND",
@@ -164,7 +164,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_KON",
     "fagomrade": "KON",
@@ -173,7 +173,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_MED",
     "fagomrade": "MED",
@@ -182,7 +182,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_MOB",
     "fagomrade": "MOB",
@@ -191,7 +191,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_MOT",
     "fagomrade": "MOT",
@@ -200,7 +200,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_OKO",
     "fagomrade": "OKO",
@@ -209,7 +209,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_OMS",
     "fagomrade": "OMS",
@@ -218,7 +218,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_OPP",
     "fagomrade": "OPP",
@@ -227,7 +227,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_OVR",
     "fagomrade": "OVR",
@@ -236,7 +236,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_REH",
     "fagomrade": "REH",
@@ -245,7 +245,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_SAK",
     "fagomrade": "SAK",
@@ -254,7 +254,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_STO",
     "fagomrade": "STO",
@@ -263,7 +263,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_SUP",
     "fagomrade": "SUP",
@@ -272,7 +272,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_SYK",
     "fagomrade": "SYK",
@@ -281,7 +281,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_UFO",
     "fagomrade": "UFO",
@@ -290,7 +290,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_VEN",
     "fagomrade": "VEN",
@@ -299,7 +299,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_YRA",
     "fagomrade": "YRA",
@@ -308,7 +308,7 @@
   {
     "decode": "Brev",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BREV_YRK",
     "fagomrade": "YRK",
@@ -317,7 +317,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_AAP",
     "fagomrade": "AAP",
@@ -326,7 +326,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_BAR",
     "fagomrade": "BAR",
@@ -335,7 +335,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_BIL",
     "fagomrade": "BIL",
@@ -344,7 +344,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_DAG",
     "fagomrade": "DAG",
@@ -353,7 +353,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_ENF",
     "fagomrade": "ENF",
@@ -362,7 +362,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_ERS",
     "fagomrade": "ERS",
@@ -371,7 +371,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_FEI",
     "fagomrade": "FEI",
@@ -380,7 +380,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_FOR",
     "fagomrade": "FOR",
@@ -389,7 +389,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_FOS",
     "fagomrade": "FOS",
@@ -398,7 +398,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_FUL",
     "fagomrade": "FUL",
@@ -407,7 +407,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_GRA",
     "fagomrade": "GRA",
@@ -416,7 +416,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_GRU",
     "fagomrade": "GRU",
@@ -425,7 +425,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_HEL",
     "fagomrade": "HEL",
@@ -434,7 +434,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_HJE",
     "fagomrade": "HJE",
@@ -443,7 +443,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_IND",
     "fagomrade": "IND",
@@ -452,7 +452,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_KON",
     "fagomrade": "KON",
@@ -461,7 +461,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_MED",
     "fagomrade": "MED",
@@ -470,7 +470,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_MOB",
     "fagomrade": "MOB",
@@ -479,7 +479,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_OMS",
     "fagomrade": "OMS",
@@ -488,7 +488,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_OPP",
     "fagomrade": "OPP",
@@ -497,7 +497,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_REH",
     "fagomrade": "REH",
@@ -506,7 +506,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_SAK",
     "fagomrade": "SAK",
@@ -515,7 +515,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_STO",
     "fagomrade": "STO",
@@ -524,7 +524,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_SUP",
     "fagomrade": "SUP",
@@ -533,7 +533,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_SYK",
     "fagomrade": "SYK",
@@ -542,7 +542,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_UFO",
     "fagomrade": "UFO",
@@ -551,7 +551,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_VEN",
     "fagomrade": "VEN",
@@ -560,7 +560,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_YRA",
     "fagomrade": "YRA",
@@ -569,7 +569,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "P_E_x_POST_YRK",
     "fagomrade": "YRK",
@@ -578,7 +578,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EPOST",
     "fagomrade": "PEN",
@@ -587,7 +587,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EPOST_BID",
     "fagomrade": "BID",
@@ -596,7 +596,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EPOST_BII",
     "fagomrade": "BII",
@@ -605,7 +605,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EPOST_MOT",
     "fagomrade": "MOT",
@@ -614,7 +614,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EPOST_OKO",
     "fagomrade": "OKO",
@@ -623,7 +623,7 @@
   {
     "decode": "E-post",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "EPOST_OVR",
     "fagomrade": "OVR",
@@ -632,7 +632,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX",
     "fagomrade": "PEN",
@@ -641,7 +641,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_AAP",
     "fagomrade": "AAP",
@@ -650,7 +650,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_BAR",
     "fagomrade": "BAR",
@@ -659,7 +659,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_BID",
     "fagomrade": "BID",
@@ -668,7 +668,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_BII",
     "fagomrade": "BII",
@@ -677,7 +677,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_BIL",
     "fagomrade": "BIL",
@@ -686,7 +686,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_DAG",
     "fagomrade": "DAG",
@@ -695,7 +695,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_ENF",
     "fagomrade": "ENF",
@@ -704,7 +704,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_ERS",
     "fagomrade": "ERS",
@@ -713,7 +713,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_FEI",
     "fagomrade": "FEI",
@@ -722,7 +722,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_FOR",
     "fagomrade": "FOR",
@@ -731,7 +731,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_FOS",
     "fagomrade": "FOS",
@@ -740,7 +740,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_FUL",
     "fagomrade": "FUL",
@@ -749,7 +749,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_GRA",
     "fagomrade": "GRA",
@@ -758,7 +758,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_GRU",
     "fagomrade": "GRU",
@@ -767,7 +767,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_HEL",
     "fagomrade": "HEL",
@@ -776,7 +776,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_HJE",
     "fagomrade": "HJE",
@@ -785,7 +785,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_IND",
     "fagomrade": "IND",
@@ -794,7 +794,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_KON",
     "fagomrade": "KON",
@@ -803,7 +803,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_MED",
     "fagomrade": "MED",
@@ -812,7 +812,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_MOB",
     "fagomrade": "MOB",
@@ -821,7 +821,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_MOT",
     "fagomrade": "MOT",
@@ -830,7 +830,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_OKO",
     "fagomrade": "OKO",
@@ -839,7 +839,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_OMS",
     "fagomrade": "OMS",
@@ -848,7 +848,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_OPP",
     "fagomrade": "OPP",
@@ -857,7 +857,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_OVR",
     "fagomrade": "OVR",
@@ -866,7 +866,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_REH",
     "fagomrade": "REH",
@@ -875,7 +875,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_SAK",
     "fagomrade": "SAK",
@@ -884,7 +884,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_STO",
     "fagomrade": "STO",
@@ -893,7 +893,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_SUP",
     "fagomrade": "SUP",
@@ -902,7 +902,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_SYK",
     "fagomrade": "SYK",
@@ -911,7 +911,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_UFO",
     "fagomrade": "UFO",
@@ -920,7 +920,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_VEN",
     "fagomrade": "VEN",
@@ -929,7 +929,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_YRA",
     "fagomrade": "YRA",
@@ -938,7 +938,7 @@
   {
     "decode": "Fax",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FAX_YRK",
     "fagomrade": "YRK",
@@ -947,7 +947,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE",
     "fagomrade": "PEN",
@@ -956,7 +956,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_AAP",
     "fagomrade": "AAP",
@@ -965,7 +965,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_BAR",
     "fagomrade": "BAR",
@@ -974,7 +974,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_BID",
     "fagomrade": "BID",
@@ -983,7 +983,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_BII",
     "fagomrade": "BII",
@@ -992,7 +992,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_BIL",
     "fagomrade": "BIL",
@@ -1001,7 +1001,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_DAG",
     "fagomrade": "DAG",
@@ -1010,7 +1010,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_ENF",
     "fagomrade": "ENF",
@@ -1019,7 +1019,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_ERS",
     "fagomrade": "ERS",
@@ -1028,7 +1028,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_FEI",
     "fagomrade": "FEI",
@@ -1037,7 +1037,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_FOR",
     "fagomrade": "FOR",
@@ -1046,7 +1046,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_FOS",
     "fagomrade": "FOS",
@@ -1055,7 +1055,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_FUL",
     "fagomrade": "FUL",
@@ -1064,7 +1064,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_GRA",
     "fagomrade": "GRA",
@@ -1073,7 +1073,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_GRU",
     "fagomrade": "GRU",
@@ -1082,7 +1082,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_HEL",
     "fagomrade": "HEL",
@@ -1091,7 +1091,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_HJE",
     "fagomrade": "HJE",
@@ -1100,7 +1100,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_IND",
     "fagomrade": "IND",
@@ -1109,7 +1109,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_KON",
     "fagomrade": "KON",
@@ -1118,7 +1118,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_MED",
     "fagomrade": "MED",
@@ -1127,7 +1127,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_MOB",
     "fagomrade": "MOB",
@@ -1136,7 +1136,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_MOT",
     "fagomrade": "MOT",
@@ -1145,7 +1145,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_OKO",
     "fagomrade": "OKO",
@@ -1154,7 +1154,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_OMS",
     "fagomrade": "OMS",
@@ -1163,7 +1163,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_OPP",
     "fagomrade": "OPP",
@@ -1172,7 +1172,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_OVR",
     "fagomrade": "OVR",
@@ -1181,7 +1181,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_REH",
     "fagomrade": "REH",
@@ -1190,7 +1190,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_SAK",
     "fagomrade": "SAK",
@@ -1199,7 +1199,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_STO",
     "fagomrade": "STO",
@@ -1208,7 +1208,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_SUP",
     "fagomrade": "SUP",
@@ -1217,7 +1217,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_SYK",
     "fagomrade": "SYK",
@@ -1226,7 +1226,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_UFO",
     "fagomrade": "UFO",
@@ -1235,7 +1235,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_VEN",
     "fagomrade": "VEN",
@@ -1244,7 +1244,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_YRA",
     "fagomrade": "YRA",
@@ -1253,7 +1253,7 @@
   {
     "decode": "Fremmøte",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FREMMOTE_YRK",
     "fagomrade": "YRK",
@@ -1262,7 +1262,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_AAP",
     "fagomrade": "AAP",
@@ -1271,7 +1271,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_BAR",
     "fagomrade": "BAR",
@@ -1280,7 +1280,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_BIL",
     "fagomrade": "BIL",
@@ -1289,7 +1289,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_DAG",
     "fagomrade": "DAG",
@@ -1298,7 +1298,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_ENF",
     "fagomrade": "ENF",
@@ -1307,7 +1307,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_ERS",
     "fagomrade": "ERS",
@@ -1316,7 +1316,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_FEI",
     "fagomrade": "FEI",
@@ -1325,7 +1325,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_FOR",
     "fagomrade": "FOR",
@@ -1334,7 +1334,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_FOS",
     "fagomrade": "FOS",
@@ -1343,7 +1343,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_FUL",
     "fagomrade": "FUL",
@@ -1352,7 +1352,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_GRA",
     "fagomrade": "GRA",
@@ -1361,7 +1361,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_GRU",
     "fagomrade": "GRU",
@@ -1370,7 +1370,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_HEL",
     "fagomrade": "HEL",
@@ -1379,7 +1379,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_HJE",
     "fagomrade": "HJE",
@@ -1388,7 +1388,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_IND",
     "fagomrade": "IND",
@@ -1397,7 +1397,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_KON",
     "fagomrade": "KON",
@@ -1406,7 +1406,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_MED",
     "fagomrade": "MED",
@@ -1415,7 +1415,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_MOB",
     "fagomrade": "MOB",
@@ -1424,7 +1424,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_OMS",
     "fagomrade": "OMS",
@@ -1433,7 +1433,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_OPP",
     "fagomrade": "OPP",
@@ -1442,7 +1442,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_REH",
     "fagomrade": "REH",
@@ -1451,7 +1451,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_SAK",
     "fagomrade": "SAK",
@@ -1460,7 +1460,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_STO",
     "fagomrade": "STO",
@@ -1469,7 +1469,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_SUP",
     "fagomrade": "SUP",
@@ -1478,7 +1478,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_SYK",
     "fagomrade": "SYK",
@@ -1487,7 +1487,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_UFO",
     "fagomrade": "UFO",
@@ -1496,7 +1496,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_VEN",
     "fagomrade": "VEN",
@@ -1505,7 +1505,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_YRA",
     "fagomrade": "YRA",
@@ -1514,7 +1514,7 @@
   {
     "decode": "Intern",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "INTERN_YRK",
     "fagomrade": "YRK",
@@ -1523,7 +1523,7 @@
   {
     "decode": "Selvbetjening",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SELVBETJENING",
     "fagomrade": "PEN",
@@ -1532,7 +1532,7 @@
   {
     "decode": "Selvbetjening",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "SELVBETJENING_OKO",
     "fagomrade": "OKO",
@@ -1541,7 +1541,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_AAP",
     "fagomrade": "AAP",
@@ -1550,7 +1550,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_BAR",
     "fagomrade": "BAR",
@@ -1559,7 +1559,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_BIL",
     "fagomrade": "BIL",
@@ -1568,7 +1568,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_DAG",
     "fagomrade": "DAG",
@@ -1577,7 +1577,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_ENF",
     "fagomrade": "ENF",
@@ -1586,7 +1586,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_ERS",
     "fagomrade": "ERS",
@@ -1595,7 +1595,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_FEI",
     "fagomrade": "FEI",
@@ -1604,7 +1604,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_FOR",
     "fagomrade": "FOR",
@@ -1613,7 +1613,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_FOS",
     "fagomrade": "FOS",
@@ -1622,7 +1622,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_FUL",
     "fagomrade": "FUL",
@@ -1631,7 +1631,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_GRA",
     "fagomrade": "GRA",
@@ -1640,7 +1640,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_GRU",
     "fagomrade": "GRU",
@@ -1649,7 +1649,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_HEL",
     "fagomrade": "HEL",
@@ -1658,7 +1658,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_HJE",
     "fagomrade": "HJE",
@@ -1667,7 +1667,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_IND",
     "fagomrade": "IND",
@@ -1676,7 +1676,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_KON",
     "fagomrade": "KON",
@@ -1685,7 +1685,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_MED",
     "fagomrade": "MED",
@@ -1694,7 +1694,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_MOB",
     "fagomrade": "MOB",
@@ -1703,7 +1703,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_OMS",
     "fagomrade": "OMS",
@@ -1712,7 +1712,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_OPP",
     "fagomrade": "OPP",
@@ -1721,7 +1721,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_REH",
     "fagomrade": "REH",
@@ -1730,7 +1730,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_SAK",
     "fagomrade": "SAK",
@@ -1739,7 +1739,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_STO",
     "fagomrade": "STO",
@@ -1748,7 +1748,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_SUP",
     "fagomrade": "SUP",
@@ -1757,7 +1757,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_SYK",
     "fagomrade": "SYK",
@@ -1766,7 +1766,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_UFO",
     "fagomrade": "UFO",
@@ -1775,7 +1775,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_VEN",
     "fagomrade": "VEN",
@@ -1784,7 +1784,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_YRA",
     "fagomrade": "YRA",
@@ -1793,7 +1793,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TELEFON_YRK",
     "fagomrade": "YRK",
@@ -1802,7 +1802,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TLF",
     "fagomrade": "PEN",
@@ -1811,7 +1811,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TLF_BID",
     "fagomrade": "BID",
@@ -1820,7 +1820,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TLF_BII",
     "fagomrade": "BII",
@@ -1829,7 +1829,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TLF_MOT",
     "fagomrade": "MOT",
@@ -1838,7 +1838,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TLF_OKO",
     "fagomrade": "OKO",
@@ -1847,7 +1847,7 @@
   {
     "decode": "Telefon",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TLF_OVR",
     "fagomrade": "OVR",

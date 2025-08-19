@@ -2,7 +2,7 @@
   {
     "decode": "Attestert",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "ATT",
     "erTeknisk": true,
@@ -11,7 +11,7 @@
   {
     "decode": "Beregnet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "BEREGNET",
     "erTeknisk": true,
@@ -20,7 +20,7 @@
   {
     "decode": "Feilregistrert",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FEILREGISTRERT",
     "erTeknisk": false,
@@ -29,7 +29,7 @@
   {
     "decode": "Ferdig Behandlet",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "FERDIG",
     "erTeknisk": true,
@@ -38,7 +38,7 @@
   {
     "decode": "Henlagt",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "HENLAGT",
     "erTeknisk": false,
@@ -47,7 +47,7 @@
   {
     "decode": "Klar til attestering",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "KLAR_TIL_ATT",
     "erTeknisk": true,
@@ -56,7 +56,7 @@
   {
     "decode": "På vent",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "PA_VENT",
     "erTeknisk": true,
@@ -65,7 +65,7 @@
   {
     "decode": "Til behandling",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TIL_BEHANDLING",
     "erTeknisk": false,
@@ -74,7 +74,7 @@
   {
     "decode": "Trukket",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "TRUKKET",
     "erTeknisk": false,
@@ -83,7 +83,7 @@
   {
     "decode": "Venter på Fellesordningen",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VENTER_AFP",
     "erTeknisk": false,
@@ -92,7 +92,7 @@
   {
     "decode": "Venter på bruker",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VENTER_BRUKER",
     "erTeknisk": false,
@@ -101,7 +101,7 @@
   {
     "decode": "Venter på klageinstans",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VENTER_KLAGEINSTANS",
     "erTeknisk": false,
@@ -110,7 +110,7 @@
   {
     "decode": "Venter på opplysninger",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VENTER_OPPL",
     "erTeknisk": false,
@@ -119,7 +119,7 @@
   {
     "decode": "Venter på trygderetten",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VENTER_RETT",
     "erTeknisk": false,
@@ -128,8 +128,8 @@
   {
     "decode": "Venter på saksbehandling",
     "valid": false,
-    "fromDate": -2209078800000,
-    "toDate": 1306879200000,
+    "fromDate": "1899-12-31",
+    "toDate": "2011-06-01",
     "code": "VENTER_SAKSBEH",
     "erTeknisk": false,
     "codeAsString": "VENTER_SAKSBEH"
@@ -137,7 +137,7 @@
   {
     "decode": "Sendt utland",
     "valid": false,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VENTER_UTL",
     "erTeknisk": false,
@@ -146,7 +146,7 @@
   {
     "decode": "Vilkårsprøvd",
     "valid": true,
-    "fromDate": -2209078800000,
+    "fromDate": "1899-12-31",
     "toDate": null,
     "code": "VILKARSPROVD",
     "erTeknisk": true,
