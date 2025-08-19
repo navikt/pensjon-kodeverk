@@ -405,7 +405,7 @@
   {
     "decode": "Uføretrygd og evt. barnetillegg",
     "valid": true,
-    "fromDate": "2023-10-01",
+    "fromDate": "2023-12-01",
     "toDate": null,
     "code": "UT_BT",
     "kanRegistreres": true,

@@ -318,7 +318,7 @@
     "decode": "Klage/anke",
     "valid": true,
     "fromDate": "1899-12-31",
-    "toDate": "2023-01-30",
+    "toDate": "2023-02-01",
     "code": "KLAG_ANK",
     "dokType": "I",
     "codeAsString": "KLAG_ANK"
@@ -327,7 +327,7 @@
     "decode": "Klage/anke-vedtak",
     "valid": true,
     "fromDate": "1899-12-31",
-    "toDate": "2022-01-29",
+    "toDate": "2023-02-01",
     "code": "KLAG_ANK_V",
     "dokType": "I",
     "codeAsString": "KLAG_ANK_V"
