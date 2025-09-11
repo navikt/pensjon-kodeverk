@@ -233,7 +233,7 @@
   {
     "code": "TPSF",
     "decode": "TPS Forvaltning",
-    "fromDate": "2019-03-01",
+    "fromDate": "1899-12-31",
     "toDate": null,
     "valid": true
   },
