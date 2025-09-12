@@ -10,33 +10,72 @@ spec:
   accessPolicy:
     inbound:
       rules:
-        - application: pensjon-pen-q0
+        - application: pen-nks-service
+          namespace: pensjon-saksbehandling
           cluster: dev-fss
-          namespace: pensjon-q0
-        - application: pensjon-pen-q1
-          cluster: dev-fss
-          namespace: pensjon-q1
-        - application: pensjon-pen-q2
-          cluster: dev-fss
-          namespace: pensjon-q2
-        - application: pensjon-pen-q5
-          cluster: dev-fss
-          namespace: pensjon-q5
-        - application: pensjon-psak-q0
-          cluster: dev-fss
-          namespace: pensjon-q0
-        - application: pensjon-psak-q1
-          cluster: dev-fss
-          namespace: pensjon-q1
-        - application: pensjon-psak-q2
-          cluster: dev-fss
-          namespace: pensjon-q2
-        - application: pensjon-psak-q5
-          cluster: dev-fss
-          namespace: pensjon-q5
-        - application: azure-token-generator
+        - application: pen-nks-service
+          namespace: pensjon-saksbehandling
           cluster: dev-gcp
+        - application: pensjon-pen-q0
+          namespace: pensjon-q0
+          cluster: dev-fss
+        - application: pensjon-pen-q1
+          namespace: pensjon-q1
+          cluster: dev-fss
+        - application: pensjon-pen-q2
+          namespace: pensjon-q2
+          cluster: dev-fss
+        - application: pensjon-pen-q5
+          namespace: pensjon-q5
+          cluster: dev-fss
+        - application: pensjon-psak-q0
+          namespace: pensjon-q0
+          cluster: dev-fss
+        - application: pensjon-psak-q1
+          namespace: pensjon-q1
+          cluster: dev-fss
+        - application: pensjon-psak-q2
+          namespace: pensjon-q2
+          cluster: dev-fss
+        - application: pensjon-psak-q5
+          namespace: pensjon-q5
+          cluster: dev-fss
+        - application: pensjon-pselv-q0
+          namespace: pensjon-q0
+          cluster: dev-fss
+        - application: pensjon-pselv-q1
+          namespace: pensjon-q1
+          cluster: dev-fss
+        - application: pensjon-pselv-q2
+          namespace: pensjon-q2
+          cluster: dev-fss
+        - application: pensjon-pselv-q5
+          namespace: pensjon-q5
+          cluster: dev-fss
+        - application: pensjon-pselv-q0
+          namespace: pensjon-q0
+          cluster: dev-gcp
+        - application: pensjon-pselv-q1
+          namespace: pensjon-q1
+          cluster: dev-gcp
+        - application: pensjon-pselv-q2
+          namespace: pensjon-q2
+          cluster: dev-gcp
+        - application: pensjon-pselv-q5
+          namespace: pensjon-q5
+          cluster: dev-gcp
+        - application: pensjon-testdata-server-q1
+          namespace: pensjontestdata
+          cluster: dev-fss
+        - application: pensjon-testdata-server-q2
+          namespace: pensjontestdata
+          cluster: dev-fss
+        - application: pensjon-testdata-server-q5
+          namespace: pensjontestdata
+          cluster: dev-fss
+        - application: azure-token-generator
           namespace: nais
+          cluster: dev-gcp
   azure:
     application:
       allowAllUsers: true

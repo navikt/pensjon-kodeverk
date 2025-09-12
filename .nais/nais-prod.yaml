@@ -10,12 +10,24 @@ spec:
   accessPolicy:
     inbound:
       rules:
+        - application: pen-nks-service
+          namespace: pensjon-saksbehandling
+          cluster: prod-fss
+        - application: pen-nks-service
+          namespace: pensjon-saksbehandling
+          cluster: prod-gcp
         - application: pensjon-pen
-          cluster: prod-fss
           namespace: pensjondeployer
+          cluster: prod-fss
         - application: pensjon-psak
-          cluster: prod-fss
           namespace: pensjondeployer
+          cluster: prod-fss
+        - application: pensjon-pselv
+          namespace: pensjondeployer
+          cluster: prod-fss
+        - application: pensjon-pselv
+          namespace: pensjondeployer
+          cluster: prod-gcp
   azure:
     application:
       allowAllUsers: true
