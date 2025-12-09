@@ -56,6 +56,31 @@
     "codeAsString": "UFORE"
   },
   {
+    "decode": "Særalderspåslag",
+    "valid": true,
+    "fromDate": "1899-12-31",
+    "toDate": null,
+    "code": "SAERALDERSPAASLAG",
+    "codeAsString": "SAERALDERSPAASLAG"
+
+  },
+  {
+    "decode": "Tidligpensjon",
+    "valid": true,
+    "fromDate": "1899-12-31",
+    "toDate": null,
+    "code": "TIDLIGPENSJON",
+    "codeAsString": "TIDLIGPENSJON"
+  },
+  {
+    "decode": "Tidligpensjon på overgangsregler",
+    "valid": true,
+    "fromDate": "1899-12-31",
+    "toDate": null,
+    "code": "TIDLIGPEN_OVERGANG",
+    "codeAsString": "TIDLIGPEN_OVERGANG"
+  },
+  {
     "decode": "Ukjent",
     "valid": true,
     "fromDate": "1899-12-31",
