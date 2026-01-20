@@ -5186,5 +5186,56 @@
       "codeAsString": "OPPFOLGING"
     },
     "codeAsString": "YTELSE_PEN_MOTTAKER"
+  },
+  {
+    "decode": "Kontroll av særskilt sats: Brukers særskilt sats skal kontrolleres, men dette kan ikke gjøres automatisk ettersom bruker har et åpent krav.",
+    "valid": true,
+    "fromDate": "2025-01-20",
+    "toDate": null,
+    "code": "KONTROLL_SS_AK",
+    "decodeScreen": null,
+    "kontrollpunktTypeKategori": {
+      "decode": "Oppfølging",
+      "valid": true,
+      "fromDate": "2025-01-20",
+      "toDate": null,
+      "code": "OPPFOLGING",
+      "codeAsString": "OPPFOLGING"
+    },
+    "codeAsString": "KONTROLL_SS_AK"
+  },
+  {
+    "decode": "Kontroll av særskilt sats: Brukers særskilt sats skal kontrolleres. Dette kan ikke gjøres automatisk. Vurder om ektefelle/partner/samboers grunnlag må oppdateres. Fullfør behandlingen manuelt.",
+    "valid": true,
+    "fromDate": "2025-01-20",
+    "toDate": null,
+    "code": "KONTROLL_SS_EPS_AK",
+    "decodeScreen": null,
+    "kontrollpunktTypeKategori": {
+      "decode": "Oppfølging",
+      "valid": true,
+      "fromDate": "2025-01-20",
+      "toDate": null,
+      "code": "OPPFOLGING",
+      "codeAsString": "OPPFOLGING"
+    },
+    "codeAsString": "KONTROLL_SS_EPS_AK"
+  },
+  {
+    "decode": "Kontroll av særskilt sats: Kontroll av brukers særskilt sats feilet. Behandlingen må gjøres manuelt.",
+    "valid": true,
+    "fromDate": "2025-01-20",
+    "toDate": null,
+    "code": "KONTROLL_SS_FEIL",
+    "decodeScreen": null,
+    "kontrollpunktTypeKategori": {
+      "decode": "Oppfølging",
+      "valid": true,
+      "fromDate": "2025-01-20",
+      "toDate": null,
+      "code": "OPPFOLGING",
+      "codeAsString": "OPPFOLGING"
+    },
+    "codeAsString": "KONTROLL_SS_FEIL"
   }
 ]
