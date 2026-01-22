@@ -72,7 +72,7 @@ while true; do
 done
 
 gcloud auth print-access-token >& /dev/null || (
-  read -p "Inlogging i GCP er utløpt. Vil du autentisere på nytt? (J/n) " -n 1 -r -s
+  read -p "Innlogging i GCP er utløpt. Vil du autentisere på nytt? (J/n) " -n 1 -r -s
   echo
   if [[ $REPLY == "" || $REPLY =~ ^[YyjJ]$ ]]; then
     gcloud auth login
