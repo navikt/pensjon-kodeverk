@@ -8,7 +8,6 @@ Når vi ikke lengre bruker CTI, eller mer enn decode på CTI, vil denne være ov
 ### Hvordan kjøre lokalt?
 
 1. Kjør `./fetch-secrets.sh` i terminal
-2. I  Run/Debug configuration oppgi
 3. Kjør main i PensjonKodeverkApplication med følgende valg i Run/Debug configuration
    * "Environment variables" med path til din locale .evn-fil  
       feks: `/Users/<degselv>/workspace/pensjon-kodeverk/.env`
