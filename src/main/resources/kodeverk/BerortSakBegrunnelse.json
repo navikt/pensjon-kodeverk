@@ -510,5 +510,21 @@
       "codeAsString": "MAN"
     },
     "codeAsString": "VIDEREFOR_TIL_UT"
+  },
+  {
+    "decode": "Tilstøtende får innvilget uføretrygd og bruker har særskilt sats som må vurderes.",
+    "valid": true,
+    "fromDate": "1899-12-31",
+    "toDate": null,
+    "code": "UT_INNV_AP_SS",
+    "behandling": {
+      "decode": "Manuell",
+      "valid": true,
+      "fromDate": "1899-12-31",
+      "toDate": null,
+      "code": "MAN",
+      "codeAsString": "MAN"
+    },
+    "codeAsString": "UT_INNV_AP_SS"
   }
 ]
