@@ -34,4 +34,8 @@ class KodeverkController {
             .body(resource.readText())
     }
 
+    @GetMapping("/ping")
+    fun ping(): ResponseEntity<Any> {
+        return ResponseEntity.ok().build()
+    }
 }
