@@ -1594,7 +1594,7 @@
     "codeAsString": "INNTOPP_BARN"
   },
   {
-    "decode": "Det er mangler eller avvik i opplysninger om inntekter for ektefelle",
+    "decode": "Det er mangler eller avvik i opplysninger om forventet inntekter for ektefelle",
     "valid": true,
     "fromDate": "1899-12-31",
     "toDate": null,
