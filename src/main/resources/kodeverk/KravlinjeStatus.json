@@ -27,7 +27,7 @@
     "codeAsString": "FEILREGISTRERT"
   },
   {
-    "decode": "Ferdig Behandlet",
+    "decode": "Ferdig behandlet",
     "valid": true,
     "fromDate": "1899-12-31",
     "toDate": null,
