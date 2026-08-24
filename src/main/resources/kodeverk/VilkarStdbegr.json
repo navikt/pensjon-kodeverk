@@ -630,12 +630,12 @@
     "codeAsString": "STDBEGR_12_8_2_2"
   },
   {
-    "decode": "Inntekt før uførhet fastsettes til minstenivå på 3,3 G fordi bruker er vurdert som gift og har hatt lav eller ingen inntekt før uførhet.",
+    "decode": "Inntekt før uførhet fastsettes til minstenivå på 3,3 G.",
     "valid": true,
     "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_8_2_3",
-    "decodeLong": "Inntekt før uførhet fastsettes til minstenivå på 3,3 G fordi bruker er vurdert som gift og har hatt lav eller ingen inntekt før uførhet.",
+    "decodeLong": "Inntekt før uførhet fastsettes til minstenivå på 3,3 G.",
     "codeAsString": "STDBEGR_12_8_2_3"
   },
   {
@@ -648,12 +648,12 @@
     "codeAsString": "STDBEGR_12_8_2_4"
   },
   {
-    "decode": "Inntekt før uførhet fastsettes til minstenivå på 3,5 G fordi bruker er vurdert som enslig og har hatt lav eller ingen inntekt før uførhet.",
+    "decode": "Inntekt før uførhet fastsettes til minstenivå på 3,5 G.",
     "valid": true,
     "fromDate": "1899-12-31",
     "toDate": null,
     "code": "STDBEGR_12_8_2_5",
-    "decodeLong": "Inntekt før uførhet fastsettes til minstenivå på 3,5 G fordi bruker er vurdert som enslig og har hatt lav eller ingen inntekt før uførhet.",
+    "decodeLong": "Inntekt før uførhet fastsettes til minstenivå på 3,5 G.",
     "codeAsString": "STDBEGR_12_8_2_5"
   },
   {
