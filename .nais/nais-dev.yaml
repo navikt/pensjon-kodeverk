@@ -58,21 +58,9 @@ spec:
         - application: pensjon-penny-q5
           namespace: pensjon-q5
           cluster: dev-gcp
-        - application: pensjon-pselv-q0
-          namespace: teampensjon
-          cluster: dev-fss
-        - application: pensjon-pselv-q1
-          namespace: teampensjon
-          cluster: dev-fss
         - application: pensjon-pselv-q2
           namespace: teampensjon
           cluster: dev-fss
-        - application: pensjon-pselv-q0
-          namespace: teampensjon
-          cluster: dev-gcp
-        - application: pensjon-pselv-q1
-          namespace: teampensjon
-          cluster: dev-gcp
         - application: pensjon-pselv-q2
           namespace: teampensjon
           cluster: dev-gcp

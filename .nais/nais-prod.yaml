@@ -25,12 +25,6 @@ spec:
         - application: pensjon-penny
           namespace: pensjondeployer
           cluster: prod-gcp
-        - application: pensjon-pselv
-          namespace: pensjondeployer
-          cluster: prod-fss
-        - application: pensjon-pselv
-          namespace: pensjondeployer
-          cluster: prod-gcp
   azure:
     application:
       allowAllUsers: true
