@@ -88,14 +88,6 @@
     "codeAsString": "VENTER_KLAGEINSTANS"
   },
   {
-    "decode": "Venter på saksbehandling",
-    "valid": false,
-    "fromDate": "1899-12-31",
-    "toDate": "2011-06-01",
-    "code": "VENTER_SAKSBEH",
-    "codeAsString": "VENTER_SAKSBEH"
-  },
-  {
     "decode": "Vilkårsprøvd",
     "valid": true,
     "fromDate": "1899-12-31",
