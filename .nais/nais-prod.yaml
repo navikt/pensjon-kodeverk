@@ -10,12 +10,6 @@ spec:
   accessPolicy:
     inbound:
       rules:
-        - application: pen-nks-service
-          namespace: pensjon-saksbehandling
-          cluster: prod-fss
-        - application: pen-nks-service
-          namespace: pensjon-saksbehandling
-          cluster: prod-gcp
         - application: pensjon-pen
           namespace: pensjondeployer
           cluster: prod-fss
