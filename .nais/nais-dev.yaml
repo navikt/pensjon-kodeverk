@@ -10,12 +10,6 @@ spec:
   accessPolicy:
     inbound:
       rules:
-        - application: pen-nks-service
-          namespace: pensjon-saksbehandling
-          cluster: dev-fss
-        - application: pen-nks-service
-          namespace: pensjon-saksbehandling
-          cluster: dev-gcp
         - application: pensjon-pen-q0
           namespace: pensjon-q0
           cluster: dev-fss
