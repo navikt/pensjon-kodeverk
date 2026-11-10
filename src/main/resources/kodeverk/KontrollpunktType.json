@@ -306,6 +306,23 @@
     "codeAsString": "AO_FEIL_UNGUFOR"
   },
   {
+    "decode": "Bruker eller brukers EPS sin forrige aldersberegning mangler Gjenlevendetillegg.",
+    "valid": true,
+    "fromDate": "1899-12-31",
+    "toDate": null,
+    "code": "AP_BEREGNING_MANGLER_GJT",
+    "decodeScreen": null,
+    "kontrollpunktTypeKategori": {
+      "decode": "Oppfølging",
+      "valid": true,
+      "fromDate": "1899-12-31",
+      "toDate": null,
+      "code": "OPPFOLGING",
+      "codeAsString": "OPPFOLGING"
+    },
+    "codeAsString": "AP_BEREGNING_MANGLER_GJT"
+  },
+  {
     "decode": "Bruker har fått henlagt krav om AFP i privat sektor, men har et krav om alderspensjon til behandling.",
     "valid": true,
     "fromDate": "1899-12-31",
@@ -3361,6 +3378,23 @@
     "codeAsString": "SAMMENST_IKKE_VILK"
   },
   {
+    "decode": "EPS har et eller flere krav som ikke er vilkårsprøvd.",
+    "valid": true,
+    "fromDate": "1899-12-31",
+    "toDate": null,
+    "code": "EPS_SAMMENST_IKKE_VP",
+    "decodeScreen": null,
+    "kontrollpunktTypeKategori": {
+      "decode": "Oppfølging",
+      "valid": true,
+      "fromDate": "1899-12-31",
+      "toDate": null,
+      "code": "OPPFOLGING",
+      "codeAsString": "OPPFOLGING"
+    },
+    "codeAsString": "EPS_SAMMENST_IKKE_VP"
+  },
+  {
     "decode": "Ektefelle/partner/samboer har et krav med status som gjør at dette kravet ikke kan sammestøtbehandles.",
     "valid": true,
     "fromDate": "1899-12-31",
@@ -4541,6 +4575,23 @@
       "codeAsString": "MANGLER_OG_AVVIK"
     },
     "codeAsString": "TT_FBARN"
+  },
+  {
+    "decode": "Trygdetid anvendt ble redusert eller økt med mer enn ett år.",
+    "valid": true,
+    "fromDate": "1899-12-31",
+    "toDate": null,
+    "code": "TT_FOR_STOR_ENDRING",
+    "decodeScreen": null,
+    "kontrollpunktTypeKategori": {
+      "decode": "Oppfølging",
+      "valid": true,
+      "fromDate": "1899-12-31",
+      "toDate": null,
+      "code": "OPPFOLGING",
+      "codeAsString": "OPPFOLGING"
+    },
+    "codeAsString": "TT_FOR_STOR_ENDRING"
   },
   {
     "decode": "Trygdetid kunne ikke fastsettes for mor",
