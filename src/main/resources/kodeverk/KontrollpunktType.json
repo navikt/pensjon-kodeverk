@@ -310,7 +310,7 @@
     "valid": true,
     "fromDate": "1899-12-31",
     "toDate": null,
-    "code": "AP_BEREGNING_MANGLER_GJT",
+    "code": "BER_MANGLER_GJT",
     "decodeScreen": null,
     "kontrollpunktTypeKategori": {
       "decode": "Oppfølging",
@@ -320,7 +320,7 @@
       "code": "OPPFOLGING",
       "codeAsString": "OPPFOLGING"
     },
-    "codeAsString": "AP_BEREGNING_MANGLER_GJT"
+    "codeAsString": "BER_MANGLER_GJT"
   },
   {
     "decode": "Bruker har fått henlagt krav om AFP i privat sektor, men har et krav om alderspensjon til behandling.",
