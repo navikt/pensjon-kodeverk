@@ -31,7 +31,7 @@ jobs:
         run: mvn clean package -DskipTests
 
       - name: Build and push image and SBOM to OCI registry
-        uses: nais/docker-build-push@v0
+        uses: nais/docker-build-push@v1
         id: docker-build-push
         with:
           team: teampensjon
